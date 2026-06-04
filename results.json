@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T22:23:00Z",
+  "updated_at": "2026-06-04T23:45:38Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -61,7 +61,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 75,
       "reason": "Nvidia alliance",
       "headline": "NVIDIA Could Seal a Major Alliance With Apple After Launching Nemotron 3 Ultra AI model",
       "source": "Yahoo",
@@ -81,6 +81,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Investing In The Most Valuable Firms: The MANGOS",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a524682ed8f7801d22786d110e27945c1aa7397dcb7081ae9056553dde1b1ecf",
+          "used_by_ai": true
+        },
+        {
           "headline": "Apple Stock And The Intelligence Test",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=004605f92b4d930a7b64613d34a4574b995a891d7fc75397407121c9e0cd2e81",
@@ -91,23 +97,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e74de98a010db9e1fd9297ea3feff851b7ad0151448f174563516a0f3a461bb6",
           "used_by_ai": false
-        },
-        {
-          "headline": "Apple closing 3 stores in these 3 states in June. See locations",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de99819487ca2c1932e47382eab00d59863aec410a30d447bd8f3ab7b48742c0",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 75,
       "reason": "AI strategy",
       "headline": "How Microsoft, OpenAI went from partnership to 'situationship'",
       "source": "Yahoo",
@@ -127,16 +128,16 @@
           "used_by_ai": true
         },
         {
+          "headline": "Sorcero CEO Dipanwita Das Among Only 3 Founders in Life Sciences AI Recognized on 2026 100 Women in AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c939e84c68fe790b127bd857bd278fff4305d7d38f67cf35598c2a11f5701de",
+          "used_by_ai": true
+        },
+        {
           "headline": "Microsoft\u2019s model-agnostic AI strategy earns praise from Jefferies",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d28b828cf3abbf2dccf0410cfdc71e2b4b436078273510c2b5574e12d63dcaae",
           "used_by_ai": true
-        },
-        {
-          "headline": "Sorcero CEO Dipanwita Das Among Only 3 Founders in Life Sciences AI Recognized on 2026 100 Women in AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c939e84c68fe790b127bd857bd278fff4305d7d38f67cf35598c2a11f5701de",
-          "used_by_ai": false
         },
         {
           "headline": "Dell\u2019s Early RTX Spark AI PCs Put Hot Rally Under Fresh Scrutiny",
@@ -153,7 +154,7 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "AI outlook miss",
       "headline": "Stock Market Today, June 4: Broadcom Shares Plunge After AI Outlook Misses High Investor Expectations",
       "source": "Yahoo",
@@ -199,8 +200,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Tech stocks fall",
+      "confidence": 70,
+      "reason": "Stock sinking",
       "headline": "US Equity Indexes Mixed as Sliding Technology Pulls Nasdaq Composite Lower, Crude Oil Sinks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b38208956db654576688d8cb6d9701f3313b67f60aa4cdbfb3538e49d223896",
@@ -239,8 +240,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Growth opportunity",
+      "confidence": 65,
+      "reason": "SpaceX IPO",
       "headline": "SpaceX IPO: rockets, AI losses and Musk in control",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b71c09d61bc682f9a1b13ad3389f6b69403b8a6b0ef513e5877acea327407b87",
@@ -259,6 +260,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=929499f539846cb4be8776bdde44553eae541692ad0155d95630e8a4f78850c5",
+          "used_by_ai": true
+        },
+        {
           "headline": "5 'Boring' Stocks That Crushed the Nasdaq-100 Over Past 5 Years",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0c45633427f2a4d2cb9986ba01c753f5a99e7509a943198e46d272aa820d1884",
@@ -268,12 +275,6 @@
           "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=72ac31cb1d9e2e7a59fde6d7c75e331a7f53f7c761ef8f0e4cf73de06a5c88b8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=929499f539846cb4be8776bdde44553eae541692ad0155d95630e8a4f78850c5",
           "used_by_ai": false
         }
       ],
@@ -286,7 +287,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "Market rally",
       "headline": "Jim Cramer says Thursday's rally shows investors' 'huge appetite' for stocks",
       "source": "CNBC",
@@ -306,35 +307,29 @@
           "used_by_ai": true
         },
         {
-          "headline": "President Trump On Iran, Says If They Killed U.S. Troops, It Would Be A Good Reason To Restart Conflict; We Do Not Need A Deal With An Iran To Get Their Enriched Uranium; They Cannot Have A Nuclear Weapon; On Lebanon, Says I Think Things Will Happen Over There; It Would Be Good For Lebanon To Have Some Peace, I Spoke To Hezbollah About It, Think Progress Is Made",
+          "headline": "SpaceX Halo Effect? NASA ETF Emerges As May's Third Hottest Thematic Bet With $2 Billion Inflows",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ed7cc2d93048498cc5250493f51f18ce0c634d5bb9931a49e0dc8e84888d4749",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AAII Sentiment Survey: Pessimism Steps Down",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=abf7f119a021e780b7fdabc2e7f6868320b6bce2c2eb31ee2cc11f1212fcbe32",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Semi Mania's Broadcom Problem; World's Smartest Banker To Pitch SpaceX; Japan Risk To AI Trade",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4b8ffece6a1cc667496b96159a97dea47f69e637c988e0c8b246ca3152d0aa7e",
+          "url": "https://finnhub.io/api/news?id=024bb7e9bfad6717b055f11b2b8eac6c905c2ed99edc7b7857a24b041575e73b",
           "used_by_ai": true
         },
         {
           "headline": "Time To Cash In The Chips",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=9843ff24e837301c18c873844061d9b64e648583b9a02b2deecb3cbbdd53db72",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "President Trump On Iran, Says If They Killed U.S. Troops, It Would Be A Good Reason To Restart Conflict; We Do Not Need A Deal With An Iran To Get Their Enriched Uranium; They Cannot Have A Nuclear Weapon; On Lebanon, Says I Think Things Will Happen Over There; It Would Be Good For Lebanon To Have Some Peace, I Spoke To Hezbollah About It, Think Progress Is Made",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ed7cc2d93048498cc5250493f51f18ce0c634d5bb9931a49e0dc8e84888d4749",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "CNBC": 1,
         "Yahoo": 1,
         "Benzinga": 2,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 1
       }
     }
   ]
