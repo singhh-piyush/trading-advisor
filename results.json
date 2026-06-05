@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T03:46:23Z",
+  "updated_at": "2026-06-05T08:07:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -13,43 +13,31 @@
   "items": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Multiple AI-related news",
-      "headline": "Ford Stock Is Off to the Races. Can Its 55% Rally Continue?",
+      "reason": "Multiple positive mentions",
+      "headline": "2 Software Stocks to Buy Before the Anthropic IPO",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4fe922d4fe29f664793f6ee81f2e66efc957bc6cf1a84d19d0f528a17a16af7",
+      "url": "https://finnhub.io/api/news?id=4f46a7881253b83b612f3f364cd3c4f573012df4b86776286d5cda9a6b795d8b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Ford Stock Is Off to the Races. Can Its 55% Rally Continue?",
+          "headline": "2 Software Stocks to Buy Before the Anthropic IPO",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d4fe922d4fe29f664793f6ee81f2e66efc957bc6cf1a84d19d0f528a17a16af7",
+          "url": "https://finnhub.io/api/news?id=4f46a7881253b83b612f3f364cd3c4f573012df4b86776286d5cda9a6b795d8b",
           "used_by_ai": true
         },
         {
-          "headline": "Applied Optoelectronics (AAOI) Soars 10% as Exec Highlights Growing Optics Technology Role",
+          "headline": "SpaceX\u2019s Biggest Customer Is Also Its Biggest IPO Rival Paying $15 Billion a Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2560fb4def895aaef9884166f5db179b20bf5af2d39dd62c929a015f9a538b93",
+          "url": "https://finnhub.io/api/news?id=3b76c2f44b2812056535566b2a9a61a7fc8fdfca974c74f0baae1e92fe56b799",
           "used_by_ai": true
         },
         {
-          "headline": "Broadcom Stock Investors Just Got Fantastic News from Wall Street",
+          "headline": "This Warren Buffett Stock Is Beating the S&P 500 in 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c88ea7fe381c298fec0f581d04ce7471add5390b39c477444851f46f06abc06e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Rubrik Stock Soared 47.9% Last Month",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=61eecc207d2bd611305b55a9071de0ac0237e45d3e01e6a0c51e52ee543efa2b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "When Will SpaceX, Anthropic, and OpenAI Join the S&P 500 Index?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3391df932bb5952a86ea6ba45c66cba063a95654d410269bd136f3a1136349bb",
+          "url": "https://finnhub.io/api/news?id=0a83832e22ec4642cdb011b74ccdd5bdc90a55ca79fb8c55836d61a57d66147e",
           "used_by_ai": true
         },
         {
@@ -57,51 +45,103 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cdc159bf079470f04d87463a497a53af097f6aa5ba26ebac71165c292ecd5697",
           "used_by_ai": true
+        },
+        {
+          "headline": "Where Will Costco Stock Be in 3 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7d0bb60e71c1df48f70922f7a4fdefec65a0f1bb13ad0a3865208b6cb026d266",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 6
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Positive mentions and potential alliance",
+      "headline": "Taiwan's Foxconn raises guidance for second-quarter outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afe4c0f8bd7c1ead745c76ac5c0b113703eb30fe7d3a70e7d8e45dd885499934",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Taiwan's Foxconn raises guidance for second-quarter outlook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afe4c0f8bd7c1ead745c76ac5c0b113703eb30fe7d3a70e7d8e45dd885499934",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett's Successor, Greg Abel, Dumped Amazon and Bought 3 Million Shares of This Undervalued Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6469c99bc5e6a6f87bf0b144c53514bc804d30ea03e64a6dd6236678ac6ad341",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NVIDIA Could Seal a Major Alliance With Apple After Launching Nemotron 3 Ultra AI model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cdc159bf079470f04d87463a497a53af097f6aa5ba26ebac71165c292ecd5697",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Huge News For Apple and Nvidia Stock Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e6325bd757c9ad1c69f084cea9169fbe8bde18b9bfcfc863e52026c761780cc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Liftoff Mobile IPO: Why investors are comparing it to AppLovin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e74de98a010db9e1fd9297ea3feff851b7ad0151448f174563516a0f3a461bb6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Robotaxi expansion and sales rebound",
-      "headline": "Tesla Robotaxi Expansion And Global Sales Rebound Test Long Term Thesis",
+      "confidence": 60,
+      "reason": "SpaceX IPO and expansion news",
+      "headline": "Can Tesla Bulls Strike Gold Twice? SpaceX IPO Puts The Elon Musk Premium To The Test",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f27b96ae23bba6705760b90c7a5e63ac85a003101411910ee16bbc45d37ee687",
+      "url": "https://finnhub.io/api/news?id=08b31973ee6607a26be36b632cfcb20f07cc6847be463f23f62966a53bfc657e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Can Tesla Bulls Strike Gold Twice? SpaceX IPO Puts The Elon Musk Premium To The Test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08b31973ee6607a26be36b632cfcb20f07cc6847be463f23f62966a53bfc657e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Is Jamie Dimon Giving the SpaceX IPO the Hard Sell?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6559481351d1dbd2b688e7f665aaff37229e87872c209d9450cbdd6eff1838a3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Where Will Tesla Stock Be in 3 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=13cbf35639e89ccf91f8dee615efd1528e304670e858fae483660fb3f51bd915",
+          "used_by_ai": true
+        },
+        {
+          "headline": "EV Company News For The Month Of May 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=18ef500f658eb3eda86e4cb8f5de7b4a42dfb2556964d5518fa022033b8554ea",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla Robotaxi Expansion And Global Sales Rebound Test Long Term Thesis",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f27b96ae23bba6705760b90c7a5e63ac85a003101411910ee16bbc45d37ee687",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nomura Climate Solutions Fund Q1 2026 Strategic Positioning",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=16daba6616dc797786895a9dc569bd8cfc972c4ed9750faef3abf25bb755327e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Sees SpaceX\u2019s AI Revenue 100 Times Higher by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07f8678f3863ce743441cb40c5c52bf2e7d3b7a8a68f56b7f49cc22cb4aebe83",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX and Anthropic: The Most Exciting IPOs Ever?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2fcabe219f3ad813090329f5b6157489449badb9d57b3668b0257883024905a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed4850794ae5835a4dab04ed2f71f0c3e0fd12e206c4b405ec04965f128f8541",
           "used_by_ai": true
         }
       ],
@@ -114,13 +154,25 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI advancements and competition",
-      "headline": "Microsoft's AI Chief Says Company Is 'Less Concerned' About Google, Meta And OpenAI As Anthropic Battle Heats Up\u2014 'We've Closed An Enormous Gap...'",
+      "confidence": 60,
+      "reason": "Positive AI and chip news",
+      "headline": "Beyond Nvidia: Europe's best-performing AI stocks of 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea0266c2deb154f42122247a2bed36996a2d9db86dfa93d7dc5b15215995491f",
+      "url": "https://finnhub.io/api/news?id=193e31a7d768151522c7ced5609455ec5b65de792323191e0281f5cc688dacf7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Beyond Nvidia: Europe's best-performing AI stocks of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=193e31a7d768151522c7ced5609455ec5b65de792323191e0281f5cc688dacf7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Held Up as AI Chips Sold Off. Is It the Safer Megacap Bet Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcffac7093120b9b282a4b9d5a44d5388e4b15c3b6356b29d0a9527856c28e6d",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft's AI Chief Says Company Is 'Less Concerned' About Google, Meta And OpenAI As Anthropic Battle Heats Up\u2014 'We've Closed An Enormous Gap...'",
           "source": "Yahoo",
@@ -138,18 +190,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=621b19e4dd13a18bbfe985eed7174dede01595ec1498fc181a58d5a7c9ac5e13",
           "used_by_ai": true
-        },
-        {
-          "headline": "How Microsoft, OpenAI went from partnership to 'situationship'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2178056a3c271a3a3d13c5f12e5659ead9feea4cdaaee6b092085d0ff50633ce",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft debuts in-house MAI-Thinking-1 model",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76da904464e3fcb50dfd4990f0eac62ba42b5165733902d1793388f06aed56cb",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -157,58 +197,51 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Potential alliance with NVIDIA",
-      "headline": "NVIDIA Could Seal a Major Alliance With Apple After Launching Nemotron 3 Ultra AI model",
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Chip stock pullback",
+      "headline": "Trump Officials Worry US Loophole Let Chinese Firms Buy Nvidia Blackwell Chips",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdc159bf079470f04d87463a497a53af097f6aa5ba26ebac71165c292ecd5697",
+      "url": "https://finnhub.io/api/news?id=a7769babdcf7328e6975b8574b971e06388ec3f0a1b9e0271eba3f2f639c733a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "NVIDIA Could Seal a Major Alliance With Apple After Launching Nemotron 3 Ultra AI model",
+          "headline": "Trump Officials Worry US Loophole Let Chinese Firms Buy Nvidia Blackwell Chips",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cdc159bf079470f04d87463a497a53af097f6aa5ba26ebac71165c292ecd5697",
+          "url": "https://finnhub.io/api/news?id=a7769babdcf7328e6975b8574b971e06388ec3f0a1b9e0271eba3f2f639c733a",
           "used_by_ai": true
         },
         {
-          "headline": "Liftoff Mobile IPO: Why investors are comparing it to AppLovin",
+          "headline": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e74de98a010db9e1fd9297ea3feff851b7ad0151448f174563516a0f3a461bb6",
+          "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34",
           "used_by_ai": true
         },
         {
-          "headline": "Huge News For Apple and Nvidia Stock Investors",
+          "headline": "AVGO Stock Alert: Why Broadcom Is Leading Chip Stocks Lower Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e6325bd757c9ad1c69f084cea9169fbe8bde18b9bfcfc863e52026c761780cc",
+          "url": "https://finnhub.io/api/news?id=6818a6303f17ec99e4ab141ad1937c1a3485c7c91169f1af01748fd4030c3e4f",
           "used_by_ai": true
         },
         {
-          "headline": "Investing In The Most Valuable Firms: The MANGOS",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a524682ed8f7801d22786d110e27945c1aa7397dcb7081ae9056553dde1b1ecf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Stock And The Intelligence Test",
+          "headline": "US Equity Indexes Mixed as Sliding Technology Pulls Nasdaq Composite Lower, Crude Oil Sinks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=004605f92b4d930a7b64613d34a4574b995a891d7fc75397407121c9e0cd2e81",
+          "url": "https://finnhub.io/api/news?id=7b38208956db654576688d8cb6d9701f3313b67f60aa4cdbfb3538e49d223896",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Market rally and sector rotation",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed market news",
       "headline": "Stocks drop as AI rally pauses, US-Iran peace talks stall - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
@@ -218,6 +251,12 @@
           "headline": "Stocks drop as AI rally pauses, US-Iran peace talks stall - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Slip As Chip Stocks Pull Back: LULU, NFLX, KEEL, MRLN Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fb7f625c9473b54f5fe7b54893154d233626c1a95caf8824a4b0f73f03260e2b",
           "used_by_ai": true
         },
         {
@@ -233,69 +272,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Rates Spark: Heading Into Payrolls Looking For Something",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6948a5eea4093220b0cb5c15006ddb747e3edd064824effedab3fe43092243ac",
+          "headline": "Stocks Rebound on Strength in Banks and Managed Healthcare",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e0e960c071f6f31538b06d71dd31da6c74caa2a880d2f6a84a58763783c42f0",
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Halo Effect? NASA ETF Emerges As May's Third Hottest Thematic Bet With $2 Billion Inflows",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=024bb7e9bfad6717b055f11b2b8eac6c905c2ed99edc7b7857a24b041575e73b",
+          "headline": "Rates Spark: Heading Into Payrolls Looking For Something",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6948a5eea4093220b0cb5c15006ddb747e3edd064824effedab3fe43092243ac",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Reuters": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed news and market trends",
-      "headline": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US Equity Indexes Mixed as Sliding Technology Pulls Nasdaq Composite Lower, Crude Oil Sinks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b38208956db654576688d8cb6d9701f3313b67f60aa4cdbfb3538e49d223896",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sorcero CEO Dipanwita Das Among Only 3 Founders in Life Sciences AI Recognized on 2026 100 Women in AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c939e84c68fe790b127bd857bd278fff4305d7d38f67cf35598c2a11f5701de",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Markets Rally, But Tech Stocks Get Left Behind as the AI Trade Falters",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94e033f843fdc73e49c55b4bfd80594ede48857d467c37e5858881750d12efcf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US Equity Indexes Rise Amid Broad-Based Rally in Final Leg of Trading",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ef9c69e56074c86d791904a83c9fce644a6825676f96268e0d4103f4068bc4b",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     }
   ]
