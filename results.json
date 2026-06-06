@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:43:19Z",
+  "updated_at": "2026-06-06T15:16:07Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,66 +8,26 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "AI breakout expected",
-      "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Dan Ives Sees Apple WWDC As A Major AI Catalyst for AAPL",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=927c21b003aa25b0cd2674e2f6da5d482c75048662f5b813082eb11254848546",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5890fdae730e63d277ff5e2096ad7920320c08909b83637c8fa0f08d15895def",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Stock Looks Strong. One Number Says Be Careful.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e84a3bde83b5198b4c114ba9b0f282fe9e3d9c0747f70b8af344f2186868d46",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 70,
-      "reason": "Shares getting obliterated",
-      "headline": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
+      "confidence": 60,
+      "reason": "Negative news",
+      "headline": "Elizabeth Warren Lays a Trap for Jensen Huang. He May Have No Choice But to Accept",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60e3775fc462d637d878ab0f94857dd1fcf3190fe403f64d4c342adb668c6215",
+      "url": "https://finnhub.io/api/news?id=e7d051772af6e37ea26a42aa48acc603f88c8adc7b5cc97572cef5c46294c028",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Elizabeth Warren Lays a Trap for Jensen Huang. He May Have No Choice But to Accept",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7d051772af6e37ea26a42aa48acc603f88c8adc7b5cc97572cef5c46294c028",
+          "used_by_ai": true
+        },
         {
           "headline": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
           "source": "Yahoo",
@@ -75,243 +35,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "Don't Buy Home Depot Stock Until You Know This 1 Key Metric",
+          "headline": "These Investors Earned 20% to 33% Returns Using The Same Philosophy on Completely Different Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eb63f6f96dc24ed6c3ceed685c5996c1e47205bd786074f2b423029772fc8b2",
+          "url": "https://finnhub.io/api/news?id=8f9ffccee92cc3b5be8c5f367c25d0d4778484276d52da920d0b7223dcd69021",
           "used_by_ai": false
         },
         {
-          "headline": "These 2 Cryptocurrencies Have Better Outlooks Than Solana or Ethereum. Should You Buy Them?",
+          "headline": "The Stock Market Is on the Verge of Doing Something Not Witnessed in 155 Years -- and the Implications for Wall Street Are Frightening",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=321e55fdf4700f68d890cf0098eedb5e88173d93f4680d9e4e31e27b4fcf0f1d",
+          "url": "https://finnhub.io/api/news?id=a0e6766296ea57dea9f30fc46d62998b650551d914603ac0730410eac78d845f",
           "used_by_ai": false
         },
         {
-          "headline": "Four REITs Fund 45% of This Income ETF\u2019s Distributions Right Now",
+          "headline": "BWET\u2019s 1,645% Gain Rests on One Geopolitical Event That Could Reverse in Hours",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=232799419484c81437b281068acd8657055a19ca9a74c3509abb19e5aba9f8e9",
+          "url": "https://finnhub.io/api/news?id=cc7fe2a0292c242fb3944c6899965571319f410942b3b3231ad33e99899ee4ea",
           "used_by_ai": false
         },
         {
-          "headline": "Should You Buy TMC The Metals Company While It's Below $7?",
+          "headline": "Why Did AirJoule Technologies Stock Give Back Most of Its Gain This Week?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=687246fa7e8730f165b6843ccf47062fea383e6e537fbdecb51a284064200585",
+          "url": "https://finnhub.io/api/news?id=b9d867e36b71a0e704c7a68fd3cfb05c696ee9d6b94605db0bbc288052a39b0e",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 6
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 70,
-      "reason": "Shares trading lower",
-      "headline": "Why Tesla (TSLA) Shares Are Trading Lower Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b073264bdda5437799a3a1b2f45e527ea62e49353d21dafb1ae7bea70c76cd8f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Tesla (TSLA) Shares Are Trading Lower Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b073264bdda5437799a3a1b2f45e527ea62e49353d21dafb1ae7bea70c76cd8f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbd5026c581c4a262401c0c0b6bc202f99c755ee83b8af2dd66557a08419fa50",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9da0c806419368cd3606b262c5f06be6dc1343f3d1277a9775eae37ddf592b1e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The SpaceX IPO Is the Biggest in History. That Doesn't Automatically Make It a Good Investment.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ee810a78bd242b33aa6ea46d30b40305d91f06c42c278c50885150979d20174",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets \u2014 TSLA, GME, META, BA, MSTR, GOOGL In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c17f2b55bca8b6cfb913f6c45fdd7aa8f6251715767edfb44f3f724cf29d349",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Market meltdown",
-      "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Have Been Patiently Waiting For This Market Meltdown",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e2fe0ce441abb70a772521c0d80b07a292384b55c24a641510656473e1a9326d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=38cb77bba0883eb67ec8c071c6eec4c761b0eaf4f63df25d98729061d78b6e5c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c3246b4927b095987d2f14023551256f90bc6363d968b9132fe14e9d49a8d7c4",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Lawsuit settlement",
-      "headline": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5890fdae730e63d277ff5e2096ad7920320c08909b83637c8fa0f08d15895def",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Stock Looks Strong. One Number Says Be Careful.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e84a3bde83b5198b4c114ba9b0f282fe9e3d9c0747f70b8af344f2186868d46",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Dan Ives Sees Apple WWDC As A Major AI Catalyst for AAPL",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=927c21b003aa25b0cd2674e2f6da5d482c75048662f5b813082eb11254848546",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI boom",
-      "headline": "Is Wall Street\u2019s AI boom spreading to main Street?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57044cde4c255063ff70e4df3dae5a5599149072eed349ea4751dd4cd71b355f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Is Wall Street\u2019s AI boom spreading to main Street?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57044cde4c255063ff70e4df3dae5a5599149072eed349ea4751dd4cd71b355f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=49254a69beb5085d9ae021dc45f616c560fa2080b805d66cbc7f2fe35341eb70",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60e3775fc462d637d878ab0f94857dd1fcf3190fe403f64d4c342adb668c6215",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Nvidia competition",
-      "headline": "Did Nvidia Just Say Checkmate to AMD and Intel?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08b1b3a5fc2b7ae878ca4abba1ee6a24d71fb5a7da1b1fcd001372e001d9e2f3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Did Nvidia Just Say Checkmate to AMD and Intel?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08b1b3a5fc2b7ae878ca4abba1ee6a24d71fb5a7da1b1fcd001372e001d9e2f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can AI Capex Extend The Semiconductor Cycle?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8bdee986167b63df2adc68059929a4658127db4a72a70e53faddc00146c1c072",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is AMD or Broadcom the Best AI Chip Stock After Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a5cb064894f915d8a3e23882bad61f5a9ba503db562839fd36602992de2a140",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
       "confidence": 50,
-      "reason": "SpaceX IPO",
+      "reason": "IPO concerns",
       "headline": "Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fbd5026c581c4a262401c0c0b6bc202f99c755ee83b8af2dd66557a08419fa50",
@@ -330,21 +87,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "Why Tesla (TSLA) Shares Are Trading Lower Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b073264bdda5437799a3a1b2f45e527ea62e49353d21dafb1ae7bea70c76cd8f",
+          "used_by_ai": true
+        },
+        {
           "headline": "Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9da0c806419368cd3606b262c5f06be6dc1343f3d1277a9775eae37ddf592b1e",
           "used_by_ai": false
         },
         {
-          "headline": "Why Tesla (TSLA) Shares Are Trading Lower Today",
+          "headline": "Elon Musk bullet-proofed his $1 trillion \u2018Mars-shot\u2019 pay at SpaceX after the epic battle over his $56 billion moonshot at Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b073264bdda5437799a3a1b2f45e527ea62e49353d21dafb1ae7bea70c76cd8f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets \u2014 TSLA, GME, META, BA, MSTR, GOOGL In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c17f2b55bca8b6cfb913f6c45fdd7aa8f6251715767edfb44f3f724cf29d349",
+          "url": "https://finnhub.io/api/news?id=f42917938761a45f7790493e8cc390a4d57147d59c0981e9eb1299833e9699ed",
           "used_by_ai": false
         }
       ],
@@ -353,44 +110,160 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
       "confidence": 50,
-      "reason": "Dividends and income",
-      "headline": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=38cb77bba0883eb67ec8c071c6eec4c761b0eaf4f63df25d98729061d78b6e5c",
+      "reason": "AI potential",
+      "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=38cb77bba0883eb67ec8c071c6eec4c761b0eaf4f63df25d98729061d78b6e5c",
+          "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
           "used_by_ai": true
         },
         {
-          "headline": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c3246b4927b095987d2f14023551256f90bc6363d968b9132fe14e9d49a8d7c4",
+          "headline": "Not SpaceX: The Forgotten Satellite Stocks Quietly Plugging Into the Future of Space That Are Investible Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b1ff6abf8c9d2ac0db1aec87e509cf1f06bb8ad556360010f91a356e19f90b7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5890fdae730e63d277ff5e2096ad7920320c08909b83637c8fa0f08d15895def",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Nvidia competition",
+      "headline": "Did Nvidia Just Say Checkmate to AMD and Intel?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08b1b3a5fc2b7ae878ca4abba1ee6a24d71fb5a7da1b1fcd001372e001d9e2f3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Did Nvidia Just Say Checkmate to AMD and Intel?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08b1b3a5fc2b7ae878ca4abba1ee6a24d71fb5a7da1b1fcd001372e001d9e2f3",
           "used_by_ai": true
         },
+        {
+          "headline": "Is AMD or Broadcom the Best AI Chip Stock After Nvidia?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a5cb064894f915d8a3e23882bad61f5a9ba503db562839fd36602992de2a140",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Can AI Capex Extend The Semiconductor Cycle?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8bdee986167b63df2adc68059929a4658127db4a72a70e53faddc00146c1c072",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "AI trends",
+      "headline": "Nebius Is Priced For Flawless Delivery",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=71c209dc2ad3dc86cde8b48bf910bedea47b998d30ab85f6944c0dbec255e657",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nebius Is Priced For Flawless Delivery",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=71c209dc2ad3dc86cde8b48bf910bedea47b998d30ab85f6944c0dbec255e657",
+          "used_by_ai": true
+        },
+        {
+          "headline": "After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=49254a69beb5085d9ae021dc45f616c560fa2080b805d66cbc7f2fe35341eb70",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Wall Street\u2019s AI boom spreading to main Street?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=57044cde4c255063ff70e4df3dae5a5599149072eed349ea4751dd4cd71b355f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60e3775fc462d637d878ab0f94857dd1fcf3190fe403f64d4c342adb668c6215",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "Market concerns",
+      "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "May Jobs Report: Same, But Different",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fbe1b6acbe8fc8d286a2cceff35cf1eed3e0e6355c05553f956aa75a5cd150bf",
+          "used_by_ai": true
         },
         {
           "headline": "I Have Been Patiently Waiting For This Market Meltdown",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e2fe0ce441abb70a772521c0d80b07a292384b55c24a641510656473e1a9326d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=38cb77bba0883eb67ec8c071c6eec4c761b0eaf4f63df25d98729061d78b6e5c",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 1
+        "Yahoo": 1,
+        "SeekingAlpha": 3
       }
     }
   ]
