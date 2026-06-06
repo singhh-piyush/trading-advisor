@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T18:05:50Z",
+  "updated_at": "2026-06-06T19:53:36Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -13,26 +13,32 @@
   "items": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 60,
       "reason": "Positive stock analysis",
-      "headline": "Want to Retire a Millionaire? This Under-$20 Stock Deserves a Look.",
+      "headline": "Is NVIDIA (NVDA) One of the Best Big Company Stocks to Buy Right Now?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c4d6a35b34f91f47fb8af6476dbf8d1c8ed35962821937949e7bbef6f51d976",
+      "url": "https://finnhub.io/api/news?id=6eed37291e4b594f767e9ec59596aa5b9c6b76f344440b28a069a726cc536ae9",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Want to Retire a Millionaire? This Under-$20 Stock Deserves a Look.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c4d6a35b34f91f47fb8af6476dbf8d1c8ed35962821937949e7bbef6f51d976",
-          "used_by_ai": true
-        },
         {
           "headline": "Is NVIDIA (NVDA) One of the Best Big Company Stocks to Buy Right Now?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6eed37291e4b594f767e9ec59596aa5b9c6b76f344440b28a069a726cc536ae9",
           "used_by_ai": true
+        },
+        {
+          "headline": "Can You Retire Comfortably on $750,000 in Savings?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=31a003003ab6a6243e791e53839f12d873960627f1e824aa58346ae16a214bd7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Want to Retire a Millionaire? This Under-$20 Stock Deserves a Look.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c4d6a35b34f91f47fb8af6476dbf8d1c8ed35962821937949e7bbef6f51d976",
+          "used_by_ai": false
         },
         {
           "headline": "6 Steps to Take With Your Social Security Strategy Before Summer Ends",
@@ -42,14 +48,14 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 55,
       "reason": "Raised price target",
       "headline": "Wells Fargo Raises PT on Microsoft (MSFT) Stock",
       "source": "Yahoo",
@@ -66,13 +72,13 @@
           "headline": "The Most Important AI Company You've Never Heard Of",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e66a935a964d142bed20f7a68da3d274b9661066156e23595b542948bb1abac4",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "SaaS Stocks Are Rallying on AI Optimism. 3 Stocks to Buy Now.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1c0476dc80f28aeedecd1fb8848ef67f35f36bab59f32c230ea784ebc743f132",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -83,8 +89,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Jaw-dropping price target",
+      "confidence": 50,
+      "reason": "Jaw-dropping stock price target",
       "headline": "JPMorgan sets jaw-dropping Tesla stock price target",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=acb8a612f781209b2ea6de7c883c5b9ea3daeacf43ec2661eb99c9663f062eb2",
@@ -120,11 +126,58 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 45,
+      "reason": "Market meltdown prediction",
+      "headline": "I Have Been Patiently Waiting For This Market Meltdown",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e2fe0ce441abb70a772521c0d80b07a292384b55c24a641510656473e1a9326d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "I Have Been Patiently Waiting For This Market Meltdown",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e2fe0ce441abb70a772521c0d80b07a292384b55c24a641510656473e1a9326d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SCHD\u2019s $85 Billion Strategy Now Concentrates 41 Percent of Your Money in Just Ten Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79c050f23c7fb3093430c6abe9673755fcd798d82dc4d003d63188545ab73bce",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
+          "used_by_ai": false
+        },
+        {
+          "headline": "May Jobs Report: Same, But Different",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fbe1b6acbe8fc8d286a2cceff35cf1eed3e0e6355c05553f956aa75a5cd150bf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=38cb77bba0883eb67ec8c071c6eec4c761b0eaf4f63df25d98729061d78b6e5c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 2
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Mentioned in investment article",
+      "confidence": 40,
+      "reason": "Positive stock mention",
       "headline": "The \"Magnificent Seven's\" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=95e17f2d71263f12840232c5f4e696ce6bdb269131d51babec36596c367398ff",
@@ -137,69 +190,34 @@
           "used_by_ai": true
         },
         {
+          "headline": "Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot at Catching It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=145ab97cae0d7fcb9adf4a5e001ef128f2430c28f298735a681c8424fe0ba556",
+          "used_by_ai": false
+        },
+        {
           "headline": "Stock Market Week Ahead: SpaceX And The Power Trend",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b378a567d388dc2aee4fc42b95e05872e5c9c2a927ba91b4a73f184e4ba57761",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Not SpaceX: The Forgotten Satellite Stocks Quietly Plugging Into the Future of Space That Are Investible Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6b1ff6abf8c9d2ac0db1aec87e509cf1f06bb8ad556360010f91a356e19f90b7",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Market warning signs",
-      "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top Wall Street Strategist: AI \u2018Reality Check\u2019 Is Coming as Bond Market Flashes Warning Signs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=faceae3d993f76ce4ec2a0153b849113c47051519cbea9e99dedfab9c5c07814",
-          "used_by_ai": true
-        },
-        {
-          "headline": "May Jobs Report: Same, But Different",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fbe1b6acbe8fc8d286a2cceff35cf1eed3e0e6355c05553f956aa75a5cd150bf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Two 11%+ Dividends That Belong In Any Retirement Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=38cb77bba0883eb67ec8c071c6eec4c761b0eaf4f63df25d98729061d78b6e5c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Have Been Patiently Waiting For This Market Meltdown",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e2fe0ce441abb70a772521c0d80b07a292384b55c24a641510656473e1a9326d",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 30,
-      "reason": "Competition from NVIDIA",
+      "confidence": 35,
+      "reason": "Nvidia competition",
       "headline": "Did Nvidia Just Say Checkmate to AMD and Intel?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=08b1b3a5fc2b7ae878ca4abba1ee6a24d71fb5a7da1b1fcd001372e001d9e2f3",
@@ -218,22 +236,22 @@
           "used_by_ai": false
         },
         {
-          "headline": "After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=49254a69beb5085d9ae021dc45f616c560fa2080b805d66cbc7f2fe35341eb70",
+          "headline": "Marvell Technology CEO Matt Murphy Believes This Is The 'Most Beautiful Thing' One Person Can Do For Another And It Can 'Change Their Life'",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=716d1f2f0c845551352bffcdfe7cec63de051b016254a069485aba1488eab8f4",
           "used_by_ai": false
         },
         {
-          "headline": "Benzinga Bulls And Bears: Dell, GameStop, Lululemon \u2014 And Stocks Take A Hit On Interest Rate Hike Fears",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c43a3bf00396f51b8e93e372e37fbebb8d6382863b29ae59ae704e72349bac73",
+          "headline": "After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=49254a69beb5085d9ae021dc45f616c560fa2080b805d66cbc7f2fe35341eb70",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
-        "SeekingAlpha": 1,
-        "Benzinga": 1
+        "Benzinga": 1,
+        "SeekingAlpha": 1
       }
     }
   ]
