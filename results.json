@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T00:06:39Z",
+  "updated_at": "2026-06-06T04:36:44Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,143 @@
   "sample": false,
   "items": [
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI breakout expected",
+      "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank\u2014 But One Key Challenge Remains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Dan Ives Sees Apple WWDC As A Major AI Catalyst for AAPL",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=927c21b003aa25b0cd2674e2f6da5d482c75048662f5b813082eb11254848546",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Stock Looks Strong. One Number Says Be Careful.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6e84a3bde83b5198b4c114ba9b0f282fe9e3d9c0747f70b8af344f2186868d46",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8fe298875e88a3351189538684397f4299e935bea199fe814233c77ca6c42bb5",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI chip stock",
+      "headline": "Jensen Huang Just Said This AI Chip Stock Could Be the Next $1 Trillion Company (Hint: It's Not AMD or Sandisk)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=600e873c046050fe83d1507519224d1839754aae472da89f6a4d362c0c5581d6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Jensen Huang Just Said This AI Chip Stock Could Be the Next $1 Trillion Company (Hint: It's Not AMD or Sandisk)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=600e873c046050fe83d1507519224d1839754aae472da89f6a4d362c0c5581d6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta Stock Is Getting Hit Hard. But Where Will It Be in 3 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=55f7fba17cd71b17f4ad99234b20b4981b469b74661a286ba52e3a4a846bf352",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The SEC Just Scrapped a 25-Year-Old Day-Trading Rule. Here's What It Means for Interactive Brokers and Robinhood.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=790751192924cddb47835ccf70687c333eba443fabc3c4ce62c733c59ca74589",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is XRP About to Make Its Biggest Move Yet?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90b1a149a1f91aa860d7152c7f0fc564f999f475fa0c668711ef0e8f4f0b2634",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Joby Aviation Stock Plummeted Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e5febdba7aea7c609e0680379ee8beb140723b658d7a31298d6590de5f3685fd",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Market slumps",
+      "headline": "Stocks Settle Sharply Lower as Tech Companies Routed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12c91d9ab421dca877e20a94bac8123c8734377bde6697e6945497ec99a15247",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stocks Settle Sharply Lower as Tech Companies Routed",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=12c91d9ab421dca877e20a94bac8123c8734377bde6697e6945497ec99a15247",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Employment Report: 172K Jobs Added In May, Higher Than Expected",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4d9d62413fee40d4db3e975e7439f44050a95c41c09de3f17da7def3b5cb47ec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Goldman\u2019s Future Tech ETF Turned $10k Into $15.2k While the S&P 500 Made $1.1k",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f6c793f0a38f998fb32dc385f6c8a8da7f2aef01e0d6d81486467852b4bd695",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Vanguard\u2019s VOO Won the Trillion-Dollars-in-Assets Race",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2ab3b4593dd742d54e4303ca49932b8e291a29de9f40f0da76ff32410186e8e4",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 80,
+      "confidence": 50,
       "reason": "Chips sector bloodbath",
       "headline": "Why AMD (AMD) Shares Are Trading Lower Today",
       "source": "Yahoo",
@@ -41,52 +174,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "50% Upside For AVGO Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3aaed6023aeae7978432a07c32c64f49ea67880fa343a585e43961412d953f0",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Registers bigger fall",
-      "headline": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with  startup Manus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=22893aec12d24ad9054f4d62ab1a037e62c508ada167c0563d16da3d2c44e769",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with  startup Manus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=22893aec12d24ad9054f4d62ab1a037e62c508ada167c0563d16da3d2c44e769",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oracle Stock Has Returned $54 Billion To Shareholders. Can It Continue?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7152f071944c70957d1ea63968cba6ba0993872bfb8802e197e1499a1291ee2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Deepens In House AI And Healthcare Focus At Build 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36cffec5cb9a5a92b9e7c9c95c2985d8e1f3a940a35829cc29f85ab985e9bed0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft (MSFT) Registers a Bigger Fall Than the Market: Important Facts to Note",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fdc37059697df82004ccc82439d346cb76f6e1835c5a4fe70f056522c65a6cd2",
-          "used_by_ai": true
-        },
-        {
           "headline": "Nasdaq Suffers Worst Day in More Than a Year; S&P 500 Snaps Winning Weekly Streak",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d6a2ef48dd80095eeb623de9d289a824c9e9c13e86df4e575c91dd1e12159bab",
@@ -94,54 +181,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "US Equity Indexes Slump",
-      "headline": "Employment Report: 172K Jobs Added In May, Higher Than Expected",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4d9d62413fee40d4db3e975e7439f44050a95c41c09de3f17da7def3b5cb47ec",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Employment Report: 172K Jobs Added In May, Higher Than Expected",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4d9d62413fee40d4db3e975e7439f44050a95c41c09de3f17da7def3b5cb47ec",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Goldman\u2019s Future Tech ETF Turned $10k Into $15.2k While the S&P 500 Made $1.1k",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f6c793f0a38f998fb32dc385f6c8a8da7f2aef01e0d6d81486467852b4bd695",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 High-Flying Artificial Intelligence Stock You Might Want to Avoid Buying Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1317b7dffe1fd7e83fe602723ecd75cac65b891d2c5ed5d30d94f32d6c4ca91b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "May Jobs Creation Is Illusory - Details Show Weakness, War Remains Concern",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d71a66261fb3c43427cb06888cdbede89b1ce43ab92ecebc5e4de343ccec99a6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Tech Stock Everyone Wrote Off Just Quietly Built a $553 Billion Backlog",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=85b66037599c63bc8ebb1f0b172f4d95e25f61414639e5a0a364c6680a639c24",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 3
+        "Yahoo": 4
       }
     },
     {
@@ -191,95 +231,43 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Multiple mentions",
-      "headline": "Why Chipotle Stock Rallied Today",
+      "reason": "Mixed news",
+      "headline": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with  startup Manus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a51606fce9730771358af7616ffb84d3cdb1e3d3868218a429fa8d32c751c0cc",
+      "url": "https://finnhub.io/api/news?id=22893aec12d24ad9054f4d62ab1a037e62c508ada167c0563d16da3d2c44e769",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Chipotle Stock Rallied Today",
+          "headline": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with  startup Manus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a51606fce9730771358af7616ffb84d3cdb1e3d3868218a429fa8d32c751c0cc",
+          "url": "https://finnhub.io/api/news?id=22893aec12d24ad9054f4d62ab1a037e62c508ada167c0563d16da3d2c44e769",
           "used_by_ai": true
         },
         {
-          "headline": "Stocks making big moves this week: Okta, TETRA Technologies, Fluence Energy, Verizon, and Cloudflare",
+          "headline": "Oracle Stock Has Returned $54 Billion To Shareholders. Can It Continue?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02ed55e443b3143f2e41cc510f025ceae62cad742ebdfb4b379323c1e637e1b4",
+          "url": "https://finnhub.io/api/news?id=f7152f071944c70957d1ea63968cba6ba0993872bfb8802e197e1499a1291ee2",
           "used_by_ai": true
         },
         {
-          "headline": "Berkshire Hathaway Just Agreed to Put $10 Billion Into Alphabet's AI Build-Out. Should Investors Follow?",
+          "headline": "Microsoft Deepens In House AI And Healthcare Focus At Build 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f671fd88d59bdac468769cc51f35f17b3b40c7161e27bf8be172b4add51afb87",
+          "url": "https://finnhub.io/api/news?id=36cffec5cb9a5a92b9e7c9c95c2985d8e1f3a940a35829cc29f85ab985e9bed0",
           "used_by_ai": true
         },
         {
-          "headline": "Turning 62 in 2026? You May Not Be Able to Apply for Social Security as Soon as You'd Hoped.",
+          "headline": "Microsoft (MSFT) Registers a Bigger Fall Than the Market: Important Facts to Note",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15622db24bfe041bd81fda73838d7ae766b22347e597989043096d5a77c1ed55",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Marvell stock pops after S&P 500 inclusion announcement",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=171d0ee958e94fae2e6863a562a78bddf68758efde14553949afd8946842a492",
+          "url": "https://finnhub.io/api/news?id=fdc37059697df82004ccc82439d346cb76f6e1835c5a4fe70f056522c65a6cd2",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Multiple mentions",
-      "headline": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fe298875e88a3351189538684397f4299e935bea199fe814233c77ca6c42bb5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8fe298875e88a3351189538684397f4299e935bea199fe814233c77ca6c42bb5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ccdbc2588262cc9729c28b65fe8800fa630c306eca838662c30fdd2f2540306b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What investors can expect from Apple's WWDC",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cbe51cebeb5f36631efc69f3c7d76a3af4e97021ca520b35a7ee96a9d502465a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Has a Big Week Ahead With AI Siri Expected at WWDC. Here's How Much Traders See The Stock Moving",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b586e35d118e342738278f93e3f8c6576c448f825940db7c46e0cb782d56dcb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Is The Biggest Threat To Google Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=13dc952f639f742251766518dd5a237a7fdbbe92a2d8bb51c859766af9e24652",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     }
   ]
