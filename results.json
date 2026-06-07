@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:36:14Z",
+  "updated_at": "2026-06-07T00:04:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,39 +12,119 @@
   "sample": false,
   "items": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "JPMorgan sets high target",
-      "headline": "JPMorgan sets jaw-dropping Tesla stock price target",
+      "reason": "Bullish forecasts",
+      "headline": "Could Nvidia Reach a $10 Trillion Market Cap? I Think So. And It Will Happen Faster Than You Think.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=acb8a612f781209b2ea6de7c883c5b9ea3daeacf43ec2661eb99c9663f062eb2",
+      "url": "https://finnhub.io/api/news?id=9a2984a52239a9f064e2d038303217b9738822e0e6af0be613e9ff896ad78a93",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "JPMorgan sets jaw-dropping Tesla stock price target",
+          "headline": "Could Nvidia Reach a $10 Trillion Market Cap? I Think So. And It Will Happen Faster Than You Think.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=acb8a612f781209b2ea6de7c883c5b9ea3daeacf43ec2661eb99c9663f062eb2",
+          "url": "https://finnhub.io/api/news?id=9a2984a52239a9f064e2d038303217b9738822e0e6af0be613e9ff896ad78a93",
           "used_by_ai": true
         },
+        {
+          "headline": "Bank of America resets Nvidia stock forecast after meeting with CFO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d32b871369adb5fc7634fe9b5e3f722d913c300d11d919036f6ce304aaeba76a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Cryptocurrencies to Buy Before They Explode",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aa2fd329a3aabb8bd561e98bb85d9f9f03b09ba652faf31ddf5a8c67d0f1bd87",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Does Palantir's Valuation Make It Too Dangerous to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b680ca56d60b10b1420fc03aefb626285ee767f8d0479991dd8a2cb2725fb12",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Positive Siri alliance",
+      "headline": "NVIDIA Apple Siri Alliance Puts AI Chips And Valuation In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfe7c7b9a559f04ea61d02563387969f3baab1eed8e598aba86eb290b796f9e5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVIDIA Apple Siri Alliance Puts AI Chips And Valuation In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dfe7c7b9a559f04ea61d02563387969f3baab1eed8e598aba86eb290b796f9e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple is leaning on two rivals to finally fix Siri",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=13201b7e3ac7f743790f74ff32d129a1266075d09dddb9cf8448c23915c2bd52",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Here\u2019s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=716080e08abeeef95bba9a2428bc5579870f1c793d35bec844995a74a723a64b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot at Catching It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=145ab97cae0d7fcb9adf4a5e001ef128f2430c28f298735a681c8424fe0ba556",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Robotaxi progress",
+      "headline": "Tesla Robotaxi takes a big step toward Elon Musk's ultimate vision",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15e6c59f3606587ebaf000d0a384a90e537a90c45d8b2fca461acc54b7bc93c8",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Tesla Robotaxi takes a big step toward Elon Musk's ultimate vision",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=15e6c59f3606587ebaf000d0a384a90e537a90c45d8b2fca461acc54b7bc93c8",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Should Investors Sell Tesla Stock to Buy SpaceX?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=657957c0f26550ee5689b5a0066def829ab45f89af8ba066f8137da4acf454b8",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Elon Musk Says Tesla, SpaceX's Terafab Will Be Grimes County's Largest Revenue Driver As SpaceX Defends Tax Deal",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=def7839a25463813e04b87b874e195ce56686fa4f10189a53332f18ea4bdd748",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "JPMorgan sets jaw-dropping Tesla stock price target",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=acb8a612f781209b2ea6de7c883c5b9ea3daeacf43ec2661eb99c9663f062eb2",
+          "used_by_ai": true
         },
         {
           "headline": "The Biggest IPOs in History -- and How They Performed",
@@ -61,13 +141,19 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Raised PT by TD Cowen",
-      "headline": "TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock",
+      "confidence": 60,
+      "reason": "Buying opportunity",
+      "headline": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e0271c97cf962cb1675e46e334c774edf89ac68cd210e232997fe6b10cf50306",
+      "url": "https://finnhub.io/api/news?id=b92da3822331c396b722dfeedf040cf3064991a46ba9637fcd381f64980d76d7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b92da3822331c396b722dfeedf040cf3064991a46ba9637fcd381f64980d76d7",
+          "used_by_ai": true
+        },
         {
           "headline": "TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock",
           "source": "Yahoo",
@@ -75,27 +161,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b92da3822331c396b722dfeedf040cf3064991a46ba9637fcd381f64980d76d7",
-          "used_by_ai": false
+          "headline": "Is The AI Bubble About To Burst? Top Experts Deliver Major Warning",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=2c40724a484674779aa5eff35d27bae3a348ec00671931375ca6db2b9b5cfacf",
+          "used_by_ai": true
         },
         {
           "headline": "Retail Investors Are Beating Wall Street Benchmarks With AI Stocks. Why That Could Change Soon.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1ac51ac4412c8ad0cf8c1409ff9f42fb671bebf395435c387510c35791b86ea4",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here\u2019s Why Early Investors Are Banking On It",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ce93a6e07ffcef46b3e8c92a48c6248e46d04f46b7ca5d3a99e591f1ad297745",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Marvell Technology CEO Matt Murphy Believes This Is The 'Most Beautiful Thing' One Person Can Do For Another And It Can 'Change Their Life'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=716d1f2f0c845551352bffcdfe7cec63de051b016254a069485aba1488eab8f4",
           "used_by_ai": false
         }
       ],
@@ -105,131 +185,11 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Recommended as buy",
-      "headline": "Here\u2019s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=716080e08abeeef95bba9a2428bc5579870f1c793d35bec844995a74a723a64b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Here\u2019s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=716080e08abeeef95bba9a2428bc5579870f1c793d35bec844995a74a723a64b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple is leaning on two rivals to finally fix Siri",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=13201b7e3ac7f743790f74ff32d129a1266075d09dddb9cf8448c23915c2bd52",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot at Catching It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=145ab97cae0d7fcb9adf4a5e001ef128f2430c28f298735a681c8424fe0ba556",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Hunting for the Next Nvidia Is No Easy Feat. Small-Cap Tech Stocks Promise Riches but Really Are Just Rags.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=59e98968468db508cb7a1c8c40ea475a583d0ab6b27a1b731800faf65a9c3417",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The \"Magnificent Seven's\" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95e17f2d71263f12840232c5f4e696ce6bdb269131d51babec36596c367398ff",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Raised PT by Wells Fargo",
-      "headline": "Wells Fargo Raises PT on Microsoft (MSFT) Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2619473b7a83cfaaa6825076bc5eef28ef8d62dc51846810407c8a584abb94ed",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wells Fargo Raises PT on Microsoft (MSFT) Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2619473b7a83cfaaa6825076bc5eef28ef8d62dc51846810407c8a584abb94ed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=61b5589177658a2b82b06de6b45cebfed818dfab2c54dfe4ca9071751f51f19a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Multiple mentions",
-      "headline": "Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a520314ec97acdf0be65fe57578553d158a8891dd99386ee19d2f49af37ff5ed",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a520314ec97acdf0be65fe57578553d158a8891dd99386ee19d2f49af37ff5ed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dell's AI Factory Is Booming With a Backlog of $51 Billion, But Will It Lift Margins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=370814e0d8fb5b458eae53ae3ff525517d24c6b9b948bc23370382229cdf3435",
-          "used_by_ai": true
-        },
-        {
-          "headline": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3694f95f00f85a337cc9a19b8d403e4ff66371d7f85e2b91c101a7f2c26d41f2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Salesforce or ServiceNow a Better Stock to Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0bae35ff05844523e801f8c640c03551df37f2caa40d4290b61a67cd95608c29",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Conundrum of Investing in AI Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a31039ee6c234515ef0666fd501be3cef4c6f9e18227569340e390c719be2bf",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market news",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Market growth",
       "headline": "$10,000 in Asia\u2019s Biggest 50 Stocks Became $15,267 in Five Months: Here\u2019s Why",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=20d0c3c51be0dd8b100edf5c3b36a193e0fc634e5c21e736fedead3d12959b65",
@@ -269,6 +229,40 @@
       "source_breakdown": {
         "Yahoo": 4,
         "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI focus",
+      "headline": "DocuSign (DOCU) Is Down 10.0% After AI-Focused Q1 Results And Guidance Update - What's Changed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92998c99b572ecdb1919b1a8ad265a273deaaa42fb8ccc9be1c5437c775c1722",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "DocuSign (DOCU) Is Down 10.0% After AI-Focused Q1 Results And Guidance Update - What's Changed",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=92998c99b572ecdb1919b1a8ad265a273deaaa42fb8ccc9be1c5437c775c1722",
+          "used_by_ai": true
+        },
+        {
+          "headline": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3694f95f00f85a337cc9a19b8d403e4ff66371d7f85e2b91c101a7f2c26d41f2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=61b5589177658a2b82b06de6b45cebfed818dfab2c54dfe4ca9071751f51f19a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
       }
     }
   ]
