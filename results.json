@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T05:07:00Z",
+  "updated_at": "2026-06-07T08:35:14Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,102 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI focus",
+      "headline": "5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8835a502add92e43c6ed67f265bbd19396b9b7b8fe397fcc672b423917cce84c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8835a502add92e43c6ed67f265bbd19396b9b7b8fe397fcc672b423917cce84c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Nvidia (NVDA) Fairly Priced After Its Recent Share Price Pullback?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fedd7ea808b653adf75e99c084204433334036158c7965b41058cd437bbddc91",
+          "used_by_ai": true
+        },
+        {
+          "headline": "MercadoLibre Stock Is Down 19% This Year. Should You Sell It? (Hint: Zero Wall Street Analysts Rate It a Sell)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=97a75a4cd70ef1e6598f85c8a8fc3c5b8a7db02c2ad7e96968e31f2ce300f46f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd4ecb26d127bce39df8e86adbf1fe0e7a42623963e3c8c4e50a86586cd9d15b",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "AV progress",
+      "headline": "Where do Waymo and Tesla currently stand in the AV race?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bf5784a333c1e1bfde0538ef9ae4ef52324ac5c2f63a71954f99760aa189899",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Where do Waymo and Tesla currently stand in the AV race?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bf5784a333c1e1bfde0538ef9ae4ef52324ac5c2f63a71954f99760aa189899",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meet the AI Company That Can Thrive Even if an AI Bubble Bursts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=196f4e863bfa0e9ce33d54c6cf6a045ffd54215580387ab39803045c4f3bec49",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Robotaxi takes a big step toward Elon Musk's ultimate vision",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15e6c59f3606587ebaf000d0a384a90e537a90c45d8b2fca461acc54b7bc93c8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Sales in China Are Popping, But That Means Nothing If You Can\u2019t Stomach TSLA Stock\u2019s Absurd P/E Ratio",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1fb3331b3dbeb89b03b11f9a54d3c8881847d90c9e920fdd79dc439a46e4e40b",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Buy recommendation",
-      "headline": "The 4 Best \"Magnificent Seven\" Stocks to Buy Now",
+      "confidence": 50,
+      "reason": "AI alliance",
+      "headline": "Warren Buffett Offloaded a Chunk of His Biggest Holding. Here's Where the Money Went.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c1c3792645d3e8a18d21cfa0678f05598790af346e7ff76c070925878f30c64",
+      "url": "https://finnhub.io/api/news?id=e3c14964d18000705d944eefa2c2bb3e0c737271e4e548c7a87ee01870d5c4eb",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Warren Buffett Offloaded a Chunk of His Biggest Holding. Here's Where the Money Went.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e3c14964d18000705d944eefa2c2bb3e0c737271e4e548c7a87ee01870d5c4eb",
+          "used_by_ai": true
+        },
         {
           "headline": "The 4 Best \"Magnificent Seven\" Stocks to Buy Now",
           "source": "Yahoo",
@@ -45,12 +131,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dfe7c7b9a559f04ea61d02563387969f3baab1eed8e598aba86eb290b796f9e5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Apple is leaning on two rivals to finally fix Siri",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=13201b7e3ac7f743790f74ff32d129a1266075d09dddb9cf8448c23915c2bd52",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -58,50 +138,22 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "AI growth potential",
-      "headline": "SpaceX, Anthropic, and OpenAI Won't Be Added to the S&P 500 in 2026. Here's What Investors Can Do About It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c540c06edfe36e89c0524f443bf380354d8f9ea2988f675d77efe7d0b216604e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX, Anthropic, and OpenAI Won't Be Added to the S&P 500 in 2026. Here's What Investors Can Do About It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c540c06edfe36e89c0524f443bf380354d8f9ea2988f675d77efe7d0b216604e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget Palantir Stock at $140 per Share. Buy This Artificial Intelligence (AI) Chip ETF Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed717fafdc6f6b18153fb9ef7185aa7b8cac777d4ff5c752d152025da3f53d95",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meet the AI Company That Can Thrive Even if an AI Bubble Bursts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=196f4e863bfa0e9ce33d54c6cf6a045ffd54215580387ab39803045c4f3bec49",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 45,
       "reason": "Market drop",
-      "headline": "S&P 500 Snapshot: Sharpest Drop Since April 2025",
+      "headline": "This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=abe069d604fb907f82bd0979b5c553500a7bd061d3f43759c286ffc844d0588f",
+      "url": "https://finnhub.io/api/news?id=219c5eea50c792f1f6eda8b9466bdf08b1ccfc40c76f912bc68626379f7c4060",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=219c5eea50c792f1f6eda8b9466bdf08b1ccfc40c76f912bc68626379f7c4060",
+          "used_by_ai": true
+        },
         {
           "headline": "S&P 500 Snapshot: Sharpest Drop Since April 2025",
           "source": "SeekingAlpha",
@@ -109,63 +161,50 @@
           "used_by_ai": true
         },
         {
+          "headline": "Health Care Flies High",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=60b252bf7870794776eee7e72cc172867826dd93e06c36f6139856bd6f849c75",
+          "used_by_ai": true
+        },
+        {
           "headline": "$10,000 in VOLT Became $13,750 in Six Months While the S&P 500 Limped to $11,100",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=db8252c3b5aa6e37467546bbea602682d4be3e093a2f6734e74b15cf6f850329",
           "used_by_ai": true
-        },
-        {
-          "headline": "The 1-Minute Market Report, June 7, 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=90176901849adb623d5d1064d2e01630731d8028db4ac66e3d471dfe88cbeaa8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Health Care Flies High",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=60b252bf7870794776eee7e72cc172867826dd93e06c36f6139856bd6f849c75",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 3,
-        "Yahoo": 1,
-        "Reuters": 1
+        "Yahoo": 1
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Robotaxi progress",
-      "headline": "Tesla Robotaxi takes a big step toward Elon Musk's ultimate vision",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI policy",
+      "headline": "DocuSign (DOCU) Is Down 10.0% After AI-Focused Q1 Results And Guidance Update - What's Changed",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15e6c59f3606587ebaf000d0a384a90e537a90c45d8b2fca461acc54b7bc93c8",
+      "url": "https://finnhub.io/api/news?id=92998c99b572ecdb1919b1a8ad265a273deaaa42fb8ccc9be1c5437c775c1722",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla Robotaxi takes a big step toward Elon Musk's ultimate vision",
+          "headline": "DocuSign (DOCU) Is Down 10.0% After AI-Focused Q1 Results And Guidance Update - What's Changed",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15e6c59f3606587ebaf000d0a384a90e537a90c45d8b2fca461acc54b7bc93c8",
+          "url": "https://finnhub.io/api/news?id=92998c99b572ecdb1919b1a8ad265a273deaaa42fb8ccc9be1c5437c775c1722",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla Sales in China Are Popping, But That Means Nothing If You Can\u2019t Stomach TSLA Stock\u2019s Absurd P/E Ratio",
+          "headline": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1fb3331b3dbeb89b03b11f9a54d3c8881847d90c9e920fdd79dc439a46e4e40b",
+          "url": "https://finnhub.io/api/news?id=3694f95f00f85a337cc9a19b8d403e4ff66371d7f85e2b91c101a7f2c26d41f2",
           "used_by_ai": true
         },
         {
-          "headline": "Should Investors Sell Tesla Stock to Buy SpaceX?",
+          "headline": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=657957c0f26550ee5689b5a0066def829ab45f89af8ba066f8137da4acf454b8",
+          "url": "https://finnhub.io/api/news?id=61b5589177658a2b82b06de6b45cebfed818dfab2c54dfe4ca9071751f51f19a",
           "used_by_ai": true
         }
       ],
@@ -177,8 +216,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 45,
-      "reason": "AI chip potential",
+      "confidence": 40,
+      "reason": "AI chip opportunity",
       "headline": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b92da3822331c396b722dfeedf040cf3064991a46ba9637fcd381f64980d76d7",
@@ -218,40 +257,6 @@
       "source_breakdown": {
         "Yahoo": 4,
         "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI focus",
-      "headline": "DocuSign (DOCU) Is Down 10.0% After AI-Focused Q1 Results And Guidance Update - What's Changed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92998c99b572ecdb1919b1a8ad265a273deaaa42fb8ccc9be1c5437c775c1722",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "DocuSign (DOCU) Is Down 10.0% After AI-Focused Q1 Results And Guidance Update - What's Changed",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92998c99b572ecdb1919b1a8ad265a273deaaa42fb8ccc9be1c5437c775c1722",
-          "used_by_ai": true
-        },
-        {
-          "headline": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3694f95f00f85a337cc9a19b8d403e4ff66371d7f85e2b91c101a7f2c26d41f2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=61b5589177658a2b82b06de6b45cebfed818dfab2c54dfe4ca9071751f51f19a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
       }
     }
   ]
