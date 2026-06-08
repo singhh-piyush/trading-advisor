@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T22:10:08Z",
+  "updated_at": "2026-06-08T23:46:41Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Apple",
       "direction": "down",
       "confidence": 60,
-      "reason": "Falls after unveiling AI",
+      "reason": "Falls after AI unveiling",
       "headline": "Stock Market Today, June 8: Apple Falls After Unveiling AI Siri and Apple Intelligence at WWDC",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3251b1bde0f16a4ce4914d6b0fc742647ea0626aca82783c795fa9bdf5a846b9",
@@ -32,25 +32,25 @@
           "headline": "Apple unveils a more personal kind of Siri AI: WWDC takeaways",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=186f3ec442e6d80ba3f5d25e4d5236b610789a58ccb5b2d8ae861fd2b08eb3c4",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Stock Market Today, June 8: Marvell, Intel, and Micron Lead Tech Stock Rebound",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=57fe35c4c3017c208681335866fcc352b9e1db1be78fadae9687ee42123b91ef",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c3fe0429fb798eee0f4de5fea5d92ccf0516eff705497606522a269999846e3",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Apple accelerates app development with new intelligence frameworks and advanced tools",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=517643c061c4fcd51ac2d79496eca81f1671d16906f288abafc59fb4e085e7fd",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -63,6 +63,178 @@
       "direction": "up",
       "confidence": 50,
       "reason": "Google AI compute deal",
+      "headline": "Google to pay SpaceX $920 million a month for AI compute at Memphis campus: Video",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d48bdf18587090fd9f0622b7bf22316b3edba0f8063b95e285a267accf4077d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Google to pay SpaceX $920 million a month for AI compute at Memphis campus: Video",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3d48bdf18587090fd9f0622b7bf22316b3edba0f8063b95e285a267accf4077d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Account Minimums Are Being Lowered to Participate in the SpaceX IPO. Is This a Win or a Trap for Retail Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a65f1a1d5736d9e1e4951c3bf9f289c8d8924b107b827fd862b5f013acb684a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Lilly Just Announced 3 Infectious Disease Acquisitions in 1 Day. Is This the Beginning of Its Post-Obesity Growth Strategy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3cca580078d7fc4e6302d7e84dd260531b7f469e253226bbbfe9b4db1a95fd82",
+          "used_by_ai": false
+        },
+        {
+          "headline": "After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4212a9c489f8c4e420e20fc17852dc3a45f61b776eac0553e16b0ae96194925",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Chewy Stock Got Mashed in May",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77f3c2b14ab8dc3914aabe7d11ab59602d2573a4f7491639c048a270f4b59129",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Intel surges on AI chip foundry order",
+      "headline": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c83d1e00d3bfc3daac4d5a4dc8fad04791cddb75f9a83a45464a0b3fba82890",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c83d1e00d3bfc3daac4d5a4dc8fad04791cddb75f9a83a45464a0b3fba82890",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Leads Chip Rally on AI Foundry Hopes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=30d795d11c08772144407112b4c4f7d7efbdba8a469a7f18d920ebb7bc949faf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Vera CPU Signals Bigger SK Hynix AI Memory Push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=160107080adc9133c81406f87fc250cd1f3bae9feef64b92a2c897022f963b97",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Will AMD Stock Hit a $1 Trillion Market Cap in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14ab9c0ec0f61c1fa49d9ef8224233f96e361a68e5f78a63e7531185495f9f0a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Unveils new Siri AI",
+      "headline": "Apple unveils a more personal kind of Siri AI: WWDC takeaways",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=186f3ec442e6d80ba3f5d25e4d5236b610789a58ccb5b2d8ae861fd2b08eb3c4",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple unveils a more personal kind of Siri AI: WWDC takeaways",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=186f3ec442e6d80ba3f5d25e4d5236b610789a58ccb5b2d8ae861fd2b08eb3c4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple accelerates app development with new intelligence frameworks and advanced tools",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=517643c061c4fcd51ac2d79496eca81f1671d16906f288abafc59fb4e085e7fd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today, June 8: Apple Falls After Unveiling AI Siri and Apple Intelligence at WWDC",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3251b1bde0f16a4ce4914d6b0fc742647ea0626aca82783c795fa9bdf5a846b9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stock Market Today, June 8: Marvell, Intel, and Micron Lead Tech Stock Rebound",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=57fe35c4c3017c208681335866fcc352b9e1db1be78fadae9687ee42123b91ef",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c3fe0429fb798eee0f4de5fea5d92ccf0516eff705497606522a269999846e3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Expands NHS AI rollout",
+      "headline": "Microsoft Expands NHS AI Rollout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7a5cb41b8e537e4a097ab6cae0707168fd1474e6fbeaf673b8c83d6bf889e14",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Expands NHS AI Rollout",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7a5cb41b8e537e4a097ab6cae0707168fd1474e6fbeaf673b8c83d6bf889e14",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is the Market Underestimating Meta Stock\u2019s AI Payoff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21137ea69cf727ea201fc529b68d70ac44a6bcaaf3888b7b7650aab0f5fefaa2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Stock Slides Despite Half-Million-User Copilot Rollout",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c45a34d91ba9252c30f80a9eef30491917cd65c5e07385d71818bd68b3979dd8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What You Missed About Google Stock Right Before It Went 2x",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9cedfa03d97861d83a4b9eb990bf37a49da308a96a1ecd4711eeea72377cedd",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Mentioned in various articles",
       "headline": "Account Minimums Are Being Lowered to Participate in the SpaceX IPO. Is This a Win or a Trap for Retail Investors?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3a65f1a1d5736d9e1e4951c3bf9f289c8d8924b107b827fd862b5f013acb684a",
@@ -87,34 +259,28 @@
           "used_by_ai": true
         },
         {
-          "headline": "Google to pay SpaceX $920 million a month for AI compute at Memphis campus: Video",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3d48bdf18587090fd9f0622b7bf22316b3edba0f8063b95e285a267accf4077d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c3fe0429fb798eee0f4de5fea5d92ccf0516eff705497606522a269999846e3",
-          "used_by_ai": true
-        },
-        {
           "headline": "Why Chewy Stock Got Mashed in May",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=77f3c2b14ab8dc3914aabe7d11ab59602d2573a4f7491639c048a270f4b59129",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google to pay SpaceX $920 million a month for AI compute at Memphis campus: Video",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3d48bdf18587090fd9f0622b7bf22316b3edba0f8063b95e285a267accf4077d",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 6
+        "Yahoo": 5
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Potential merger",
+      "confidence": 30,
+      "reason": "Mentioned in various articles",
       "headline": "SPACEX Heads To Nasdaq \u2014 But Steve Eisman Is \u2018Not A Fan\u2019 Of The IPO Or Potential Tesla Merger",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=72fc08e9368de0eaf0d3db87f9ffbdf8f2109abccf590e179950d4bdc6a92ead",
@@ -151,91 +317,11 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Expands NHS AI rollout",
-      "headline": "What You Missed About Google Stock Right Before It Went 2x",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f9cedfa03d97861d83a4b9eb990bf37a49da308a96a1ecd4711eeea72377cedd",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "What You Missed About Google Stock Right Before It Went 2x",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9cedfa03d97861d83a4b9eb990bf37a49da308a96a1ecd4711eeea72377cedd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Expands NHS AI Rollout",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7a5cb41b8e537e4a097ab6cae0707168fd1474e6fbeaf673b8c83d6bf889e14",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is the Market Underestimating Meta Stock\u2019s AI Payoff",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=21137ea69cf727ea201fc529b68d70ac44a6bcaaf3888b7b7650aab0f5fefaa2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Stock Slides Despite Half-Million-User Copilot Rollout",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c45a34d91ba9252c30f80a9eef30491917cd65c5e07385d71818bd68b3979dd8",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Chip rally",
-      "headline": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c83d1e00d3bfc3daac4d5a4dc8fad04791cddb75f9a83a45464a0b3fba82890",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c83d1e00d3bfc3daac4d5a4dc8fad04791cddb75f9a83a45464a0b3fba82890",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Will AMD Stock Hit a $1 Trillion Market Cap in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14ab9c0ec0f61c1fa49d9ef8224233f96e361a68e5f78a63e7531185495f9f0a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel Leads Chip Rally on AI Foundry Hopes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=30d795d11c08772144407112b4c4f7d7efbdba8a469a7f18d920ebb7bc949faf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia's Vera CPU Signals Bigger SK Hynix AI Memory Push",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=160107080adc9133c81406f87fc250cd1f3bae9feef64b92a2c897022f963b97",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 30,
-      "reason": "Clean energy gains",
+      "reason": "Market trends and analysis",
       "headline": "Clean Energy Is the S&P 500\u2019s New Boss: ACES Up 29% YTD",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e97af1526f8f49f0a7d8c823727b2a615e66cfdf91bcf8c1cde7834daf9ae6ee",
@@ -245,6 +331,12 @@
           "headline": "Clean Energy Is the S&P 500\u2019s New Boss: ACES Up 29% YTD",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e97af1526f8f49f0a7d8c823727b2a615e66cfdf91bcf8c1cde7834daf9ae6ee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mega IPOs Pose Leveraged Downside Risk For The Nasdaq 100",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=83b5bdf35c8797d1068b878e18dbba0b8794a30cb0b3fd375c7c493dccd578cc",
           "used_by_ai": true
         },
         {
@@ -263,12 +355,6 @@
           "headline": "Is SCHG\u2019s 32\u00d7 PE the Start of a Melt-Up or the Edge of a Cliff?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=81f051e2b3f866691a8d5c92b6216daa916e9a834b39667418ce0a078611f747",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Chip Stocks That Will Crack First",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c6553d99effcd1c92ff2aa16ed3426625d4aa72f8af9096ca145fc9c99770598",
           "used_by_ai": true
         }
       ],
