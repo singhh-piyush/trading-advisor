@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T07:50:09Z",
+  "updated_at": "2026-06-09T11:15:40Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,63 @@
   "sample": false,
   "items": [
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "GARP opportunity",
+      "headline": "Microsoft Corp (NASDAQ:MSFT) Presents a Classic GARP Opportunity with Affordable Growth",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7498971f693edb28c1641996f29864f89f440a8e4457d307c3de10f911fd8c5f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Corp (NASDAQ:MSFT) Presents a Classic GARP Opportunity with Affordable Growth",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=7498971f693edb28c1641996f29864f89f440a8e4457d307c3de10f911fd8c5f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "China Prepares $295 Billion Plan to Fund Nationwide AI Buildout",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=996bb0772e2e9c0009238720baacc8b39246ed31207b5ef69e3fe67133d5f215",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX\u2019s IPO Is Ready for Liftoff. Its Returns Might Not Be Out of This World.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d6b22c8556316460d4fc9cd529919da59e27a4d067eae534a8d45951ee1c6bfa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft NHS Copilot Deal Tests Real World Healthcare AI Adoption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a89ddb30782ac3d6de343aa9ab37e1e98bef8cc6a889f0c032d4c0fb94719eb6",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 3
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
       "confidence": 80,
-      "reason": "Stock rocketing higher",
-      "headline": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
+      "reason": "IPO and AI",
+      "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56b04c633e43182ad99c0ac760a01f4cb1879a15da00a2e60bd34fdda73bfc28",
+      "url": "https://finnhub.io/api/news?id=1766216dff904e52c8e0e861688bc74443d88fbf35f1ff0b5b06b9ef4552560a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1766216dff904e52c8e0e861688bc74443d88fbf35f1ff0b5b06b9ef4552560a",
+          "used_by_ai": true
+        },
         {
           "headline": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
           "source": "Yahoo",
@@ -29,26 +76,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "TSLA Stock: Cathie Wood Slaps $75 Robotaxi Ticket Into ARK\u2019s Bull Case",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5519aa6cd24a3d738106707437f849e92235873a71457dccfc69cf5271023215",
+          "headline": "ValuEngine Weekly Market Summary And Commentary",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=03f78bab5f92598d5453366454323c7f01cd24f091cb881c9fc0e76b03ed04dc",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
+          "headline": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c3fe0429fb798eee0f4de5fea5d92ccf0516eff705497606522a269999846e3",
+          "url": "https://finnhub.io/api/news?id=49a81057ffc4bfe5e7e21709f65540dbc3d4d0f25a445685944ddbea5ff9811d",
           "used_by_ai": true
         },
         {
           "headline": "ASML Weighs Musk Terafab Talks Against Valuation And Governance Questions",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c6d12fd63367a04d6dd66af858bde1e65ee27d7681f7cc4a2efd59b981a303f8",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -56,40 +104,40 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI focus and partnerships",
-      "headline": "IBIT vs. FBTC: Which Bitcoin ETF Is Better?",
+      "reason": "AI demand",
+      "headline": "AI Trade Will Be Volatile Though Demand Signals Encouraging",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdc2487ca01cd68fa62d6c44e956fadadec937e59ebed777094146ae43e7902b",
+      "url": "https://finnhub.io/api/news?id=04d3c45fe41db4670edfbe2395b176c6d8072b29c02e08fe89f1b09c79de2154",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "IBIT vs. FBTC: Which Bitcoin ETF Is Better?",
+          "headline": "AI Trade Will Be Volatile Though Demand Signals Encouraging",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cdc2487ca01cd68fa62d6c44e956fadadec937e59ebed777094146ae43e7902b",
+          "url": "https://finnhub.io/api/news?id=04d3c45fe41db4670edfbe2395b176c6d8072b29c02e08fe89f1b09c79de2154",
           "used_by_ai": true
         },
         {
-          "headline": "SK hynix NVIDIA Alliance Puts AI Memory And Fabs In Focus",
+          "headline": "Got $2,000? Verra Mobility's Wreckage Might Be Your Opportunity \u2014 If You're Patient",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f91a9559e1206b9c64ebf1a4a69563bcb32b36eadc900ef8c3eeafd4b13843c",
+          "url": "https://finnhub.io/api/news?id=1919229a8f3f459cb0989423381ef3000144487f03ff82f2f4b9650790979de2",
           "used_by_ai": true
         },
         {
-          "headline": "This Sector Has Dominated ETF Returns So Far in 2026",
+          "headline": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dbb9445ada534b1bcce8a8a8d21553501bfe514c8b7044f92232091ea51d0ac",
+          "url": "https://finnhub.io/api/news?id=18f5067f61189dc3848194942aad3888d58b615ddaab1a673683156ccb58faa4",
           "used_by_ai": true
         },
         {
-          "headline": "History Says SpaceX Stock Will Do This in Its First Year of Trading",
+          "headline": "Is Costco Stock Finally Cheap Enough to Buy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e6296fba533c7496b550901c627a28563ac17b54d471cadc454e9593e317a68",
+          "url": "https://finnhub.io/api/news?id=54ff5da8cb21dea19cd35f019168a0a3b7c43cb6179b56a9d20b928f9a0199cb",
           "used_by_ai": true
         },
         {
-          "headline": "Intel stock makes eye-popping move on Google, Nvidia news",
+          "headline": "Is There Any Reason Left to Buy Cryptocurrency in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5873a7b15b4e01845cdd0557803117f54ddfdf98556f0952ee2769f4dc2495fc",
+          "url": "https://finnhub.io/api/news?id=e271da3c56257548393108b91fa3f696da0cb8ccf7e085c0e969593c01eec7e3",
           "used_by_ai": true
         }
       ],
@@ -100,169 +148,124 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
+      "direction": "down",
       "confidence": 60,
-      "reason": "AI concerns addressed",
-      "headline": "Nedap expands partnership with Albert Heijn with mobile access",
+      "reason": "AI announcement",
+      "headline": "Market Chatter: SONY Upgrades Struggling Xperia Smartphone With AI Features",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c85a495e99b2b7034351496c2a517b21876aa198155c0ad9b151679fc060e8e7",
+      "url": "https://finnhub.io/api/news?id=1d75ad7b4ac920e4e7d59dd802b84ce68c3c7136b353cbc819a46c116d4a69ae",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nedap expands partnership with Albert Heijn with mobile access",
+          "headline": "Market Chatter: SONY Upgrades Struggling Xperia Smartphone With AI Features",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c85a495e99b2b7034351496c2a517b21876aa198155c0ad9b151679fc060e8e7",
+          "url": "https://finnhub.io/api/news?id=1d75ad7b4ac920e4e7d59dd802b84ce68c3c7136b353cbc819a46c116d4a69ae",
           "used_by_ai": true
         },
         {
-          "headline": "Apple answers Wall Street\u2019s biggest AI concern",
+          "headline": "Nasdaq, S&P 500 Futures Gain After Tech-Led Rebound: Why NVDA, QCOM, AAPL, APLD, ASTS, NUVL Are Keeping Traders Engaged Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4ab7f92e678f137fad12996ccb89a05dc8b8d8fa66fc140eee447678f0573de7",
+          "url": "https://finnhub.io/api/news?id=b616d45f6e187964a2a0339e371632e989f1b42c9712b5e893d2cc84d93f51c8",
           "used_by_ai": true
         },
         {
-          "headline": "Why Did AAPL, OSCR, LLY Stocks Hit 52-Week Highs Today?",
+          "headline": "Apple Stock Edges Down. What Was \u2018Lacking\u2019 in Its Big AI Announcement.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=18b62689ad6c41a1d9a445994f027393926db6b7fcc04d4c62658229b5565e7d",
+          "url": "https://finnhub.io/api/news?id=3f525a6b66fa77d224207708d617d2d70115d0ea9782aeb23cb18947b4734153",
           "used_by_ai": true
         },
         {
-          "headline": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39bc49fe97ef6bf94ba1e6e57ed9b5c1dcbd8e3eb88ecc431cc7ed9fe132c10b",
+          "headline": "Chips Rebound, Intel Catches A $3 Million-Order Tailwind, And OpenAI Joins The IPO Queue",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4a075424b061ff27fdab9a9e42b338a0a316be08a344feec5c6f94f25769678e",
           "used_by_ai": true
         },
         {
-          "headline": "ValuEngine Weekly Market Summary And Commentary",
+          "headline": "Wall Street Breakfast Podcast: Siri's Next Act",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=03f78bab5f92598d5453366454323c7f01cd24f091cb881c9fc0e76b03ed04dc",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=7a7892f0e5d2c2f23f563117dfe39088d8413d2a96a1bf0f4b17c9cc2925455b",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
+        "ChartMill": 1,
         "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Market risks",
+      "headline": "51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/09/american-dream-out-of-reach-most-people-right-now-cnbc-survey.html",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/09/american-dream-out-of-reach-most-people-right-now-cnbc-survey.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Summer Job Season Leaving Younger Teens On Outside Looking In",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2c25a177cd993f3b3f117fa336e5459c5d90a680c143c1d6892efe02d1af22c9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SPX 500 Weak Market Breadth And Fed Rate Hike Fears Signal Further Downside Risk",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=55fcc53780aa1a053d4460117c3681147e14acf79ec29a4997036e00327da758",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 'Herd' Panicked, But...",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9d96a48efa496c5a08be20baa44ae4356144179267b255329d8cccb858e9cdfb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Downside Risks Rise As Tech Volatility Spikes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=370667de7824b5162dc25693cda9bbc0ff2d2877937159e80571d459d3b14d03",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "CNBC": 1,
+        "SeekingAlpha": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI infrastructure growth",
-      "headline": "Mizuho Raises AMD Target, Citing Continued AI Infrastructure Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=703eacb112afddd8fc18971b3251c9255d17042cdbd9b64c30184d2ab60ebb7b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Mizuho Raises AMD Target, Citing Continued AI Infrastructure Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=703eacb112afddd8fc18971b3251c9255d17042cdbd9b64c30184d2ab60ebb7b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why SOXX\u2019s Next 12 Months Hinge on Five Tech Giants\u2019 Capex Decisions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=242d7ca3a8098e52c7d723fef22f5ab0be09e19c906d472c3bf988396d8eeae4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Semiconductor Stocks Just Had Their Worst Day in Years. Is the AI Chip Boom Cracking, or Is This a Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bef26357efcb614b9b71b4ad3502093f8d2e9823263452e5727b9e4a73ac540c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Saia and Gibraltar Shares Are Soaring, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0bc6b01c561523c354a97e6d1d3ef20aced333cc013e30876825bd1042cd3b8d",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
       "confidence": 50,
-      "reason": "AI adoption and deals",
-      "headline": "Microsoft NHS Copilot Deal Tests Real World Healthcare AI Adoption",
+      "reason": "Hyperscaler signal",
+      "headline": "The One Hyperscaler Signal That Will Make or Break ARTY in 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a89ddb30782ac3d6de343aa9ab37e1e98bef8cc6a889f0c032d4c0fb94719eb6",
+      "url": "https://finnhub.io/api/news?id=117d81808d370542472a8693290bf4c81e544c2b0f46f7061eb7d062fbcdfaf9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft NHS Copilot Deal Tests Real World Healthcare AI Adoption",
+          "headline": "The One Hyperscaler Signal That Will Make or Break ARTY in 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a89ddb30782ac3d6de343aa9ab37e1e98bef8cc6a889f0c032d4c0fb94719eb6",
+          "url": "https://finnhub.io/api/news?id=117d81808d370542472a8693290bf4c81e544c2b0f46f7061eb7d062fbcdfaf9",
           "used_by_ai": true
         },
         {
-          "headline": "These 3 S&P 500 ETFs Are Nearly Identical But After Doing the Math One of Them Saves You Money Over a Lifetime",
+          "headline": "Stock Market News for Jun 9, 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a109162ae2cab9913183aedae9fa3d9738f203ad8ed626376ac66ea93006121d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Three Value Focused ETFs Pay Solid Dividends and Keep Outperforming the Market in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77357eadeaba93967536ae76d7bbf821cb19f9f1e3cbd0aab449d57a40e28391",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX lands $30 billion Google deal a week before its IPO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=087e53606243e65492a1d9e49cfc1fe8e03ee2690518ac9aaec9ff1c03894cd1",
+          "url": "https://finnhub.io/api/news?id=af353ef230f7c84b23495f73bf237a6cd647c5a81bc08906c452fcede3b41339",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Market sentiment",
-      "headline": "Is Bitcoin Too Boring for Investors in an AI World?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c71d0ddba6116f92d4bf8f195f9a8fe418acaf0fef052c68ef96ac0a73c72eee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Is Bitcoin Too Boring for Investors in an AI World?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c71d0ddba6116f92d4bf8f195f9a8fe418acaf0fef052c68ef96ac0a73c72eee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500 and Nasdaq Gain As Chipmaker Stocks Revive, While Israel-Iran Ceasefire Aids Sentiment \u2014 AAPL, INTC, AAL, PSKY, CBRS In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6d9c34d73c55086b1936cfc7277d1417b8ca89f1a54e2997c49d1edfde553fb6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A Closer Look At Full-Time And Part-Time Employment: May 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b3059f9f8c1227a8a793f0e92db7ef51678ce913511cce46376006dded8a6668",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broader Market Settles Higher as Chipmakers Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0271420dd1f12e6545491596842aaab88692349e7c197356e19036f56bdf7b28",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 2
       }
     }
   ]
