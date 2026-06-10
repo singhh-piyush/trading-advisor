@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T21:35:24Z",
+  "updated_at": "2026-06-10T23:25:36Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,76 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 80,
+      "reason": "Iran war sparks market panic",
+      "headline": "Equities drop, oil rallies with Iran-US tensions and high inflation in focus - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzdFYTBQUjA3YzBlRWNHdUp6OXBpbVlabUYwVWJXYzlJa0pHWTVuZ2M4YXlSeEtXZHJDMUotQUdUaXotdklnOXM5R0VEX3QwWVAybFdMSE1hQktPcU9Lc1czUjR0dlRwY1pvZFZDTndsUWRHWHhWOVhiVWs4SFdsVHdUcw?oc=5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Equities drop, oil rallies with Iran-US tensions and high inflation in focus - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzdFYTBQUjA3YzBlRWNHdUp6OXBpbVlabUYwVWJXYzlJa0pHWTVuZ2M4YXlSeEtXZHJDMUotQUdUaXotdklnOXM5R0VEX3QwWVAybFdMSE1hQktPcU9Lc1czUjR0dlRwY1pvZFZDTndsUWRHWHhWOVhiVWs4SFdsVHdUcw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street indexes fall more than 1%, hit by tech, Iran war worries - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUxUT1NqQm1KUFlpbmdjN0VuSm4wU2VIODFBNF81YU54bFBsWUptZVV0bU41ZXl0MHQxWE1UamxBaHlkUWhvWUY3MHFJZVJhYmJKdDZtMlkyLWlEbjdpOXZubnJLZFlZREdyOVhfMU5QM1l0ZGNoQnpIdHlYVjFVSHU2eXI3WGk3ek9aNXR4ZUJaQmp3dzF2dUxybmhWczI1ZEt3M1hCVmdNdmQ2bDJ3R3NOTkhzUVlRVE52WjF4cw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "U.S. Central Command Posts On X \"U.S. Central Command forces began launching additional self-defense strikes today at 5:15 p.m. ET against multiple targets in Iran at the Commander in Chief's direction. The strikes are in response to Iran's unwarranted and continued aggression.\"",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0721c0ba0894ef179ff5744088658c133419b9aa37dd63295bb4ddec0abd7251",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Axios Correspondent Barak Ravid Posts On X \"U.S. strikes on Iran started, U.S. official tells me\"",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a3b142b8f127c6f89a149848998390b3527d8ce8cf0494bc729bd0bcc9a90da2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Iran: Sleepwalking Into A Crisis",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aae623b7f51e8cea0f839bda6e81eb4b364ebc6d54e30b1a9f615c59d49d4378",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf47baf73ed3ddaddc046041675535d7cff080d1171c82ba8796231ba0c32252",
+          "used_by_ai": false
+        },
+        {
+          "headline": "RSP vs. SPY: Does Equal Weight Beat the Cap-Weighted S&P 500?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be39dde876d271e652a29d48d11632d2b8dadb1dc2d1847fd12119671d50e427",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 2,
+        "Benzinga": 2,
+        "SeekingAlpha": 1,
+        "Yahoo": 2
+      }
+    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Target price lifted",
+      "confidence": 70,
+      "reason": "JPMorgan lifts target",
       "headline": "Tesla Stock Surges Into Bull Case as JPMorgan Lifts Target 227%",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ff3f8491f8801d98e31ec73d05cb3cc66eef3173c481b6778d365b5499a526a5",
@@ -29,27 +90,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "Tesla gets go-ahead to sell self-driving technology in Belgium",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5d0e0529b27380c0f179b2e6c1284f52402547178e4af99a9ccc3c22568572c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Stocks That Could Soar from SpaceX's $26.5 Trillion Artificial Intelligence (AI) Empire",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66ec9835765ccc0b682555fcfc3ba35e6d249000ec7ad566ad8d01a22901554e",
-          "used_by_ai": true
-        },
-        {
           "headline": "Tesla Slips as BYD Raises Global Ambitions",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=18252dad4754b4ef98caf2117dbadde3ae52a61805152ad0d34fa17488174978",
           "used_by_ai": false
         },
         {
-          "headline": "Rivian\u2019s Most Important Product Launches And The Stock Falls Apart",
+          "headline": "Elon Musk Breaks Down What Goes Into An AI Satellite And Why It Is 'Easier' To Design Ahead Of Mega SpaceX IPO: 'A Lot Of Solar Cells, A Radiator...'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95879c5bffa4de6a28c3943c68cc33f050e4949ace7446d1f25f2d0c3d3b32c9",
+          "url": "https://finnhub.io/api/news?id=cc0adf7f6b4f28a58b67fa813efedd7e481bce755f6a3d22e492dccb6eb72f48",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Massive SpaceX IPO Is Almost Here. We've Got the Basics for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=462b5104116792fcd85bd61f69a9d75fee1a9fe02b4f7504f3824c9b51dc3275",
+          "used_by_ai": false
+        },
+        {
+          "headline": "2 Stocks That Could Soar from SpaceX's $26.5 Trillion Artificial Intelligence (AI) Empire",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66ec9835765ccc0b682555fcfc3ba35e6d249000ec7ad566ad8d01a22901554e",
           "used_by_ai": false
         }
       ],
@@ -58,57 +119,97 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth",
-      "headline": "From PC Maker to AI Giant: How Dell Rewarded Patient Investors With Nearly 1,900% Gains and AI Capex Determines The Future",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "BYD raises ambitions",
+      "headline": "Tesla Slips as BYD Raises Global Ambitions",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3083edd26232d836d8ccb7d08857e0d6ae40fc6c52ccd525806bbb6dda383361",
+      "url": "https://finnhub.io/api/news?id=18252dad4754b4ef98caf2117dbadde3ae52a61805152ad0d34fa17488174978",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "From PC Maker to AI Giant: How Dell Rewarded Patient Investors With Nearly 1,900% Gains and AI Capex Determines The Future",
+          "headline": "Tesla Slips as BYD Raises Global Ambitions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3083edd26232d836d8ccb7d08857e0d6ae40fc6c52ccd525806bbb6dda383361",
+          "url": "https://finnhub.io/api/news?id=18252dad4754b4ef98caf2117dbadde3ae52a61805152ad0d34fa17488174978",
           "used_by_ai": true
         },
         {
-          "headline": "Why Yuanbao Stock Is Skyrocketing Today",
+          "headline": "Tesla Stock Surges Into Bull Case as JPMorgan Lifts Target 227%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f329420254f8a5237709d7f727cef3bc3f521df4d4dcbb2388f0afec08177679",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Neura Robotics Raises $1.4 Billion As Humanoid AI Race Accelerates",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e4bc279191d876a2ae4c9c4c903cdce26088526be6b1aeb87c76c6a0f5522680",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Bloom Energy Stock Plunged Over 10% Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c3acfa45c1e6c988c4b2dd57fdcd07fbe3fb2cddde2f503afea01294e14cf65",
+          "url": "https://finnhub.io/api/news?id=ff3f8491f8801d98e31ec73d05cb3cc66eef3173c481b6778d365b5499a526a5",
           "used_by_ai": false
         },
         {
-          "headline": "Should You Buy the Bloom Energy Stock Dip?",
+          "headline": "Elon Musk Breaks Down What Goes Into An AI Satellite And Why It Is 'Easier' To Design Ahead Of Mega SpaceX IPO: 'A Lot Of Solar Cells, A Radiator...'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9fdbf20c35f99d82621a4723c126eba4ee1bef56dad7b31b7e110d22cac56e5",
+          "url": "https://finnhub.io/api/news?id=cc0adf7f6b4f28a58b67fa813efedd7e481bce755f6a3d22e492dccb6eb72f48",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Massive SpaceX IPO Is Almost Here. We've Got the Basics for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=462b5104116792fcd85bd61f69a9d75fee1a9fe02b4f7504f3824c9b51dc3275",
+          "used_by_ai": false
+        },
+        {
+          "headline": "2 Stocks That Could Soar from SpaceX's $26.5 Trillion Artificial Intelligence (AI) Empire",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66ec9835765ccc0b682555fcfc3ba35e6d249000ec7ad566ad8d01a22901554e",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Semiconductors lead tech lower",
+      "headline": "AMD TensorWave Bet Ties AI Cloud Growth To Rich Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be48f69991212165a80f3e0c885ec92fa26673f7a0db6ff0265525f14b624645",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD TensorWave Bet Ties AI Cloud Growth To Rich Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be48f69991212165a80f3e0c885ec92fa26673f7a0db6ff0265525f14b624645",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US Equity Indexes Slide as Semiconductors Lead Technology Lower, Trump Warns of Iran Attack",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea0894c1d585c3b9f641979a1d3bd6385f6e832eb057c5540dfaff4898f3b340",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Slumping Semiconductors, Trump's Threat to Iran Push US Equity Indexes Lower",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=62415ece001d9cc715f08fda0a22b795609dc1d274d5a53f215a2c2db7153702",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, S&P Drop 1%, Dow Sinks 600 Points as Trump Iran Threat Sparks Market Panic",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=98dfdc2554435faa23cc3a79a68ad27cb5c372590ed6c6505cad6b7e4a43aaca",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Investors skeptical",
+      "confidence": 50,
+      "reason": "Investors aren't buying Siri AI",
       "headline": "Apple Bets Big on Siri AI. Investors Aren\u2019t Buying It.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ad0fe46a96c4cb73abadd4bb1ff2f9091a0c503ec2c06df57a13814b8ae0ee6c",
@@ -121,6 +222,18 @@
           "used_by_ai": true
         },
         {
+          "headline": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f848519ad1389d4f9661758b1d5e37d2cdc045ed23156e2cd531fbdd148645fe",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Spent Billions Chasing A Self-Driving Car, Then Walked Away\u2014Waymo Now Bought The Test Site For $220 Million",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=65119bdd681caf77ef57914801fdacf5a4bb4dbcf089097ef3c616e5ebe1cfe4",
+          "used_by_ai": false
+        },
+        {
           "headline": "Which dow jones stocks are moving on Wednesday?",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=053fea32457bdc9084abf1e7ae1bf00fdcae9db1ccd65bd722c43edaaedad38c",
@@ -130,18 +243,6 @@
           "headline": "XMAG vs. MAGS: Betting Against or All-In on the Magnificent 7?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=efedfb49a9c64b277831f459f32bb44ee6fce06ad91c1afe928fc42bd1ae0fbf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "RSP vs. SPY: Does Equal Weight Beat the Cap-Weighted S&P 500?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be39dde876d271e652a29d48d11632d2b8dadb1dc2d1847fd12119671d50e427",
-          "used_by_ai": false
-        },
-        {
-          "headline": "QQQ vs. VGT: The Best Way to Own Big Tech?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a6b2cdc99ce98ff93f142ec9c503de46859fa74f3f8792d22464b9121695dd4",
           "used_by_ai": false
         }
       ],
@@ -155,129 +256,85 @@
       "company": "Microsoft",
       "direction": "down",
       "confidence": 50,
-      "reason": "Job cuts",
-      "headline": "Microsoft Slashes Hundreds Azure Jobs in China Amid Geopolitical Tensions",
+      "reason": "Slashes Azure jobs",
+      "headline": "Michael Burry delivers contrary Lululemon stock verdict",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21bc4244df162515734eb5f29c508ec2fab766fe037886bab8116622c04cd572",
+      "url": "https://finnhub.io/api/news?id=147102385b9ef1451b35cd449f8abdd2045e6177bfdae00f2049a47f8e16f331",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft Slashes Hundreds Azure Jobs in China Amid Geopolitical Tensions",
+          "headline": "Michael Burry delivers contrary Lululemon stock verdict",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=21bc4244df162515734eb5f29c508ec2fab766fe037886bab8116622c04cd572",
+          "url": "https://finnhub.io/api/news?id=147102385b9ef1451b35cd449f8abdd2045e6177bfdae00f2049a47f8e16f331",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Cuts Azure Jobs in China",
+          "headline": "Oracle Stock Slides on Mixed Earnings. Software Is an Issue.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=86c5610917c9ef6224ebfb0e03b9033f66c00f64f0703e6985c89f78e7ea19aa",
+          "url": "https://finnhub.io/api/news?id=e1b2d760a638de13e36cc593b3fb69dc79f733337bbef5b2f986ef222f2d15fb",
           "used_by_ai": true
         },
         {
           "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8f5b58d79dc418f339f13ed1641a28b7c338d0a53b51c9d58b704d98c5cd6d08",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Slashes Hundreds Azure Jobs in China Amid Geopolitical Tensions",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21bc4244df162515734eb5f29c508ec2fab766fe037886bab8116622c04cd572",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Market anxiety",
-      "headline": "Wall Street indexes fall 1%, dragged by tech and Iran war worries - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUxUT1NqQm1KUFlpbmdjN0VuSm4wU2VIODFBNF81YU54bFBsWUptZVV0bU41ZXl0MHQxWE1UamxBaHlkUWhvWUY3MHFJZVJhYmJKdDZtMlkyLWlEbjdpOXZubnJLZFlZREdyOVhfMU5QM1l0ZGNoQnpIdHlYVjFVSHU2eXI3WGk3ek9aNXR4ZUJaQmp3dzF2dUxybmhWczI1ZEt3M1hCVmdNdmQ2bDJ3R3NOTkhzUVlRVE52WjF4cw?oc=5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wall Street indexes fall 1%, dragged by tech and Iran war worries - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUxUT1NqQm1KUFlpbmdjN0VuSm4wU2VIODFBNF81YU54bFBsWUptZVV0bU41ZXl0MHQxWE1UamxBaHlkUWhvWUY3MHFJZVJhYmJKdDZtMlkyLWlEbjdpOXZubnJLZFlZREdyOVhfMU5QM1l0ZGNoQnpIdHlYVjFVSHU2eXI3WGk3ek9aNXR4ZUJaQmp3dzF2dUxybmhWczI1ZEt3M1hCVmdNdmQ2bDJ3R3NOTkhzUVlRVE52WjF4cw?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Iran: Sleepwalking Into A Crisis",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=aae623b7f51e8cea0f839bda6e81eb4b364ebc6d54e30b1a9f615c59d49d4378",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AIER's Everyday Price Index Rises Again As Energy Shock Fuels Inflation",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6b0a4d3ff9cf8a5149b096cf5e51df0641e3ad76c1c38ce60b278653ebc825e9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Investors Are Ditching the Magnificent 7 For a New Group of Stocks: The MANGOS",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=603e7485e276fe82cc06abf0f942f4ac213273fbac4d3db21437493d0937749a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "CPI Saves Market; China-Taiwan Tensions Hurt Semis-Momo Crowd Buys the Dip; Iran Truce Looks More Fragile",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fea2834fde1950eff2c8ef098805253dd79d1a2bcb06a4641e536c0aa3f43860",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 1,
-        "SeekingAlpha": 2,
-        "Yahoo": 1,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Rating downgrade",
-      "headline": "AMD: Party's Over -- This Chart Killed AI (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=86ee62416185bc8aa478f4cb7c60d0fccc6c53fee65e9d80af198aadd7ed4919",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AMD: Party's Over -- This Chart Killed AI (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=86ee62416185bc8aa478f4cb7c60d0fccc6c53fee65e9d80af198aadd7ed4919",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq, S&P Drop 1%, Dow Sinks 600 Points as Trump Iran Threat Sparks Market Panic",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98dfdc2554435faa23cc3a79a68ad27cb5c372590ed6c6505cad6b7e4a43aaca",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Ai4 2026 Unveils Expanded Exhibit Hall Featuring Nearly 400 Exhibitors, New Interactive Experiences, and the Industry's Leading AI Companies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=03c51061d9a16bb1fb50a43c2d62e9ce9aa973664d525371ff06121887accda2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Market Is Giddy. Is Your Portfolio at Risk?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92b7b48da332ad5959f4b39ec21d95ee994b84c8cbe46b1bbccb2cc55c749d4e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "ALAB Rides on Strong AI Infrastructure Demand: A Sign for More Upside?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c36cc985e17d8bca84dccc2432db10281675082a2a7da513ff37e76621e84470",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
         "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mentioned in AI trade",
+      "headline": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy the Dip on Broadcom Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=411bec21898cc6160f56dfc89a0acc0165202bad8b764be20b90d245716c0537",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Newmont Stock Slumped on Wednesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5dcba7d08558a4ca76a950281e1a281f2e39ad24c556d5e63cdeeb1905b13043",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Smartest Dividend ETF to Buy With $2,000 Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff368eeb0914d713dfe1550be409b50e2c909c21a3344390c54e0854805be8ce",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Market Close To Breaking On AI Fears, Trump; Oracle Earnings Late, SpaceX IPO On Launch Pad",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8195cbec66af6cdad266ded04fbe3bd746d1003101a83de5c96180e093da0ce8",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     }
   ]
