@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T17:22:20Z",
+  "updated_at": "2026-06-12T19:29:56Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,52 +8,93 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Multiple positive mentions",
-      "headline": "Why AST SpaceMobile Stock Crashed Today",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "SpaceX IPO success",
+      "headline": "Tesla stock slides as investors turn to Musk\u2019s crown jewel SpaceX",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63a699a3c5d35c76a2bbc4dae366b032486322b6ff588d1cd9ec49d4d75f0e91",
+      "url": "https://finnhub.io/api/news?id=a14ffd010a14f2a8a9c377d9c2e8825addbddf5c8e432511c1b8bb8787c0b441",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why AST SpaceMobile Stock Crashed Today",
+          "headline": "Tesla stock slides as investors turn to Musk\u2019s crown jewel SpaceX",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63a699a3c5d35c76a2bbc4dae366b032486322b6ff588d1cd9ec49d4d75f0e91",
+          "url": "https://finnhub.io/api/news?id=a14ffd010a14f2a8a9c377d9c2e8825addbddf5c8e432511c1b8bb8787c0b441",
           "used_by_ai": true
         },
         {
-          "headline": "Trump Calls Off Iran Strikes with Deal in Reach: \u201cWe Should Be Getting It Done In The Next Few Days.\u201d",
+          "headline": "See Elon Musk at Nasdaq for market open as SpaceX goes public",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6b1a42e1b974b36781c36e30595501c873bf6d3d808366fb90baca58c0a7426",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=b0343e4a29de63d05d253472f8c802a1c212fc96db41d471a96f1d806da9fedb",
+          "used_by_ai": false
         },
         {
-          "headline": "SaaSpocalypse 2.0: 3 SaaS Stocks to Buy on the Latest Sell-Off",
+          "headline": "SpaceX IPO: Nasdaq is the home for 'the trillion dollar companies'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c27678c8bb20c10c618aeb8e211cbe695dee18446ee06b0ef0d873c4a9fbaa5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Buy, Hold, or Sell: Arm Holdings Shed 25% to Clear the Air as the Warsh Fed Digs In. Is It a Buy at $342?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dfab7dd4b104b98fcd72bf6067d412cab7f7d82cbd104b542989b96f3892b6d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget Bitcoin ETFs: This Crypto Stock Fund Is Up 11% YTD While Bitcoin Drops 29%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cbeadd02be9030b54ceb9b8648b0f8bf3fd8c7eb312d10bfa07f154ba1cf71cb",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=039d27fe8e652e304a079514a19fa6300e9d6b39a1296ce7110d9c9b421222b8",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI stock comparison",
+      "headline": "Looking for the most active stocks in the S&P500 index on Friday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=943f5ca3b4f6788e79387144385843fbcc0af00d1721cfd0d6576f05d6861754",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Looking for the most active stocks in the S&P500 index on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=943f5ca3b4f6788e79387144385843fbcc0af00d1721cfd0d6576f05d6861754",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a872f1a7a7cd6f0e9b6dafce24cc24a0aec0b6d76cc6cbb05fb1c5e47842d0a5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Is No Longer Just a CPU Stock, Says Citi",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=22b5dee0ff87e43a298f54058f188cbc6036103d3864f025bff6e7bb9729981d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Is Up 8% Today: Is It Outperforming Other Chip Stocks Like AMD and NVIDIA?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=613976b58b3abfc3bad287f7109fa82c2392de08b8afccf4b4827fd0b87b175a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8a3d28b9eb994d5eb57772bd43129ab366346c357f8d508fcd38042b70c28de3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Move Over, New York! Why Texas Is Becoming \u2018America\u2019s New Center of Gravity\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=27fa9df14416b46107ff905045c8da6ebd0f44c7329d6927c4981b8fb55e96a2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
         "Yahoo": 5
       }
     },
@@ -61,133 +102,72 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Upgraded to buy",
-      "headline": "What A Patient Investor Really Pays For Broadcom Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e11dfab4d95960d716946810ebf58719a3c7bb21512b2c2d70eac9ad341c570",
+      "confidence": 50,
+      "reason": "Stock target",
+      "headline": "Discover which S&P500 stocks are making waves on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ab4801b856c9578b02ee9b031906c635e9d741654385abfdc79c3e06d0d90cbd",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "What A Patient Investor Really Pays For Broadcom Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e11dfab4d95960d716946810ebf58719a3c7bb21512b2c2d70eac9ad341c570",
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ab4801b856c9578b02ee9b031906c635e9d741654385abfdc79c3e06d0d90cbd",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX May Surge 27% In Debut (Live Coverage)",
+          "headline": "Intel Is Up 8% Today: Is It Outperforming Other Chip Stocks Like AMD and NVIDIA?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=126a5c2ecc8607dd96d9a45fe2f4a0e2db1978cb6074ef3abf89e6d798bc21cf",
+          "url": "https://finnhub.io/api/news?id=613976b58b3abfc3bad287f7109fa82c2392de08b8afccf4b4827fd0b87b175a",
           "used_by_ai": true
         },
         {
-          "headline": "AMD upgraded, Adobe downgraded: Wall Street's top analyst calls",
+          "headline": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d403aee8fd5f5971685d725b07bbf0c171a158bfc0e2dc4e260dd0bc7f2b93b8",
+          "url": "https://finnhub.io/api/news?id=8a3d28b9eb994d5eb57772bd43129ab366346c357f8d508fcd38042b70c28de3",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Stock Upgraded To Buy On GPU Upside",
+          "headline": "Wall Street Just Put a Monster Target on AMD. Is the Stock Still Too Cheap?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dfa978c0cb02b3381a261f6e9590f0221d9cfffd427aa1ba09c00dc14b158818",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NVIDIA's CPU Ambitions Expand: Can It Challenge x86 Giants Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9af8783f17c453de51dcfe86d9e6c96438cf6e5d442e1d1c16b09d8c5a35012",
+          "url": "https://finnhub.io/api/news?id=90a23589d010404806235e437a57abda265c968904ec4a7a2e2e57ae17692c44",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Billionaire buys $2 billion",
-      "headline": "David Tepper Cuts Microsoft 82%, Billionaire Bill Ackman Buys $2 Billion of It. Who\u2019s Winning?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95762f2f9f6be7bd1e3a363886528fc0d3fc1724c42c1c5e423d4cab03d05b21",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "David Tepper Cuts Microsoft 82%, Billionaire Bill Ackman Buys $2 Billion of It. Who\u2019s Winning?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95762f2f9f6be7bd1e3a363886528fc0d3fc1724c42c1c5e423d4cab03d05b21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Best AI Stocks to Buy Now as the Market Looks for Real Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b480d458a99c7b01c311e18234a91f834a74d17159611b50901fe58f54a3ca2a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "SpaceX IPO success",
-      "headline": "SpaceX Stock Is Now Trading. Should You Buy SPCX Today?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ec52ddfdffcdf4d16dc23f632c427e330d5fa5da945cf0f1b068d7ed40c090d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX Stock Is Now Trading. Should You Buy SPCX Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ec52ddfdffcdf4d16dc23f632c427e330d5fa5da945cf0f1b068d7ed40c090d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "If You Missed The Korean AI ETF Boom There Are The 2 Taiwanese Options With Direct Exposure To The Supply Chain",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66b30c94acd1098a474135a9ba59238d1fce54011af3de07f483021697d00d0a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "General Motors' 'Underappreciated' Energy Storage Business Offers Upside, RBC Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=922b9e5e05ce199fed4c7e5827dc4459a878ad859023547505cd9e9f13e331ba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What SpaceX's IPO means for investors and the future of innovation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=874b17cbed542240cf247d1280d2bdcea26a4501ad7c6c2ad3cd27da9a3945d2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why SpaceX's IPO sets Elon Musk to become the world's first trillionaire",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f003a076b4aed307648dba49846273cafe4056b2ad7ea834f9cfdd3eddb63b81",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "ChartMill": 1,
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 60,
-      "reason": "Mixed news",
-      "headline": "Top dow jones movers in Friday's session",
+      "confidence": 40,
+      "reason": "Project Titan exit",
+      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4f7e0a42e3e4a5d3b96c169701cb97bf2e167322f0c404d40cc11162b8195566",
+      "url": "https://finnhub.io/api/news?id=7799b4943b4070490c4c31469f624b75e45753e95bef0bca85f5be0499429bf9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=7799b4943b4070490c4c31469f624b75e45753e95bef0bca85f5be0499429bf9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today, June 12: SpaceX Mega IPO Soars, Testing Tech Stocks at Midday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9723eaee0dc6995ba1af5981f8ebbaf4bd154066cc2e744b6ca30a12a1d4928c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple\u2019s Project Titan Exit Refocuses Investment Story On Devices And Services",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4980365c9df327c36bb43015c60a83fd75fa64beb7dc15122064c96cbf7dbdc",
+          "used_by_ai": true
+        },
         {
           "headline": "Top dow jones movers in Friday's session",
           "source": "ChartMill",
@@ -199,36 +179,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=80601092f795bbdbdac0f71ab6b3c3dd76854ab2cd8acb2269e7d4826bae7e65",
           "used_by_ai": true
-        },
-        {
-          "headline": "The Tariff Threat To Apple Stock Vanished. Its Replacement Is A Bigger Worry.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f4bfcdf354a9d2916a93665aaec474fa1b4092653a8b4021a46209e672d8d84",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer on Apple: \u201cIt Still Has Products We All Love\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b8cb41fe45b0bbcfd2e3b11e3e237e530eacca0a37063c48fbc03f1ccda53a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Whipsaws; SpaceX IPO Rockets, Oracle Dives: Weekly Review",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=091e325f99dd20135859dd2288195f6e01929fafd573aa10db17bf7b3b77f5d3",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
+        "ChartMill": 2,
+        "Yahoo": 3
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Market rally",
       "headline": "Energy Refuses to Quit: XLE Up 29% YTD as Oil Stocks Wake Up",
       "source": "Yahoo",
@@ -242,20 +204,85 @@
           "used_by_ai": true
         },
         {
-          "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday Ahead of SpaceX Debut",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d5ce605c8e3096de6dcd0451ae4dc3dafec0beffc8a26e377a3fd38268c3572",
+          "headline": "June 2026 Trading Outlook: Fiscal Flows, Oil, Bank Credit, And Fed Interest Rates",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ba27fcaf4b2221f756418f87d151ac3e6c49a2ff6d1deec6ec1b0cf5c248449f",
           "used_by_ai": true
         },
         {
-          "headline": "Can Retail ETFs Thrive Amid Sticky Inflation and Robust Job Growth?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f1e649b2c6652a1c3d3a8205a99ef1e40258583a4b620801a9ea9bb1ef06232",
+          "headline": "'UAE To Unlock Billions Of Dollars For Iran, Sources Say' - Reuters Exclusive",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c8ac3a0a74b7becd0d36dbecb3db4ad91607776379749543c573d77f5641f900",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Short-Term Liquidity Boost May Be Coming To Markets",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bd58a48b5a020342d7468b74cb4134cb78bbebf2b67b3e96afb2bf0bbd2b8670",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street indexes jump, Trump says strikes against Iran canceled - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlhSNlNaTm02QnN2dzg4bUw0U3UwR29UTUxLRXNCamhCMWtMbHlibEhLYjM4ZXE0SGUwWG9Jd2E0SjlWYk1MYkFMbktVSGFXd2xoM3RhR08tRUZZWDdwcm1VMTl0XzhxRjdfTGpHWVczaUZtcU0zb2E5SlVwTzhtZDlqb3ZtVG14RFBkbElXbTF5WWxIQjVmcEROWVJEUFlzOHhV?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 1,
+        "SeekingAlpha": 2,
+        "Benzinga": 1,
+        "Reuters": 1
+      }
+    },
+    {
+      "ticker": "XLE",
+      "company": "",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Energy sector gain",
+      "headline": "Energy Refuses to Quit: XLE Up 29% YTD as Oil Stocks Wake Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4741a1d87f206765a418a2c4ed9c88ca9b5dd25cc313ab1e884cdb7c5e35ecd6",
+      "on_watchlist": false,
+      "articles": [
+        {
+          "headline": "Energy Refuses to Quit: XLE Up 29% YTD as Oil Stocks Wake Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4741a1d87f206765a418a2c4ed9c88ca9b5dd25cc313ab1e884cdb7c5e35ecd6",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Relativity acquisition",
+      "headline": "SpaceX Raises Record $75 Billion in Historic IPO, Reaches $1.8 Trillion Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0eba09305eea8d323a76443f3065ec28f714641bc2f736bf2f23fa3d06e420e7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX Raises Record $75 Billion in Historic IPO, Reaches $1.8 Trillion Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0eba09305eea8d323a76443f3065ec28f714641bc2f736bf2f23fa3d06e420e7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Relativity Acquires Gavel to Extend its AI Platform for Legal Data Intelligence into Microsoft Word",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5eb01b2416c62a9e3ca1c87fb79dfcb0e5e792625c0a8c58952ff7e392483906",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
       }
     }
   ]
