@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T18:09:26Z",
+  "updated_at": "2026-06-13T20:01:28Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,53 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "Strong buy recommendation",
+      "reason": "New product launch",
+      "headline": "Microsoft (MSFT)\u2019s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9a7ddf0c68ca8340cce32f9221a21b2ed848ced64f3f54581b0f0ad054a764d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft (MSFT)\u2019s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9a7ddf0c68ca8340cce32f9221a21b2ed848ced64f3f54581b0f0ad054a764d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c1fd55b400c177296ccfd2ec56343199c4db7e71cde1d784a108c2e01979ed46",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Positive rating",
       "headline": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c1fd55b400c177296ccfd2ec56343199c4db7e71cde1d784a108c2e01979ed46",
@@ -29,21 +75,67 @@
           "used_by_ai": true
         },
         {
+          "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Microsoft (MSFT)\u2019s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9a7ddf0c68ca8340cce32f9221a21b2ed848ced64f3f54581b0f0ad054a764d",
+          "used_by_ai": false
+        },
+        {
           "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "New partnership",
+      "headline": "NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=965d67564bc8375d925345b42c276bd313dc32ea0711c583637db28289183493",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=965d67564bc8375d925345b42c276bd313dc32ea0711c583637db28289183493",
           "used_by_ai": true
         },
         {
-          "headline": "Lawsuit Tests Microsoft AI Story While Shares Trade Below Valuation Estimates",
+          "headline": "CoreWeave (CRWV) Deploys NVIDIA (NVDA) Vera Rubin NVL72, First to Validate at Rack Scale",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9533b7fee604ee5c68d957222f674c925d8c9fb036e91139a1f03ff761514c7b",
+          "url": "https://finnhub.io/api/news?id=3cd2c0d4177dcc652b2d693ab96ff51b17f4b85195ef91000c66780b8fc313a5",
           "used_by_ai": true
         },
         {
-          "headline": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
+          "headline": "Wall Street Can't Decide What the Fed Will Do Next. CME Group Gets Paid Either Way.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=246d69f8f982177b3b460df530d192839d23e93a3a037cbb0d38eacb9683f5cc",
+          "url": "https://finnhub.io/api/news?id=6e16ba2fb713a10bbeca07fd67fdca718553e2d6313762416587f4b029a56a7f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Danger of Diversifying Without Really Diversifying",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a777e3400e4daa59582ba2b83b9742175a63a96ff1b1ae3c4d6ae0c1f66c7dc7",
           "used_by_ai": false
         }
       ],
@@ -55,30 +147,30 @@
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Buy recommendation",
-      "headline": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?",
+      "confidence": 50,
+      "reason": "Target price reset",
+      "headline": "Citi resets AMD stock price target on key move",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cbc8590d75ded6c3f292092bdc1f719fc6a05addd2b188a5624803dc8e6deec",
+      "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Citi resets AMD stock price target on key move",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
+          "used_by_ai": true
+        },
         {
           "headline": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9cbc8590d75ded6c3f292092bdc1f719fc6a05addd2b188a5624803dc8e6deec",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Should You Look for the \u201cNext Nvidia\u201d \u2014 or Just Buy the Real Thing?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fe13ffa10c9513db51e3f7ac096fe1e3966788761fb915a898c714dcdb1af4de",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Semiconductor Stocks to Buy While They Are Down in June",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0cd5237bc5d117d78926ef7a27a4a081887cec056013298cb8c9d08a050b586",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -86,74 +178,16 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Smart AI strategy",
-      "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f00b5c2fde4c8ddb98190eb3c18ee8479c1da1061ee405eae1326ee7ef453a02",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac7bbac93cdae05a2b9bfc674655548843373a61d226c5f3b73125c86da1c514",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed7380ba2997f36c0ebf808a5c71f516ecb6243a27a270951da9daf046671274",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategy\u2019s Michael Saylor Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5075c6f014886d3e3fabbb9d0538b49f4a1d9bece2b9650d8793a7ed0288dfde",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Positive EV news",
-      "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+      "reason": "Fleet expansion",
+      "headline": "ArcBest Expands Tesla Semi Fleet As EV Trials Meet Core Freight Goals",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
+      "url": "https://finnhub.io/api/news?id=6661171b2fcfe6ca9a7ee03a03caca6021542db497d781fc3f1d61fdc8780ca3",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
-          "used_by_ai": true
-        },
         {
           "headline": "ArcBest Expands Tesla Semi Fleet As EV Trials Meet Core Freight Goals",
           "source": "Yahoo",
@@ -161,62 +195,72 @@
           "used_by_ai": true
         },
         {
-          "headline": "Mark Zuckerberg Says Peter Thiel's 'Pithy Quote' Helped Him Navigate Directional Shifts In Facebook's Early Days: 'The Biggest Risk You Can Take\u2026'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=50a221b81adefa33b21121fad4be2c397458126ec771bb2e9f6bd74028060a0e",
-          "used_by_ai": true
+          "headline": "Former Tesla board member issues candid message on SpaceX stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
+        "Yahoo": 4
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
       "confidence": 40,
-      "reason": "General market news",
-      "headline": "Suze Orman to 54-Year-Old With $600,000: Skip the 1.5% Fee and Manage It Yourself",
+      "reason": "Smart strategy",
+      "headline": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2005a7e7743ff6def30f7e748909b7f141ddac0ab2b744762b2c078d1f87e98b",
+      "url": "https://finnhub.io/api/news?id=ac7bbac93cdae05a2b9bfc674655548843373a61d226c5f3b73125c86da1c514",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Suze Orman to 54-Year-Old With $600,000: Skip the 1.5% Fee and Manage It Yourself",
+          "headline": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2005a7e7743ff6def30f7e748909b7f141ddac0ab2b744762b2c078d1f87e98b",
+          "url": "https://finnhub.io/api/news?id=ac7bbac93cdae05a2b9bfc674655548843373a61d226c5f3b73125c86da1c514",
           "used_by_ai": true
         },
         {
-          "headline": "Tokenomics: The New Divide Between AI Winners And Renters",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5928d2d5608da151597cda7f7b9232523d298491c7a13e5ea102d498334054d5",
-          "used_by_ai": true
+          "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
+          "used_by_ai": false
         },
         {
-          "headline": "Russell 1000 And S&P 500 - Same Lane, Different Construction",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c12addb6f0e9ed51b50b4b38e0e6b7bb140fa4d06c2309442ad3ad88ca21d327",
-          "used_by_ai": true
+          "headline": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f00b5c2fde4c8ddb98190eb3c18ee8479c1da1061ee405eae1326ee7ef453a02",
+          "used_by_ai": false
         },
         {
-          "headline": "7 Asset Classes Every Retirement Portfolio Should Consider",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=23f2a78de2c170bdd2c6861891baae85d9cc97024107e8bf3a3a5a767928fbae",
-          "used_by_ai": true
+          "headline": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategy\u2019s Michael Saylor Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5075c6f014886d3e3fabbb9d0538b49f4a1d9bece2b9650d8793a7ed0288dfde",
+          "used_by_ai": false
         },
         {
-          "headline": "This 'Looney Tunes' Market Calls For Second-Order Thinking: Here Are My Thoughts",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3db7c3ac15ce2d7a0af0a7b6ee984528b4109ccc03e543ce9d61e624a4a0c76e",
-          "used_by_ai": true
+          "headline": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed7380ba2997f36c0ebf808a5c71f516ecb6243a27a270951da9daf046671274",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 4
+        "Yahoo": 5
       }
     }
   ]
