@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T08:36:48Z",
+  "updated_at": "2026-06-13T11:14:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,7 +15,7 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 90,
       "reason": "SpaceX IPO success",
       "headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
       "source": "Yahoo",
@@ -69,55 +69,61 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 70,
-      "reason": "US-Iran peace signals",
-      "headline": "Inflation And The Fed",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=aa81ef3fa0d61e2a4e8a2ec2ab7841077bb48964f78b25d31a2c96e7c0bd97d4",
+      "confidence": 80,
+      "reason": "US-Iran peace deal hopes",
+      "headline": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf0d5f5b32d21fe62497a93a0a445595738b16c51f978a418dbe236b93f819df",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf0d5f5b32d21fe62497a93a0a445595738b16c51f978a418dbe236b93f819df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "European shares rally as Middle East peace hopes drag oil prices lower - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2NwbnhSejZzNkxual9ZYm1wRmRmVjVHTlYwQjlVYmdZaW8yQlFVbVBaVWR5c1RXaTNyMGZXdVV0c2J2eV9STWRlaEExTndPVkZIc2g2WVpxdHdmZE9aT0txYTg5WXk5LWdpRmRyN29FMnNaeEhBb3FPOVc5NU1XQ3h0czRRNWxmdnRPTmVlWWowYVFOdFdtTE0yd0JJTHpmWDc0?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Chair Warsh Will Tighten Without Raising Interest Rates",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1c71f0064f5125bb9950c60c278afa67c58d2dc967bd6b55e636a3d90e356444",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SGDM: Gold Mining Companies Are Incredibly Profitable And Very Cheap",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bcfd118025d6caad48b0e0d5aba6712d90768a3e9b444d64405c1e3b5b9923c4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Weekly Commentary: SpaceX And A Z.1 (Q1 2026)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=06b3b75eb184335a15e6197afff3d76dac055d97a4e60d5ea9f1078c95095c37",
+          "used_by_ai": false
+        },
         {
           "headline": "Inflation And The Fed",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=aa81ef3fa0d61e2a4e8a2ec2ab7841077bb48964f78b25d31a2c96e7c0bd97d4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 1-Minute Market Report, June 14, 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9aa251573affe06a91ddf71defda5066cd02dd2c9369b88c6d52db8b57c1e282",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500, Nasdaq, Dow End Higher On SpaceX Strong Debut And US-Iran Peace Signals \u2014 SPCX, SHEL, ROKU, XOM, HOOD In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39bda8ab88b4bed0d290e997d08ff65bb3f203cac198aef11f5f8494a8292cbb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Iran deal very close, signing possible in coming days, US official says - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDVIZzBMbmZUMXYzbWJfQWJfN1IyNFVjT0s1LTdDbVZwNzlZVkF2RHZqTVFvRl9laUV4NXRpX3FjMEtfc3cyU1NyQjBkSHRTaFhwYm5iSmM2OHVWMGNsWFVyOU91ejhnVFpuWmtRb2V6Rm56TU1QazB4b21XSU11M1RXbTlzR2FCQ3JVNDlKN0c0ZFN2cVNKNEtDWjhnVGlzcUZOdlNLWlppNlNsNU10dUN1bEVCdjhqTElRRWdn?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Pakistan PM Sharif says in X post that final text of US-Iran peace deal agreed, working on next steps - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGh4dmxZZEUyaFBXVXFSTHlsMU9meXdHSW1tcFdGVU01Smt1d1dJckppTVVSeGNzQlVIZ0I2U0syZ2I1cHM4ZllnaWd4V21TS0FVc2I5UFdzTGdtNHU5LWtzV0swcm1KeUdrX0FKN1NWQWdvU3BYMWNMMmJrWnYxalBFdUcwWDk2UDJCN3ljbVRDd3NJVDBSN3JlY3djV1p0WldPRTdLYVJ3RDZDLUpvSXlTMWRlUHo2eEtpMkFKZXdieHdZRjlkaGhCNmVjamUx?oc=5",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
         "Yahoo": 1,
-        "Reuters": 2
+        "Reuters": 1,
+        "SeekingAlpha": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "AI stocks popped",
       "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
       "source": "Yahoo",
@@ -154,11 +160,103 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Unrelated news",
+      "headline": "Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3195ffcad52c938817a405710617db58c8881be993ef9ee043970c03ede1d235",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3195ffcad52c938817a405710617db58c8881be993ef9ee043970c03ede1d235",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A 6.5% Increase in the Producer Price Index Is No Match for Coca-Cola Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=91e1aed2187b4f0c5fefe42b58f65a4dce23f49965c744a850ec72d575d9b71f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "C3.ai Stock Is Down 21% in 2026. Should You Buy the Dip, or Run for the Hills?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c73bb50a70260aa1e99258a9fd5ccc95778b3293b3244b63c69eebcbaf3a2195",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Social Security Move Is the Equivalent of Adding $144,000 to Your 401(k)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cabf6ad6f429f14df3eddd437bacb60cb2e48b898cf542abb2c464c358d70339",
+          "used_by_ai": true
+        },
+        {
+          "headline": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd2dd77545aacd1ef0d7cfccbf0c991022041db2171b4116b839f84622c7f4a2",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Unrelated news",
+      "headline": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f44a52920835d5fd7b075e4380d1e31a5ba9a2565dc8f62c8ef168080b8b673d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f44a52920835d5fd7b075e4380d1e31a5ba9a2565dc8f62c8ef168080b8b673d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Can Apple Stock Double to $600 in 5 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Index Says Euphoria. But Don\u2019t Panic.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6306a17d4e6f82666ce939663f199e5a3c19c79d1f6c125181e5151f642976b5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Does Google Stock Have More Upside?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bd00f2425eaadd43f771aa205cdc0445f80365356a9985bf41a80bd04e41d9c7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cash Flow Kings: These Companies Generate Huge Cash",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d66cb568e1b53fa6bd11255ec0743b2eaeefcecbecb25ffb1e51ed7f2beb3b5f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI news",
+      "confidence": 20,
+      "reason": "Unrelated news",
       "headline": "AI's True Costs Limit Its Impact On Job Displacement",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b5acd729c14b0cce5c340bf00a1664a1aa1fd851c3472f85c21d2118de5f49ef",
@@ -198,98 +296,6 @@
       "source_breakdown": {
         "SeekingAlpha": 3,
         "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "general market news",
-      "headline": "Can Apple Stock Double to $600 in 5 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Can Apple Stock Double to $600 in 5 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Index Says Euphoria. But Don\u2019t Panic.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6306a17d4e6f82666ce939663f199e5a3c19c79d1f6c125181e5151f642976b5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Does Google Stock Have More Upside?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd00f2425eaadd43f771aa205cdc0445f80365356a9985bf41a80bd04e41d9c7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cash Flow Kings: These Companies Generate Huge Cash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d66cb568e1b53fa6bd11255ec0743b2eaeefcecbecb25ffb1e51ed7f2beb3b5f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX shares soar 19% in stock market debut",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=677137dd1212b08a638ba69bf8a2d2c3dd42c84c7d9fa3e41c79f6572f1be898",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "hints in unrelated news",
-      "headline": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03247f9f02b64cedf2d07ff600a7ecd186a7fc4d33aff0a04494faeb3184538f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=03247f9f02b64cedf2d07ff600a7ecd186a7fc4d33aff0a04494faeb3184538f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Used to Think Claiming Social Security at 62 Was a Disastrous Move. I Was Clearly Misinformed.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efabeed4a885f428b8b5b08345c7526dd100fbc2e396b415377bd39fc5ba618e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Roku Stock Skyrocketed on Friday. Investors Should Be Paying Attention.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8976bcc4abdc012a493785e8c1d87b7f4ed6cd613890a4058cd5150f4df3a7d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "POET Technologies (POET) Rides Market Leaders\u2019 Semiconductor Optimism, Climbs 11%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=212d24183dc225a4c98545bb27a98c3e786eda357d9787bec6d6fb5df297245a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2230e84dacc82e7f9297ccf07e84b1444c8c189f7d14b3389a13f268a561b9b7",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     }
   ]
