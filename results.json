@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:05:23Z",
+  "updated_at": "2026-06-13T15:17:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,71 +8,31 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Lumentum Nvidia Deal Highlights AI Optics Growth And Valuation Opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf8f2ffbb931dd829e588ea8d72614a6632f7502c39384109aa76d48c467c4c4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Lumentum Nvidia Deal Highlights AI Optics Growth And Valuation Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf8f2ffbb931dd829e588ea8d72614a6632f7502c39384109aa76d48c467c4c4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Now Trading at Its Lowest Level Since December 2023, Is Solana a Buy, Sell, or Hold?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f126bc3c32b19f980aa18f1f00465d6a13da08d7dc1c7169a0ef003ac8bc5b0c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: SoFi Technologies Stock Will Double Within 1 Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=10df0d29abcd5b9b6a31c4934316f9f8b106c9d2e19c542dcc16e818e29cca30",
-          "used_by_ai": false
-        },
-        {
-          "headline": "If You Hate (Or Love) The \u2018Mag 7\u2019 There Is An ETF To Profit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f4d721f030f34e0f5ee3e7bc6510c7f99eab86bdcd44589aad727371edc96fc",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nebius Just Grew Its Revenue 684%. There's More Growth Ahead, and the Stock Is a Genius Buy.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=317eb93d92752ec0b5d0364b07b98b67c4583b4225817f9503c585d1e63285f0",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "SpaceX IPO",
-      "headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "IPO selling pressure",
+      "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f73444db2a21e0cc28530d3b6a0ba823cd821db065cc10a12634e8ac21ee202a",
+      "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
+          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f73444db2a21e0cc28530d3b6a0ba823cd821db065cc10a12634e8ac21ee202a",
+          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
           "used_by_ai": true
+        },
+        {
+          "headline": "ArcBest Expands Tesla Semi Fleet As EV Trials Meet Core Freight Goals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6661171b2fcfe6ca9a7ee03a03caca6021542db497d781fc3f1d61fdc8780ca3",
+          "used_by_ai": false
         },
         {
           "headline": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
@@ -91,11 +51,52 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=eae5fd1a33f64dc42f4217730acdb9d3b293d5e8ae399ffbb9e2511833829d0d",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "EV fleet expansion",
+      "headline": "ArcBest Expands Tesla Semi Fleet As EV Trials Meet Core Freight Goals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6661171b2fcfe6ca9a7ee03a03caca6021542db497d781fc3f1d61fdc8780ca3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "ArcBest Expands Tesla Semi Fleet As EV Trials Meet Core Freight Goals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6661171b2fcfe6ca9a7ee03a03caca6021542db497d781fc3f1d61fdc8780ca3",
+          "used_by_ai": true
         },
         {
-          "headline": "Review & Preview: Party of 1",
+          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e200da375d0abb4e492e9be4645b3c4a9df7619ef00a9d4fb35675db7eb7de10",
+          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4cc56e7fa2d80d688d8612768fdde33fbd0af2972c78645fd937bb49f23d05f7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Settles",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6eff06620d130023ffeb74b9eabd9a40a54da24b51b05155e5a480fc1a5f9d13",
+          "used_by_ai": false
+        },
+        {
+          "headline": "World's First Net-Worth Trillionaire Shows Us How Markets Price The Future",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eae5fd1a33f64dc42f4217730acdb9d3b293d5e8ae399ffbb9e2511833829d0d",
           "used_by_ai": false
         }
       ],
@@ -109,12 +110,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI stocks",
-      "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
+      "reason": "AI stocks popped",
+      "headline": "The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stocks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b",
+      "url": "https://finnhub.io/api/news?id=7fbbe0c7c05f48cbb17b16708115d78ec554430b6b219a2a81d7a0fb852335cf",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fbbe0c7c05f48cbb17b16708115d78ec554430b6b219a2a81d7a0fb852335cf",
+          "used_by_ai": true
+        },
         {
           "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
           "source": "Yahoo",
@@ -122,75 +129,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Why AMD (AMD) Stock Is Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bfd1668171890f61799db395495421db805a7236fcc0d8f49ea2aece18922db",
-          "used_by_ai": true
-        },
-        {
           "headline": "The Unit Economics Of AI Infrastructure",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f8237074d58007743be855d7aa34870d4518d905ed5a5742d552fcf1385a3234",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=336f38687c22bda7559c2aabc98161fd2182eedae4f805bff461f6c9be9ac7e9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf0d5f5b32d21fe62497a93a0a445595738b16c51f978a418dbe236b93f819df",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 45,
-      "reason": "contamination",
-      "headline": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f44a52920835d5fd7b075e4380d1e31a5ba9a2565dc8f62c8ef168080b8b673d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f44a52920835d5fd7b075e4380d1e31a5ba9a2565dc8f62c8ef168080b8b673d",
           "used_by_ai": true
         },
         {
-          "headline": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
+          "headline": "Why AMD (AMD) Stock Is Up Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed7380ba2997f36c0ebf808a5c71f516ecb6243a27a270951da9daf046671274",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This 'Looney Tunes' Market Calls For Second-Order Thinking: Here Are My Thoughts",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3db7c3ac15ce2d7a0af0a7b6ee984528b4109ccc03e543ce9d61e624a4a0c76e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Can Apple Stock Double to $600 in 5 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Index Says Euphoria. But Don\u2019t Panic.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6306a17d4e6f82666ce939663f199e5a3c19c79d1f6c125181e5151f642976b5",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=7bfd1668171890f61799db395495421db805a7236fcc0d8f49ea2aece18922db",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -199,57 +153,74 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "peace hopes",
-      "headline": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+      "reason": "Competitive advantage",
+      "headline": "Anthropic\u2019s Biggest Competitive Advantage Just Became a Huge Liability",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf0d5f5b32d21fe62497a93a0a445595738b16c51f978a418dbe236b93f819df",
+      "url": "https://finnhub.io/api/news?id=87787684655d9f14f733fd3427d7a13b1dace47ced5874be5510e7ff18cd7a63",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+          "headline": "Anthropic\u2019s Biggest Competitive Advantage Just Became a Huge Liability",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf0d5f5b32d21fe62497a93a0a445595738b16c51f978a418dbe236b93f819df",
+          "url": "https://finnhub.io/api/news?id=87787684655d9f14f733fd3427d7a13b1dace47ced5874be5510e7ff18cd7a63",
           "used_by_ai": true
         },
         {
-          "headline": "June FOMC Preview: What To Watch In Warsh's Inaugural Fed Meeting",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6d0aae1bfb7ff1cb709044261fbd0f43d96ca9a95feed626d6fbc1c8a069b799",
+          "headline": "Harvard University Likes This Top AI Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5725c694a42e1a63bd1cafc98bc58e1ed9a47ed043ab163c9d6dc7ce2112d3d4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Starbucks Stock Nearing 52-Week High: Buy, Sell or Hold?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d154c29ced2846be3a202f8567b4e353844fcfbc087f632dd8e3fe11a0dff83d",
           "used_by_ai": false
         },
         {
-          "headline": "Weekly Indicators: Consumers Back Off - Slightly",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=01784e849eb0d97a1c125b27fc1b87647e87eab132e0d6b95141f5260d8ff9d1",
+          "headline": "I'd Tell Anyone in This Situation to Stop Funding an IRA or 401(k)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4dce55e376e6f0291a378c13627870cd0821653e20cfdfc2f3f63c402cfbbf3",
           "used_by_ai": false
         },
         {
-          "headline": "MANGOS: Let's Follow The Big Money (Why I'm 30% Cash)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1dcad0b532500c45c8d7fe138b5891e06444de695daeb2352e30639daecdfd99",
+          "headline": "3 Ridiculously Cheap Healthcare Stocks to Buy in June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e009683d22a2f708130a5a7f1e8f34b36945fe0ae449a6835641fcb15e2f529d",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "Yahoo": 5
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "AI jobs",
-      "headline": "Gwyn Morgan: Apply some intelligence. AI won\u2019t kill all jobs",
+      "confidence": 40,
+      "reason": "AI story",
+      "headline": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f263f704e1547b10166f6b29b5fb07cd9cd484ce74e789d9a6c596214e2adad1",
+      "url": "https://finnhub.io/api/news?id=246d69f8f982177b3b460df530d192839d23e93a3a037cbb0d38eacb9683f5cc",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=246d69f8f982177b3b460df530d192839d23e93a3a037cbb0d38eacb9683f5cc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Lawsuit Tests Microsoft AI Story While Shares Trade Below Valuation Estimates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9533b7fee604ee5c68d957222f674c925d8c9fb036e91139a1f03ff761514c7b",
+          "used_by_ai": true
+        },
         {
           "headline": "Gwyn Morgan: Apply some intelligence. AI won\u2019t kill all jobs",
           "source": "Yahoo",
@@ -267,23 +238,92 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b5acd729c14b0cce5c340bf00a1664a1aa1fd851c3472f85c21d2118de5f49ef",
           "used_by_ai": true
-        },
-        {
-          "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f577875cac5ef069511c777bb19887d47f9d0888835b764f9e2f56880d433b1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
         "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "iPhone parts factory",
+      "headline": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed7380ba2997f36c0ebf808a5c71f516ecb6243a27a270951da9daf046671274",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed7380ba2997f36c0ebf808a5c71f516ecb6243a27a270951da9daf046671274",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f44a52920835d5fd7b075e4380d1e31a5ba9a2565dc8f62c8ef168080b8b673d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This 'Looney Tunes' Market Calls For Second-Order Thinking: Here Are My Thoughts",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3db7c3ac15ce2d7a0af0a7b6ee984528b4109ccc03e543ce9d61e624a4a0c76e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Can Apple Stock Double to $600 in 5 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Index Says Euphoria. But Don\u2019t Panic.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6306a17d4e6f82666ce939663f199e5a3c19c79d1f6c125181e5151f642976b5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market indicators",
+      "headline": "7 Asset Classes Every Retirement Portfolio Should Consider",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=23f2a78de2c170bdd2c6861891baae85d9cc97024107e8bf3a3a5a767928fbae",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "7 Asset Classes Every Retirement Portfolio Should Consider",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=23f2a78de2c170bdd2c6861891baae85d9cc97024107e8bf3a3a5a767928fbae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "June FOMC Preview: What To Watch In Warsh's Inaugural Fed Meeting",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6d0aae1bfb7ff1cb709044261fbd0f43d96ca9a95feed626d6fbc1c8a069b799",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Indicators: Consumers Back Off - Slightly",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=01784e849eb0d97a1c125b27fc1b87647e87eab132e0d6b95141f5260d8ff9d1",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3
       }
     }
   ]
