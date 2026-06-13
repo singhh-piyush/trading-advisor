@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T20:01:28Z",
+  "updated_at": "2026-06-13T21:45:39Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,12 +16,18 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "New product launch",
-      "headline": "Microsoft (MSFT)\u2019s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
+      "reason": "AI cloud expansion",
+      "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9a7ddf0c68ca8340cce32f9221a21b2ed848ced64f3f54581b0f0ad054a764d",
+      "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft (MSFT)\u2019s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
           "source": "Yahoo",
@@ -29,73 +35,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1fd55b400c177296ccfd2ec56343199c4db7e71cde1d784a108c2e01979ed46",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Positive rating",
-      "headline": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1fd55b400c177296ccfd2ec56343199c4db7e71cde1d784a108c2e01979ed46",
-      "on_watchlist": true,
-      "articles": [
-        {
           "headline": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1fd55b400c177296ccfd2ec56343199c4db7e71cde1d784a108c2e01979ed46",
           "used_by_ai": true
         },
         {
-          "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
+          "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
+          "used_by_ai": true
         },
         {
           "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft (MSFT)\u2019s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9a7ddf0c68ca8340cce32f9221a21b2ed848ced64f3f54581b0f0ad054a764d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
           "used_by_ai": false
         }
       ],
@@ -107,8 +61,8 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "direction": "up",
-      "confidence": 60,
-      "reason": "New partnership",
+      "confidence": 70,
+      "reason": "AI partnerships",
       "headline": "NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=965d67564bc8375d925345b42c276bd313dc32ea0711c583637db28289183493",
@@ -127,6 +81,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f1bf7aa88888fa7f14395884864c56776c7caaf53591559f46d695a1c407f7b",
+          "used_by_ai": false
+        },
+        {
           "headline": "Wall Street Can't Decide What the Fed Will Do Next. CME Group Gets Paid Either Way.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6e16ba2fb713a10bbeca07fd67fdca718553e2d6313762416587f4b029a56a7f",
@@ -140,15 +100,15 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Target price reset",
+      "confidence": 60,
+      "reason": "stock target",
       "headline": "Citi resets AMD stock price target on key move",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
@@ -164,13 +124,13 @@
           "headline": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9cbc8590d75ded6c3f292092bdc1f719fc6a05addd2b188a5624803dc8e6deec",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Should You Look for the \u201cNext Nvidia\u201d \u2014 or Just Buy the Real Thing?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fe13ffa10c9513db51e3f7ac096fe1e3966788761fb915a898c714dcdb1af4de",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -182,7 +142,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Fleet expansion",
+      "reason": "Semi fleet expansion",
       "headline": "ArcBest Expands Tesla Semi Fleet As EV Trials Meet Core Freight Goals",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6661171b2fcfe6ca9a7ee03a03caca6021542db497d781fc3f1d61fdc8780ca3",
@@ -221,24 +181,24 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Smart strategy",
-      "headline": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
+      "confidence": 50,
+      "reason": "AI spending",
+      "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac7bbac93cdae05a2b9bfc674655548843373a61d226c5f3b73125c86da1c514",
+      "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ac7bbac93cdae05a2b9bfc674655548843373a61d226c5f3b73125c86da1c514",
           "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
-          "used_by_ai": false
         },
         {
           "headline": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
@@ -261,6 +221,54 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "market trends",
+      "headline": "SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=292a6abccbb8b3f55bc8028d2f08801580d9bf1a6cdbe66856fe7eb883144b57",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=292a6abccbb8b3f55bc8028d2f08801580d9bf1a6cdbe66856fe7eb883144b57",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Suze Orman to 54-Year-Old With $600,000: Skip the 1.5% Fee and Manage It Yourself",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2005a7e7743ff6def30f7e748909b7f141ddac0ab2b744762b2c078d1f87e98b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tokenomics: The New Divide Between AI Winners And Renters",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5928d2d5608da151597cda7f7b9232523d298491c7a13e5ea102d498334054d5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Russell 1000 And S&P 500 - Same Lane, Different Construction",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c12addb6f0e9ed51b50b4b38e0e6b7bb140fa4d06c2309442ad3ad88ca21d327",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Anthropic Announced Late Friday, US Export Control Directive Requires Suspension Of Fable 5 And Mythos 5 Access For Foreign Nationals, Prompting Service Disablement For All Customers; Access To Other Anthropic Models Unaffected",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3d307fc8b92a685e3f5877099049cdcd7029a0a1ea0bf40baed7044383230be7",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     }
   ]
