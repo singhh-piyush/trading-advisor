@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T00:22:15Z",
+  "updated_at": "2026-06-13T05:02:33Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,143 +12,144 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI boom",
+      "headline": "Why SpaceX Stock Soared Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a559c4fbe59632352e69bd2f62397f959a899599cf11e647f6c51c23f2a22f91",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why SpaceX Stock Soared Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a559c4fbe59632352e69bd2f62397f959a899599cf11e647f6c51c23f2a22f91",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI Boom's Next Bottleneck Is Electricity. These 3 Stocks Are Positioned to Power the Build-Out.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=83e37a4170bbe726aeb99a2756f318a8ec66b6b408992c0bbc67b2e544d331b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "HPE Private Cloud AI Win With Sky Highlights On Premises AI Strategy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca4f87b6bdf2392dad9170b76b03fcd0d835b16b0ce9e7c6eff9d5663100c8f8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "SpaceX IPO success",
-      "headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f73444db2a21e0cc28530d3b6a0ba823cd821db065cc10a12634e8ac21ee202a",
+      "confidence": 70,
+      "reason": "SpaceX IPO",
+      "headline": "SpaceX Settles",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6eff06620d130023ffeb74b9eabd9a40a54da24b51b05155e5a480fc1a5f9d13",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SpaceX Settles",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6eff06620d130023ffeb74b9eabd9a40a54da24b51b05155e5a480fc1a5f9d13",
+          "used_by_ai": true
+        },
+        {
+          "headline": "World's First Net-Worth Trillionaire Shows Us How Markets Price The Future",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eae5fd1a33f64dc42f4217730acdb9d3b293d5e8ae399ffbb9e2511833829d0d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Review & Preview: Party of 1",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e200da375d0abb4e492e9be4645b3c4a9df7619ef00a9d4fb35675db7eb7de10",
+          "used_by_ai": true
+        },
         {
           "headline": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f73444db2a21e0cc28530d3b6a0ba823cd821db065cc10a12634e8ac21ee202a",
           "used_by_ai": true
-        },
-        {
-          "headline": "How much money did Elon Musk make in SpaceX\u2019s stock market debut?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd75cebb77711f3c70e74a3ae68ffda7ef1abf1aaa55a08c903a3e0bf4fcc54b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What's Next For SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a4e45a058a8a3e4d2a84a2776b463a61c45b1e976cbc771a020a824be2572481",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "SeekingAlpha": 2,
+        "Yahoo": 2
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "Multiple mentions",
-      "headline": "Why Red Cat Stock Sank Today",
+      "reason": "AI growth",
+      "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38b4b71680b5d3d9ac5dac611133b80bea9aea67ba07b900ea10cfb54278ac7e",
+      "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Red Cat Stock Sank Today",
+          "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38b4b71680b5d3d9ac5dac611133b80bea9aea67ba07b900ea10cfb54278ac7e",
+          "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89",
           "used_by_ai": true
         },
         {
-          "headline": "Bitcoin Perpetual Futures Are Now Available for Trading. Here's What You Need to Know.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d3c58ce49264666922a3a1659accca9b5bfeaa815a212211d84ec7ded10b2ad",
+          "headline": "The Unit Economics Of AI Infrastructure",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f8237074d58007743be855d7aa34870d4518d905ed5a5742d552fcf1385a3234",
           "used_by_ai": true
         },
         {
-          "headline": "Poet Technologies Skyrocketed Today -- Is the Stock a Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40fb86a0bf482f07fd2903e1d8c841e55777adb4b59b05b98af5e3c033a258ed",
+          "headline": "Investors Brace For SpaceX's Historic Trading Debut",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=efcd09acd2cf09895b341a41c7ebb3f5e7de2f812e62f6c90ab72c10abfa8354",
           "used_by_ai": true
         },
         {
-          "headline": "5 Reasons to Buy Celsius Stock Right Now",
+          "headline": "Is the Turnaround at IBM Stock Finally Here to Stay?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8148930952ddb9c91c4877562bf22659601084e25b4f803faf09332705f4726",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why First Advantage Stock Crushed the Market Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1029a7802ed0012429f6774079e8e441043bf3b3ddd3c6c27e4c859770dca09",
+          "url": "https://finnhub.io/api/news?id=c345a87c9ea7eff4ef93938e8814020b4996bcdcc3fe03302972709ce9bd10b4",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Stock rally",
-      "headline": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=336f38687c22bda7559c2aabc98161fd2182eedae4f805bff461f6c9be9ac7e9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=336f38687c22bda7559c2aabc98161fd2182eedae4f805bff461f6c9be9ac7e9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMD (AMD) Stock Is Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bfd1668171890f61799db395495421db805a7236fcc0d8f49ea2aece18922db",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Ended Friday\u2019s Session Nearly 5% Higher \u2014 What Triggered The Rally?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35156aa0c5be2a327645714ebac19557b07506d0099ec22c8742c85efcbf00e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c153729350f83763ae60271f77cf5aaea0bcda0920d55eb8a1b26b572f01beab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ab4801b856c9578b02ee9b031906c635e9d741654385abfdc79c3e06d0d90cbd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
+        "Yahoo": 2,
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed mentions",
-      "headline": "The Index Says Euphoria. But Don\u2019t Panic.",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Market optimism",
+      "headline": "Can Apple Stock Double to $600 in 5 Years?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6306a17d4e6f82666ce939663f199e5a3c19c79d1f6c125181e5151f642976b5",
+      "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Can Apple Stock Double to $600 in 5 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c25d59b74df30fac06b97d514c0f56a223b9ab194ce199c6d307f7dd317b3e8",
+          "used_by_ai": true
+        },
         {
           "headline": "The Index Says Euphoria. But Don\u2019t Panic.",
           "source": "Yahoo",
@@ -172,12 +173,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=677137dd1212b08a638ba69bf8a2d2c3dd42c84c7d9fa3e41c79f6572f1be898",
           "used_by_ai": true
-        },
-        {
-          "headline": "Will the Magnificent Seven Will Give Way to the Dirty Dozen?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be2d93cf5cc52aa4f580e34af40fe18e82e90e961b940f06ef043df5bfe98d12",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -185,37 +180,43 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "AI stocks",
-      "headline": "Is the Turnaround at IBM Stock Finally Here to Stay?",
+      "confidence": 50,
+      "reason": "AI growth",
+      "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c345a87c9ea7eff4ef93938e8814020b4996bcdcc3fe03302972709ce9bd10b4",
+      "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Is the Turnaround at IBM Stock Finally Here to Stay?",
+          "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c345a87c9ea7eff4ef93938e8814020b4996bcdcc3fe03302972709ce9bd10b4",
+          "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b",
           "used_by_ai": true
         },
         {
-          "headline": "3 Core Artificial Intelligence (AI) Stocks to Buy With $1,000 Right Now and Hold for the Next Decade",
+          "headline": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec0b280ecbe3545fc6ade3fd1afec8d03e0dea06e3946a315f523502744a2b56",
+          "url": "https://finnhub.io/api/news?id=336f38687c22bda7559c2aabc98161fd2182eedae4f805bff461f6c9be9ac7e9",
           "used_by_ai": true
         },
         {
-          "headline": "S&P 500, Nasdaq, Dow End Higher On SpaceX Strong Debut And US-Iran Peace Signals \u2014 SPCX, SHEL, ROKU, XOM, HOOD In Focus",
+          "headline": "Why AMD (AMD) Stock Is Up Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39bda8ab88b4bed0d290e997d08ff65bb3f203cac198aef11f5f8494a8292cbb",
+          "url": "https://finnhub.io/api/news?id=7bfd1668171890f61799db395495421db805a7236fcc0d8f49ea2aece18922db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf0d5f5b32d21fe62497a93a0a445595738b16c51f978a418dbe236b93f819df",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4
       }
     },
     {
@@ -224,11 +225,23 @@
       "direction": "up",
       "confidence": 40,
       "reason": "Market rally",
-      "headline": "Elon Musk May Be a Trillionaire, but Tesla Is Still Down 11% in 2026. Is TSLA Stock Dead Weight Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ecc4230e2a5fe79b9ac2cac6c64f78b7c656e9c19c47677dc7b5dbe7a3ba892",
+      "headline": "The 1-Minute Market Report, June 14, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9aa251573affe06a91ddf71defda5066cd02dd2c9369b88c6d52db8b57c1e282",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The 1-Minute Market Report, June 14, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9aa251573affe06a91ddf71defda5066cd02dd2c9369b88c6d52db8b57c1e282",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500, Nasdaq, Dow End Higher On SpaceX Strong Debut And US-Iran Peace Signals \u2014 SPCX, SHEL, ROKU, XOM, HOOD In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39bda8ab88b4bed0d290e997d08ff65bb3f203cac198aef11f5f8494a8292cbb",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk May Be a Trillionaire, but Tesla Is Still Down 11% in 2026. Is TSLA Stock Dead Weight Now?",
           "source": "Yahoo",
@@ -246,17 +259,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0eee156791369d56f37a307f2c4deac8c7e2174a90bb2051855b8550500738c0",
           "used_by_ai": true
-        },
-        {
-          "headline": "Analyzing 4 Goldman Sachs High Yield Income Funds",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a7ce13dfa0c08b72a5625ddcdaaea886f942cad6e4dfbcc7f6ec8ef9fa26bf19",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 2,
+        "Yahoo": 3
       }
     }
   ]
