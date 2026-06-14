@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:21:55Z",
+  "updated_at": "2026-06-14T17:57:08Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,153 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 8,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "NASA contract",
+      "headline": "NASA Hires Firefly Aerospace to Build a Drone Aircraft Carrier -- to the Moon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b82e69c51ae764d13a3256899aaa857bd11f60204e3e64a999d75f84d1354f8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NASA Hires Firefly Aerospace to Build a Drone Aircraft Carrier -- to the Moon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b82e69c51ae764d13a3256899aaa857bd11f60204e3e64a999d75f84d1354f8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Up 18% in 2026, Is Coca-Cola a Buy at an All-Time High?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec6c0d6168c69b25b96b7836c13defcd75c4a166fa180df2105e43b92b438ebf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Xbox fans waiting on Project Helix get unexpected news from Wedbush",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4eed28cd25bd8aa74827dacc968ab71b1659dd68d7b4ff9c4a7b75f13ac136e9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Got $2,500? 1 Unstoppable Medical Juggernaut to Buy Hand Over Fist and Hold for the Next 20 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8aeb56fecf3343ff6f0e3f5b43dcd0f8f8dcaebe706b607acab1c4540279b15e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "2 Best Stocks to Buy in the Market Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b6287ac355dc65d0e442df30c1fc828b17dd1098e7505b77b9d31761895f65f",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Xbox restructuring",
+      "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is IREN (IREN) Quietly Rewriting Its AI Infrastructure Story With Microsoft-Backed GPU Financing?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d3534b0b740ff3b2b165fe2a048f2eae163e7cbd655bf3eb308f25eda1056b2e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bill Ackman Likes This Indirect AI Play Everyone\u2019s Ignoring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=98eb732c63296e107e6bfbee81d9f9dcc6ab7303f9bb2528a819c722f5f2843a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Cloud Computing Stocks to Load up on in June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e2bdf904df8815968b37e9605aa24c14071c8293dbfc0f17d6c18a4eccdba95",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's SpaceX Is Coming To Solana Via Tokenized Shares, Says Foundation President",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7be978d62505a9ee781cd7141566b8749fff8dff930ae74298794cd4efe1bc7",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI play",
+      "headline": "Is IREN (IREN) Quietly Rewriting Its AI Infrastructure Story With Microsoft-Backed GPU Financing?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3534b0b740ff3b2b165fe2a048f2eae163e7cbd655bf3eb308f25eda1056b2e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Is IREN (IREN) Quietly Rewriting Its AI Infrastructure Story With Microsoft-Backed GPU Financing?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d3534b0b740ff3b2b165fe2a048f2eae163e7cbd655bf3eb308f25eda1056b2e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bill Ackman Likes This Indirect AI Play Everyone\u2019s Ignoring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=98eb732c63296e107e6bfbee81d9f9dcc6ab7303f9bb2528a819c722f5f2843a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Cloud Computing Stocks to Load up on in June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e2bdf904df8815968b37e9605aa24c14071c8293dbfc0f17d6c18a4eccdba95",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's SpaceX Is Coming To Solana Via Tokenized Shares, Says Foundation President",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7be978d62505a9ee781cd7141566b8749fff8dff930ae74298794cd4efe1bc7",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
       "confidence": 60,
-      "reason": "Hawkish Fed surprise",
+      "reason": "Hawkish Fed",
       "headline": "The Fed May Have A Hawkish Surprise For Markets This Week",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3f6598ba8b2ce0a16c4f13c6abf544d4b0e2bf7d8d0888d26ee319e900396f0d",
@@ -26,6 +164,12 @@
           "headline": "The Fed May Have A Hawkish Surprise For Markets This Week",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3f6598ba8b2ce0a16c4f13c6abf544d4b0e2bf7d8d0888d26ee319e900396f0d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=827bbf4887e7f6fd7f819e43d7377d19ba92b1f9d169cdc1967520d5778b3fbf",
           "used_by_ai": true
         },
         {
@@ -45,12 +189,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b298e57cc3f60fb1e2380925df9d81db709a9f687ffbed7ff7650f7bdb165550",
           "used_by_ai": true
-        },
-        {
-          "headline": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=827bbf4887e7f6fd7f819e43d7377d19ba92b1f9d169cdc1967520d5778b3fbf",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,7 +200,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 50,
       "reason": "WWDC news",
       "headline": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock?",
       "source": "Yahoo",
@@ -82,12 +220,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a5d83d923fcf4627fc9d731e37679d6e7148208832fa311ab7df2fb0a1081b7",
-          "used_by_ai": true
-        },
-        {
           "headline": "Meet the Spectacular Vanguard ETF That Could Buy SpaceX Stock as Soon as June 19",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4cf2ad0f0329a7129d929b06b4b6c26fd02834df088dfb815576fce76281b91f",
@@ -101,26 +233,20 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Competition from SpaceX",
-      "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "SpaceX surge",
+      "headline": "3 Genius Stocks I'm Buying Instead of the SpaceX IPO",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0",
+      "url": "https://finnhub.io/api/news?id=fff634b31b368b7066fd705ba8a6cf5af8145f0a82d5f0fafa4cd1ab550613d1",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0",
-          "used_by_ai": true
-        },
         {
           "headline": "3 Genius Stocks I'm Buying Instead of the SpaceX IPO",
           "source": "Yahoo",
@@ -134,69 +260,29 @@
           "used_by_ai": true
         },
         {
-          "headline": "Can Rivian Beat Tesla in the Long Term?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
-          "used_by_ai": true
-        },
-        {
           "headline": "Wall Street Week Ahead",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=8937fd45928381a6d80f71affebd41492f8dcfd7350b1017c8556676053e617e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "Cloud and AI focus",
-      "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is IREN (IREN) Quietly Rewriting Its AI Infrastructure Story With Microsoft-Backed GPU Financing?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3534b0b740ff3b2b165fe2a048f2eae163e7cbd655bf3eb308f25eda1056b2e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Cloud Computing Stocks to Load up on in June",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e2bdf904df8815968b37e9605aa24c14071c8293dbfc0f17d6c18a4eccdba95",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's SpaceX Is Coming To Solana Via Tokenized Shares, Says Foundation President",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7be978d62505a9ee781cd7141566b8749fff8dff930ae74298794cd4efe1bc7",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 30,
-      "reason": "AI chip pact",
+      "confidence": 50,
+      "reason": "Meta AI chip",
       "headline": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3a615536cf2aa9978251873e519d1b30717dbd985a77f5ce80fe9fc64031d750",
@@ -230,6 +316,47 @@
       "source_breakdown": {
         "SeekingAlpha": 1,
         "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "OpenAI robotics",
+      "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Genius Stocks I'm Buying Instead of the SpaceX IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fff634b31b368b7066fd705ba8a6cf5af8145f0a82d5f0fafa4cd1ab550613d1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Surge Further Boosts Saudi Billionaire Prince\u2019s Fortune",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8edbed2d12b6d24229b6de9b68591e204938a45487f58a45e1530c84e8b0e26e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8937fd45928381a6d80f71affebd41492f8dcfd7350b1017c8556676053e617e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     }
   ]
