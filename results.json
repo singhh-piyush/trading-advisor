@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T06:41:35Z",
+  "updated_at": "2026-06-14T10:24:52Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,74 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI bet",
+      "headline": "Berkshire Hathaway's Greg Abel Just Made a Big Bet on Who Will Win the AI Races -- And He's Even Tipping the Scale in Its Favor",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=139702b5026cdc501a4b7314c6a3c9fdac439507e853d5c0b9c53b3526b42d1f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Berkshire Hathaway's Greg Abel Just Made a Big Bet on Who Will Win the AI Races -- And He's Even Tipping the Scale in Its Favor",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=139702b5026cdc501a4b7314c6a3c9fdac439507e853d5c0b9c53b3526b42d1f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget SpaceX: 3 Stocks That Are Brilliant Buys Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7cb7b77bf1065acec24e7b62a998d13f7793f148d241b223dbaf07f7e58423a7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=827bbf4887e7f6fd7f819e43d7377d19ba92b1f9d169cdc1967520d5778b3fbf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rate Cuts Are Dead. Inflation Is Sticky. Here's 1 Type of Stock Built to Thrive in Exactly This Environment.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd5927d884621b910088258a0419f9008d3e8ba3a7385f4879f28d177de9f108",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Bigger Social Security Raise Than the COLA? Congress Is Considering One Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e8708e7eb32416ee30f86dd9712b9cc7024f4ef8dc660df4051aa39346486d6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Musk's trillionaire status",
-      "headline": "Elon Musk Is Now the World's First Trillionaire. For Tesla Shareholders, the More Important Question Is What Comes Next.",
+      "confidence": 70,
+      "reason": "Investor interest",
+      "headline": "3 Genius Stocks I'm Buying Instead of the SpaceX IPO",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d18131bc6fc8e58d8a0800d52243c23318c7d2b4a39212a25b280c3b4de0e651",
+      "url": "https://finnhub.io/api/news?id=fff634b31b368b7066fd705ba8a6cf5af8145f0a82d5f0fafa4cd1ab550613d1",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "3 Genius Stocks I'm Buying Instead of the SpaceX IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fff634b31b368b7066fd705ba8a6cf5af8145f0a82d5f0fafa4cd1ab550613d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Can Rivian Beat Tesla in the Long Term?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk Is Now the World's First Trillionaire. For Tesla Shareholders, the More Important Question Is What Comes Next.",
           "source": "Yahoo",
@@ -42,14 +100,62 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI pact",
+      "headline": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a615536cf2aa9978251873e519d1b30717dbd985a77f5ce80fe9fc64031d750",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3a615536cf2aa9978251873e519d1b30717dbd985a77f5ce80fe9fc64031d750",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38773133b9813474014952359e7fc45f7cfc46a35bb6398191055fd4da1165a8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Citi resets AMD stock price target on key move",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9cbc8590d75ded6c3f292092bdc1f719fc6a05addd2b188a5624803dc8e6deec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=dc57b741c83dc36f90364a70dbb552689bbb59eadd79b1f0cd4aa80ebfada3e7",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 3,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 40,
+      "confidence": 60,
       "reason": "AI expansion",
       "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
       "source": "Yahoo",
@@ -79,65 +185,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1fd55b400c177296ccfd2ec56343199c4db7e71cde1d784a108c2e01979ed46",
           "used_by_ai": true
-        },
-        {
-          "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "AI chip pact",
-      "headline": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38773133b9813474014952359e7fc45f7cfc46a35bb6398191055fd4da1165a8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38773133b9813474014952359e7fc45f7cfc46a35bb6398191055fd4da1165a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Citi resets AMD stock price target on key move",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9cbc8590d75ded6c3f292092bdc1f719fc6a05addd2b188a5624803dc8e6deec",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dc57b741c83dc36f90364a70dbb552689bbb59eadd79b1f0cd4aa80ebfada3e7",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 30,
-      "reason": "Billionaires' interest",
+      "confidence": 50,
+      "reason": "Investor interest",
       "headline": "Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=38ba55ea365faf063427846c50d2297702a547ca93fbdd733d80714899c944df",
@@ -179,56 +238,10 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "IPO discussion",
-      "headline": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e038bdcfdecdfa757f6d0d2d65ae9c45e5ea5230eebc333ffb491342b9ca76e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e038bdcfdecdfa757f6d0d2d65ae9c45e5ea5230eebc333ffb491342b9ca76e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can Rivian Beat Tesla in the Long Term?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Nvidia Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7ed751a212d768901c2f5783d8020e4e0322599c05fcb953f32e4e6c16fbbb3f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oracle's Stock Is Plummeting. Is This an Opportunity or a Red Flag?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=482c278ae0c9f81c48462afbf0bbec10fd76dc0bf995e69208939eff8d1a68af",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Want a Lifetime of Passive Income? Buy Coca-Cola in June and Never Sell.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad50a1a10fe7e6b72a885efc9d5e5bc2bbddf2b8a0c1b385122e2c09fa32b304",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 20,
+      "confidence": 40,
       "reason": "Market rally",
       "headline": "S&P 500 Snapshot: Late Week Rally Pushes Index Into Green",
       "source": "SeekingAlpha",
@@ -258,16 +271,10 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5928d2d5608da151597cda7f7b9232523d298491c7a13e5ea102d498334054d5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Russell 1000 And S&P 500 - Same Lane, Different Construction",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c12addb6f0e9ed51b50b4b38e0e6b7bb140fa4d06c2309442ad3ad88ca21d327",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
+        "SeekingAlpha": 2,
         "Yahoo": 2
       }
     }
