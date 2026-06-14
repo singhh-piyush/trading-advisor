@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T19:43:58Z",
+  "updated_at": "2026-06-14T21:13:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,68 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI growth potential",
+      "headline": "NVIDIA (NVDA): AI Factory Demand Shows How Growth Can Stay High Without Balance Sheet Strain",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=beddcc50fe5d019a166e53becbecdeb10c320fc7a56f4d6c36f087ca0662ffca",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVIDIA (NVDA): AI Factory Demand Shows How Growth Can Stay High Without Balance Sheet Strain",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=beddcc50fe5d019a166e53becbecdeb10c320fc7a56f4d6c36f087ca0662ffca",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Asserts NVIDIA (NVDA), Not SpaceX, Is The \u201cKey\u201d To The Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=312932f2ba8a799a6c85a9df8dc927252d407d146bccb4390be9778b89c5193f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Better AI Cloud Stock: Microsoft or Amazon?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d466175eb312d23c5da8e259d1ebcdac6fab281ed413e5f31633f7cff51a6847",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Vertiv (VRT): Digital Twin Work Shows How AI Factories Are Becoming an Infrastructure Story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bb73a405c27b86371a0f862259c897a8432bb8cce4c22af22ef3f6c01e5afefc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Best Altcoins to Buy in 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b1f0d1936d3693aa735a5dcde66d2cb06fe819ddec85214c7457d02222e5072",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Elon Musk's net worth soaring",
-      "headline": "Elon Musk Is A Stone's Throw Away From Becoming The World's First Trillionaire As SpaceX IPO Sends His Net Worth Soaring",
+      "confidence": 70,
+      "reason": "Musk's net worth increase",
+      "headline": "Will Elon Musk Merge SpaceX And Tesla In 2026? Crypto Prediction Market Isn't Ruling Out The Possibility",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a37b9853eb8fb1eb9df39adbc099a1d6f1f4b8b489fd6432e25147b75bb6aa4",
+      "url": "https://finnhub.io/api/news?id=688118d45726996a5bda8a1c3cb9bce3eec3b81c85f78ea99a91a0fe8051de89",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Will Elon Musk Merge SpaceX And Tesla In 2026? Crypto Prediction Market Isn't Ruling Out The Possibility",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=688118d45726996a5bda8a1c3cb9bce3eec3b81c85f78ea99a91a0fe8051de89",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk Is A Stone's Throw Away From Becoming The World's First Trillionaire As SpaceX IPO Sends His Net Worth Soaring",
           "source": "Yahoo",
@@ -39,62 +91,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=08e6d3da564e6eff0cce635d6ac7d205d4b266b36351029a90dead4bc68c372d",
           "used_by_ai": false
-        },
-        {
-          "headline": "Rivian CEO reveals a costly mistake EV rivals keep making",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc3fb054538d1c0552d3aed74b439fe2cdd114c8f54bf85c07e499a67edce300",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Dividend growth",
-      "headline": "1 Plain-As-Day Dividend King to Buy on the Dip That Has Hiked Its Payout for 70 Consecutive Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bfb18b0f4eaffb71c3a4076448df823f8cc7b51d60671fd8e5c0841552dc0d80",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "1 Plain-As-Day Dividend King to Buy on the Dip That Has Hiked Its Payout for 70 Consecutive Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bfb18b0f4eaffb71c3a4076448df823f8cc7b51d60671fd8e5c0841552dc0d80",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Top Consumer Stocks Building Durable Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb73c9d7266ca073653a46b9d98c40a150ff670b073976e8e028f440e8c12b6e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget SCHD: This Monthly Dividend Grower Out-Returned It by 38% Over the Last Decade",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f76be8e797b8fed32cd104e055365093830611e2d5b92eba0007a62005bd2de",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gold vs. the S&P 500: With Inflation at a 3-Year High, Which Does History Say Wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4d78942ed407a3ad146df0defadd901e4a8eb4fde8e8098e384f4f90022c6b5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Gasoline Prices Are Still High, but This Inflation Reading Could Be Even More Worrisome for Nike Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=996ad71a574f03ab616b054b6853ea04879440e43c8dd6ffaa1021a0943a2617",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     },
     {
@@ -102,52 +102,52 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "Cloud and AI focus",
-      "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
+      "reason": "AI and cloud growth",
+      "headline": "monday.com (MNDY): AI Work Platform Shift Shows Why Workflow Automation Could Extend Growth",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
+      "url": "https://finnhub.io/api/news?id=20df026c8721c5b35a4edff6a9e20921d600e31c9235581ff95893dd57f077e4",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "monday.com (MNDY): AI Work Platform Shift Shows Why Workflow Automation Could Extend Growth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20df026c8721c5b35a4edff6a9e20921d600e31c9235581ff95893dd57f077e4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Thinks Microsoft (MSFT) Doesn\u2019t Need $100 Billion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c850898a9a84ea04ce4f681956e3d3418bde14c9751496d138c91dcef430856b",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft Weighs Xbox Restructuring As Investors Focus On Cloud And AI",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=43688fd5cb6a213d55dddd169f96ae8b5607883f1d2ae9e692f62fe2ab0893e9",
           "used_by_ai": true
-        },
-        {
-          "headline": "Is IREN (IREN) Quietly Rewriting Its AI Infrastructure Story With Microsoft-Backed GPU Financing?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3534b0b740ff3b2b165fe2a048f2eae163e7cbd655bf3eb308f25eda1056b2e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bill Ackman Likes This Indirect AI Play Everyone\u2019s Ignoring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98eb732c63296e107e6bfbee81d9f9dcc6ab7303f9bb2528a819c722f5f2843a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Cloud Computing Stocks to Load up on in June",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e2bdf904df8815968b37e9605aa24c14071c8293dbfc0f17d6c18a4eccdba95",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 50,
-      "reason": "WWDC news",
-      "headline": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock?",
+      "reason": "Supply chain issues",
+      "headline": "Indian Pollution Probe Tests Apple Supply Chain And Valuation Gap",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e117f59c52474840f3951e90f881e01b561c354becbe0f5831538d5a0d96c0f2",
+      "url": "https://finnhub.io/api/news?id=da30445794d0fdcf43a245116e8a2163b753d8b27366da7ba760f2bfa1639f78",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Indian Pollution Probe Tests Apple Supply Chain And Valuation Gap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da30445794d0fdcf43a245116e8a2163b753d8b27366da7ba760f2bfa1639f78",
+          "used_by_ai": true
+        },
         {
           "headline": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock?",
           "source": "Yahoo",
@@ -174,7 +174,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -183,11 +183,17 @@
       "direction": "up",
       "confidence": 50,
       "reason": "AI chip pact",
-      "headline": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3a615536cf2aa9978251873e519d1b30717dbd985a77f5ce80fe9fc64031d750",
+      "headline": "Xbox fans waiting on Project Helix get unexpected news from Wedbush",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4eed28cd25bd8aa74827dacc968ab71b1659dd68d7b4ff9c4a7b75f13ac136e9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Xbox fans waiting on Project Helix get unexpected news from Wedbush",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4eed28cd25bd8aa74827dacc968ab71b1659dd68d7b4ff9c4a7b75f13ac136e9",
+          "used_by_ai": true
+        },
         {
           "headline": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
           "source": "SeekingAlpha",
@@ -211,17 +217,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9cbc8590d75ded6c3f292092bdc1f719fc6a05addd2b188a5624803dc8e6deec",
           "used_by_ai": true
-        },
-        {
-          "headline": "Xbox fans waiting on Project Helix get unexpected news from Wedbush",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4eed28cd25bd8aa74827dacc968ab71b1659dd68d7b4ff9c4a7b75f13ac136e9",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -229,12 +229,18 @@
       "company": "",
       "direction": "down",
       "confidence": 40,
-      "reason": "Hawkish Fed",
-      "headline": "The Fed May Have A Hawkish Surprise For Markets This Week",
+      "reason": "Market volatility",
+      "headline": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3f6598ba8b2ce0a16c4f13c6abf544d4b0e2bf7d8d0888d26ee319e900396f0d",
+      "url": "https://finnhub.io/api/news?id=aa68b31d54c322ed3fb4cf6cc3186ddb7627c9881ea4c8536b6619e64361fd68",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aa68b31d54c322ed3fb4cf6cc3186ddb7627c9881ea4c8536b6619e64361fd68",
+          "used_by_ai": true
+        },
         {
           "headline": "The Fed May Have A Hawkish Surprise For Markets This Week",
           "source": "SeekingAlpha",
@@ -257,12 +263,6 @@
           "headline": "FOMC Chair Warsh Won't Cut Rates Soon, A More Hawkish Fed Looms",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b9c22a93ddaababf09aa5d8fc56d51a84b21debdcd50e7522ba8349f5a688a90",
-          "used_by_ai": true
-        },
-        {
-          "headline": "May Inflation Print: Why The 4.2% Headline Is An Oil Story",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b298e57cc3f60fb1e2380925df9d81db709a9f687ffbed7ff7650f7bdb165550",
           "used_by_ai": true
         }
       ],
