@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T01:43:28Z",
+  "updated_at": "2026-06-14T06:41:35Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,44 @@
   "sample": false,
   "items": [
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Musk's trillionaire status",
+      "headline": "Elon Musk Is Now the World's First Trillionaire. For Tesla Shareholders, the More Important Question Is What Comes Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d18131bc6fc8e58d8a0800d52243c23318c7d2b4a39212a25b280c3b4de0e651",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Is Now the World's First Trillionaire. For Tesla Shareholders, the More Important Question Is What Comes Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d18131bc6fc8e58d8a0800d52243c23318c7d2b4a39212a25b280c3b4de0e651",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Former Tesla board member issues candid message on SpaceX stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 40,
       "reason": "AI expansion",
       "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
       "source": "Yahoo",
@@ -26,6 +60,12 @@
           "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
           "used_by_ai": true
         },
         {
@@ -45,58 +85,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
           "used_by_ai": true
-        },
-        {
-          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI demand",
-      "headline": "NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34b95f509b3220ed8055d18dff619307b3b9f70cfab9b48bbbb660f787eb7974",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=34b95f509b3220ed8055d18dff619307b3b9f70cfab9b48bbbb660f787eb7974",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Palantir Stock Ripe for a Rebound?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6d3a158f02667e4e744409b998d90c5473488d8b219326da48f9fe9b38983107",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Micron Reports Earnings June 24. Here's the One Number That May Make or Break the Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3863521d3c466475d91dfca36cfba5bb90f8635200b80f32d60c99201081c060",
-          "used_by_ai": false
-        },
-        {
-          "headline": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=52c15eed3b45965efa0a65ac309341587be7e1d1e8ba69dbd7dd6cd462ded1f3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38e5fcf5847619c4ed0459bf3103ad834b3b6578d02047c92151b89ec4ce4aba",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -107,13 +95,19 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Key move",
-      "headline": "Citi resets AMD stock price target on key move",
+      "confidence": 30,
+      "reason": "AI chip pact",
+      "headline": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
+      "url": "https://finnhub.io/api/news?id=38773133b9813474014952359e7fc45f7cfc46a35bb6398191055fd4da1165a8",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38773133b9813474014952359e7fc45f7cfc46a35bb6398191055fd4da1165a8",
+          "used_by_ai": true
+        },
         {
           "headline": "Citi resets AMD stock price target on key move",
           "source": "Yahoo",
@@ -127,16 +121,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Should You Look for the \u201cNext Nvidia\u201d \u2014 or Just Buy the Real Thing?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe13ffa10c9513db51e3f7ac096fe1e3966788761fb915a898c714dcdb1af4de",
-          "used_by_ai": true
-        },
-        {
           "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=dc57b741c83dc36f90364a70dbb552689bbb59eadd79b1f0cd4aa80ebfada3e7",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -148,7 +136,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 30,
       "reason": "Billionaires' interest",
       "headline": "Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens",
       "source": "Yahoo",
@@ -191,57 +179,68 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "SpaceX IPO",
-      "headline": "Former Tesla board member issues candid message on SpaceX stock",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "IPO discussion",
+      "headline": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
+      "url": "https://finnhub.io/api/news?id=0e038bdcfdecdfa757f6d0d2d65ae9c45e5ea5230eebc333ffb491342b9ca76e",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Former Tesla board member issues candid message on SpaceX stock",
+          "headline": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
+          "url": "https://finnhub.io/api/news?id=0e038bdcfdecdfa757f6d0d2d65ae9c45e5ea5230eebc333ffb491342b9ca76e",
           "used_by_ai": true
         },
         {
-          "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+          "headline": "Can Rivian Beat Tesla in the Long Term?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
+          "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
           "used_by_ai": true
         },
         {
-          "headline": "Mark Cuban Was Once Richer Than Elon Musk And Jeff Bezos Combined\u2014 But The Reason He 'Didn't Care' Will Surprise You: 'I Was Trying To Win With...'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9040fe14894cc484e2f70f3f52b73e5787af5d3f27b93ea1799e3e452c2ca6fc",
+          "headline": "Is Nvidia Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ed751a212d768901c2f5783d8020e4e0322599c05fcb953f32e4e6c16fbbb3f",
           "used_by_ai": true
         },
         {
-          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
+          "headline": "Oracle's Stock Is Plummeting. Is This an Opportunity or a Red Flag?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
+          "url": "https://finnhub.io/api/news?id=482c278ae0c9f81c48462afbf0bbec10fd76dc0bf995e69208939eff8d1a68af",
           "used_by_ai": true
+        },
+        {
+          "headline": "Want a Lifetime of Passive Income? Buy Coca-Cola in June and Never Sell.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad50a1a10fe7e6b72a885efc9d5e5bc2bbddf2b8a0c1b385122e2c09fa32b304",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 30,
-      "reason": "Market performance",
-      "headline": "SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=292a6abccbb8b3f55bc8028d2f08801580d9bf1a6cdbe66856fe7eb883144b57",
+      "confidence": 20,
+      "reason": "Market rally",
+      "headline": "S&P 500 Snapshot: Late Week Rally Pushes Index Into Green",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=14ff3a9b3da1f94a551c4bab5d2b9854b8b7bc3ef0841452802225f2728e8162",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "S&P 500 Snapshot: Late Week Rally Pushes Index Into Green",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=14ff3a9b3da1f94a551c4bab5d2b9854b8b7bc3ef0841452802225f2728e8162",
+          "used_by_ai": true
+        },
         {
           "headline": "SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
           "source": "Yahoo",
@@ -265,18 +264,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=c12addb6f0e9ed51b50b4b38e0e6b7bb140fa4d06c2309442ad3ad88ca21d327",
           "used_by_ai": true
-        },
-        {
-          "headline": "Anthropic Announced Late Friday, US Export Control Directive Requires Suspension Of Fable 5 And Mythos 5 Access For Foreign Nationals, Prompting Service Disablement For All Customers; Access To Other Anthropic Models Unaffected",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3d307fc8b92a685e3f5877099049cdcd7029a0a1ea0bf40baed7044383230be7",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2,
-        "Benzinga": 1
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
