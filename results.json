@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T23:04:41Z",
+  "updated_at": "2026-06-14T01:43:28Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 65,
-      "reason": "AI cloud expansion",
+      "confidence": 70,
+      "reason": "AI expansion",
       "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
@@ -26,12 +26,6 @@
           "headline": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7720a35e9a7ff43387876b082d69c6c4a005792bbc803638aab300c2b65eeed8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
           "used_by_ai": true
         },
         {
@@ -51,6 +45,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2958603439d55f3704af7681b24baf9afc773a30216c94ce074c95e3e790360c",
           "used_by_ai": true
+        },
+        {
+          "headline": "Truist Reiterates \u201cBuy\u201d Rating On Meta Platforms (META) With $840 PT",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de1eb89e0cd71a536a0df5ef00c8a1f7b9f984629c421888965b9db96ce39f7b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -59,44 +59,44 @@
     },
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "NVIDIA",
       "direction": "up",
       "confidence": 60,
-      "reason": "Cryptocurrency use case",
-      "headline": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
+      "reason": "AI demand",
+      "headline": "NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52c15eed3b45965efa0a65ac309341587be7e1d1e8ba69dbd7dd6cd462ded1f3",
+      "url": "https://finnhub.io/api/news?id=34b95f509b3220ed8055d18dff619307b3b9f70cfab9b48bbbb660f787eb7974",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=34b95f509b3220ed8055d18dff619307b3b9f70cfab9b48bbbb660f787eb7974",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Palantir Stock Ripe for a Rebound?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6d3a158f02667e4e744409b998d90c5473488d8b219326da48f9fe9b38983107",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Micron Reports Earnings June 24. Here's the One Number That May Make or Break the Stock.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3863521d3c466475d91dfca36cfba5bb90f8635200b80f32d60c99201081c060",
+          "used_by_ai": false
+        },
         {
           "headline": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=52c15eed3b45965efa0a65ac309341587be7e1d1e8ba69dbd7dd6cd462ded1f3",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=38e5fcf5847619c4ed0459bf3103ad834b3b6578d02047c92151b89ec4ce4aba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8af540a1b63ae29e4b6bc2b46055ea6fb311a1d71bc75ed6966eacb1a0119be4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Things to Watch This Week That Could Heavily Impact How the S&P 500 Does From Here on Out",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e39edcdfd99b006222560d0fc4a3c5c049994b50b464a050d5d6ee02359de82e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f1bf7aa88888fa7f14395884864c56776c7caaf53591559f46d695a1c407f7b",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -107,8 +107,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 55,
-      "reason": "GPU financing facility",
+      "confidence": 50,
+      "reason": "Key move",
       "headline": "Citi resets AMD stock price target on key move",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
@@ -127,57 +127,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dc57b741c83dc36f90364a70dbb552689bbb59eadd79b1f0cd4aa80ebfada3e7",
-          "used_by_ai": true
-        },
-        {
           "headline": "Should You Look for the \u201cNext Nvidia\u201d \u2014 or Just Buy the Real Thing?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fe13ffa10c9513db51e3f7ac096fe1e3966788761fb915a898c714dcdb1af4de",
           "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "SpaceX IPO selling",
-      "headline": "Former Tesla board member issues candid message on SpaceX stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Former Tesla board member issues candid message on SpaceX stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
-          "used_by_ai": true
         },
         {
-          "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Mark Cuban Was Once Richer Than Elon Musk And Jeff Bezos Combined\u2014 But The Reason He 'Didn't Care' Will Surprise You: 'I Was Trying To Win With...'",
+          "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9040fe14894cc484e2f70f3f52b73e5787af5d3f27b93ea1799e3e452c2ca6fc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=dc57b741c83dc36f90364a70dbb552689bbb59eadd79b1f0cd4aa80ebfada3e7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -189,8 +148,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 45,
-      "reason": "Billionaires' opinion",
+      "confidence": 50,
+      "reason": "Billionaires' interest",
       "headline": "Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=38ba55ea365faf063427846c50d2297702a547ca93fbdd733d80714899c944df",
@@ -232,10 +191,51 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "SpaceX IPO",
+      "headline": "Former Tesla board member issues candid message on SpaceX stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Former Tesla board member issues candid message on SpaceX stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mark Cuban Was Once Richer Than Elon Musk And Jeff Bezos Combined\u2014 But The Reason He 'Didn't Care' Will Surprise You: 'I Was Trying To Win With...'",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9040fe14894cc484e2f70f3f52b73e5787af5d3f27b93ea1799e3e452c2ca6fc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO\u2014Ross Gerber Says Investors Treating It Like 'Free Money'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
+      "confidence": 30,
       "reason": "Market performance",
       "headline": "SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
       "source": "Yahoo",
