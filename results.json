@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T00:09:20Z",
+  "updated_at": "2026-06-15T05:36:53Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,47 +8,97 @@
     "AMD",
     "SPY"
   ],
-  "count": 8,
+  "count": 6,
   "sample": false,
   "items": [
-    {
-      "ticker": "XLE",
-      "company": "",
-      "direction": "down",
-      "confidence": 80,
-      "reason": "Oil price drops",
-      "headline": "Oil slips over 4% after US, Iran reach peace deal, reopen Strait of Hormuz - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",
-      "on_watchlist": false,
-      "articles": [
-        {
-          "headline": "Oil slips over 4% after US, Iran reach peace deal, reopen Strait of Hormuz - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 1
-      }
-    },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Peace deal hopes",
-      "headline": "Peace Hopes Revive Rally",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=53e3ce72b636a03031f7dcd645d5da9f8137a39d234f2b42731035c0332d425d",
+      "confidence": 80,
+      "reason": "US-Iran peace deal",
+      "headline": "G7 leaders meet in France after U.S. and Iran declare agreement to end war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGtVRXdXck12Y2VTLVJSaTBZOHBwcElNZWE4SGs3TS1OeEh0QVhsQTM3cjE3S2JuQktheXJxQzhob3F2c0xJakRBeld1TElLaTg5OUFoYlEyMDVWaWdWWENMbE1QVUd2NDUxZWFJN1VISE5sdk9CZXFyYmhWSFBZTW1zbXRGOUF0MzREYk5NLXNqNllIWkhlMENVZ2NfSlZmc2I2dTUtMjBmTm5wWTdF?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Peace Hopes Revive Rally",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=53e3ce72b636a03031f7dcd645d5da9f8137a39d234f2b42731035c0332d425d",
+          "headline": "G7 leaders meet in France after U.S. and Iran declare agreement to end war - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGtVRXdXck12Y2VTLVJSaTBZOHBwcElNZWE4SGs3TS1OeEh0QVhsQTM3cjE3S2JuQktheXJxQzhob3F2c0xJakRBeld1TElLaTg5OUFoYlEyMDVWaWdWWENMbE1QVUd2NDUxZWFJN1VISE5sdk9CZXFyYmhWSFBZTW1zbXRGOUF0MzREYk5NLXNqNllIWkhlMENVZ2NfSlZmc2I2dTUtMjBmTm5wWTdF?oc=5",
           "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Climb While Oil Slides As US-Iran Deal Signals End To Hormuz Disruption: DJT, NFLX, GLXY, SPCX In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf2abf739931cb2781253a78763451d2a5b2f2ae24db63b97b60ae5e8015e1a6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dollar hits 10-day low as US, Iran reach peace deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejMtS3JFZU9GNXp1dF9iVjU3V0hyWDQ1M0Y2NEZlbVFyd3JQXzVCek5kbEdIRHltT1RiX0cza051RzJVUm1neDQ3Q3V6SGJIVE9LVnRNNGFKR1JXTXRjNmMtLTdqNGh1SFhpTzE0ajN5aU9jUG0xUG44dTVEYVdFWFpuQXZpX2NKek5tMGtLZmFVeGItV0xjM3NOc2JCNUZqMURPVDNfMXZRNzBi?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Gold extends gains after US, Iran reach peace deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDRBZ2VtTERRLW5oS1J0MVZvWlJBTkNiNFJpcGJ2RmM1bmYwQXMtMWI1dlFVb1ptZGpNYURkZ0VGaFRZeFNPZ3NMZkVRMzZTV2hfYTlXOFFQMUpDQ0c5bnFjeXR5bDlXYlRXVFlvR3NUNkRBNklJT2wwREhMN2I4aXhNMHp4SnBoS1lnR1NjaDhvcUl1R2pULW5PbE4?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Global leaders react to announcement of US-Iran peace agreement - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHhmT0tyLWlGWWFSeU5NbDBDQmxIbHhRa2tJbGp1UDdBWGFHcmctYXJlYkJXWHJwSE03QVp2Y0JHWkdVT0oxSnJUVDlYWG5JSGEyOWQ0aGtQT2lkYmtKN3B2WGo3UnoxMnZObUR4T1FMREYyczRwRjFvMmJZQ21Ec1VLSlFvYzdIQ01OanA4aG9jMzA4WDl5RXNua1Q1VUxGN2htaVAycU54b01CaW1TQg?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "VIEW Markets cheer Iran deal, wait for oil to start flowing - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekFXV000NkZNcENYOUdVVmtPaUhVUWxmbF80U3R2VkQ0UWt2RFJIc2hDUkhZVjc3bGs2WU05WnJueVFWUEt3akdNTWVrakVPb3lMQ1NrcjI2Q3Q5NDZlaFFaZzdCWE80Q0RDaDJKemRWSkxFcFJKRTg3NVAzT01LZGQtVkphVEprcEtZWTNQWk1Qbms3aFB4c0ZSTi1PaExv?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdl9QNzQwRkp1UnY0alA3UGVJUENYYm9zbDhFUUw4dUJud09TNVFfS1IyOS04YU9aR25qYlM4Ukx0YzkwRDdaam0zYVg2N1B3OHBuN0ZVc2tBQm1JN2dCQnplUWU2S0wtckItUzJWbXdQZkJMcVhtSlU2TFl3c0cwOERyRnhVc0pvajlQLTRLcXZqTG95LVlfZlZRaDE0eUZhSllRTjZHaV9IOG40dURvRU4zZHdTcUpx?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Shares surge, oil slides in Asia on Gulf deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEFOMl9uakdZcWkxTFkyRVlFajFnMkZUc3NOOF9aVk9zSlJGQWg0eDVQdmlNQWlROC1leXlZWkVuNDduSHlUUFc1RGhhRm5oYXdMUDlLZXlpTUJhYXJ4MThLT2EydUswRE0wa0syaGh4STg3bXJ3RW1UbmRRNGVLNjRFbw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fragile Iran deal offers oil relief, but Hormuz risks remain - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOem9oczdpbjhOR2dvaVAzM3dKUnRqZXMyNVBSVUJSOUd4WkcxOW1JR0tuVFRYbDR3WW9Rbnpfa0JIZUh0c0xGRkxIdHRXLWx6VGZzbWZXMTBBdmpOYjdkSVR4cTFLZUhoamdsTTd2bS1XMUFPQ3ctRE9lbXRjNXBZZ0pvdU9IdHhfVDFaZWxqckN4OUNRNUg3RXMtcldaR2ZIWlU1eU5XZmhhakFFZlVVYU5fcXNrTUNRSEdGWlhfaG9rZw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil slips $4 as US, Iran reach peace deal to reopen Strait of Hormuz - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US, Iran reach preliminary agreement to end war, signing set for Friday - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkM0aHUzN3lFUGRoNGhaYnA0aXFMTVdPYUlUWXlocnpiZUZCUWhZbFNoTDVSNGJVbTM2bnN0aUdXaXUtYjBzX21SX2xoUjFwWUgyMDNsNVhwS1NMekItUDFGYmxoRXAyNzlUekpFTjVUU2Y2aWZTajVGV3JvcllPVXRub2lJZUFSVElrbk1ncEt1YjRnZEFLRFN4V293cW8xYTFULU93MkRBc3g2LU4wbktn?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Pakistan PM says US and Iran reach peace deal after talks - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUthaUJqamFrd2Zqemd1dFN0Qlh5Y1A2amdaWkpJSVpqcVJCN044cmlydy1LaEFhSXZmX3Fqek02cXZYcGRnQlhBQ2pka3ZRbEJCbnd2NUpvMGdPNWZhV1lRN01SNHBUQllnamladm9aNWt3QktmZERSSWdvTUxFX01veVZBcWEzbHBDR3pwcWFEODk5elVPdEZRQklYN19OaU1JUEJQd3hlNzE5?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "GPIX: Retirees Don't Need The 4% Rule With This Monthly Income ETF",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ee796842d512a8cf0aa4a772124340c4f9ae34f5c56ea049df54c3f702ddf3b4",
+          "used_by_ai": false
         },
         {
           "headline": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
@@ -61,83 +111,77 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3f6598ba8b2ce0a16c4f13c6abf544d4b0e2bf7d8d0888d26ee319e900396f0d",
           "used_by_ai": false
-        },
-        {
-          "headline": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=827bbf4887e7f6fd7f819e43d7377d19ba92b1f9d169cdc1967520d5778b3fbf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "FOMC Chair Warsh Won't Cut Rates Soon, A More Hawkish Fed Looms",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b9c22a93ddaababf09aa5d8fc56d51a84b21debdcd50e7522ba8349f5a688a90",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Yahoo": 1
+        "Reuters": 11,
+        "Yahoo": 1,
+        "SeekingAlpha": 3
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Hawkish Fed",
-      "headline": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=aa68b31d54c322ed3fb4cf6cc3186ddb7627c9881ea4c8536b6619e64361fd68",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Merger talk and robotaxi upside",
+      "headline": "Tesla Shareholders 'Don't Like Table Scraps' \u2014 Bulls Make Case Against SpaceX Merger, See Up To 800% Upside On Robotaxi And Optimus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e26d536b343296238f373ff82c6f5ebf494c8788a14f97d50a496ad292226bfd",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "S&P 500: Setting Up The Second Leg Lower (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=aa68b31d54c322ed3fb4cf6cc3186ddb7627c9881ea4c8536b6619e64361fd68",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Fed May Have A Hawkish Surprise For Markets This Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3f6598ba8b2ce0a16c4f13c6abf544d4b0e2bf7d8d0888d26ee319e900396f0d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "FOMC Chair Warsh Won't Cut Rates Soon, A More Hawkish Fed Looms",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b9c22a93ddaababf09aa5d8fc56d51a84b21debdcd50e7522ba8349f5a688a90",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
+          "headline": "Tesla Shareholders 'Don't Like Table Scraps' \u2014 Bulls Make Case Against SpaceX Merger, See Up To 800% Upside On Robotaxi And Optimus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=827bbf4887e7f6fd7f819e43d7377d19ba92b1f9d169cdc1967520d5778b3fbf",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=e26d536b343296238f373ff82c6f5ebf494c8788a14f97d50a496ad292226bfd",
+          "used_by_ai": true
         },
         {
-          "headline": "Peace Hopes Revive Rally",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=53e3ce72b636a03031f7dcd645d5da9f8137a39d234f2b42731035c0332d425d",
-          "used_by_ai": false
+          "headline": "Elon Musk Rejects Claims Government Support Built TSLA And SPCX \u2014 Says Trump\u2019s EV Credit Cuts Sent More Buyers To Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1faa86e951b58df96ad2e47771b15c24c3e3bb0ccb6544a84a49687af5d28de4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Says SpaceX Could Put One Million Tons Of Payload In Orbit Within The Next Five Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f38232221983af4b2681cf6cc101ade52e6107a9e1f886e3b533e86c6b478ce",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Merger Talk With SpaceX Reshapes AI And Investor Outlook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=48517a66837cfba22a8037a987e192ff2f9f3f0e6a88d5a913d9ef55601711a6",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Yahoo": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "Longtime SpaceX Investor Cathie Wood Made This Move on IPO Day. Should You Follow?",
+      "confidence": 60,
+      "reason": "Chip stocks rising",
+      "headline": "Why NVDA, MU, INTC, Other Chip Stocks Are Rising In Overnight Trading",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1847336f71391b01758ba1129f58044446af475aed47b61f72cb014124d0ab2",
+      "url": "https://finnhub.io/api/news?id=823c8f9ee5637f89e9e228a565252eb9dcdf1a686c500629876f9c5955be0951",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Why NVDA, MU, INTC, Other Chip Stocks Are Rising In Overnight Trading",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=823c8f9ee5637f89e9e228a565252eb9dcdf1a686c500629876f9c5955be0951",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on the FF EAI Robotics Education Ecosystem Strategy, Product Line & New EAI Device Launch Happening at Its Los Angeles HQ on June 16",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39c0554ea36ad314e65f67e95486ee0e925741b3b0532b4740b1291257411164",
+          "used_by_ai": true
+        },
         {
           "headline": "Longtime SpaceX Investor Cathie Wood Made This Move on IPO Day. Should You Follow?",
           "source": "Yahoo",
@@ -149,18 +193,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=82726cd2fd571f792454810711eadd933b515b9b181a1540b366f0b602584027",
           "used_by_ai": true
-        },
-        {
-          "headline": "Tech Shakeup on the S&P 500",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe846ccd9aae829cd64473d2dbecdf3c80eb95b64992f9f78c0c2fb804b8e8a0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should You Buy VOO While the Market Is Near All-Time Highs?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=72d6380da3ef4246133ace691bedead3d438dc8f2a01b619e21da3327a92f70b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -170,9 +202,9 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI potential",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI narrative and supply chain",
       "headline": "Alphabet Ties Search AI And Mobility Closer To Revenue Potential",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=87161b0aaebcb141349ac4d3629212a66727c6eb9f44e8f1411e4a748a182118",
@@ -214,51 +246,11 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Merger talk",
-      "headline": "Tesla Merger Talk With SpaceX Reshapes AI And Investor Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48517a66837cfba22a8037a987e192ff2f9f3f0e6a88d5a913d9ef55601711a6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Merger Talk With SpaceX Reshapes AI And Investor Outlook",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=48517a66837cfba22a8037a987e192ff2f9f3f0e6a88d5a913d9ef55601711a6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Will Elon Musk Merge SpaceX And Tesla In 2026? Crypto Prediction Market Isn't Ruling Out The Possibility",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=688118d45726996a5bda8a1c3cb9bce3eec3b81c85f78ea99a91a0fe8051de89",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Car owners caught in government fight that could cost them big",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08e6d3da564e6eff0cce635d6ac7d205d4b266b36351029a90dead4bc68c372d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Is A Stone's Throw Away From Becoming The World's First Trillionaire As SpaceX IPO Sends His Net Worth Soaring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a37b9853eb8fb1eb9df39adbc099a1d6f1f4b8b489fd6432e25147b75bb6aa4",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "AI and investment story",
       "headline": "How Constellation\u2019s US$3.09 Billion Equity Raise And AI Power Deals At Constellation Energy (CEG) Has Changed Its Investment Story",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=41fe5406c3d2f17d78b5ff4161bf6e490abbecce1b66225ffda3e8a724164510",
@@ -302,9 +294,9 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Xbox news",
       "headline": "Xbox fans waiting on Project Helix get unexpected news from Wedbush",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4eed28cd25bd8aa74827dacc968ab71b1659dd68d7b4ff9c4a7b75f13ac136e9",
@@ -315,29 +307,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4eed28cd25bd8aa74827dacc968ab71b1659dd68d7b4ff9c4a7b75f13ac136e9",
           "used_by_ai": true
-        },
-        {
-          "headline": "Meta At 17x P/E: Investing Doesn't Get Any Easier",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3a615536cf2aa9978251873e519d1b30717dbd985a77f5ce80fe9fc64031d750",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38773133b9813474014952359e7fc45f7cfc46a35bb6398191055fd4da1165a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Citi resets AMD stock price target on key move",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc2f967d960e15b50f7b09d317564f52068a3851882a587c5fa0632ad6de62fc",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 1
       }
     }
   ]
