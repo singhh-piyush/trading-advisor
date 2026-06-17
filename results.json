@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T23:05:12Z",
+  "updated_at": "2026-06-17T02:01:50Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -14,24 +14,156 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "down",
+      "direction": "up",
       "confidence": 80,
-      "reason": "Stark warning",
-      "headline": "In 6 Words, Fed Governor Lisa Cook Issued a Stark Warning to Wall Street",
+      "reason": "Multiple AI-related headlines",
+      "headline": "Why Newmont Stock Bumped Higher Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53b80431097c83354bad177851510b14ba417407a9528f9c2f88cd41bdb56f07",
+      "url": "https://finnhub.io/api/news?id=6c4e9062644e2f61adab0aaea38e4270c05d54a11ce669327315c3b02a1844cc",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "In 6 Words, Fed Governor Lisa Cook Issued a Stark Warning to Wall Street",
+          "headline": "Why Newmont Stock Bumped Higher Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53b80431097c83354bad177851510b14ba417407a9528f9c2f88cd41bdb56f07",
+          "url": "https://finnhub.io/api/news?id=6c4e9062644e2f61adab0aaea38e4270c05d54a11ce669327315c3b02a1844cc",
           "used_by_ai": true
         },
         {
-          "headline": "Why JPMorgan Chase Topped the Market on Tuesday",
+          "headline": "This Overlooked Growth Stock Is Absurdly Cheap Right Now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b52e0fe2b6ec723ea1ffee789885235aaa45c8a487247bdd8b4e6b661005934b",
+          "url": "https://finnhub.io/api/news?id=1f941dae626f97d228f0d2f9d360a0c75661a467ba262b53888cb2b4e6a49a30",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=669594dd036dfa46555a25fb85cb761d84f563b0d307be33d22f71624687ff89",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Netflix Stock Got Rocked Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d12ebb2c3bf2f496657e79f4bfb249e329d34cf479e71567d10b33061c46bb4",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI5 Chip development",
+      "headline": "The Latest Way BYD Is Topping Tesla",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Latest Way BYD Is Topping Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Declines More Than Market: Some Information for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80f41177a3e3cd834a8937274181d978bd3b408c414acad1c178bae57b57ffa2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Keeps Getting Richer. Here's How His Wealth Blew Past $1 Trillion.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2a0b85e6e93912c7bfca012e678ae58b6cd019cbcdc0cf8e68ee7b6e3522f7fa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why robotics will be the next great investment theme",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82f6bfbdade07e4b872240fa28f0d2c405ed1564a25e3553400078af3251d75f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Xbox Studios closure",
+      "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq and S&P 500 slip while Dow hits record high",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3009f9a3aa3ed96ae436b84f82813fe66cfe61b1cf3ec30672e39daeb66d1f04",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX surges past Amazon, briefly tops Microsoft in market cap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2cb8cb75493973191a7e3d88982691a8d13a7fcaaa38613449d75f310a0bcb1c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Surging SpaceX overtakes Amazon to become 5th biggest company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd5e67c8b87e1f4fd55425c65e606535190716474e1e952aee2699649823b1b2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Analysts' Top S&P 500 Stocks to Buy Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4cbfceb6d4dc8e0eafac073fc95a2b3e2c94073ebf054caea8818b467d8f7a93",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Market drop",
+      "headline": "AMD deal sparks Rackspace stock surge as company cuts jobs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=138b8778b32c11079429e616b792d6ac21c248ce7ec7c752645b94ad08f084b2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD deal sparks Rackspace stock surge as company cuts jobs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=138b8778b32c11079429e616b792d6ac21c248ce7ec7c752645b94ad08f084b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=55943649ea6b1f40942492f8a10438092898fb5ce4ce423a919c9ee8968f5620",
           "used_by_ai": true
         },
         {
@@ -41,16 +173,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Forget P&G: This Defensive Cash-Flow Powerhouse Just Beat Earnings and Is a Best Buy Today",
+          "headline": "Why Rackspace Rallied Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=384d55981c5dcf88197a2c66d63e89268cf1b15ac9b9dac8c7bcab0727cbc58f",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8841321d5addfbab096a23f02fc3eead3489cd6e12d8990865cee408aa441abd",
+          "used_by_ai": true
         },
         {
-          "headline": "How High Could Robinhood Stock Go in the Next Bull Market?",
+          "headline": "Micron Stock Falls From Record High. Where It Goes Next.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7241972c70598998102d69349cd6ad97047ae1eec8b884ce308c05c61861c4d",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ac8253ed78e2c3df80f335609e031c24f99d8ab1a8d843fc113d1abfb72e25e2",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -61,13 +193,19 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 40,
       "reason": "Italy DMA probe",
-      "headline": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness \u2014 SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
+      "headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06818dd8c2df152c48f01e48f872b3d1286d9611560a629c935eafd348cf16f6",
+      "url": "https://finnhub.io/api/news?id=614f27d6bd30d49f6283da0680a3606b428b369c03a81740f719b8b534c51249",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=614f27d6bd30d49f6283da0680a3606b428b369c03a81740f719b8b534c51249",
+          "used_by_ai": true
+        },
         {
           "headline": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness \u2014 SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
           "source": "Yahoo",
@@ -81,148 +219,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07ee9d81c64d34a9637fa3cd19487bbf0ce142b341d3e6cba2e870bb8ed569f3",
-          "used_by_ai": true
-        },
-        {
           "headline": "Snap unveils its $2,195 augmented reality glasses as rivalry with Meta heats up",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d951bee0c740eaad614fb9920bc77b3d54402685bdd795b98ced7ad88a0cea6e",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "What Trump's clamp down on Anthropic is signaling to rest of the world",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0c8973041d5262c94149de5e3e3765829c8c3dc098046e5a557298df565333b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "SpaceX market cap",
-      "headline": "SpaceX surges past Amazon, briefly tops Microsoft in market cap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cb8cb75493973191a7e3d88982691a8d13a7fcaaa38613449d75f310a0bcb1c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX surges past Amazon, briefly tops Microsoft in market cap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cb8cb75493973191a7e3d88982691a8d13a7fcaaa38613449d75f310a0bcb1c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Surging SpaceX overtakes Amazon to become 5th biggest company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd5e67c8b87e1f4fd55425c65e606535190716474e1e952aee2699649823b1b2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: Dow Logs Back-to-Back Record High in Mixed Session Ahead of Fed Decision",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=23d82234e03a73c125c929c8f08e4fa44df9ee0c18345d5b584b0e62b94f2747",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX passes Amazon as valuation balloons to $2.7T",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=997987fc060d5dfd8ee8d76117b983a64606d13d6e7c76a76d51a1a8c6d2c9bd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI compute deal",
-      "headline": "Why Rackspace Rallied Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8841321d5addfbab096a23f02fc3eead3489cd6e12d8990865cee408aa441abd",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Rackspace Rallied Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8841321d5addfbab096a23f02fc3eead3489cd6e12d8990865cee408aa441abd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "HPE Flexes Juniper Muscles In AI Networking At Discover Event",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3d378cf02b5e2f6ac2b7af04edf761e7e6af63edd6324eaa276697acce1e6c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD and Rackspace Sign 30 MW AI Compute Deal for Regulated Enterprises",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51b68a798637c56cdc6f07e7b0a256a617ba920e31d3bc2b62c0550cab905f83",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 movers",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0de2011d756c8b9e581be6fb96b33246d20ee15383ec522376ed064aa7683fab",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "SpaceX news",
-      "headline": "Why robotics will be the next great investment theme",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=82f6bfbdade07e4b872240fa28f0d2c405ed1564a25e3553400078af3251d75f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why robotics will be the next great investment theme",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f6bfbdade07e4b872240fa28f0d2c405ed1564a25e3553400078af3251d75f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Seeks Customer Backing To Oppose New Jersey Driverless Vehicle Bills",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b015762980a307535ddacd7ae6d5cb6d65f0b44f18fce264a3794033b01c91a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Just Delivered Fantastic News for ASML Stock Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e16477b9524156ce963ddf2d1440207c2a2917d5ee9702b2729c0df645a9ed4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What investors should know before hopping on SpaceX options trades",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9fcd4f65ed1a730bed0d33c66e7d7f8ca06df87fd7411ba7f10d52b4c2aa31f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Stock Faces Tesla-Style Crash Fears as $3 Trillion Valuation Sparks Debate",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c221a398244444ff58461c3ed6f8c698c5c2a889e00d12635799b38b14b12186",
           "used_by_ai": true
         }
       ],
@@ -234,13 +239,19 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Market melt up",
-      "headline": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
+      "confidence": 30,
+      "reason": "S&P 500 analysis",
+      "headline": "Nasdaq and S&P 500 slip while Dow hits record high",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2fbd9fbba588d5248494e52d03bd8a77066aaa97f69cd82b8d4bc457268a7d0",
+      "url": "https://finnhub.io/api/news?id=3009f9a3aa3ed96ae436b84f82813fe66cfe61b1cf3ec30672e39daeb66d1f04",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nasdaq and S&P 500 slip while Dow hits record high",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3009f9a3aa3ed96ae436b84f82813fe66cfe61b1cf3ec30672e39daeb66d1f04",
+          "used_by_ai": true
+        },
         {
           "headline": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
           "source": "Yahoo",
@@ -267,7 +278,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
+        "Yahoo": 3,
         "SeekingAlpha": 2
       }
     }
