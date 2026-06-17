@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T07:33:44Z",
+  "updated_at": "2026-06-17T12:16:44Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,43 +8,89 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Hon Hai Technology Group (Foxconn) Accelerates Global Leadership In AI Factories, Infrastructure At Europe's VivaTech",
+      "confidence": 80,
+      "reason": "Nvidia-backed company wins award",
+      "headline": "US awards $500 million to Nvidia-backed SandboxAQ for finding new chipmaking materials",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1881b29dfd93c23d18ef829afa2d1a93720c04464a433f3495d299082f5135a",
+      "url": "https://finnhub.io/api/news?id=a78d9dd7f9f3c3472b44ecd58d90267c8999157c7f641023783907c71d697cbe",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Hon Hai Technology Group (Foxconn) Accelerates Global Leadership In AI Factories, Infrastructure At Europe's VivaTech",
+          "headline": "US awards $500 million to Nvidia-backed SandboxAQ for finding new chipmaking materials",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1881b29dfd93c23d18ef829afa2d1a93720c04464a433f3495d299082f5135a",
+          "url": "https://finnhub.io/api/news?id=a78d9dd7f9f3c3472b44ecd58d90267c8999157c7f641023783907c71d697cbe",
           "used_by_ai": true
         },
         {
-          "headline": "Bull and Foxconn advance European AI infrastructure with NVIDIA Vera Rubin NVL72 platform built in Europe",
+          "headline": "Amazon vs. Alphabet: Which Magnificent Stock Is the Better Buy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2285f8c4a9102b4393599ce4ded33c66dddbf2b3d192b9bb28188fca513a560",
+          "url": "https://finnhub.io/api/news?id=908cbd8056e184cb163aa8c93954e2b9b99c30766114ce32327702c1c3b34df1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI Chips Update - Advancing European AI with Bull and Foxconn Collaboration",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4a59ff11acff47fabc0f30bf631a6b56dbf1879c15796ae5232606d13ef9e492",
+          "used_by_ai": false
+        },
+        {
+          "headline": "OpenAI\u2019s Financials Leaked. They\u2019re Not Bad, but They\u2019re Not Great.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8c19beeddeb38297cf8a3455b17f319cae3bd6794ebd32e952b3339137313e8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "CrowdStrike's 4-for-1 Stock Split Is Coming July 2. Here's What You Need to Know Before It Happens.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87088c6c77f212cc06a1532dd6181fd6f35669bf30908e60cbbfef3ebd688471",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Robotaxi market expansion",
+      "headline": "Uber and Lucid pick Houston as next robotaxi market as battle with Waymo, Tesla heats up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d00c4a6cb515f7eaac0d21afd57443d196eb2a1e921c8cd80dc7d3cb7a7f24f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Uber and Lucid pick Houston as next robotaxi market as battle with Waymo, Tesla heats up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d00c4a6cb515f7eaac0d21afd57443d196eb2a1e921c8cd80dc7d3cb7a7f24f",
           "used_by_ai": true
         },
         {
-          "headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.",
+          "headline": "This Shocking Company Just Passed Ford -- and Its Sales Could More Than Double",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ceb7d8e7080658541837ef84b7d1909112e3eb815b9a3168eb2ef461dab914a3",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=858adff6be3103b39705bae57ae42834883b280986374871adb9814a91b370ab",
+          "used_by_ai": true
         },
         {
-          "headline": "1 Under-the-Radar Stock Riding the AI Boom (Hint: It's Not Nvidia)",
+          "headline": "Cathie Wood Swaps Tesla for SpaceX in $529M Elon Musk Pivot",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0d2c5f9d742dd97127e91d862f2fdd0e0c1033b37c7f1e7609903b8de72bf46",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=e35567d87d69d12a6826e77b0fbd5c9eefaeb271a04af0b8060495b2125202b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Uber Expands Robotaxi Ambitions With WeRide Zurich Launch, Stellantis-Wayve Global Partnership",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=621914bc1bf511b07da9847ae64ff3f9462b13ae501bfbcfb370bd88aea5436a",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -52,50 +98,95 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "down",
-      "confidence": 50,
-      "reason": "FSD concerns",
-      "headline": "TSLA Stock Falls \u2013 Senator Raises Concerns Over Tesla\u2019s \u2018Misleading\u2019 FSD Safety Data",
+      "confidence": 60,
+      "reason": "Dreadful stock price",
+      "headline": "SpaceX's hot debut sheds more light on Microsoft's dreadful stock price",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f5be80d1802654d8b2ec7b97a7c3104f2886adbc57b9cf31dfe7e9a8e56d363",
+      "url": "https://finnhub.io/api/news?id=8a783fa4351f62471e921e19c8e2f4d69ee2b1bacd0b5426c0b619433a045648",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "TSLA Stock Falls \u2013 Senator Raises Concerns Over Tesla\u2019s \u2018Misleading\u2019 FSD Safety Data",
+          "headline": "SpaceX's hot debut sheds more light on Microsoft's dreadful stock price",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f5be80d1802654d8b2ec7b97a7c3104f2886adbc57b9cf31dfe7e9a8e56d363",
+          "url": "https://finnhub.io/api/news?id=8a783fa4351f62471e921e19c8e2f4d69ee2b1bacd0b5426c0b619433a045648",
           "used_by_ai": true
         },
         {
-          "headline": "'Elon Is Scared Of This Conversation:' Democrat Fires Back At Musk's Subsidy Defense",
+          "headline": "This Unstoppable Growth Stock Soared 500% in the Last 12 Months, but Wall Street Expects Limited Upside From Here",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=383a2a5fa65e3ca1ac788b56454f52857f70a01533d4c565a9e85989535280df",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ad1353b78474dd769e0102056a50fe23e409c670863905aa523dc8a5ecfb4eaf",
+          "used_by_ai": true
         },
         {
-          "headline": "Mega-Cap Sales",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a9c8889faf0ce97e8a068b52a963fd27710596ebde94f090b4a1b49d387f9d22",
-          "used_by_ai": false
+          "headline": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2be2609424c17a6829142ac06bc5ee591880f902b177c569311a98b91183483",
+          "used_by_ai": true
         },
         {
-          "headline": "The Latest Way BYD Is Topping Tesla",
+          "headline": "Aembit Extends IAM for Agentic AI to Microsoft Copilot Studio",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=a2b7341f03b10441c5a15cd239038f9fc55b6cf49b822ed85229b4730e7aef59",
+          "used_by_ai": true
         },
         {
-          "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
+          "headline": "SpaceX Adds to Historic Rally as Market Value Moves Beyond Amazon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
+          "url": "https://finnhub.io/api/news?id=c4b88ce5ba35d1cacda807c9ebfdadac5b4c3da2a8f02413e0da5b4f9741cf16",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Investors want progress",
+      "headline": "Apple Investors Are Tired of AI Promises, Want Tangible Progress",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14181efc791a14401110c4c6f5a54d28b4a31fcfdf9ba2330292623e600c948d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Investors Are Tired of AI Promises, Want Tangible Progress",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14181efc791a14401110c4c6f5a54d28b4a31fcfdf9ba2330292623e600c948d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Italy opens first DMA probe into Apple over iCloud access",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c73477d985baa29ad96d91e6430cca126bd9851cd8e1a5760a62756ff6702bc5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "India Bans Pavel Durov Telegram: GRAM and Crypto Hammered, Whatsapp Accused",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6df381c013f3dacef3bed35e2be5be9170a703c8555fd21f5f6c4e0b897ee134",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Stock Pops as Chip-Making Bet Moves Closer to Paying Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5045fa8a3cb07c901db45f7c195925de55bcfd4244904e8256efecd4004b7a18",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How America Got to SpaceX: The Long Trail of Big IPOs That Began in 1783",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f3bcd29573c555edc837b4e88b4bd453f6fd84da2fee3698df33c9d5aebf7f4",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
@@ -103,305 +194,80 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Rackspace deal",
-      "headline": "AMD (AMD) Signs Rackspace Deal To Build 30 MW Enterprise AI Cloud",
+      "reason": "Chipmaking and quantum tech",
+      "headline": "EigenQ and Silicon Valley Acquisition Corp. Announce Definitive Business Combination Agreement to Create a Publicly Traded Quantum Technology Company",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc217e7251e2dd75757e30eb61866903f407e002efefdd2ed7ae97d2562b6639",
+      "url": "https://finnhub.io/api/news?id=f9b9ee7516f1c3b26f75adda48a96a5e4ebd6c5f256e3441e1e40c847ac14fe9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD (AMD) Signs Rackspace Deal To Build 30 MW Enterprise AI Cloud",
+          "headline": "EigenQ and Silicon Valley Acquisition Corp. Announce Definitive Business Combination Agreement to Create a Publicly Traded Quantum Technology Company",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc217e7251e2dd75757e30eb61866903f407e002efefdd2ed7ae97d2562b6639",
+          "url": "https://finnhub.io/api/news?id=f9b9ee7516f1c3b26f75adda48a96a5e4ebd6c5f256e3441e1e40c847ac14fe9",
           "used_by_ai": true
         },
         {
-          "headline": "AMD deal sparks Rackspace stock surge as company cuts jobs",
+          "headline": "Market Chatter: Amazon Backs AI Startup Developing Models to Simulate Physical World",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=138b8778b32c11079429e616b792d6ac21c248ce7ec7c752645b94ad08f084b2",
+          "url": "https://finnhub.io/api/news?id=f5929b680603280b697ad5843942eb177c54b57befd090f426526f9802e42d5c",
           "used_by_ai": true
         },
         {
-          "headline": "Qualcomm Stock's Next Chapter Might Be Written In The Cloud",
+          "headline": "TSMC Inches Closer to $2 Trillion Market Cap As Chip Stocks Rebound: Top Executive Buys Stock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d16a4d8a88f0b0090f6971950293d360d01c085ba67da878595fa8548df3bdff",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Advanced Micro Devices (AMD) Dips More Than Broader Market: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=55943649ea6b1f40942492f8a10438092898fb5ce4ce423a919c9ee8968f5620",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecbdda81f2dc40879a7e77e5e12a285e2e89864b6df0834862c2ded4e69fb7c4",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=7b8dcdb04311acc8df98431c953d2b0ccb6bd9098914eaf6951f8c8a19ac27cc",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Competition",
-      "headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ceb7d8e7080658541837ef84b7d1909112e3eb815b9a3168eb2ef461dab914a3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ceb7d8e7080658541837ef84b7d1909112e3eb815b9a3168eb2ef461dab914a3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 Under-the-Radar Stock Riding the AI Boom (Hint: It's Not Nvidia)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0d2c5f9d742dd97127e91d862f2fdd0e0c1033b37c7f1e7609903b8de72bf46",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Hon Hai Technology Group (Foxconn) Accelerates Global Leadership In AI Factories, Infrastructure At Europe's VivaTech",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1881b29dfd93c23d18ef829afa2d1a93720c04464a433f3495d299082f5135a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bull and Foxconn advance European AI infrastructure with NVIDIA Vera Rubin NVL72 platform built in Europe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2285f8c4a9102b4393599ce4ded33c66dddbf2b3d192b9bb28188fca513a560",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI development",
-      "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Elon Is Scared Of This Conversation:' Democrat Fires Back At Musk's Subsidy Defense",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=383a2a5fa65e3ca1ac788b56454f52857f70a01533d4c565a9e85989535280df",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Mega-Cap Sales",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a9c8889faf0ce97e8a068b52a963fd27710596ebde94f090b4a1b49d387f9d22",
-          "used_by_ai": false
-        },
-        {
-          "headline": "TSLA Stock Falls \u2013 Senator Raises Concerns Over Tesla\u2019s \u2018Misleading\u2019 FSD Safety Data",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f5be80d1802654d8b2ec7b97a7c3104f2886adbc57b9cf31dfe7e9a8e56d363",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Latest Way BYD Is Topping Tesla",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Oracle deal",
-      "headline": "MSFT Falls 2% On Tuesday \u2014 Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7246257d20deef79ebbd71686b2ab69003514b0432aea7786902b7a09822312d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "MSFT Falls 2% On Tuesday \u2014 Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7246257d20deef79ebbd71686b2ab69003514b0432aea7786902b7a09822312d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Shopify (SHOP) Backs Management At 2026 Meeting As Shareholders Reject AI Policy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b58a136d611a606a8f2653eeedcac2ec4fc9197e446c4db8b9309afcfc187524",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Smartest Way to Play the AI Boom in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb297cc685a7f08606ba0d5c53ea6746c51529ec2c5b9b804c9e8ec87be9dda1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI boom",
-      "headline": "The Smartest Way to Play the AI Boom in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb297cc685a7f08606ba0d5c53ea6746c51529ec2c5b9b804c9e8ec87be9dda1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Smartest Way to Play the AI Boom in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb297cc685a7f08606ba0d5c53ea6746c51529ec2c5b9b804c9e8ec87be9dda1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Shopify (SHOP) Backs Management At 2026 Meeting As Shareholders Reject AI Policy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b58a136d611a606a8f2653eeedcac2ec4fc9197e446c4db8b9309afcfc187524",
-          "used_by_ai": false
-        },
-        {
-          "headline": "MSFT Falls 2% On Tuesday \u2014 Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7246257d20deef79ebbd71686b2ab69003514b0432aea7786902b7a09822312d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "Market rally",
-      "headline": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d869e64a7946293a006f1e4e07df86d00ef9f224d063581d669f2c3a340db275",
+      "reason": "Market trend",
+      "headline": "Daily Breadth Cools, But the Broader Trend Still Holds",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=56d0b943eec7f9848960c2d986eb39ee92e63413995860d0ddcd235e210291cd",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d869e64a7946293a006f1e4e07df86d00ef9f224d063581d669f2c3a340db275",
+          "headline": "Daily Breadth Cools, But the Broader Trend Still Holds",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=56d0b943eec7f9848960c2d986eb39ee92e63413995860d0ddcd235e210291cd",
           "used_by_ai": true
         },
         {
-          "headline": "Nearly All Monetary Rules Say The Fed Should Raise Rates",
+          "headline": "A Rotational AI Portfolio Strategy",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e3f38d18f36c4fc17d57a81fd5b5e5fa72b3e9bfe1c2c1eaa28c1be34e6f4cba",
+          "url": "https://finnhub.io/api/news?id=b31d61c7bb0588a5df9d0c688194ebe6682eb97e2c57fa06f5a1045a8bd2eb80",
           "used_by_ai": true
         },
         {
-          "headline": "The Media Says This Was A 'Blowout' Jobs Report. A Closer Look Suggests Otherwise",
+          "headline": "Rates Spark: The Unveiling Of Warsh",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=53f5e5e1a3d6315df55f12d8a4a3fc8335546434647d23e06dc8cdf57b419bff",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=97bd19f2acce0c990c673499c7279e05be00fea3fb4473a45760448e0108f853",
+          "used_by_ai": true
         },
         {
-          "headline": "Target Hiked Its Dividend by 1.8%. It\u2019s Not Enough to Change the Thesis for TGT Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53c0672afed2b08eec38814d92a28203b0cd545b0098f287c45fbe5faa8fd940",
-          "used_by_ai": false
+          "headline": "Great Market Expectations",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7323fb8ff196b8d8c343ed1aace450b57b7bcb5d43b3050b6b4fb263c225758d",
+          "used_by_ai": true
         },
         {
-          "headline": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2fbd9fbba588d5248494e52d03bd8a77066aaa97f69cd82b8d4bc457268a7d0",
-          "used_by_ai": false
+          "headline": "FOMC Trading Playbook: How A Hawkish Fed Could Impact Nasdaq 100, Gold, EUR/USD And AUD/USD",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=262a014c4a0ac7c8964fb20f07ac8334d59a966315e0edb66b66739351f742e0",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Italy probe",
-      "headline": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=076bcfe10d77abb27a77aa73e71af4b421c5c4a6b0ff7cd3f62a0ffdf07ce2eb",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=076bcfe10d77abb27a77aa73e71af4b421c5c4a6b0ff7cd3f62a0ffdf07ce2eb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Looking to Ride SpaceX Stock Higher? Consider Using Options.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a47191c3800ffd48f4a4e1f47dbcc92f618a454ff23f39dacc7fe7c7fd8288bf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=614f27d6bd30d49f6283da0680a3606b428b369c03a81740f719b8b534c51249",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness \u2014 SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06818dd8c2df152c48f01e48f872b3d1286d9611560a629c935eafd348cf16f6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Snap unveils its $2,195 augmented reality glasses as rivalry with Meta heats up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d951bee0c740eaad614fb9920bc77b3d54402685bdd795b98ced7ad88a0cea6e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "ChartMill": 1,
+        "SeekingAlpha": 4
       }
     }
   ]
