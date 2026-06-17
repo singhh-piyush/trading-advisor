@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T02:01:50Z",
+  "updated_at": "2026-06-17T07:33:44Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,48 +8,135 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 9,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Multiple AI-related headlines",
-      "headline": "Why Newmont Stock Bumped Higher Today",
+      "confidence": 60,
+      "reason": "AI growth",
+      "headline": "Hon Hai Technology Group (Foxconn) Accelerates Global Leadership In AI Factories, Infrastructure At Europe's VivaTech",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c4e9062644e2f61adab0aaea38e4270c05d54a11ce669327315c3b02a1844cc",
+      "url": "https://finnhub.io/api/news?id=d1881b29dfd93c23d18ef829afa2d1a93720c04464a433f3495d299082f5135a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Newmont Stock Bumped Higher Today",
+          "headline": "Hon Hai Technology Group (Foxconn) Accelerates Global Leadership In AI Factories, Infrastructure At Europe's VivaTech",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c4e9062644e2f61adab0aaea38e4270c05d54a11ce669327315c3b02a1844cc",
+          "url": "https://finnhub.io/api/news?id=d1881b29dfd93c23d18ef829afa2d1a93720c04464a433f3495d299082f5135a",
           "used_by_ai": true
         },
         {
-          "headline": "This Overlooked Growth Stock Is Absurdly Cheap Right Now",
+          "headline": "Bull and Foxconn advance European AI infrastructure with NVIDIA Vera Rubin NVL72 platform built in Europe",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f941dae626f97d228f0d2f9d360a0c75661a467ba262b53888cb2b4e6a49a30",
+          "url": "https://finnhub.io/api/news?id=a2285f8c4a9102b4393599ce4ded33c66dddbf2b3d192b9bb28188fca513a560",
           "used_by_ai": true
         },
         {
-          "headline": "Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs?",
+          "headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=669594dd036dfa46555a25fb85cb761d84f563b0d307be33d22f71624687ff89",
+          "url": "https://finnhub.io/api/news?id=ceb7d8e7080658541837ef84b7d1909112e3eb815b9a3168eb2ef461dab914a3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "1 Under-the-Radar Stock Riding the AI Boom (Hint: It's Not Nvidia)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c0d2c5f9d742dd97127e91d862f2fdd0e0c1033b37c7f1e7609903b8de72bf46",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "FSD concerns",
+      "headline": "TSLA Stock Falls \u2013 Senator Raises Concerns Over Tesla\u2019s \u2018Misleading\u2019 FSD Safety Data",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f5be80d1802654d8b2ec7b97a7c3104f2886adbc57b9cf31dfe7e9a8e56d363",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "TSLA Stock Falls \u2013 Senator Raises Concerns Over Tesla\u2019s \u2018Misleading\u2019 FSD Safety Data",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f5be80d1802654d8b2ec7b97a7c3104f2886adbc57b9cf31dfe7e9a8e56d363",
           "used_by_ai": true
+        },
+        {
+          "headline": "'Elon Is Scared Of This Conversation:' Democrat Fires Back At Musk's Subsidy Defense",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=383a2a5fa65e3ca1ac788b56454f52857f70a01533d4c565a9e85989535280df",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mega-Cap Sales",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a9c8889faf0ce97e8a068b52a963fd27710596ebde94f090b4a1b49d387f9d22",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Latest Way BYD Is Topping Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
+          "used_by_ai": false
         },
         {
           "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Rackspace deal",
+      "headline": "AMD (AMD) Signs Rackspace Deal To Build 30 MW Enterprise AI Cloud",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc217e7251e2dd75757e30eb61866903f407e002efefdd2ed7ae97d2562b6639",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD (AMD) Signs Rackspace Deal To Build 30 MW Enterprise AI Cloud",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cc217e7251e2dd75757e30eb61866903f407e002efefdd2ed7ae97d2562b6639",
           "used_by_ai": true
         },
         {
-          "headline": "Why Netflix Stock Got Rocked Today",
+          "headline": "AMD deal sparks Rackspace stock surge as company cuts jobs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d12ebb2c3bf2f496657e79f4bfb249e329d34cf479e71567d10b33061c46bb4",
+          "url": "https://finnhub.io/api/news?id=138b8778b32c11079429e616b792d6ac21c248ce7ec7c752645b94ad08f084b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm Stock's Next Chapter Might Be Written In The Cloud",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d16a4d8a88f0b0090f6971950293d360d01c085ba67da878595fa8548df3bdff",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=55943649ea6b1f40942492f8a10438092898fb5ce4ce423a919c9ee8968f5620",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecbdda81f2dc40879a7e77e5e12a285e2e89864b6df0834862c2ded4e69fb7c4",
           "used_by_ai": false
         }
       ],
@@ -58,39 +145,126 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Competition",
+      "headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ceb7d8e7080658541837ef84b7d1909112e3eb815b9a3168eb2ef461dab914a3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Custom AI Chips Are Coming for Nvidia's Crown. Here Are 2 Companies Quietly Cashing In.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ceb7d8e7080658541837ef84b7d1909112e3eb815b9a3168eb2ef461dab914a3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Under-the-Radar Stock Riding the AI Boom (Hint: It's Not Nvidia)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c0d2c5f9d742dd97127e91d862f2fdd0e0c1033b37c7f1e7609903b8de72bf46",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Hon Hai Technology Group (Foxconn) Accelerates Global Leadership In AI Factories, Infrastructure At Europe's VivaTech",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d1881b29dfd93c23d18ef829afa2d1a93720c04464a433f3495d299082f5135a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bull and Foxconn advance European AI infrastructure with NVIDIA Vera Rubin NVL72 platform built in Europe",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a2285f8c4a9102b4393599ce4ded33c66dddbf2b3d192b9bb28188fca513a560",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI5 Chip development",
-      "headline": "The Latest Way BYD Is Topping Tesla",
+      "confidence": 40,
+      "reason": "AI development",
+      "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
+      "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tesla's AI5 Chip Recently Completed Tape-Out. Here's Why This Could Be the Most Important Development in the Company's Transition From Automaker to AI Giant.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b62947f0b27e38a03d005d3336382da3956a12ec216ac2e69259997b84f3ea8a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Elon Is Scared Of This Conversation:' Democrat Fires Back At Musk's Subsidy Defense",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=383a2a5fa65e3ca1ac788b56454f52857f70a01533d4c565a9e85989535280df",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mega-Cap Sales",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a9c8889faf0ce97e8a068b52a963fd27710596ebde94f090b4a1b49d387f9d22",
+          "used_by_ai": false
+        },
+        {
+          "headline": "TSLA Stock Falls \u2013 Senator Raises Concerns Over Tesla\u2019s \u2018Misleading\u2019 FSD Safety Data",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f5be80d1802654d8b2ec7b97a7c3104f2886adbc57b9cf31dfe7e9a8e56d363",
+          "used_by_ai": false
+        },
         {
           "headline": "The Latest Way BYD Is Topping Tesla",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=542c66687ffb4e74f4e59fb489e3460b4a8c7d6ed70819f138c63ff85415da0c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Oracle deal",
+      "headline": "MSFT Falls 2% On Tuesday \u2014 Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7246257d20deef79ebbd71686b2ab69003514b0432aea7786902b7a09822312d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "MSFT Falls 2% On Tuesday \u2014 Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7246257d20deef79ebbd71686b2ab69003514b0432aea7786902b7a09822312d",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla (TSLA) Declines More Than Market: Some Information for Investors",
+          "headline": "Shopify (SHOP) Backs Management At 2026 Meeting As Shareholders Reject AI Policy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80f41177a3e3cd834a8937274181d978bd3b408c414acad1c178bae57b57ffa2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=b58a136d611a606a8f2653eeedcac2ec4fc9197e446c4db8b9309afcfc187524",
+          "used_by_ai": false
         },
         {
-          "headline": "Elon Musk Keeps Getting Richer. Here's How His Wealth Blew Past $1 Trillion.",
+          "headline": "The Smartest Way to Play the AI Boom in 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a0b85e6e93912c7bfca012e678ae58b6cd019cbcdc0cf8e68ee7b6e3522f7fa",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=eb297cc685a7f08606ba0d5c53ea6746c51529ec2c5b9b804c9e8ec87be9dda1",
+          "used_by_ai": false
         },
         {
-          "headline": "Why robotics will be the next great investment theme",
+          "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f6bfbdade07e4b872240fa28f0d2c405ed1564a25e3553400078af3251d75f",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -100,118 +274,101 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Xbox Studios closure",
-      "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "AI boom",
+      "headline": "The Smartest Way to Play the AI Boom in 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
+      "url": "https://finnhub.io/api/news?id=eb297cc685a7f08606ba0d5c53ea6746c51529ec2c5b9b804c9e8ec87be9dda1",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Smartest Way to Play the AI Boom in 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb297cc685a7f08606ba0d5c53ea6746c51529ec2c5b9b804c9e8ec87be9dda1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Shopify (SHOP) Backs Management At 2026 Meeting As Shareholders Reject AI Policy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b58a136d611a606a8f2653eeedcac2ec4fc9197e446c4db8b9309afcfc187524",
+          "used_by_ai": false
+        },
+        {
+          "headline": "MSFT Falls 2% On Tuesday \u2014 Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7246257d20deef79ebbd71686b2ab69003514b0432aea7786902b7a09822312d",
+          "used_by_ai": false
+        },
         {
           "headline": "Microsoft (MSFT) Closes Xbox Studios As It Weighs A Spin Off",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ca7c0a68fb846088d1796ad2ba67bb9b944d9e41e0ee4ef9ca64ec499b5a553d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq and S&P 500 slip while Dow hits record high",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3009f9a3aa3ed96ae436b84f82813fe66cfe61b1cf3ec30672e39daeb66d1f04",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX surges past Amazon, briefly tops Microsoft in market cap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cb8cb75493973191a7e3d88982691a8d13a7fcaaa38613449d75f310a0bcb1c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Surging SpaceX overtakes Amazon to become 5th biggest company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd5e67c8b87e1f4fd55425c65e606535190716474e1e952aee2699649823b1b2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Analysts' Top S&P 500 Stocks to Buy Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cbfceb6d4dc8e0eafac073fc95a2b3e2c94073ebf054caea8818b467d8f7a93",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Market drop",
-      "headline": "AMD deal sparks Rackspace stock surge as company cuts jobs",
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market rally",
+      "headline": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=138b8778b32c11079429e616b792d6ac21c248ce7ec7c752645b94ad08f084b2",
+      "url": "https://finnhub.io/api/news?id=d869e64a7946293a006f1e4e07df86d00ef9f224d063581d669f2c3a340db275",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD deal sparks Rackspace stock surge as company cuts jobs",
+          "headline": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=138b8778b32c11079429e616b792d6ac21c248ce7ec7c752645b94ad08f084b2",
+          "url": "https://finnhub.io/api/news?id=d869e64a7946293a006f1e4e07df86d00ef9f224d063581d669f2c3a340db275",
           "used_by_ai": true
         },
         {
-          "headline": "Advanced Micro Devices (AMD) Dips More Than Broader Market: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=55943649ea6b1f40942492f8a10438092898fb5ce4ce423a919c9ee8968f5620",
+          "headline": "Nearly All Monetary Rules Say The Fed Should Raise Rates",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e3f38d18f36c4fc17d57a81fd5b5e5fa72b3e9bfe1c2c1eaa28c1be34e6f4cba",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecbdda81f2dc40879a7e77e5e12a285e2e89864b6df0834862c2ded4e69fb7c4",
-          "used_by_ai": true
+          "headline": "The Media Says This Was A 'Blowout' Jobs Report. A Closer Look Suggests Otherwise",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=53f5e5e1a3d6315df55f12d8a4a3fc8335546434647d23e06dc8cdf57b419bff",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Rackspace Rallied Today",
+          "headline": "Target Hiked Its Dividend by 1.8%. It\u2019s Not Enough to Change the Thesis for TGT Stock.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8841321d5addfbab096a23f02fc3eead3489cd6e12d8990865cee408aa441abd",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=53c0672afed2b08eec38814d92a28203b0cd545b0098f287c45fbe5faa8fd940",
+          "used_by_ai": false
         },
         {
-          "headline": "Micron Stock Falls From Record High. Where It Goes Next.",
+          "headline": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac8253ed78e2c3df80f335609e031c24f99d8ab1a8d843fc113d1abfb72e25e2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=b2fbd9fbba588d5248494e52d03bd8a77066aaa97f69cd82b8d4bc457268a7d0",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Italy DMA probe",
-      "headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant",
+      "confidence": 30,
+      "reason": "Italy probe",
+      "headline": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=614f27d6bd30d49f6283da0680a3606b428b369c03a81740f719b8b534c51249",
+      "url": "https://finnhub.io/api/news?id=076bcfe10d77abb27a77aa73e71af4b421c5c4a6b0ff7cd3f62a0ffdf07ce2eb",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=614f27d6bd30d49f6283da0680a3606b428b369c03a81740f719b8b534c51249",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness \u2014 SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06818dd8c2df152c48f01e48f872b3d1286d9611560a629c935eafd348cf16f6",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
           "source": "Yahoo",
@@ -219,67 +376,32 @@
           "used_by_ai": true
         },
         {
+          "headline": "Looking to Ride SpaceX Stock Higher? Consider Using Options.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a47191c3800ffd48f4a4e1f47dbcc92f618a454ff23f39dacc7fe7c7fd8288bf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "VoIP-Pal.com Inc. Engages Veteran Consumer Class Action and Complex Litigation Attorney C. Glen Ged as Strategic Legal Consultant",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=614f27d6bd30d49f6283da0680a3606b428b369c03a81740f719b8b534c51249",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness \u2014 SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06818dd8c2df152c48f01e48f872b3d1286d9611560a629c935eafd348cf16f6",
+          "used_by_ai": false
+        },
+        {
           "headline": "Snap unveils its $2,195 augmented reality glasses as rivalry with Meta heats up",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d951bee0c740eaad614fb9920bc77b3d54402685bdd795b98ced7ad88a0cea6e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Trump's clamp down on Anthropic is signaling to rest of the world",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0c8973041d5262c94149de5e3e3765829c8c3dc098046e5a557298df565333b",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "S&P 500 analysis",
-      "headline": "Nasdaq and S&P 500 slip while Dow hits record high",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3009f9a3aa3ed96ae436b84f82813fe66cfe61b1cf3ec30672e39daeb66d1f04",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nasdaq and S&P 500 slip while Dow hits record high",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3009f9a3aa3ed96ae436b84f82813fe66cfe61b1cf3ec30672e39daeb66d1f04",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2fbd9fbba588d5248494e52d03bd8a77066aaa97f69cd82b8d4bc457268a7d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Analyst Calls for S&P 500 Soaring to 9000. Here\u2019s Why the Stock Market Melt Up Could Be Just Beginning.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c70fd6a8222cfd089edd8e7cea85b21f689249803b80c4531e187dd69855e304",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Used To Think Dividends Were Worthless, Then Reality Hit",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8dca85edc435d14aa8958e5277e8088cca461b77f7ebc5a941513b273f3bc3aa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "MDST: A Good Midstream Fund If Oil Prices Start Declining",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b832749d8a714fac4192fd51eda80fd4249e2882802419084ce7dcfb4af142a4",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
       }
     }
   ]
