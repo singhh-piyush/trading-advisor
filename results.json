@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T21:06:40Z",
+  "updated_at": "2026-06-17T22:57:39Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,43 +12,49 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
       "confidence": 80,
-      "reason": "China trade reprieve",
-      "headline": "Nvidia Gets a China Trade Reprieve",
+      "reason": "Price increase",
+      "headline": "Here\u2019s Why Apple CEO Tim Cook Says Prices Will Have to Increase",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8188cbcc2072326ab9bea827320affc6eefec74eb7375d9113cdab9f54956254",
+      "url": "https://finnhub.io/api/news?id=0919729c0da02d402adaa08afab6b4f430b27f68542f8177608d68367912e213",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia Gets a China Trade Reprieve",
+          "headline": "Here\u2019s Why Apple CEO Tim Cook Says Prices Will Have to Increase",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8188cbcc2072326ab9bea827320affc6eefec74eb7375d9113cdab9f54956254",
+          "url": "https://finnhub.io/api/news?id=0919729c0da02d402adaa08afab6b4f430b27f68542f8177608d68367912e213",
           "used_by_ai": true
         },
         {
-          "headline": "2 Reasons This Is a Once-in-a-Decade Industrial Stock Pick for Long-Term Investors",
+          "headline": "Apple to raise prices due to memory chip shortage, CEO tells WSJ",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0026308686624d81f5a8d78877a07adf5980dbfef7382e7d9fe7e0d37ce79e4",
+          "url": "https://finnhub.io/api/news?id=b152078981aa5cd12e45b4f744f0009c253b667be13b246ddeabc7a4a7f8a73f",
           "used_by_ai": true
         },
         {
-          "headline": "How Buying Oklo Stock Today Could 10X Your Net Worth",
+          "headline": "ADT Joins Board of Directors of the Connectivity Standards Alliance, Reinforcing Its Role in Shaping the Future of the Connected Home",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=794ad222e883dba15ad292348bad700ff8690da200469a6c12b273f71de96f2a",
+          "url": "https://finnhub.io/api/news?id=3fe36575ae59c7ec1cd65601339b5419728ec3919e1c9e3eb84d730367ade031",
           "used_by_ai": true
         },
         {
-          "headline": "Michael Burry Has a Stark Message on SpaceX's $3 Trillion Valuation",
+          "headline": "Apple Prepares Second-Generation iPhone Air for Spring 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04efc6b084411da0e980c682d16016a012be7104526c04e7cec56e838ad16978",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ec4588f714a448ce2ab99f2ec0a26de83d0b521c1352b58ae6bbe39304af63cf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Faces AI Fatigue as Stock's 10% Gain Trails Nasdaq's 19%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=56313439283ed0369947bfbae9b59e24146800deef82b211dfcbcd0571a03167",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -56,12 +62,30 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "Deal and growth potential",
-      "headline": "RXT Stock Surges To 4-Year Highs \u2014 Wall Street Highlights Multi-Industry Growth Potential After AMD Deal",
+      "reason": "Positive stock news",
+      "headline": "Is Micron Stock's Record-Breaking Run A Cyclical Peak Or A New AI Reality?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1742d6a637cf74b325d9cc3caafc0964649afcbfc12bc3b2115511bae8eb91e",
+      "url": "https://finnhub.io/api/news?id=dd51946ba24787e651e1287e389c3895e1d72e02f25e86fac7ec187dff2371fc",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Is Micron Stock's Record-Breaking Run A Cyclical Peak Or A New AI Reality?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd51946ba24787e651e1287e389c3895e1d72e02f25e86fac7ec187dff2371fc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What A Patient Holder Is Really Paying For Broadcom Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16b32042331bcae10f255486cd70f0b1426ea00361f4b29cb34d419683b35421",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel: The Re-Rating Has Gone Too Far",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7f1c5727cb9909c2fcbc17436bfdab0f777787ec711c88772869629f924dd026",
+          "used_by_ai": true
+        },
         {
           "headline": "RXT Stock Surges To 4-Year Highs \u2014 Wall Street Highlights Multi-Industry Growth Potential After AMD Deal",
           "source": "Yahoo",
@@ -69,51 +93,93 @@
           "used_by_ai": true
         },
         {
-          "headline": "Why It Is Time to Stop Buying Chip Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8577a887dba68f5a86a76abaa7c9184caff6590fe7b7a11e063da319ecba71b6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "INTC, ARM, AMD Stocks Gain Today \u2014 Bernstein Supercharges AI Chip Bull Case",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a77da1b6aa7606ee8031aa8a65fb74166a313e1d1707d8589bed215957efd4a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel, SpaceX, Robinhood, Carvana, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=12739373f8f242d7e858cbb5ccb358d3844a3885dc278fa119207b6cd7333491",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD, Intel Rise as TSMC Capacity Tightens",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d09a97d0895803c33bad0e37a63d537de697548aef4df4d610ca5cd806485a8c",
-          "used_by_ai": true
-        },
-        {
           "headline": "Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4d894b0ca6f441b9d434610dcb939781fec5cf4f70b041386e4448d129956ba4",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 6
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Rate hike possibility",
+      "headline": "S&P 500, Nasdaq And Dow Slip As Investors Assess Rate Hike Possibility \u2014 SPCX, UBER, ASTS, BBBY, RXT In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3b4348cc712f186be305fd1d67a778ddcfd4f3141f32dad6b943421e3447f54",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "S&P 500, Nasdaq And Dow Slip As Investors Assess Rate Hike Possibility \u2014 SPCX, UBER, ASTS, BBBY, RXT In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e3b4348cc712f186be305fd1d67a778ddcfd4f3141f32dad6b943421e3447f54",
+          "used_by_ai": true
+        },
+        {
+          "headline": "New Era for the Fed: Kevin Warsh at the FOMC",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6a09c12abda3e2e3a766b7a9713c741d46a54e2590973ce23ce605a36575d29",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why ETFs Are the Key to Bringing Wall Street On-Chain",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d22e42351831d8beb5e1ca775b8052dfb78d3985ea53b94956bd6c14636fd76",
+          "used_by_ai": true
+        },
+        {
+          "headline": "DFAS: A Solid Small-Cap ETF, But DFSV Is The Better Option",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6f8d4655ea8f321c126d37e6de346f4f0cba323780075e80bf4824c07a81c5bd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "June FOMC: Warsh's Debut Was More Hawkish Than Expected",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=067f861852f5ff455aaf602947668346deb4cd28126fc697879b7b926ec53746",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Goldman Sachs news",
-      "headline": "Most active S&P500 stocks in Wednesday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=913117a9c20b371165e04ac5d368d7b2dd8f3ddb39c6a7d133dbd17dd90d4f9f",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Various news",
+      "headline": "SpaceX vs. Tesla Stock: Which Elon Musk Company Is the Better Investment?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff9210b9f6e0ffb2cbe3c635e4d4d862f3e14e56766ed160cca75763d6eaf9cc",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SpaceX vs. Tesla Stock: Which Elon Musk Company Is the Better Investment?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff9210b9f6e0ffb2cbe3c635e4d4d862f3e14e56766ed160cca75763d6eaf9cc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Uber and Lucid team up to bring robotaxis to Houston",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecae2fc72bd84b6208885e6fad69b00b8ab8ad363fcd958f64b1beff2865fcb7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Jensen Huang Runs A $5 Trillion Giant Like It's 30 Days From Collapse. Perplexity's CEO Says That's The Secret\u2014 'You Need To Work Forever\u2026'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8a0e3019538e3bb325a8a0d73eafad617c269cb8153aa5b692af22578df5c2d",
+          "used_by_ai": true
+        },
         {
           "headline": "Most active S&P500 stocks in Wednesday's session",
           "source": "ChartMill",
@@ -125,46 +191,86 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2cdf7ce8d55e7cdc8c9d91f4205765566010f8e04d6564998a1d3b31cf3acd5b",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Various news",
+      "headline": "Rumble rebrands to RUM Group after Northern Data buyout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=943ea8cd33becaf5fe399466e0f2c3284e8c6581fa7c8cb485cd3d6e01e7c243",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Robotaxi rankings show Waymo lead, China's rise",
+          "headline": "Rumble rebrands to RUM Group after Northern Data buyout",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0444c5a3cc36c130a389b2b744c51980568c6724d1d3fa08a9c5aed09fdf800c",
+          "url": "https://finnhub.io/api/news?id=943ea8cd33becaf5fe399466e0f2c3284e8c6581fa7c8cb485cd3d6e01e7c243",
           "used_by_ai": true
         },
         {
-          "headline": "Goldman Sachs Has a Great News For Tesla Stock Fans",
+          "headline": "The SpaceX IPO Is Finally Here: This Is When It Might Be Coming to Your S&P 500 ETF",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=78960053ee8da2af08fb4f8c5cde7835cdedb558b3f204550d017d3ded0b3a1d",
+          "url": "https://finnhub.io/api/news?id=fddd9ab9c96e291000fd4c71886e7d3fb07acf41778f83d78bd21cba64b87977",
           "used_by_ai": true
         },
         {
-          "headline": "AMD, Intel Rise as TSMC Capacity Tightens",
+          "headline": "Want $1,000 in Annual Passive Income? Invest $14,000 in This High-Yielding Energy Stock Right Now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d09a97d0895803c33bad0e37a63d537de697548aef4df4d610ca5cd806485a8c",
+          "url": "https://finnhub.io/api/news?id=0c0736334cc193e0f6e289b590bc421d796b832a9eb1787336349b0442212f41",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Iran Peace Deal: What Does It Mean for Defense Stocks Like Lockheed Martin?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=333bfa62c12225b30875a45ce58686ca5aa437ca3cb044fbc4cf3876f49a5d58",
+          "used_by_ai": true
+        },
+        {
+          "headline": "New Fed Chair Kevin Warsh Just Broke 14 Years of Precedent With A Controversial Move That Signals the Beginning of A New Regime",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d62b61664ffa8fe369f41846d87bdc8f1b2d44f261b51f5d285b922761488aa1",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "AI fatigue",
-      "headline": "Apple Faces AI Fatigue as Stock's 10% Gain Trails Nasdaq's 19%",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Various news",
+      "headline": "Gaming gets hit by memory shortage: A look at Sandisk's $3K PlayStation 5 SSD",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56313439283ed0369947bfbae9b59e24146800deef82b211dfcbcd0571a03167",
+      "url": "https://finnhub.io/api/news?id=b24139af44fe9f01eb04b065570898d6f9d9d824ac5e58c2dac6471152780196",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple Faces AI Fatigue as Stock's 10% Gain Trails Nasdaq's 19%",
+          "headline": "Gaming gets hit by memory shortage: A look at Sandisk's $3K PlayStation 5 SSD",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56313439283ed0369947bfbae9b59e24146800deef82b211dfcbcd0571a03167",
+          "url": "https://finnhub.io/api/news?id=b24139af44fe9f01eb04b065570898d6f9d9d824ac5e58c2dac6471152780196",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, US stocks slide as Fed forecasts possible rate hike",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99db3e799002e4755db41c72785d08c5890ba5ae075dc663ed36d0ae55640a2a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oracle Disputes Report on Failed Microsoft Cloud Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=781c8e9551d52d8d307aaf6337f0e30cac65079b6a0f9e8c7e904daccf5493f5",
           "used_by_ai": true
         },
         {
@@ -174,114 +280,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=e734e787c4df5d3cf8302aedf4c81bc1e4fd9794caf9a3ca0ca1943862d62fa9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Rise Wednesday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fce3610f439bf41981601e2aa19780dd7af0a9f9f107ca848200dcdc97cf795f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Boring, quiet & crushing the market for the last 5 years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bce8237bc113c6375384864841a6988f5f0289b401dda2e7785430917bf638f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Iran deal",
-      "headline": "Iranian State Media Cites Iran's Top Negotiator Qalibaf Saying Per The MOU, $300B Has Been Allocated To Be Invested In Iran, Part Of Which Will Be Spent On Reconstruction",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5ab1eba07ac9fd2e4f5c0d70af570facab2139903ad52aac01db0200150ec17e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Iranian State Media Cites Iran's Top Negotiator Qalibaf Saying Per The MOU, $300B Has Been Allocated To Be Invested In Iran, Part Of Which Will Be Spent On Reconstruction",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5ab1eba07ac9fd2e4f5c0d70af570facab2139903ad52aac01db0200150ec17e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Iranian State Media Cites Iran's Top Negotiator Qalibaf Saying Strait Of Hormuz Will Not Return To Pre-war Conditions But This Does Not Mean Acting Against International Laws Or Maritime Navigation; Iran Will Naturally Charge For Services In The Strait Of Hormuz",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=2db1e11bc4b16770eaccfd7af25da481c229cc1fbb5387fc5d2abdc82369b055",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'A House Judiciary Subcommittee Will Hold A June 24 Hearing To Examine U.S. Airline Competition And Regulation Following Spirit Airlines' Collapse' - Devdiscourse",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6238c1f94cd6f655b68aacc8b2d6746a3304e2b8ac5700bdf97c9ece2113e835",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Holds Rates Steady; Retail Sales Remain Resilient",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=93f709239c32bb070bbc4eed5af4c62f1426ff7a99c946114a2163634d053be8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Right Conclusion, Wrong Reasoning: My Thoughts On Kevin Warsh And The Market",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fa0c6c421891ba8431544ad350db1a4d82e17e72ba0241afeab66892aafa6640",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Disputed report",
-      "headline": "Oracle Disputes Report on Failed Microsoft Cloud Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=781c8e9551d52d8d307aaf6337f0e30cac65079b6a0f9e8c7e904daccf5493f5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Oracle Disputes Report on Failed Microsoft Cloud Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=781c8e9551d52d8d307aaf6337f0e30cac65079b6a0f9e8c7e904daccf5493f5",
-          "used_by_ai": true
-        },
-        {
           "headline": "PLTR Stock: What Does Its Valuation Imply?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=22dd3bb151680851212fad39b5701d96443decee1589f3b8991d0eff00bdb18c",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stripe-Led Frontier Commits Another $915 Million to Carbon Removal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b8d1bb1ac11f2a806f41301f85b2ce1e1656515f3bb00a90c74badfc781abdf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "BrightWork Announces Latest BrightWork 365 Release to Support PMO Teams Preparing for Project Online Retirement",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8cd6210c7c9f9cab55e36aade13f48bab09644477af7ecbb045564a28216fdde",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     }
   ]
