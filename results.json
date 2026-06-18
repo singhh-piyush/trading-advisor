@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T12:52:32Z",
+  "updated_at": "2026-06-18T16:32:40Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,49 +8,234 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Amazon explores AI chips",
+      "headline": "Amazon explores selling AI chips to challenge Nvidia",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be74e785ae9d9b7607d67b6805898213006108cc9a8b59e773e0d903dca3ef25",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Amazon explores selling AI chips to challenge Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be74e785ae9d9b7607d67b6805898213006108cc9a8b59e773e0d903dca3ef25",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Did QuantumScape Stock Soar Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca2a5544be438e0d3f385fc5aef5d3aa978c517be1c23c95a0c277449e58c438",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Energy Fuels Stock Is Rocketing Higher Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e07488e9bf5ed828ced1c87f7d8fc91ee2ed3cf2460f4fccab1b73659a2a7c2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "5 Stocks Poised to Benefit Now That SpaceX Is Public",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a55428238d7c8062f7d8991870d12bf181b2d26b7924b4d6dc95c511b7553425",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Market Chatter: Amazon in Discussions to Sell Custom AI Chips to Other Companies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5835f9bbfc6d003259a7739cecc54d94c7bc3807fbe9120a90d87dbb3dab6aea",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Expands AI business",
+      "headline": "Microsoft expands AI business in China, with ByteDance emerging as top customer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05e593fa96fa137fe7fed5adf97957004df93cef420c693a7808cbe68a26d7db",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft expands AI business in China, with ByteDance emerging as top customer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05e593fa96fa137fe7fed5adf97957004df93cef420c693a7808cbe68a26d7db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Number That Puts Oracle Stock To The Test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=187780f851a4245d580e0b253d0ebd4bd5c6ca8fcd4edb8ad0ae25c9cfa16942",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Secret Chip Company That Could Power Amazon Stock Higher",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4fa777abb4978b5a37a1d80d77c6138e716f865e2513d3ec28dcac6770158764",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nebius Amasses $9.3B Cash Reserve: Can It Accelerate AI Buildout?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7f8184c106055d40be835a636c93e3a17358119adf48bdfb9b86c0e50597a26",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple CEO Cook warns product price increases are \u2018unavoidable\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec102543c6770af591eb5610982a2f7ab93ddf18c30154017663854a6f9eb393",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Intel partnership",
-      "headline": "Apple, Intel Chip Partnership Gains Momentum",
+      "confidence": 50,
+      "reason": "Allows alternative app stores",
+      "headline": "Why Micron Stock Just Jumped",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34846f370f5d86b94342ff1a1d7609e609fddb47e673ce6e56dd156a74968f6b",
+      "url": "https://finnhub.io/api/news?id=cba3c8a74f7d46d766f1e2bb396bc1156ef07d5d6249cd24cbd85414246d66b7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple, Intel Chip Partnership Gains Momentum",
+          "headline": "Why Micron Stock Just Jumped",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=34846f370f5d86b94342ff1a1d7609e609fddb47e673ce6e56dd156a74968f6b",
+          "url": "https://finnhub.io/api/news?id=cba3c8a74f7d46d766f1e2bb396bc1156ef07d5d6249cd24cbd85414246d66b7",
           "used_by_ai": true
         },
         {
-          "headline": "Intel Stock Jumps 10% on Apple Partnership",
+          "headline": "Apple allows alternative app stores, payments in Brazil after deal with regulator",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=875b33e6895054b9ca0f437e565beb60a94e71a113a013ef428a3f834c6e6674",
+          "url": "https://finnhub.io/api/news?id=d33f6bf97aa515b0a94ae219900501c44206f530ee681243990fcff3355659e7",
           "used_by_ai": true
         },
         {
-          "headline": "Intel stock surges on Trump Apple chip manufacturing announcement",
+          "headline": "Dow Jumps 200 Points After Fed-Related Sell-Off \u2013 Index On Track To Post Best Week In A Month",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69e36cc7078ede505c142a08657a822c1b4000134125d02fb40806eb258e7f63",
+          "url": "https://finnhub.io/api/news?id=4d9774503a2a14aa34d21a27219e2895f52ce0cfeed537f8ee7151f3a5776bb2",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures Rise After Fed Rate Hike Bets Hit Stocks; SpaceX Falls As Robinhood Jumps",
+          "headline": "Intel jumps after Trump says Apple, Intel reached US chip deal",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2befec2f0d8eea15d83581c214963c1d0de9b745f0c37793b693ac346b0468d9",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=5c6e75bb61860d9430816dbd4e5203fd549183302c67aafdbaf2a80f298bcd56",
+          "used_by_ai": true
         },
         {
-          "headline": "Stocks Rise Pre-Bell as US, Iran Sign Peace Deal; Traders Assess Fed Rate Decision",
+          "headline": "SanDisk and Micron surge as Apple confirms memory price pass-through",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=97b4f8406ec8398e5a7b0449b602d69b706cd5841fb492f31a0612e648db2ae1",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=57a7ef01d026d7a9fa9f9e524693ff371e867cb27d8a215b3e68557547890c95",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market optimism",
+      "headline": "Pre-Markets Bounce Back, Philly Fed & Jobless Claims Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecfb3cc4785abd5c6a8d9cfc3d133502c81508433f11d5a4119a131b144d29b8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Pre-Markets Bounce Back, Philly Fed & Jobless Claims Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecfb3cc4785abd5c6a8d9cfc3d133502c81508433f11d5a4119a131b144d29b8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Dow Brushes Off Fed, Rises After Jobless Claims; Trump Spurs Intel Shares (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b342e866429a90a78f934011c14990da638f842a8df956b711f4066a1412f8b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Interim US-Iran Deal Lifts Risk Sentiment",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd0875976b2c881fa8446ac6bd189409f894c7bcd53066aeb7b978ed86336854",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Dow Rises Ahead Of Jobless Claims; Intel Surges On Trump Comments (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e486719aae47a53794c90a86d9ac7ec63f093935f76cb05b241d97c8fdea2b38",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Breadth Takes a Hit, but the Medium-Term Structure Holds",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8b97981f8c6b8b0a1b0c858c1770e1bdf0e1aaa23e3f21f13c3ac6c53fb07f0a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Positive news",
+      "headline": "ELEKTROS Inc. Celebrates a Brighter Global Energy Future as Lithium Leadership and Next-Generation EV Innovation Continue Accelerating Worldwide",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40b1bb6c22ab548131973079ad9e06dba438b18cc11602247478b3cccb6d82e9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "ELEKTROS Inc. Celebrates a Brighter Global Energy Future as Lithium Leadership and Next-Generation EV Innovation Continue Accelerating Worldwide",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40b1bb6c22ab548131973079ad9e06dba438b18cc11602247478b3cccb6d82e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=22acd8c620cc3b305585f00d49a0cf5c0568cd2331fdcb5bf8d00477059c2436",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Looks Like Meme Stock To Some. Is That A Good Or Bad Thing?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cbe5bdba53320f0abf339ac34d10d5e964cae8148b025ac749d43ff678259197",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Your Tesla Drives Better Than You Do\u2014and That\u2019s Good News for the Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5cfe6c82a95ecba399fa0b177205ee39b9e3a321ca4542387d8e4531db7218d0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Week In Energy Transition - A P Moller Capital Acquires Mainstream Renewable Power South Africa",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5fed06179ecc31be5a0fa228fda49a39fd571f6a93eb34c150f4efe4932569e7",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -61,230 +246,46 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Chipmaking interest",
-      "headline": "US chip stocks gain after Apple-Intel partnership",
+      "confidence": 40,
+      "reason": "AI market competition",
+      "headline": "MRVL vs. AMD: Which Semiconductor Stock Has an Edge in the AI Market?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd1a01d69cb25c850d527a175bb760ac7c969d8e1c9ad49c6d9c896846a4b241",
+      "url": "https://finnhub.io/api/news?id=87d6d36b4fa7d388ba2b0497be2b5dba886b8372baf318744e8469266eb47fb5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "MRVL vs. AMD: Which Semiconductor Stock Has an Edge in the AI Market?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87d6d36b4fa7d388ba2b0497be2b5dba886b8372baf318744e8469266eb47fb5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "11 Words From Nvidia CFO Colette Kress That Should Have AMD and Intel Investors Worried",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=127d3231cde62643751c2d2577cb6c75a35c4e543aef5c20fe46a5b0a5732ccb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices vs. Arm Holdings: Which AI CPU Stock Is the Better Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fdd29684bdb0e53075fc14ea9ee2f909f9ac86ea4ef139afe38ff482d72b0a01",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Stock Jumps 10% on Apple Partnership",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=875b33e6895054b9ca0f437e565beb60a94e71a113a013ef428a3f834c6e6674",
+          "used_by_ai": true
+        },
         {
           "headline": "US chip stocks gain after Apple-Intel partnership",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fd1a01d69cb25c850d527a175bb760ac7c969d8e1c9ad49c6d9c896846a4b241",
           "used_by_ai": true
-        },
-        {
-          "headline": "Samsung draws advanced chipmaking interest as TSMC capacity tightens",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c9897afe3458497f805f8a87deb34e13f9c484cb616741b304ace910fbfebaf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMD's Recent Acquisition Makes the Stock Even More Attractive",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e512bb839f0b0c63c85debbf65c0ba0af16e4124133297816f37792568a5115",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The iShares Semiconductor ETF Is Obliterating the S&P 500 in 2026, but Is It Still a Buy? The Answer Might Surprise You.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0294ca53b62c2a90a78928a2b40c2a20e504a96d839b1dd8d2a2942846c380d",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Market optimism",
-      "headline": "Stock Market Today: Dow Rises Ahead Of Jobless Claims; Intel Surges On Trump Comments (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e486719aae47a53794c90a86d9ac7ec63f093935f76cb05b241d97c8fdea2b38",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today: Dow Rises Ahead Of Jobless Claims; Intel Surges On Trump Comments (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e486719aae47a53794c90a86d9ac7ec63f093935f76cb05b241d97c8fdea2b38",
-          "used_by_ai": true
-        },
-        {
-          "headline": "\u2018Forget AI, Fed Is The Story Now\u2019 \u2013 'Bond King' Jeffrey Gundlach Says Kevin Warsh Faces A 1970s-Style Inflation Challenge",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84b06634a281113b222a91a91ea8aacfe17823be8d886c24221a0293065b77fa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "June FOMC Statement: Contrarian Perspective On The Expected Rate Hike",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fa4ce373e7e5363f5c6c7ba6b862e697c6d108a2d66f4c54b841c39f541ed836",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Hawkish-Leaning Committee, Reform-Minded Chair: Warsh's First Fed Meeting",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=048c45e6b46b3eb830a43719aa289c491dca3338315cf496fc6cab77957e1c24",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Takes a Hit, but the Medium-Term Structure Holds",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8b97981f8c6b8b0a1b0c858c1770e1bdf0e1aaa23e3f21f13c3ac6c53fb07f0a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "SpaceX",
-      "headline": "Could SpaceX Join the \"Magnificent Seven\"?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df16fcd1c92dada7f506f38b2a98c8fd40b0646aaf71b3b8bdf63959daf669e8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Could SpaceX Join the \"Magnificent Seven\"?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df16fcd1c92dada7f506f38b2a98c8fd40b0646aaf71b3b8bdf63959daf669e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ExxonMobil Has Its Sights on Its Next Megamerger. Here's the Oil Stock It Should Buy.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e06cd0826b2cb3a6b67ec7e720653544cac953dc87b087f6c9af27be15eabb7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett's Favorite Stock Market Indicator Just Hit a Dangerous Record. Here's What History Says Happens Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa8633dbbb95c9ceba7fd65a0d274a43262263a1e6e12f3ca6c76a05d27464c8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Is the Most Expensive Stock in the $2 Trillion Club, and It's Not Even Close",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76c2a74e3ee03f93ad14e9c68326aa7745239baf5e55c2b4d9204f18a9efe501",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "XLE",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Oil supply",
-      "headline": "Hormuz reopening to release wave of oil supply, depress prices - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenZmRHpWRlpzMTVrZ0xtVTBEdGMxNVY1OVNjUWJyR01yd05YTGMyYkVVRkZramRfNnUxVVRmTEJoMG9Fbzd3VE4zODUzWks3MXZlS3I0UzlPLU9GeS1tMGVudFlIZDhOaEtUN1ZNNUpibjVjQWVSSlFVc1Z5a2M0YkNWNFcxbUhadi1BblJ1MC03dHVCRWhuc1VzLW9LdkZiVllLX08ySWhERmc?oc=5",
-      "on_watchlist": false,
-      "articles": [
-        {
-          "headline": "Hormuz reopening to release wave of oil supply, depress prices - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenZmRHpWRlpzMTVrZ0xtVTBEdGMxNVY1OVNjUWJyR01yd05YTGMyYkVVRkZramRfNnUxVVRmTEJoMG9Fbzd3VE4zODUzWks3MXZlS3I0UzlPLU9GeS1tMGVudFlIZDhOaEtUN1ZNNUpibjVjQWVSSlFVc1Z5a2M0YkNWNFcxbUhadi1BblJ1MC03dHVCRWhuc1VzLW9LdkZiVllLX08ySWhERmc?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oil falls to lowest since start of Iran war after ceasefire deal signed - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 2
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "EV sales",
-      "headline": "This Week In Energy Transition - A P Moller Capital Acquires Mainstream Renewable Power South Africa",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5fed06179ecc31be5a0fa228fda49a39fd571f6a93eb34c150f4efe4932569e7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "This Week In Energy Transition - A P Moller Capital Acquires Mainstream Renewable Power South Africa",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5fed06179ecc31be5a0fa228fda49a39fd571f6a93eb34c150f4efe4932569e7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Will Tesla Be Acquired by SpaceX? And Does That Make Tesla Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6f329c99fd644510f77b3e09e4cd6a1e92541f9d597c5b7186ba71c269ce8d4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Can Be Added to the Russell 1000 and Russell 3000 After Today -- Don't Take the Bait",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b804f54d3bb2d69f8504477de29e1bc6170bada807f70ce35de201ee63a6534",
-          "used_by_ai": true
-        },
-        {
-          "headline": "New Insureworks analysis reveals the EVs holding their value best in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51f9137ddbeeb8aed390e1b23fcf341635738f226f92812bab0ba9611c96db1b",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Quantum computing",
-      "headline": "Amazon Sees Quantum Computing Getting Closer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d75a59e95210b9bcdca47077f33c970ce486cdba87d7a7fc96ae734f5566f0a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Amazon Sees Quantum Computing Getting Closer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d75a59e95210b9bcdca47077f33c970ce486cdba87d7a7fc96ae734f5566f0a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Portal Biotechnologies Accelerates Growth with Latest Round Led by NFX, Expanded DARPA Contract, and Broad Adoption Across Top Pharma and Academic Centers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c310ad8bce4ee2274e1f7174fc5fe1843735f12bb0df695be7b43742420deaba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tim Cook says Apple price increases are unavoidable, Q3 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=291f2ed0880f497679952471e27259aab913bd94f23c8dec60db209e5e901163",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
       }
     }
   ]
