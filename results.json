@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T21:34:53Z",
+  "updated_at": "2026-06-18T23:45:50Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -17,11 +17,17 @@
       "direction": "up",
       "confidence": 80,
       "reason": "US-Iran deal",
-      "headline": "Trump Says Markets Are \u2018Loving What Is Happening\u2019 As US-Iran Peace Deal Sends Oil Lower And Stocks \u2018Way Up\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=964ff477bba7beee27ac024f1434f3bcab0b0fb9101080af7ba308d812e9edb4",
+      "headline": "Wall St indexes advance with boost from chips, Iran optimism - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9OU3cxZnFJZTJuS2dhU3hka1hTQjc0ay1fMUgzTHl5cnhpb2F1NzUzbEkwTmQ1TzkxWHJscTJKVGRkMEFvdC1ieXJ1RDhWVjRvNERsaHdwUVBROEE4ckpaaUwyY1I0RlJwMVRDWFBSd1BmYkF0OC02UXIxMXFwSFU2RGNpd1hwNG9lN1NqbWVMTlhRUUhkVk5jdHN4MVhfRXpnZkdXYUFiT25WOWVndVktRVBNUHY3WjQ1SkNDeWFNZw?oc=5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wall St indexes advance with boost from chips, Iran optimism - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9OU3cxZnFJZTJuS2dhU3hka1hTQjc0ay1fMUgzTHl5cnhpb2F1NzUzbEkwTmQ1TzkxWHJscTJKVGRkMEFvdC1ieXJ1RDhWVjRvNERsaHdwUVBROEE4ckpaaUwyY1I0RlJwMVRDWFBSd1BmYkF0OC02UXIxMXFwSFU2RGNpd1hwNG9lN1NqbWVMTlhRUUhkVk5jdHN4MVhfRXpnZkdXYUFiT25WOWVndVktRVBNUHY3WjQ1SkNDeWFNZw?oc=5",
+          "used_by_ai": true
+        },
         {
           "headline": "Trump Says Markets Are \u2018Loving What Is Happening\u2019 As US-Iran Peace Deal Sends Oil Lower And Stocks \u2018Way Up\u2019",
           "source": "Yahoo",
@@ -29,10 +35,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "What The U.S.-Iran Memorandum Of Understanding Means For Macro And Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0a9ea9b832509ca394c17c341737fa4c6a8b9931a46e637dbd7d3034858a6ceb",
-          "used_by_ai": true
+          "headline": "Kevin Warsh Comments Send Shiver Down Investors\u2019 Spines. Would He Really \u2018Murder This Bull Market?\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39d6d686b2572beeb6cdf9c962cefc4ebffe22644c435fc6a0e7f3cb553d4e24",
+          "used_by_ai": false
         },
         {
           "headline": "The VIX Isn\u2019t Broken, It\u2019s Just Being Outplayed",
@@ -54,49 +60,50 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "Reuters": 1,
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Chip wars",
-      "headline": "Tim Cook Says Chip Wars Will Take a Big Bite of Apple",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Chips boost",
+      "headline": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=060a3135166f7ee3a32743f2c80f457e1561c84c3736d6e9dfc99a84a7dae1fb",
+      "url": "https://finnhub.io/api/news?id=e2204aa41595a7c08a7a73945249a8d8af4dd39bb87ab8c55393eb9c4ecfbafe",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tim Cook Says Chip Wars Will Take a Big Bite of Apple",
+          "headline": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=060a3135166f7ee3a32743f2c80f457e1561c84c3736d6e9dfc99a84a7dae1fb",
+          "url": "https://finnhub.io/api/news?id=e2204aa41595a7c08a7a73945249a8d8af4dd39bb87ab8c55393eb9c4ecfbafe",
           "used_by_ai": true
         },
         {
-          "headline": "Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know",
+          "headline": "Nebius Is Up 210% This Year. Here's Why There's Still Room for More Upside in 2026.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a71d6ce738aa10d9ad32828f6c66904a42502f2be21d3b316de7d22f2c87e4b",
+          "url": "https://finnhub.io/api/news?id=822f04e70e75308e9393786ee3f169cd09dd095f83f39f79852cbff28627b7e0",
           "used_by_ai": true
         },
         {
-          "headline": "Apple seen as well-positioned to navigate rising memory costs, Bank of America says",
+          "headline": "Prediction: These Will Be Micron's and Sandisk's Stock Prices by the End of 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93230c65ca4981a417277a93508b046d73cd3dc177d7cef502ed6efa82e3534a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Climb Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b980d5dc805a24d44e1845d04b16eb1dd3d657ff5c6f483db0e3053087dc48c7",
+          "url": "https://finnhub.io/api/news?id=c1946963f4ccac87a4f298ec69454b710d59d1874745cd2c5c90145364993124",
           "used_by_ai": false
         },
         {
-          "headline": "Qualcomm (QCOM) Stock Is Up, What You Need To Know",
+          "headline": "JPMorgan's Latest Forecasts Are Bullish for Gold: Buy the Dip",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0d28600d9a6a5d674dc3e51be0e83d0697a6f052d76ac5069dca454511c5c94",
+          "url": "https://finnhub.io/api/news?id=3382c829b2d7e4db5f4b5c87ae4b278694f92c9c79d106cb37b6742ccf9c7ca7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wolfe Research Reaffirms Bullish View on Arista Networks (ANET) With $175 Price Target",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5de2df274632e3462988fd94c8fe704a3054d067f3108fa81b093186c6357be",
           "used_by_ai": false
         }
       ],
@@ -105,79 +112,125 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "Meta\u2019s Applied AI is Reality Labs 2.0",
+      "confidence": 60,
+      "reason": "Growth stock",
+      "headline": "Is Advanced Micro Devices, Inc. (AMD) One of the Best Growth Stocks to Buy, According to Billionaire Ray Dalio\u2019s Bridgewater Associates?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79dfa9b133dc100ea0561a9823a2554ac5b3379cf40e50be006adb622b39f3e6",
+      "url": "https://finnhub.io/api/news?id=ab0b72603a86b0bfc34676e80422bbb4d5be42d1bfbb494d0179d11be48f2403",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Meta\u2019s Applied AI is Reality Labs 2.0",
+          "headline": "Is Advanced Micro Devices, Inc. (AMD) One of the Best Growth Stocks to Buy, According to Billionaire Ray Dalio\u2019s Bridgewater Associates?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79dfa9b133dc100ea0561a9823a2554ac5b3379cf40e50be006adb622b39f3e6",
+          "url": "https://finnhub.io/api/news?id=ab0b72603a86b0bfc34676e80422bbb4d5be42d1bfbb494d0179d11be48f2403",
           "used_by_ai": true
         },
         {
-          "headline": "Is Sweetgreen a Millionaire-Maker Stock?",
+          "headline": "AMD (AMD) Buys MEXT To Tackle AI Data Center Memory Bottlenecks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5858ab251d5b41c368e4729defc9a28e756de831fb26f60ee6a142841c19893",
+          "url": "https://finnhub.io/api/news?id=acf10d4d52aa909ec3185052e7da637548e9802ad62410a2088f1bd41ca27881",
           "used_by_ai": true
         },
         {
-          "headline": "Oracle vs. Salesforce: Which Tech Giant Is The Better Buy?",
+          "headline": "The Gross Margin Silence That Reshapes The Advanced Micro Stock Bull Case",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25024f2fad3cfca15ba9628fd1b78d5e77dfa63f5193c69259d0dbd545ef7ec3",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=8ac8552f8e2c23aa0b238bc6d569767e8eb07eb5e6bb667782349e5f54b3cc74",
+          "used_by_ai": false
         },
         {
           "headline": "One Warning Signal AMD Investors Can't Miss",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=289f4ea751dfbd230a54a015c91f74563872477b39efbecdf8f25d0f04b459d9",
-          "used_by_ai": true
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Real Price Tag On Broadcom Stock Is Not What It Seems",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44e19cdcae26ccdb7ea1a2f69152565032f1c6bd2094f0750e5daa816538252b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "SpaceX AI",
-      "headline": "Some Call SpaceX A Meme Stock. PitchBook Sees An AI Infrastructure Boom.",
+      "reason": "Deal with Intel",
+      "headline": "Apple\u2019s Latest Reveal Proves That Micron Has \u201cMore Room To Run\u201d",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa6eb673df21794b8e1105968a4096efd555c3f6a7ac9272b443ae6f31e64d91",
+      "url": "https://finnhub.io/api/news?id=b6bdce3ade06e21793ab3d3df8f376332a5b41e6a03a79df65aa9c79e220d242",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Some Call SpaceX A Meme Stock. PitchBook Sees An AI Infrastructure Boom.",
+          "headline": "Apple\u2019s Latest Reveal Proves That Micron Has \u201cMore Room To Run\u201d",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa6eb673df21794b8e1105968a4096efd555c3f6a7ac9272b443ae6f31e64d91",
+          "url": "https://finnhub.io/api/news?id=b6bdce3ade06e21793ab3d3df8f376332a5b41e6a03a79df65aa9c79e220d242",
           "used_by_ai": true
         },
         {
-          "headline": "Safeguards For How To Invest In The SpaceX IPO And Beyond",
+          "headline": "Intel shares surge after Trump touts deal with Apple",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=225f0b3f56a349f7d4a5c812667bdadb61129e37211bf0bc271ec3284eec049f",
+          "url": "https://finnhub.io/api/news?id=16b479d9033b5b06b7cf6de2f8f94cd663bae133a52b52d41fc9bdbe479e2725",
           "used_by_ai": true
         },
         {
-          "headline": "\u2018I\u2019d Be Shocked If Within a Year Sam Altman Is Still Running OpenAI\u2019",
+          "headline": "Update: Equities Rise, Oil Little Changed as Focus Shifts to Further US-Iran Talks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=073bb06ac618b0f3e52aaf04d1d9cb45a2cc67a57d67beafbd92b100195ba8c9",
+          "url": "https://finnhub.io/api/news?id=73a77e9cd9c53c3712fe8909a21abed89607bc557549fb8805c9cad44ed27795",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Update: US Equity Indexes Rise as Washington Lifts Blockade of Iran's Ports, Deal Sets Up Hormuz Chokepoint for Reopening",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9dc47a2f52fa6912fe0d788e9fc1efcf2eb54d2313b43294087767f8d9796c2e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Is Intel (INTC) Stock Rocketing Higher Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=23a810ac1148cd41c33e8e100a3a44cd734adedace7e37788cf9b54c83310e85",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "New feature",
+      "headline": "Microsoft Corp (MSFT): Teams Getting Another Feature Boost",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5839ee4340c81b7685c76fb86b2146f6518a5afdbcc7a0afbdca6ca1273aa86d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Corp (MSFT): Teams Getting Another Feature Boost",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5839ee4340c81b7685c76fb86b2146f6518a5afdbcc7a0afbdca6ca1273aa86d",
           "used_by_ai": true
         },
         {
-          "headline": "Top Midday Stories: US, Iran Seal Memorandum to Reopen Hormuz; Intel Gains After Trump Cites Apple Chip Partnership",
+          "headline": "Microsoft warns new malware turns copy-paste against you",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e33466a2619e50c8a1401ab4bee09d9172db051a5ce536efb8c80692bc7be3a0",
+          "url": "https://finnhub.io/api/news?id=dbb69c8d832d6b7a2834996f16972ff3b919063bb27ab7ed09b0e8d3d08cc4f6",
           "used_by_ai": true
+        },
+        {
+          "headline": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=621b520ffff197c013e2a0541dfa38eb371ffab852c6990cb29b6be036e8db12",
+          "used_by_ai": false
         },
         {
           "headline": "Thursday's session: most active stock in the S&P500 index",
@@ -187,82 +240,54 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "ChartMill": 1
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI data center",
-      "headline": "AMD (AMD) Buys MEXT To Tackle AI Data Center Memory Bottlenecks",
+      "confidence": 40,
+      "reason": "SpaceX growth",
+      "headline": "Carvana opens 'car playground' for easy test drive booking",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=acf10d4d52aa909ec3185052e7da637548e9802ad62410a2088f1bd41ca27881",
+      "url": "https://finnhub.io/api/news?id=426559e0b26e5b530248a847a92a3dd29c5ebab87218e1a988e8bacbfbbdbdae",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD (AMD) Buys MEXT To Tackle AI Data Center Memory Bottlenecks",
+          "headline": "Carvana opens 'car playground' for easy test drive booking",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=acf10d4d52aa909ec3185052e7da637548e9802ad62410a2088f1bd41ca27881",
+          "url": "https://finnhub.io/api/news?id=426559e0b26e5b530248a847a92a3dd29c5ebab87218e1a988e8bacbfbbdbdae",
           "used_by_ai": true
         },
         {
-          "headline": "The Real Price Tag On Broadcom Stock Is Not What It Seems",
+          "headline": "Goldman Sachs Says SpaceX Could Hit $474 Billion in Revenue by 2030. Here Are the 3 AI Stocks That Benefit Most.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44e19cdcae26ccdb7ea1a2f69152565032f1c6bd2094f0750e5daa816538252b",
+          "url": "https://finnhub.io/api/news?id=3af68d08f22b7cf30671d280bb3cfb8f83d9d0bbcafacac8995e357ef34244fc",
           "used_by_ai": true
         },
         {
-          "headline": "Intel shares rise after Trump announces Apple partnership",
+          "headline": "Heavy SpaceX Options Trading Driven by New Daily Contracts",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f7d8ccf168f21aa12e4058e52d3ce578a3c6e3dfff32816ca0c99bcada20149",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=faf3d6f00da64f0214d4dc2a14c6bcaae9cc564f274f60a01aca1aa4adcb37a9",
+          "used_by_ai": false
         },
         {
-          "headline": "Stock Market Today, June 18: Intel Surges As Market Gains on U.S.-Iran Agreement",
+          "headline": "Some Call SpaceX A Meme Stock. PitchBook Sees An AI Infrastructure Boom.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68103c6de3b799d82532bcf0c6a8ffe8925704f97ccf292e86d12a1ed3d6b3a0",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=fa6eb673df21794b8e1105968a4096efd555c3f6a7ac9272b443ae6f31e64d91",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Safeguards For How To Invest In The SpaceX IPO And Beyond",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=225f0b3f56a349f7d4a5c812667bdadb61129e37211bf0bc271ec3284eec049f",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI business",
-      "headline": "Microsoft Builds $1 Billion-Plus AI Business With ByteDance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2aac75cbad78ecc11ae0e29b47f1c7016127779489999a03fc036a09bf56d4c7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Builds $1 Billion-Plus AI Business With ByteDance",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2aac75cbad78ecc11ae0e29b47f1c7016127779489999a03fc036a09bf56d4c7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Faces AI Expectations Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=46d6f82b78917f29b46d64fc91e100420bb5cda6f402bad6ca1dda1acb9687ab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "EU Cloud Probe Puts Microsoft, Amazon on Watch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d4b966b613a270d1c47fa39b00c036fe60e33ff7bd6e491ebb44ce7225ff118",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
       }
     }
   ]
