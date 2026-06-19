@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T16:11:56Z",
+  "updated_at": "2026-06-19T18:16:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,18 +15,30 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "FSD approval",
-      "headline": "Tesla (TSLA) Gets Approval for its Full Self-Driving (FSD) Technology in Denmark",
+      "confidence": 60,
+      "reason": "Cathie Wood investment",
+      "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c7d38e93680b9e33831dd03ae0efa5cec4d024ebfef2844b34211d25b7f1409",
+      "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla (TSLA) Gets Approval for its Full Self-Driving (FSD) Technology in Denmark",
+          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c7d38e93680b9e33831dd03ae0efa5cec4d024ebfef2844b34211d25b7f1409",
+          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
           "used_by_ai": true
+        },
+        {
+          "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=568511f12c4407db14d0e0cc8d0b14be60fd6651bd691627e053c3e6ed0db8f5",
+          "used_by_ai": false
         },
         {
           "headline": "Expert Warns: California Taxes Harming \u201cBig Wealth Driver in the State\u201d as Billionaires Flee",
@@ -39,23 +51,211 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e51a7dc142c897e3e2205a8fd4419ebbf0cb68ed0ce28e2672766ea30f73a712",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Google competition",
+      "headline": "Google Takes On Nvidia With Bold New AI Chip Strategy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Google Takes On Nvidia With Bold New AI Chip Strategy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7",
+          "used_by_ai": true
         },
         {
-          "headline": "Tesla Gets Cathie Wood Boost as Ark Returns After SpaceX Buy",
+          "headline": "Ripple Swell 2026: What XRP Holders Should Expect From Ripple\u2019s Biggest Event Yet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3a6ec6eed4e1fc02a1ec03a1c5bd7f965133bc73c7d90df569396f4f03690d7",
+          "url": "https://finnhub.io/api/news?id=f7d3b6e079b47f0824259dc322ae1dcdbcc2438c499bad6fac0810bd66aa2132",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why the AI Infrastructure Wave Will Mint More Millionaires Than the Chatbot Phase: 3 Stocks to Own",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ada029d5544ceda5fd385a1065e7883d7866b3b19eacb8600584947717b0ad10",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI investment",
+      "headline": "Google, SpaceX, Microsoft, and Amazon Are About to Spend \u2018Twice the Entire U.S. Defense Budget\u2019 on AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c86bf02c1e3c775af9a170a088bdad5920eb00f945dcfa302026b15ea882c245",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Google, SpaceX, Microsoft, and Amazon Are About to Spend \u2018Twice the Entire U.S. Defense Budget\u2019 on AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c86bf02c1e3c775af9a170a088bdad5920eb00f945dcfa302026b15ea882c245",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Allbirds exposes a new test for the AI trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca724e97a9f86e0b46ee098bf01a3a3c20aebad118664503f3a082dfd507144a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bank of America predicts a major pricing shift for Apple",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80341e0537bd5efe74dbbc1439238a011e10f9b14ea30f12366ca52d76f0c737",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6c2ee4a4536af4426952e97d60c3abefe0577f7d5d2873907047905322c9cf2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Is the 5th Most Valuable Public Company in the World. Can It Overtake Nvidia, Alphabet, Apple, or Microsoft?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=faf5134b5bddcd44136791629ff6e366235688b3072bd3213fdd72f679e81c9e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "AI infrastructure",
+      "headline": "Why the AI Infrastructure Wave Will Mint More Millionaires Than the Chatbot Phase: 3 Stocks to Own",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ada029d5544ceda5fd385a1065e7883d7866b3b19eacb8600584947717b0ad10",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why the AI Infrastructure Wave Will Mint More Millionaires Than the Chatbot Phase: 3 Stocks to Own",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ada029d5544ceda5fd385a1065e7883d7866b3b19eacb8600584947717b0ad10",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google Takes On Nvidia With Bold New AI Chip Strategy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Ripple Swell 2026: What XRP Holders Should Expect From Ripple\u2019s Biggest Event Yet",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7d3b6e079b47f0824259dc322ae1dcdbcc2438c499bad6fac0810bd66aa2132",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "China export scrutiny",
+      "headline": "ASML Faces Fresh China Export Scrutiny",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "ASML Faces Fresh China Export Scrutiny",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ASML Draws Fresh China Scrutiny",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=32521b48eec3f17a9da5908ffda65950b96b6565718618b2bc40d24e21cadd83",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Lloyds (LYG) Launches \u201cLloyds Rewards\u201d In-App Hub to Replace Everyday Offers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ba17e9595326a7245b8ba8c923220800f5fda3a20afbe9a0ba89ac1cb4511dd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "1 Consumer Stock with Solid Fundamentals and 2 We Question",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38919c62aa4232dd11d268bc65c515f598e94f195d32a5ddb280a39b19452bec",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "AI and post-quantum push",
+      "headline": "AI And Post\u2011Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab295b97e8ce7da2fad01dc2457197aad93e161fa420e02aa3c3493fc2cec93f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AI And Post\u2011Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab295b97e8ce7da2fad01dc2457197aad93e161fa420e02aa3c3493fc2cec93f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a787528402cb74654540f84c022cfaf489e0397baa1aeb20e8a3308bb9609d6f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "LongPoint ETFs Opens the Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4109aaeb34821fa70bd81f9daadb0facb21e56d7068959833bfdd9dafc03c220",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 40,
       "reason": "FSD roadblock",
       "headline": "Tesla Faces Fresh FSD Roadblock in Europe",
       "source": "Yahoo",
@@ -69,187 +269,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Expert Warns: California Taxes Harming \u201cBig Wealth Driver in the State\u201d as Billionaires Flee",
+          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a54db60cdc2494aea5a441b3c6367a850cff0d90572c0501df46a1e96909c2d9",
+          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
           "used_by_ai": false
         },
         {
-          "headline": "Tesla Gets Cathie Wood Boost as Ark Returns After SpaceX Buy",
+          "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3a6ec6eed4e1fc02a1ec03a1c5bd7f965133bc73c7d90df569396f4f03690d7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla (TSLA) Gets Approval for its Full Self-Driving (FSD) Technology in Denmark",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c7d38e93680b9e33831dd03ae0efa5cec4d024ebfef2844b34211d25b7f1409",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Cathie Wood boost",
-      "headline": "Tesla Gets Cathie Wood Boost as Ark Returns After SpaceX Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3a6ec6eed4e1fc02a1ec03a1c5bd7f965133bc73c7d90df569396f4f03690d7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Gets Cathie Wood Boost as Ark Returns After SpaceX Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3a6ec6eed4e1fc02a1ec03a1c5bd7f965133bc73c7d90df569396f4f03690d7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Expert Warns: California Taxes Harming \u201cBig Wealth Driver in the State\u201d as Billionaires Flee",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a54db60cdc2494aea5a441b3c6367a850cff0d90572c0501df46a1e96909c2d9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla Faces Fresh FSD Roadblock in Europe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e51a7dc142c897e3e2205a8fd4419ebbf0cb68ed0ce28e2672766ea30f73a712",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla (TSLA) Gets Approval for its Full Self-Driving (FSD) Technology in Denmark",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c7d38e93680b9e33831dd03ae0efa5cec4d024ebfef2844b34211d25b7f1409",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI talent war",
-      "headline": "Jim Cramer Calls Noam Shazeer\u2019s Jump to OpenAI a \u2018Coup\u2019 as the AI Talent War Heats Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b967188278985c0fe8b87c3152460d1408ea082c6e19e691e4dc5b181d104cb",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Jim Cramer Calls Noam Shazeer\u2019s Jump to OpenAI a \u2018Coup\u2019 as the AI Talent War Heats Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b967188278985c0fe8b87c3152460d1408ea082c6e19e691e4dc5b181d104cb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Is Trump\u2019s Most Controversial Trade of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0456e226bb34c78e97d09dfa3fafc9227a654abf33dc51616b89ab272d78f3ef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "XRP Has an NVIDIA Connection, But is It Strong Enough This Cycle?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1fa894be3177dc1f8383127ff96b36cf50260476a15349b644767b8ef481eae",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What\u2019s Wrong With Costco?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5808c4e05086806d2ab1dc051ffa9328af301d93ae33006da6c11087f10e02b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Amazon competition",
-      "headline": "Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a787528402cb74654540f84c022cfaf489e0397baa1aeb20e8a3308bb9609d6f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a787528402cb74654540f84c022cfaf489e0397baa1aeb20e8a3308bb9609d6f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6c2ee4a4536af4426952e97d60c3abefe0577f7d5d2873907047905322c9cf2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "LongPoint ETFs Opens the Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4109aaeb34821fa70bd81f9daadb0facb21e56d7068959833bfdd9dafc03c220",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d963b172d0337357cf3822ed236c5508262c6bf7fd2ea1a408a638978e5cc06",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Buy, Hold, or Sell: AMD Rested Near All-Time Highs as Kevin Warsh Opened His First Fed Meeting. Is AMD Stock a Buy at $507?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c2a5b30ff648a9a9c2c6fb42d2dc7c2d837f7fb48fce4f7515cfc0f9524a106",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "plummet prediction",
-      "headline": "Prediction: This Stock is Going to Plummet in The Second Half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=912158ac6c0e77575b4b7c440c73c4ee1e005a226994adf3d18796e3665442cf",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: This Stock is Going to Plummet in The Second Half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=912158ac6c0e77575b4b7c440c73c4ee1e005a226994adf3d18796e3665442cf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Is the 5th Most Valuable Public Company in the World. Can It Overtake Nvidia, Alphabet, Apple, or Microsoft?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=faf5134b5bddcd44136791629ff6e366235688b3072bd3213fdd72f679e81c9e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "\u201cThey Forgot to Protect Our Industries With TARIFFS!\u201d \u2014 Does a Trump Trade War 2.0 Loom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=496015860e6fa7df4ff25ceafb630d193ddfccee2f5049345ec5d885ee7cbb9f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Is Outperforming Everything. Is It Still the Smartest Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f314ce18cc915d7fdb0cea41521143e4e1c7a76a7b92321c44048088206e94",
+          "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c",
           "used_by_ai": false
         },
         {
@@ -257,159 +285,79 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=568511f12c4407db14d0e0cc8d0b14be60fd6651bd691627e053c3e6ed0db8f5",
           "used_by_ai": false
+        },
+        {
+          "headline": "Expert Warns: California Taxes Harming \u201cBig Wealth Driver in the State\u201d as Billionaires Flee",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a54db60cdc2494aea5a441b3c6367a850cff0d90572c0501df46a1e96909c2d9",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI infrastructure",
-      "headline": "Meta's AI Infrastructure Bet Gets Bigger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2df21e0d4bcb62d4b95b35e4df71751f7c577b1f529c4a9d91c23d3c13520915",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Meta's AI Infrastructure Bet Gets Bigger",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2df21e0d4bcb62d4b95b35e4df71751f7c577b1f529c4a9d91c23d3c13520915",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cloud AI Update - Exploring AI's Future Infrastructure Challenges And Solutions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ccf193aaeb6fb3509856d719e1c3811ce414a25d6f6de26bc53464cb7c933e37",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google's AI Chip Strategy Gets More Ambitious",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5a6636e710fadd68a4e6dff01f11a00203036e0d2eec2da5ad56c0eb0aedc1f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft picks Checkout.com as EMEA payments partner for key products",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e76c34676fc8072d5c478040c1166f36d30c1c33838a0cff33b34abbb434624b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "XRP connection",
-      "headline": "XRP Has an NVIDIA Connection, But is It Strong Enough This Cycle?",
+      "confidence": 30,
+      "reason": "Ripple event",
+      "headline": "Ripple Swell 2026: What XRP Holders Should Expect From Ripple\u2019s Biggest Event Yet",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1fa894be3177dc1f8383127ff96b36cf50260476a15349b644767b8ef481eae",
+      "url": "https://finnhub.io/api/news?id=f7d3b6e079b47f0824259dc322ae1dcdbcc2438c499bad6fac0810bd66aa2132",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "XRP Has an NVIDIA Connection, But is It Strong Enough This Cycle?",
+          "headline": "Ripple Swell 2026: What XRP Holders Should Expect From Ripple\u2019s Biggest Event Yet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1fa894be3177dc1f8383127ff96b36cf50260476a15349b644767b8ef481eae",
+          "url": "https://finnhub.io/api/news?id=f7d3b6e079b47f0824259dc322ae1dcdbcc2438c499bad6fac0810bd66aa2132",
           "used_by_ai": true
         },
         {
-          "headline": "This Is Trump\u2019s Most Controversial Trade of 2026",
+          "headline": "Google Takes On Nvidia With Bold New AI Chip Strategy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0456e226bb34c78e97d09dfa3fafc9227a654abf33dc51616b89ab272d78f3ef",
+          "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7",
           "used_by_ai": false
         },
         {
-          "headline": "What\u2019s Wrong With Costco?",
+          "headline": "Why the AI Infrastructure Wave Will Mint More Millionaires Than the Chatbot Phase: 3 Stocks to Own",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5808c4e05086806d2ab1dc051ffa9328af301d93ae33006da6c11087f10e02b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Jim Cramer Calls Noam Shazeer\u2019s Jump to OpenAI a \u2018Coup\u2019 as the AI Talent War Heats Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b967188278985c0fe8b87c3152460d1408ea082c6e19e691e4dc5b181d104cb",
+          "url": "https://finnhub.io/api/news?id=ada029d5544ceda5fd385a1065e7883d7866b3b19eacb8600584947717b0ad10",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "tariff concerns",
-      "headline": "\u201cThey Forgot to Protect Our Industries With TARIFFS!\u201d \u2014 Does a Trump Trade War 2.0 Loom?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=496015860e6fa7df4ff25ceafb630d193ddfccee2f5049345ec5d885ee7cbb9f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "\u201cThey Forgot to Protect Our Industries With TARIFFS!\u201d \u2014 Does a Trump Trade War 2.0 Loom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=496015860e6fa7df4ff25ceafb630d193ddfccee2f5049345ec5d885ee7cbb9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Is the 5th Most Valuable Public Company in the World. Can It Overtake Nvidia, Alphabet, Apple, or Microsoft?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=faf5134b5bddcd44136791629ff6e366235688b3072bd3213fdd72f679e81c9e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: This Stock is Going to Plummet in The Second Half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=912158ac6c0e77575b4b7c440c73c4ee1e005a226994adf3d18796e3665442cf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Is Outperforming Everything. Is It Still the Smartest Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f314ce18cc915d7fdb0cea41521143e4e1c7a76a7b92321c44048088206e94",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=568511f12c4407db14d0e0cc8d0b14be60fd6651bd691627e053c3e6ed0db8f5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
-      "reason": "equity fund inflows",
-      "headline": "US equity fund inflows surge on Iran deal, tech draws record weekly investments - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2IxeWNvMGtLVFlFUGpoRG80NWMyQk54bFloejRqWUI5NlBlZlUtaFQ4UWxsMHNEQlF6ck5EN1BwTVRCeWR4Q1RmcXZiY1Y1QUNOUzVwbDJobEU3YUc2LVFDczQ2RlhMTzBlQnFCc2hOc28tNzJtbjJBV0JiY0R3aTd1TWd0SkgxS1AyUVA2QVgxUndFNFhDTVkyTDgtMUFLaHpiM3VPY2xQZHdadXNVM0U1eFNvQjhsVm1rTA?oc=5",
+      "confidence": 30,
+      "reason": "Market breadth repair",
+      "headline": "Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f0d635c3b3a2e2902aed359429a895460fc81f4e08fe671182a1ed07fe97b9ac",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "US equity fund inflows surge on Iran deal, tech draws record weekly investments - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2IxeWNvMGtLVFlFUGpoRG80NWMyQk54bFloejRqWUI5NlBlZlUtaFQ4UWxsMHNEQlF6ck5EN1BwTVRCeWR4Q1RmcXZiY1Y1QUNOUzVwbDJobEU3YUc2LVFDczQ2RlhMTzBlQnFCc2hOc28tNzJtbjJBV0JiY0R3aTd1TWd0SkgxS1AyUVA2QVgxUndFNFhDTVkyTDgtMUFLaHpiM3VPY2xQZHdadXNVM0U1eFNvQjhsVm1rTA?oc=5",
-          "used_by_ai": true
-        },
         {
           "headline": "Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=f0d635c3b3a2e2902aed359429a895460fc81f4e08fe671182a1ed07fe97b9ac",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Bond Market Is Too Hawkish",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=592955a6dcaf1db10c30296bb7bce88a28f77fa58a8b8c138f0d5669302e5bc6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Bifurcated Market Is Creating Opportunities",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8136ab601038be6ef5d11d2e1b771ec90aeca1db110d5207ab8cd410321a4bfc",
           "used_by_ai": false
         },
         {
@@ -423,24 +371,58 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f7c3c93af8aaab76fb42f2f2fe598c0016ec98886b7ea7db5e110cbbe80ffd46",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "SeekingAlpha": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Market uncertainty",
+      "headline": "The Bond Market Is Too Hawkish",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=592955a6dcaf1db10c30296bb7bce88a28f77fa58a8b8c138f0d5669302e5bc6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Bond Market Is Too Hawkish",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=592955a6dcaf1db10c30296bb7bce88a28f77fa58a8b8c138f0d5669302e5bc6",
+          "used_by_ai": true
         },
         {
-          "headline": "Latest Major Central Bank Policy Decisions In Line With PMI Signals",
+          "headline": "The Bifurcated Market Is Creating Opportunities",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2ab3884dfd2e741d6607879a4ca0db6a8093a14de5660e9fb3db573b84437c1e",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8136ab601038be6ef5d11d2e1b771ec90aeca1db110d5207ab8cd410321a4bfc",
+          "used_by_ai": true
         },
         {
-          "headline": "2026 Midyear Outlook: World Disrupted? Resilience Endured",
+          "headline": "Why I Don't Buy Kevin Warsh As A Hawk, And You Shouldn't Either",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3ca3dc13b803e169649a70e99e5e960af7b9193d6878ababd16eff0f150712cc",
+          "url": "https://finnhub.io/api/news?id=710a7fbcfc2ea256bd8356915cc543bc5cc80f29160913e4225d155cfb10f179",
+          "used_by_ai": true
+        },
+        {
+          "headline": "5 Numbers Highlighting How Insane The Market Has Become",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f7c3c93af8aaab76fb42f2f2fe598c0016ec98886b7ea7db5e110cbbe80ffd46",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=f0d635c3b3a2e2902aed359429a895460fc81f4e08fe671182a1ed07fe97b9ac",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
-        "ChartMill": 1,
-        "SeekingAlpha": 4
+        "SeekingAlpha": 4,
+        "ChartMill": 1
       }
     }
   ]
