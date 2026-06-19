@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T20:14:54Z",
+  "updated_at": "2026-06-19T21:44:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -13,7 +13,7 @@
   "items": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "NVIDIA",
       "direction": "up",
       "confidence": 80,
       "reason": "Buy recommendations",
@@ -41,6 +41,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": true
+        },
+        {
           "headline": "Prediction: Eli Lilly Will Trade at $1,200 on This Date",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e3e16aa7f24416a0493777b2da0e4f86f257a000ea41b00b60a8b5c1989b5fd5",
@@ -54,14 +60,14 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 6
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "AI investments",
       "headline": "Amazon's Quantum Bet Nears Reality",
       "source": "Yahoo",
@@ -81,6 +87,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Allbirds exposes a new test for the AI trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca724e97a9f86e0b46ee098bf01a3a3c20aebad118664503f3a082dfd507144a",
+          "used_by_ai": true
+        },
+        {
           "headline": "Bank of America predicts a major pricing shift for Apple",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=80341e0537bd5efe74dbbc1439238a011e10f9b14ea30f12366ca52d76f0c737",
@@ -91,11 +103,51 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e6c2ee4a4536af4426952e97d60c3abefe0577f7d5d2873907047905322c9cf2",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Supply chain scrutiny",
+      "headline": "ASML Faces Fresh China Export Scrutiny",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "ASML Faces Fresh China Export Scrutiny",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
+          "used_by_ai": true
         },
         {
-          "headline": "Allbirds exposes a new test for the AI trade",
+          "headline": "ASML Draws Fresh China Scrutiny",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca724e97a9f86e0b46ee098bf01a3a3c20aebad118664503f3a082dfd507144a",
+          "url": "https://finnhub.io/api/news?id=32521b48eec3f17a9da5908ffda65950b96b6565718618b2bc40d24e21cadd83",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Consumer Stock with Solid Fundamentals and 2 We Question",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38919c62aa4232dd11d268bc65c515f598e94f195d32a5ddb280a39b19452bec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Lloyds (LYG) Launches \u201cLloyds Rewards\u201d In-App Hub to Replace Everyday Offers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ba17e9595326a7245b8ba8c923220800f5fda3a20afbe9a0ba89ac1cb4511dd",
           "used_by_ai": false
         }
       ],
@@ -104,10 +156,58 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Market growth",
+      "headline": "A Median Earner Needs $803 Monthly for 30 Years to Hit $1 Million. Most Don\u2019t Make It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f06d8c3f0cf3f0c004203fb155d1f0262d87a787c07babc21a5a9313ebeedb0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A Median Earner Needs $803 Monthly for 30 Years to Hit $1 Million. Most Don\u2019t Make It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f06d8c3f0cf3f0c004203fb155d1f0262d87a787c07babc21a5a9313ebeedb0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=051639f8a66e8b3fbc353e9f6606f79dc6e428a58ed73c36bf7d93a7044cac7f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=f0d635c3b3a2e2902aed359429a895460fc81f4e08fe671182a1ed07fe97b9ac",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Bond Market Is Too Hawkish",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=592955a6dcaf1db10c30296bb7bce88a28f77fa58a8b8c138f0d5669302e5bc6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Bifurcated Market Is Creating Opportunities",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8136ab601038be6ef5d11d2e1b771ec90aeca1db110d5207ab8cd410321a4bfc",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "ChartMill": 1,
+        "SeekingAlpha": 2
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "Alternative to Intel",
       "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
       "source": "Yahoo",
@@ -149,21 +249,21 @@
       "direction": "neutral",
       "confidence": 40,
       "reason": "CEO competition",
-      "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
+      "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c",
+      "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
+          "used_by_ai": true
+        },
         {
           "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=568511f12c4407db14d0e0cc8d0b14be60fd6651bd691627e053c3e6ed0db8f5",
           "used_by_ai": true
         },
         {
@@ -173,9 +273,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
+          "headline": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
+          "url": "https://finnhub.io/api/news?id=568511f12c4407db14d0e0cc8d0b14be60fd6651bd691627e053c3e6ed0db8f5",
           "used_by_ai": false
         },
         {
@@ -188,100 +288,6 @@
       "source_breakdown": {
         "Yahoo": 4,
         "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Supply chain scrutiny",
-      "headline": "ASML Faces Fresh China Export Scrutiny",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "ASML Faces Fresh China Export Scrutiny",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ASML Draws Fresh China Scrutiny",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32521b48eec3f17a9da5908ffda65950b96b6565718618b2bc40d24e21cadd83",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 Consumer Stock with Solid Fundamentals and 2 We Question",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38919c62aa4232dd11d268bc65c515f598e94f195d32a5ddb280a39b19452bec",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Lloyds (LYG) Launches \u201cLloyds Rewards\u201d In-App Hub to Replace Everyday Offers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ba17e9595326a7245b8ba8c923220800f5fda3a20afbe9a0ba89ac1cb4511dd",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Market opportunities",
-      "headline": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=051639f8a66e8b3fbc353e9f6606f79dc6e428a58ed73c36bf7d93a7044cac7f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=051639f8a66e8b3fbc353e9f6606f79dc6e428a58ed73c36bf7d93a7044cac7f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=f0d635c3b3a2e2902aed359429a895460fc81f4e08fe671182a1ed07fe97b9ac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Bond Market Is Too Hawkish",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=592955a6dcaf1db10c30296bb7bce88a28f77fa58a8b8c138f0d5669302e5bc6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Bifurcated Market Is Creating Opportunities",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8136ab601038be6ef5d11d2e1b771ec90aeca1db110d5207ab8cd410321a4bfc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why I Don't Buy Kevin Warsh As A Hawk, And You Shouldn't Either",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=710a7fbcfc2ea256bd8356915cc543bc5cc80f29160913e4225d155cfb10f179",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "ChartMill": 1,
-        "SeekingAlpha": 3
       }
     }
   ]
