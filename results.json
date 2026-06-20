@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T10:57:45Z",
+  "updated_at": "2026-06-20T12:54:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,275 +8,138 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "AI stock up 4800%",
-      "headline": "This Artificial Intelligence (AI) Stock Is Up 4,800% in the Past Year. Wall Street Says This Will Happen Next.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f420b3a799138c9b7933870a82f752af09dd5b8a178ac93b85c083ea9a3d2a21",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "This Artificial Intelligence (AI) Stock Is Up 4,800% in the Past Year. Wall Street Says This Will Happen Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f420b3a799138c9b7933870a82f752af09dd5b8a178ac93b85c083ea9a3d2a21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Market Has Punished This Consumer Stock -- Is That Your Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eca87acc94c88542d8eb1dedee764620b5d1ccac50cab26bb2a29a9a161240f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is Marvell Technology Going to $1 Trillion?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e617a8b79b5d4d75b18824ff3033513165cc90520779cb1fc1683e251da1aba8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "IPO Candidate Saronic Performs First-Ever Drone Rescue at Sea",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=180a6808969bbe2d75c432d7e185f370a54d34fbac8f9253d8f547182dd789bf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: This Will Be Nvidia's Stock Price in 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c24f3ce66a7cbee4036330e65f6c83fba5042a25fc7b9d9f3b64f1476f6e0e4d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Drop to multi-year lows",
-      "headline": "Microsoft Is Not Cheap: Drop To Multi-Year Lows Likely",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ff2fda9d571e73f1d95e9cdf00b0956d65cfb243a92cd00392d14a59cb8448ee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Is Not Cheap: Drop To Multi-Year Lows Likely",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ff2fda9d571e73f1d95e9cdf00b0956d65cfb243a92cd00392d14a59cb8448ee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is It Too Late to Buy SpaceX?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb7b7ebb367a35b2bffd8db376268ea10a51828c34966d9b8804b4e649a5803b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36ad202c28b8cef82b6a1ebddc6eb129fb8e3e412945645955c60b85a0483c77",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft vs. Nvidia: Which AI Giant Is the Better Dividend Stock for the Long Haul?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a22f2bc1b7ad2a6b074f9799c1615f28172a94cbc4dfb26705fc92dceb455860",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Rival to surge 90%",
-      "headline": "Wall Street expects Tesla rival to surge 90% despite cash crunch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a72a0c50469d155a6f0f45449f595de4b77584d861667976b66adeb4f6524821",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wall Street expects Tesla rival to surge 90% despite cash crunch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a72a0c50469d155a6f0f45449f595de4b77584d861667976b66adeb4f6524821",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 \"Magnificent Seven\" Stocks to Buy and Hold Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dba5b2a37de5b3d900d18ae198c6463e3db023dc5330db5a983cf668f879ab09",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9b32ab7fa1736d3ecd553aa627ccd1dc4b9afabd0957485e33e1f269e2d3e03",
-          "used_by_ai": false
-        },
-        {
-          "headline": "If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d84dce23e4d4d6dcde64204da6fbb708290e2e6bfd06b4415225cb66027cc092",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Prediction for 2030",
-      "headline": "Prediction: This Will Be Nvidia's Stock Price in 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c24f3ce66a7cbee4036330e65f6c83fba5042a25fc7b9d9f3b64f1476f6e0e4d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: This Will Be Nvidia's Stock Price in 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c24f3ce66a7cbee4036330e65f6c83fba5042a25fc7b9d9f3b64f1476f6e0e4d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Market Has Punished This Consumer Stock -- Is That Your Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0eca87acc94c88542d8eb1dedee764620b5d1ccac50cab26bb2a29a9a161240f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is Marvell Technology Going to $1 Trillion?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e617a8b79b5d4d75b18824ff3033513165cc90520779cb1fc1683e251da1aba8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "IPO Candidate Saronic Performs First-Ever Drone Rescue at Sea",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=180a6808969bbe2d75c432d7e185f370a54d34fbac8f9253d8f547182dd789bf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Artificial Intelligence (AI) Stock Is Up 4,800% in the Past Year. Wall Street Says This Will Happen Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f420b3a799138c9b7933870a82f752af09dd5b8a178ac93b85c083ea9a3d2a21",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Alternative to Intel",
-      "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+      "confidence": 80,
+      "reason": "Surges in cloud infrastructure",
+      "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
           "used_by_ai": true
         },
         {
           "headline": "AMDY: Good Income With Risks",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Better Buy: AMD vs. Intel After Intel's Monster Run",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b4ebf259e7af63234eb2283abc194ab69f7b7e1d95e850e48c441a67c7c1d75e",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "AI And Post\u2011Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)",
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab295b97e8ce7da2fad01dc2457197aad93e161fa420e02aa3c3493fc2cec93f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6c2ee4a4536af4426952e97d60c3abefe0577f7d5d2873907047905322c9cf2",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "ChartMill": 1,
+        "SeekingAlpha": 1,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Mentioned in investment articles",
+      "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Space Station Company Will Now Go to the Moon, Too",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f81b322167cd9b5584aab94d3383ac9a0c47be56f66690b84be4b7800a6b036",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Redwire Stock Is Up 80% in 2026. Is It Too Late to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81de829dcb3efbeb2c753ed2182ca08b8975401b7851b0f502d4fcc0070b7ab6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Bold bet by Cathie Wood",
-      "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
+      "confidence": 70,
+      "reason": "Mentioned in investment articles",
+      "headline": "BYD rejects allegations of environmental violations at Hungary EV plant",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
+      "url": "https://finnhub.io/api/news?id=408cdabda2681c7b6652a1f9c433cab0ad7a201da1a057437bcc4d3732ac1177",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
+          "headline": "BYD rejects allegations of environmental violations at Hungary EV plant",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
+          "url": "https://finnhub.io/api/news?id=408cdabda2681c7b6652a1f9c433cab0ad7a201da1a057437bcc4d3732ac1177",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why odds of SpaceX merger with Tesla keep climbing every time the stock shoots up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0856bb77fe53e261248206a4a240f19af1143e0991c4027437b78dcefc9446c0",
           "used_by_ai": true
         },
         {
           "headline": "3 \"Magnificent Seven\" Stocks to Buy and Hold Right Now",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dba5b2a37de5b3d900d18ae198c6463e3db023dc5330db5a983cf668f879ab09",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d9b32ab7fa1736d3ecd553aa627ccd1dc4b9afabd0957485e33e1f269e2d3e03",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Wall Street expects Tesla rival to surge 90% despite cash crunch",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a72a0c50469d155a6f0f45449f595de4b77584d861667976b66adeb4f6524821",
-          "used_by_ai": false
-        },
-        {
-          "headline": "If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d84dce23e4d4d6dcde64204da6fbb708290e2e6bfd06b4415225cb66027cc092",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -284,57 +147,28 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Partnership expansion",
-      "headline": "Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Mentioned in investment articles",
+      "headline": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36ad202c28b8cef82b6a1ebddc6eb129fb8e3e412945645955c60b85a0483c77",
+      "url": "https://finnhub.io/api/news?id=ff13778aa61ee449afb74aec705f91c2bcc57845c068bc1db1b66da9f2d7808a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry",
+          "headline": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36ad202c28b8cef82b6a1ebddc6eb129fb8e3e412945645955c60b85a0483c77",
+          "url": "https://finnhub.io/api/news?id=ff13778aa61ee449afb74aec705f91c2bcc57845c068bc1db1b66da9f2d7808a",
           "used_by_ai": true
         },
         {
-          "headline": "Is It Too Late to Buy SpaceX?",
+          "headline": "Making $100K a Year? Here\u2019s the One Fund That Compounds Without the Research",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb7b7ebb367a35b2bffd8db376268ea10a51828c34966d9b8804b4e649a5803b",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=a8bf0a3df31990823c36c289e6814604100b40e8959412dc8f0421c9807f4a5d",
+          "used_by_ai": true
         },
-        {
-          "headline": "Microsoft Is Not Cheap: Drop To Multi-Year Lows Likely",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ff2fda9d571e73f1d95e9cdf00b0956d65cfb243a92cd00392d14a59cb8448ee",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft vs. Nvidia: Which AI Giant Is the Better Dividend Stock for the Long Haul?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a22f2bc1b7ad2a6b074f9799c1615f28172a94cbc4dfb26705fc92dceb455860",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Memory boom problem",
-      "headline": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a5a010fed01dc1cb77c6ffba068f19e246876a83e1ac21360a6455ba56cecf5",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
           "source": "Yahoo",
@@ -342,28 +176,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Making $100K a Year? Here\u2019s the One Fund That Compounds Without the Research",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a8bf0a3df31990823c36c289e6814604100b40e8959412dc8f0421c9807f4a5d",
-          "used_by_ai": false
-        },
-        {
           "headline": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0afbebec5abf734da03c9f244eec5833f0669930a170b3801fffc82e0b4fd09d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "If You\u2019re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e8fc056ff649d401d396d8fa6fe82e6b162182048e8f9bf55c67ea32eb9f59d5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "ASML Faces Fresh China Export Scrutiny",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -371,16 +193,75 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Fed chair changes",
-      "headline": "New Fed Chair Changes The Conversation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c91ed5ea0c1ff74184c69d054408cb56dccecf87ab2bf4106583157fb89f25de",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Stumbles in cloud infrastructure",
+      "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Move Over Marvell, Here Are the Next 2 $1 Trillion Semiconductor Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80d43a72d4a943248d0c433b5c88dd65575a0018125dc95210f927e099974452",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is It Too Late to Buy SpaceX?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb7b7ebb367a35b2bffd8db376268ea10a51828c34966d9b8804b4e649a5803b",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Market optimism",
+      "headline": "The 1-Minute Market Report, June 20, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=32b2d9c2e3885347f59888f356f106b32cb6581d75dd4713755ae9436d770851",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The 1-Minute Market Report, June 20, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=32b2d9c2e3885347f59888f356f106b32cb6581d75dd4713755ae9436d770851",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How We Would Invest $100,000 Today: Our Two Best Strategies, One Yields 7.75%",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f08d52d4a74551f71cf5e799d7f0898c9542f762b473fba714638666b1cc7172",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Indicators: Points Of Weakness - Just Static?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7135180e394ccc940ca7b66faaaaee76db8bafec1b1014ffd2f68268e92859c9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Trump Wanted Lower Rates, But Warsh's Federal Reserve Might Hike Them",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a3d9b5f669d466ab7707c6a6fa91b078b70de630c6200f2ea7a427e94c1a9ba7",
+          "used_by_ai": true
+        },
         {
           "headline": "New Fed Chair Changes The Conversation",
           "source": "SeekingAlpha",
@@ -388,27 +269,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "Trump Wanted Lower Rates, But Warsh's Federal Reserve Might Hike Them",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a3d9b5f669d466ab7707c6a6fa91b078b70de630c6200f2ea7a427e94c1a9ba7",
-          "used_by_ai": false
+          "headline": "US equity fund inflows surge on Iran deal, tech draws record weekly investments - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2IxeWNvMGtLVFlFUGpoRG80NWMyQk54bFloejRqWUI5NlBlZlUtaFQ4UWxsMHNEQlF6ck5EN1BwTVRCeWR4Q1RmcXZiY1Y1QUNOUzVwbDJobEU3YUc2LVFDczQ2RlhMTzBlQnFCc2hOc28tNzJtbjJBV0JiY0R3aTd1TWd0SkgxS1AyUVA2QVgxUndFNFhDTVkyTDgtMUFLaHpiM3VPY2xQZHdadXNVM0U1eFNvQjhsVm1rTA?oc=5",
+          "used_by_ai": true
         },
         {
-          "headline": "Weekly Commentary: Warsh's Regime Change",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7ed8ee5d73f60892ead4e188660526c51219adaa16cd0d6f824f97f6b5672465",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A Median Earner Needs $803 Monthly for 30 Years to Hit $1 Million. Most Don\u2019t Make It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f06d8c3f0cf3f0c004203fb155d1f0262d87a787c07babc21a5a9313ebeedb0",
-          "used_by_ai": false
+          "headline": "Weekly inflows into global equity funds hit 19-month highs on Iran deal optimism - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT050dkJmNU12bDgtelpJUzA4X0ZuRHBLUktYV2dGbXVoaG9rd0R5V3hkWGd3dUY0R0NvQ0RhMExUM3luT2RENHRMcmlqTm0zOVdsc3NtcFdibWxjSWZDMndzM25DWHJPOFNkQ1RSRWZ2cktBYXkwT3ZJWlpVSEhrTkZB?oc=5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 1
+        "SeekingAlpha": 5,
+        "Reuters": 2
       }
     }
   ]
