@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T21:47:10Z",
+  "updated_at": "2026-06-20T23:09:16Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,51 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI trend",
+      "headline": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=922d1ee0357bc72cba465c5f026126ab7efaa0de930a5a46da88c4c295923d1a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=922d1ee0357bc72cba465c5f026126ab7efaa0de930a5a46da88c4c295923d1a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Ford Could Make $500 Million From AI. Is Now the Time to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b149f939299b3d4c81ae2a41818ab649986aa938c149055b3b993e7af347da89",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Company Could Become the Nvidia of AI Inference",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d0aaaca5f9447eb81ca5fa1c34c37ed770a6ab0353c7357dc2b7925b15f9962b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget Your 401(k) Balance. Here's the Number That Really Matters.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=506028d1f332a9c4f3b06c07bacb9a8a98e6016a5516f1e669dfb007ca712864",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Electric vehicle megatrend",
+      "confidence": 55,
+      "reason": "Electric vehicles",
       "headline": "Energy Expert: Electric Vehicles Are the \u2018Keystone Species\u2019 of the Next Megatrend. Will Tesla\u2019s Stock See Massive Gains?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7195170147f7601c728b0821c7feebc2dd9e24d0c5e7085ce9143d4000849e51",
@@ -55,13 +95,31 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 55,
-      "reason": "US manufacturing push",
-      "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
+      "confidence": 50,
+      "reason": "AI investment",
+      "headline": "You\u2019re Watching AI Headlines Daily. Here\u2019s How to Own the Whole Trend at Once",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
+      "url": "https://finnhub.io/api/news?id=77edba3782492e7ed4b4d729e5416a244d18a845c8e125b47b506cf63c329fd7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "You\u2019re Watching AI Headlines Daily. Here\u2019s How to Own the Whole Trend at Once",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77edba3782492e7ed4b4d729e5416a244d18a845c8e125b47b506cf63c329fd7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc14aa7773d516b328fbee86d30f6f59936b44932c012674f27aa9863dc816b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia RTX Spark: What I Learned From Apple's iMac",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cc4bff3b2fe31c93302c0f9c8e51bbc5e4582e6dea8e75cf2f51bf417f068d68",
+          "used_by_ai": true
+        },
         {
           "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
           "source": "Yahoo",
@@ -69,28 +127,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "You\u2019re Watching AI Headlines Daily. Here\u2019s How to Own the Whole Trend at Once",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77edba3782492e7ed4b4d729e5416a244d18a845c8e125b47b506cf63c329fd7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc14aa7773d516b328fbee86d30f6f59936b44932c012674f27aa9863dc816b4",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia RTX Spark: What I Learned From Apple's iMac",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cc4bff3b2fe31c93302c0f9c8e51bbc5e4582e6dea8e75cf2f51bf417f068d68",
-          "used_by_ai": false
-        },
-        {
           "headline": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ff13778aa61ee449afb74aec705f91c2bcc57845c068bc1db1b66da9f2d7808a",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -102,8 +142,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Surging stock",
+      "confidence": 45,
+      "reason": "AI and cloud",
       "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
@@ -149,9 +189,9 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "down",
-      "confidence": 45,
-      "reason": "Stumbling stock",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed news",
       "headline": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2e15607cc63e435a22a1087527567ac20e00bc741c85647199d23bc42ef9aa19",
@@ -180,62 +220,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6",
           "used_by_ai": true
-        },
-        {
-          "headline": "Peter Thiel\u2019s secret society talks AI takeover, World War III and \u2018cult-building\u2019 \u2014 a hacker just revealed who\u2019s in it",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bad6f455f42a5ccce9efaba1cc6379059467de7b119d2a6e747b26252a20d72a",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Multiple mentions",
-      "headline": "Should You Buy Abbott Labs Stock Hand Over Fist Before July 16?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df141f809a8cdc5f358c7ce7800fd8270494f69c4e674d45b565ebf7bb58f739",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Should You Buy Abbott Labs Stock Hand Over Fist Before July 16?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df141f809a8cdc5f358c7ce7800fd8270494f69c4e674d45b565ebf7bb58f739",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Energy Infrastructure Fund Delivers 19% Gains While Paying 2.8% Yield To Income Hunters",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d857110d1287cb7ef47ac32de5f267c4a04b625b7a3dc67ae53efffb59ee6fab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "12 Months From Now, Will You Wish You Bought SpaceX Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c986c319fb99e25c9de8416f9dacfdf74d59f654d79d84f5de7912643f1e42d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nuclear Power Is Having a Moment, and These 3 Stocks Are the Best to Buy Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39b875252d72a5dd14777e5bf717de9c13f59fa233b6c4bec8f682dded86642e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Metric From Google Cloud Proves Its $185 Billion in Capital Spending This Year Is Worth It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=edf76375c02b1680db680bf93cbe5761b5a67757503fcca0c807e5edacbefb36",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
@@ -243,7 +231,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market news",
+      "reason": "Market trends",
       "headline": "Don't Freak Out Over Fed Chair Kevin Warsh's 'New' Regime",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2d211d41ac32f5f0ff6752872b47893858ab6921768f737e6cc3543ddd40ba3d",
