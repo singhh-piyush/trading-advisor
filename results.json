@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T18:54:36Z",
+  "updated_at": "2026-06-20T20:14:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 8,
   "sample": false,
   "items": [
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Electric vehicle megatrend",
       "headline": "Energy Expert: Electric Vehicles Are the \u2018Keystone Species\u2019 of the Next Megatrend. Will Tesla\u2019s Stock See Massive Gains?",
       "source": "Yahoo",
@@ -52,10 +52,105 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "US manufacturing push",
+      "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
+          "used_by_ai": true
+        },
+        {
+          "headline": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc14aa7773d516b328fbee86d30f6f59936b44932c012674f27aa9863dc816b4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia RTX Spark: What I Learned From Apple's iMac",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cc4bff3b2fe31c93302c0f9c8e51bbc5e4582e6dea8e75cf2f51bf417f068d68",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff13778aa61ee449afb74aec705f91c2bcc57845c068bc1db1b66da9f2d7808a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Micron, FedEx Set To Headline Earnings Next Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=06c6f9361b3967de1d4ab2912a69abb097ab86d649d79a7cb92b70968e3c84fb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Cloud infrastructure rotation",
+      "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMDY: Good Income With Risks",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Better Buy: AMD vs. Intel After Intel's Monster Run",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ebf259e7af63234eb2283abc194ab69f7b7e1d95e850e48c441a67c7c1d75e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 40,
       "reason": "Lockup period concerns",
       "headline": "Prediction: The SpaceX Lockup Period Will Be an Absolute Train Wreck for Retail Investors",
       "source": "Yahoo",
@@ -95,25 +190,13 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 55,
-      "reason": "AI boom investment",
-      "headline": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
+      "confidence": 40,
+      "reason": "Long-term investor potential",
+      "headline": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc14aa7773d516b328fbee86d30f6f59936b44932c012674f27aa9863dc816b4",
+      "url": "https://finnhub.io/api/news?id=ff13778aa61ee449afb74aec705f91c2bcc57845c068bc1db1b66da9f2d7808a",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc14aa7773d516b328fbee86d30f6f59936b44932c012674f27aa9863dc816b4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
-          "used_by_ai": true
-        },
         {
           "headline": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
           "source": "Yahoo",
@@ -121,9 +204,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc14aa7773d516b328fbee86d30f6f59936b44932c012674f27aa9863dc816b4",
+          "used_by_ai": false
+        },
+        {
           "headline": "Nvidia RTX Spark: What I Learned From Apple's iMac",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=cc4bff3b2fe31c93302c0f9c8e51bbc5e4582e6dea8e75cf2f51bf417f068d68",
+          "used_by_ai": false
+        },
+        {
+          "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
           "used_by_ai": false
         },
         {
@@ -139,39 +234,87 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI talent move",
-      "headline": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
+      "confidence": 40,
+      "reason": "Alternative to Intel",
+      "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e15607cc63e435a22a1087527567ac20e00bc741c85647199d23bc42ef9aa19",
+      "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e15607cc63e435a22a1087527567ac20e00bc741c85647199d23bc42ef9aa19",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire Warren Buffett Disciple Warns: Don\u2019t Quit Your Job To Start A New Business, Do This Instead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e26bc111d034c65504c1cc25b3c5ceca680532c9ec35968d5d3a205940216481",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TJX Is a Reliable Off-Price Retailer, But for Investors, Is the Premium Too High?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07ead7097ecb6e798abd1f70a81b60f4a67bc7636940168ddfbfad2644ccf66a",
-          "used_by_ai": true
-        },
         {
           "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
           "used_by_ai": true
+        },
+        {
+          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMDY: Good Income With Risks",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Better Buy: AMD vs. Intel After Intel's Monster Run",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ebf259e7af63234eb2283abc194ab69f7b7e1d95e850e48c441a67c7c1d75e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 1,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Elon Musk's patience comment",
+      "headline": "Elon Musk Just Told Investors to Be (Really) Patient With Optimus and Robotaxi",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adc1dee4f3d0c74df615ac7f81d6cf25a555a0a7072e4b7eb3b9a6267a59fdc5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Just Told Investors to Be (Really) Patient With Optimus and Robotaxi",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adc1dee4f3d0c74df615ac7f81d6cf25a555a0a7072e4b7eb3b9a6267a59fdc5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Energy Expert: Electric Vehicles Are the \u2018Keystone Species\u2019 of the Next Megatrend. Will Tesla\u2019s Stock See Massive Gains?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7195170147f7601c728b0821c7feebc2dd9e24d0c5e7085ce9143d4000849e51",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Prediction: The SpaceX Lockup Period Will Be an Absolute Train Wreck for Retail Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7ef817b339d4352e4321c6c6aab7a7716822b566cb6bc256da7bdda0ef0e2cf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Each $1 gain in SpaceX stock adds $4.76B to Elon Musk\u2019s net worth. Here\u2019s what $1K, $7K or $15K invested could earn you",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e264f337f7cfe64af4e9a269cda20ad967ceaf412754d0aef5019126e5eee9e7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -179,93 +322,11 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Cloud infrastructure surge",
-      "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMDY: Good Income With Risks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Better Buy: AMD vs. Intel After Intel's Monster Run",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4ebf259e7af63234eb2283abc194ab69f7b7e1d95e850e48c441a67c7c1d75e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 45,
-      "reason": "AI competition",
-      "headline": "Prediction: Will Dell Hit $500 This Year?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f93c67b09945f128f01f413fd14ab2f8c9ae5ca40a40d82f87af34671ab84056",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: Will Dell Hit $500 This Year?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f93c67b09945f128f01f413fd14ab2f8c9ae5ca40a40d82f87af34671ab84056",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google Losing Top AI Executive Is \u2018The Most Significant AI Talent Move of the Year.\u2019 Is It Time to Sell Alphabet Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Peter Thiel\u2019s secret society talks AI takeover, World War III and \u2018cult-building\u2019 \u2014 a hacker just revealed who\u2019s in it",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bad6f455f42a5ccce9efaba1cc6379059467de7b119d2a6e747b26252a20d72a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market volatility",
+      "confidence": 20,
+      "reason": "Fed Chair's regime",
       "headline": "Don't Freak Out Over Fed Chair Kevin Warsh's 'New' Regime",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2d211d41ac32f5f0ff6752872b47893858ab6921768f737e6cc3543ddd40ba3d",
@@ -278,28 +339,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "Trump Wanted Lower Rates, But Warsh's Federal Reserve Might Hike Them",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a3d9b5f669d466ab7707c6a6fa91b078b70de630c6200f2ea7a427e94c1a9ba7",
+          "used_by_ai": true
+        },
+        {
           "headline": "The 1-Minute Market Report, June 20, 2026",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=32b2d9c2e3885347f59888f356f106b32cb6581d75dd4713755ae9436d770851",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "How We Would Invest $100,000 Today: Our Two Best Strategies, One Yields 7.75%",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f08d52d4a74551f71cf5e799d7f0898c9542f762b473fba714638666b1cc7172",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Weekly Indicators: Points Of Weakness - Just Static?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=7135180e394ccc940ca7b66faaaaee76db8bafec1b1014ffd2f68268e92859c9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Wanted Lower Rates, But Warsh's Federal Reserve Might Hike Them",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a3d9b5f669d466ab7707c6a6fa91b078b70de630c6200f2ea7a427e94c1a9ba7",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
