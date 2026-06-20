@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T22:57:53Z",
+  "updated_at": "2026-06-20T00:16:20Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,43 +8,9 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "High-growth tech stock",
-      "headline": "Beyond the Trillion-Dollar Club: 3 High-Growth Tech Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f403ba02cfb950b44f492befac6b23485b8f8a3ea679f57f4538ac23f4a5a7c0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Beyond the Trillion-Dollar Club: 3 High-Growth Tech Stocks to Buy Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f403ba02cfb950b44f492befac6b23485b8f8a3ea679f57f4538ac23f4a5a7c0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9c79dffd676f7e113aacba4a410aa399a51eac2436bc96ea9d2e587d090c093",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Gildan Activewear Stock Tumbled by 11% This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f35d601ec4073c27a4921cca582d7a4759c08a4c53ebf1d303b323a8f6694b7",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
@@ -63,22 +29,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d9b32ab7fa1736d3ecd553aa627ccd1dc4b9afabd0957485e33e1f269e2d3e03",
+          "used_by_ai": false
+        },
+        {
           "headline": "If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d84dce23e4d4d6dcde64204da6fbb708290e2e6bfd06b4415225cb66027cc092",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "As SpaceX Falls Back To Earth, Bear ETFs Reach For The Stars",
@@ -93,10 +59,143 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Cathie Wood bet",
+      "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d9b32ab7fa1736d3ecd553aa627ccd1dc4b9afabd0957485e33e1f269e2d3e03",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wall Street expects Tesla rival to surge 90% despite cash crunch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a72a0c50469d155a6f0f45449f595de4b77584d861667976b66adeb4f6524821",
+          "used_by_ai": false
+        },
+        {
+          "headline": "If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d84dce23e4d4d6dcde64204da6fbb708290e2e6bfd06b4415225cb66027cc092",
+          "used_by_ai": false
+        },
+        {
+          "headline": "As SpaceX Falls Back To Earth, Bear ETFs Reach For The Stars",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0d0470c163eb481538f01cf2f664c42eced35ac5e7b1db546bcaec0987fe05a3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Alternative to Intel",
+      "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Better Buy: AMD vs. Intel After Intel's Monster Run",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ebf259e7af63234eb2283abc194ab69f7b7e1d95e850e48c441a67c7c1d75e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Should You Add Ethereum to Your Portfolio Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b807f67ce0d198d5bb76d6ca75555182bc0851d9069288bba78082e8ea390975",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Weekly Wrap: Bitcoin Slumps As Fed Turns Hawkish On Interest Rates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8bc5592849f5c39c4fcc3a03c18db340e5a452e0d9c7abb00d52bcb0c6ddb695",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Simplest Way to Own Bitcoin Inside Your Regular Brokerage Account",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8f50a3f5a3f8777962800ffec42e232aff1c031abfb0d875fee627c22f1375c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Alternative to Intel",
+      "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI And Post\u2011Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab295b97e8ce7da2fad01dc2457197aad93e161fa420e02aa3c3493fc2cec93f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6c2ee4a4536af4426952e97d60c3abefe0577f7d5d2873907047905322c9cf2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a787528402cb74654540f84c022cfaf489e0397baa1aeb20e8a3308bb9609d6f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 40,
       "reason": "Memory boom problem",
       "headline": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
       "source": "Yahoo",
@@ -116,6 +215,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Making $100K a Year? Here\u2019s the One Fund That Compounds Without the Research",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8bf0a3df31990823c36c289e6814604100b40e8959412dc8f0421c9807f4a5d",
+          "used_by_ai": false
+        },
+        {
           "headline": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0afbebec5abf734da03c9f244eec5833f0669930a170b3801fffc82e0b4fd09d",
@@ -126,12 +231,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e8fc056ff649d401d396d8fa6fe82e6b162182048e8f9bf55c67ea32eb9f59d5",
           "used_by_ai": false
-        },
-        {
-          "headline": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -139,50 +238,10 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI and post-quantum push",
-      "headline": "AI And Post\u2011Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab295b97e8ce7da2fad01dc2457197aad93e161fa420e02aa3c3493fc2cec93f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI And Post\u2011Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab295b97e8ce7da2fad01dc2457197aad93e161fa420e02aa3c3493fc2cec93f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6c2ee4a4536af4426952e97d60c3abefe0577f7d5d2873907047905322c9cf2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a787528402cb74654540f84c022cfaf489e0397baa1aeb20e8a3308bb9609d6f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "LongPoint ETFs Opens the Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4109aaeb34821fa70bd81f9daadb0facb21e56d7068959833bfdd9dafc03c220",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "AI investment",
       "headline": "Amazon's Quantum Bet Nears Reality",
       "source": "Yahoo",
@@ -210,8 +269,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Market growth",
+      "confidence": 30,
+      "reason": "Market opportunities",
       "headline": "A Median Earner Needs $803 Monthly for 30 Years to Hit $1 Million. Most Don\u2019t Make It.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3f06d8c3f0cf3f0c004203fb155d1f0262d87a787c07babc21a5a9313ebeedb0",
@@ -227,12 +286,6 @@
           "headline": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=051639f8a66e8b3fbc353e9f6606f79dc6e428a58ed73c36bf7d93a7044cac7f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGh0dzZrMVhwME55Z1FPXzBZRjQ3LTVFS2xaLS1hMlNRUUNWN1A0Wk1qVXVKYlRhNEY3X2lMZVVKWnF5UHMxWU5yUkhJdmhBODZFNnFDYXFYYXRkT25nQ1FTRWZIY00xTFRaX2t3TjcwOGxUV05LQTdBVVplSEFpeGN4VQ?oc=5",
           "used_by_ai": true
         },
         {
@@ -252,13 +305,19 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=8136ab601038be6ef5d11d2e1b771ec90aeca1db110d5207ab8cd410321a4bfc",
           "used_by_ai": true
+        },
+        {
+          "headline": "US equity fund inflows surge on Iran deal, tech draws record weekly investments - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2IxeWNvMGtLVFlFUGpoRG80NWMyQk54bFloejRqWUI5NlBlZlUtaFQ4UWxsMHNEQlF6ck5EN1BwTVRCeWR4Q1RmcXZiY1Y1QUNOUzVwbDJobEU3YUc2LVFDczQ2RlhMTzBlQnFCc2hOc28tNzJtbjJBV0JiY0R3aTd1TWd0SkgxS1AyUVA2QVgxUndFNFhDTVkyTDgtMUFLaHpiM3VPY2xQZHdadXNVM0U1eFNvQjhsVm1rTA?oc=5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
-        "Reuters": 1,
         "ChartMill": 1,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 2,
+        "Reuters": 1
       }
     }
   ]
