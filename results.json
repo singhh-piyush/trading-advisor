@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T20:52:22Z",
+  "updated_at": "2026-06-21T22:15:03Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Price increase due to memory costs",
+      "confidence": 70,
+      "reason": "Price increase due",
       "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
@@ -27,6 +27,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
           "used_by_ai": true
+        },
+        {
+          "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
+          "used_by_ai": false
         },
         {
           "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
@@ -45,11 +51,51 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "US manufacturing win",
+      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
+          "used_by_ai": true
         },
         {
-          "headline": "India seeks tariff advantage before implementing U.S. trade deal",
+          "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e40f61b5b3f359828d984754c5d9e7b737835315c1d8db49eec916f0823fe078",
+          "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
           "used_by_ai": false
         }
       ],
@@ -58,91 +104,11 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "SpaceX stock crash prediction",
-      "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Potential merger with SpaceX",
-      "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Undervalued by the market",
+      "confidence": 60,
+      "reason": "AI utility",
       "headline": "Microsoft: Market Is Missing The Big Picture",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=31e62d831cc58cde4ee6c4873add6860a77b3cebc668cabcf96ae788c2017bce",
@@ -158,7 +124,7 @@
           "headline": "Microsoft: The AI Utility Masquerading As A Software Stock",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b5734b4251bbf355c5e5dd5367080ec078a89c1fdb4ab2ad83a9bf557a0e36c1",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -169,8 +135,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "H2 2026 inflection point",
+      "confidence": 60,
+      "reason": "Inflection point",
       "headline": "AMD's H2 2026 Inflection Is Bigger Than AI GPUs",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
@@ -183,35 +149,121 @@
           "used_by_ai": true
         },
         {
+          "headline": "Switzerland says US-Iran talks continue at B\u00fcrgenstock, declines to identify participants - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
+          "used_by_ai": true
+        },
+        {
           "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
-        "ChartMill": 1,
-        "Yahoo": 1
+        "Reuters": 1,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Merger possibility",
+      "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Revenue target skepticism",
+      "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market shift and Fed regime",
-      "headline": "New Fed Regime, Same Hawkish Theme",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
+      "confidence": 40,
+      "reason": "Market shift",
+      "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
+          "used_by_ai": true
+        },
         {
           "headline": "New Fed Regime, Same Hawkish Theme",
           "source": "SeekingAlpha",
@@ -225,27 +277,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "Better S&P 500 ETF: VOO vs. SPY",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
+          "used_by_ai": true
+        },
+        {
           "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
           "used_by_ai": true
-        },
-        {
-          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Better S&P 500 ETF: VOO vs. SPY",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     }
   ]
