@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:15:03Z",
+  "updated_at": "2026-06-21T23:51:09Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,103 +12,11 @@
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Price increase due",
-      "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "US manufacturing win",
-      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI utility",
+      "confidence": 30,
+      "reason": "Positive article",
       "headline": "Microsoft: Market Is Missing The Big Picture",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=31e62d831cc58cde4ee6c4873add6860a77b3cebc668cabcf96ae788c2017bce",
@@ -135,8 +43,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Inflection point",
+      "confidence": 30,
+      "reason": "Positive article",
       "headline": "AMD's H2 2026 Inflection Is Bigger Than AI GPUs",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
@@ -147,32 +55,110 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions in various articles",
+      "headline": "Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b025ecd0001a97a168caaf90febb17f2a314b5a127929bcf1c0ef53d6697f6ba",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Switzerland says US-Iran talks continue at B\u00fcrgenstock, declines to identify participants - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
+          "headline": "Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b025ecd0001a97a168caaf90febb17f2a314b5a127929bcf1c0ef53d6697f6ba",
           "used_by_ai": true
         },
         {
-          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
+          "headline": "With the Fed Holding Interest Rates Steady, Here's the Smartest Dividend Stock to Buy With $1,000 Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a5eb047d4ebb4200f8caf597e0bd2040ae2d04a414e3fbecd580794aa833569f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Relatively Unknown Energy Stock You Won't Want to Miss",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9530eb75d445268388d2adea6e0467e715cfdf15c943d92e480d9f137bcd22d0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Entire Micron Investment Thesis Comes Down to This One Number",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab25f99357e768e2fd77476dd51ab3f90cf3f4e7af9dc0e8250e72e8bc434ac6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 2 Factors That Will Decide Whether XLV Finally Catches the S&P 500 in 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=038182b20706846a8396b0e55102890345a59ae8195727fb4930bad0bb58f9f0",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions in various articles",
+      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d00af9f4d4569dc6b6aded7c8895837031bb0ffa60c3b95b92a53687f4b4a9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Reuters": 1,
-        "ChartMill": 1
+        "Yahoo": 5
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Merger possibility",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions in various articles",
       "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
@@ -185,43 +171,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+          "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
+          "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
           "used_by_ai": true
         },
         {
-          "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
+          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Revenue target skepticism",
-      "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
+          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
           "used_by_ai": true
         },
         {
@@ -229,18 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
           "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -251,8 +197,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market shift",
+      "confidence": 20,
+      "reason": "Mentions in various articles",
       "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
@@ -292,6 +238,28 @@
       "source_breakdown": {
         "Yahoo": 2,
         "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "XLE",
+      "company": "",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Oil price increase",
+      "headline": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDktZEMyRnJ6ZUlaRUlUT3U2c0ZhTFluQm5kWHI3YkdBRTc0QVM0XzVYUHJmdGhzZUJMZ2pHTVdhclpUVVdBdUZ0dktUVUZ0SHpnS0UxY3BTMnJDUW10dnlKZEtiYjZvSkRoR3h1NTUyU2xUZ3NXTUlxTFNKemlyd3BLbUhEOGRmYUpfSnFvQ0R0c2tIMUowUDFRdXJyc2E3bXU1QTEwa3pKUldDRDlVXzR6QkxmNmpoQVk1Sw?oc=5",
+      "on_watchlist": false,
+      "articles": [
+        {
+          "headline": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDktZEMyRnJ6ZUlaRUlUT3U2c0ZhTFluQm5kWHI3YkdBRTc0QVM0XzVYUHJmdGhzZUJMZ2pHTVdhclpUVVdBdUZ0dktUVUZ0SHpnS0UxY3BTMnJDUW10dnlKZEtiYjZvSkRoR3h1NTUyU2xUZ3NXTUlxTFNKemlyd3BLbUhEOGRmYUpfSnFvQ0R0c2tIMUowUDFRdXJyc2E3bXU1QTEwa3pKUldDRDlVXzR6QkxmNmpoQVk1Sw?oc=5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 1
       }
     }
   ]
