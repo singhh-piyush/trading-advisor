@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T15:25:59Z",
+  "updated_at": "2026-06-21T17:05:46Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,70 +8,36 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Nvidia invests $2 billion",
-      "headline": "Nebius Group (NasdaqGS:NBIS) Lands $2 Billion From Nvidia As Avride Moves With Uber",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b8a1ef7106086a90dfe4d59ce7d8e2351178243263622e30c80a9d5c1473bab",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nebius Group (NasdaqGS:NBIS) Lands $2 Billion From Nvidia As Avride Moves With Uber",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b8a1ef7106086a90dfe4d59ce7d8e2351178243263622e30c80a9d5c1473bab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is It Too Late to Buy SpaceX Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbcd9adb47551e7c6bf517c3195768d482f1e7d123df29de3a6b63e6e05bc759",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Will Release Earnings Through X and Its Website Only. Is That a Red Flag?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69c6c123f79a2192566e0cb6fff068cf5af5545064e099c9bb15354d0d728833",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is ServiceNow the Biggest AI Winner Nobody Is Talking About?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4edba0967e639469b9877ac6126e2c72a6fc222841499abb3bda2d44f3a86df3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "GM\u2019s CEO: Humans Aren\u2019t Coding Self-Driving Cars Anymore, AI Is",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39eef3e46df801161250f5fae6c264201b47b7bcb4b7f40ab921b31dbbd96efa",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 70,
-      "reason": "SpaceX stock may crash",
-      "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
+      "confidence": 60,
+      "reason": "SpaceX stock crash predicted",
+      "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
+      "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
+          "used_by_ai": true
+        },
         {
           "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Faces EU FSD Split As Musk Lifts Voting Stake To 20%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e9dfe1ce9ddbe57f72ea469734054bc72f1e1d2c9ceefa512ed66178feafcea2",
           "used_by_ai": true
         },
         {
@@ -85,18 +51,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5aced6ca3bdd5d39c1123736a2dcb8208bc15db161eeb1ce0eb11bca9b8cc061",
           "used_by_ai": false
-        },
-        {
-          "headline": "Tesla (TSLA) Faces EU FSD Split As Musk Lifts Voting Stake To 20%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9dfe1ce9ddbe57f72ea469734054bc72f1e1d2c9ceefa512ed66178feafcea2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Can SpaceX Deliver Tesla-Level Returns? The Bull and the Bear Case",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93ad76f49d2bcd027518dfe2e8adf8c7931dacda312243c5fbedf92c664df511",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -107,13 +61,19 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Apple raises prices",
-      "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+      "confidence": 55,
+      "reason": "Price increase due to memory costs",
+      "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
+      "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
           "source": "Yahoo",
@@ -121,10 +81,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+          "headline": "Millions of Apple users losing access to Microsoft Office",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=128724ac729ab4aa35f60cf61f6b629ea5c0e2b60ab0e3299180979b4d371d0a",
+          "used_by_ai": true
         },
         {
           "headline": "India seeks tariff advantage before implementing U.S. trade deal",
@@ -137,12 +97,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0ad4ce0b85a22cc899bf31fa842314b3c6ff6de05fe9a2e7eb585ff42810853a",
           "used_by_ai": false
-        },
-        {
-          "headline": "Millions of Apple users losing access to Microsoft Office",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=128724ac729ab4aa35f60cf61f6b629ea5c0e2b60ab0e3299180979b4d371d0a",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -151,11 +105,39 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI utility potential",
+      "headline": "Microsoft: Market Is Missing The Big Picture",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31e62d831cc58cde4ee6c4873add6860a77b3cebc668cabcf96ae788c2017bce",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft: Market Is Missing The Big Picture",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=31e62d831cc58cde4ee6c4873add6860a77b3cebc668cabcf96ae788c2017bce",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft: The AI Utility Masquerading As A Software Stock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b5734b4251bbf355c5e5dd5367080ec078a89c1fdb4ab2ad83a9bf557a0e36c1",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AMD's H2 inflection",
+      "confidence": 50,
+      "reason": "H2 2026 inflection point",
       "headline": "AMD's H2 2026 Inflection Is Bigger Than AI GPUs",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
@@ -171,53 +153,18 @@
           "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMDY: Good Income With Risks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "ChartMill": 1,
-        "Yahoo": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Microsoft AI utility",
-      "headline": "Microsoft: The AI Utility Masquerading As A Software Stock",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b5734b4251bbf355c5e5dd5367080ec078a89c1fdb4ab2ad83a9bf557a0e36c1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft: The AI Utility Masquerading As A Software Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b5734b4251bbf355c5e5dd5367080ec078a89c1fdb4ab2ad83a9bf557a0e36c1",
           "used_by_ai": true
-        },
-        {
-          "headline": "You\u2019re Watching AI Headlines Daily. Here\u2019s How to Own the Whole Trend at Once",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77edba3782492e7ed4b4d729e5416a244d18a845c8e125b47b506cf63c329fd7",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
+        "ChartMill": 1,
         "Yahoo": 1
       }
     },
@@ -226,12 +173,18 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "New Fed regime",
-      "headline": "New Fed Regime, Same Hawkish Theme",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
+      "reason": "Market shift and Fed regime",
+      "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
+          "used_by_ai": true
+        },
         {
           "headline": "New Fed Regime, Same Hawkish Theme",
           "source": "SeekingAlpha",
@@ -242,30 +195,24 @@
           "headline": "This Could Be The Most Important Market Shift In Years",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Better S&P 500 ETF: VOO vs. SPY",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "3 Potential Economic Landmines Investors Are Choosing To Ignore",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=86375d13169c145d68129420bd3a8658ccaae4c27fc0a559c438aea3843cb0e7",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Yahoo": 1
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     }
   ]
