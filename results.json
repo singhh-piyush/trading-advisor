@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T19:00:58Z",
+  "updated_at": "2026-06-21T20:52:22Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 22,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -29,6 +29,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
+          "used_by_ai": false
+        },
+        {
           "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
@@ -45,97 +51,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e40f61b5b3f359828d984754c5d9e7b737835315c1d8db49eec916f0823fe078",
           "used_by_ai": false
-        },
-        {
-          "headline": "TSMC: The Buying Opportunity Is Finally Flashing (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0ad4ce0b85a22cc899bf31fa842314b3c6ff6de05fe9a2e7eb585ff42810853a",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Robotaxis in Texas",
-      "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
-          "used_by_ai": false
-        },
-        {
-          "headline": "General Motors Company (GM) may Ditch LFP Batteries for Future EVs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=372f12cd50f85e91e0aac65eda80a45f766b437117a263e3ce0f58bd8388f9ea",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Potential merger with SpaceX",
-      "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
-          "used_by_ai": false
-        },
-        {
-          "headline": "General Motors Company (GM) may Ditch LFP Batteries for Future EVs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=372f12cd50f85e91e0aac65eda80a45f766b437117a263e3ce0f58bd8388f9ea",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -168,9 +87,49 @@
           "used_by_ai": false
         },
         {
-          "headline": "General Motors Company (GM) may Ditch LFP Batteries for Future EVs",
+          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=372f12cd50f85e91e0aac65eda80a45f766b437117a263e3ce0f58bd8388f9ea",
+          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Potential merger with SpaceX",
+      "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Investors Should Be Highly Skeptical About Elon Musk\u2019s Revenue Targets for SpaceX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
           "used_by_ai": false
         }
       ],
@@ -182,8 +141,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Market missing the big picture",
+      "confidence": 40,
+      "reason": "Undervalued by the market",
       "headline": "Microsoft: Market Is Missing The Big Picture",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=31e62d831cc58cde4ee6c4873add6860a77b3cebc668cabcf96ae788c2017bce",
@@ -207,39 +166,11 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI utility masquerading as software",
-      "headline": "Microsoft: The AI Utility Masquerading As A Software Stock",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b5734b4251bbf355c5e5dd5367080ec078a89c1fdb4ab2ad83a9bf557a0e36c1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft: The AI Utility Masquerading As A Software Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b5734b4251bbf355c5e5dd5367080ec078a89c1fdb4ab2ad83a9bf557a0e36c1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft: Market Is Missing The Big Picture",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=31e62d831cc58cde4ee6c4873add6860a77b3cebc668cabcf96ae788c2017bce",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "H2 2026 inflection",
+      "confidence": 40,
+      "reason": "H2 2026 inflection point",
       "headline": "AMD's H2 2026 Inflection Is Bigger Than AI GPUs",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
@@ -262,498 +193,20 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
           "used_by_ai": false
-        },
-        {
-          "headline": "AMDY: Good Income With Risks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
+        "SeekingAlpha": 1,
         "ChartMill": 1,
         "Yahoo": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Cloud infrastructure rotation",
-      "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD's H2 2026 Inflection Is Bigger Than AI GPUs",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMDY: Good Income With Risks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "SeekingAlpha": 2,
-        "Yahoo": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Incoming CEO's AI strategy",
-      "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
-          "used_by_ai": false
-        },
-        {
-          "headline": "India seeks tariff advantage before implementing U.S. trade deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e40f61b5b3f359828d984754c5d9e7b737835315c1d8db49eec916f0823fe078",
-          "used_by_ai": false
-        },
-        {
-          "headline": "TSMC: The Buying Opportunity Is Finally Flashing (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0ad4ce0b85a22cc899bf31fa842314b3c6ff6de05fe9a2e7eb585ff42810853a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Tariff advantage in US trade deal",
-      "headline": "India seeks tariff advantage before implementing U.S. trade deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e40f61b5b3f359828d984754c5d9e7b737835315c1d8db49eec916f0823fe078",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "India seeks tariff advantage before implementing U.S. trade deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e40f61b5b3f359828d984754c5d9e7b737835315c1d8db49eec916f0823fe078",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple\u2019s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6845e94fa0a7f2d4f494e07ca4b12e95aa536617519678e183d91d6b51b2b985",
-          "used_by_ai": false
-        },
-        {
-          "headline": "TSMC: The Buying Opportunity Is Finally Flashing (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0ad4ce0b85a22cc899bf31fa842314b3c6ff6de05fe9a2e7eb585ff42810853a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "General Motors' battery plans",
-      "headline": "General Motors Company (GM) may Ditch LFP Batteries for Future EVs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=372f12cd50f85e91e0aac65eda80a45f766b437117a263e3ce0f58bd8388f9ea",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "General Motors Company (GM) may Ditch LFP Batteries for Future EVs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=372f12cd50f85e91e0aac65eda80a45f766b437117a263e3ce0f58bd8388f9ea",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: SpaceX Stock Could Crash by 50% by 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5231464a41e60cf01710845341e1867168db930d613470599684746c3c3bede",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Hyperscalers and AI trade",
-      "headline": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=534bde061eea507d27f7d2defa68629be1a9b5938b065e795056f6ed55b03d88",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7ec19656fb5ac567663f852ff12ad09704b442fb26a1078b8145bbfa39d00e5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "CNBC": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Amazon stock opportunity",
-      "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=534bde061eea507d27f7d2defa68629be1a9b5938b065e795056f6ed55b03d88",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7ec19656fb5ac567663f852ff12ad09704b442fb26a1078b8145bbfa39d00e5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Defense stock comparison",
-      "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=534bde061eea507d27f7d2defa68629be1a9b5938b065e795056f6ed55b03d88",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7ec19656fb5ac567663f852ff12ad09704b442fb26a1078b8145bbfa39d00e5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Meta Platforms' stock",
-      "headline": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=534bde061eea507d27f7d2defa68629be1a9b5938b065e795056f6ed55b03d88",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=534bde061eea507d27f7d2defa68629be1a9b5938b065e795056f6ed55b03d88",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7ec19656fb5ac567663f852ff12ad09704b442fb26a1078b8145bbfa39d00e5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Domino's stock signal",
-      "headline": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f7ec19656fb5ac567663f852ff12ad09704b442fb26a1078b8145bbfa39d00e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7ec19656fb5ac567663f852ff12ad09704b442fb26a1078b8145bbfa39d00e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=534bde061eea507d27f7d2defa68629be1a9b5938b065e795056f6ed55b03d88",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "FAANG to MANGOS",
-      "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD's H2 2026 Inflection Is Bigger Than AI GPUs",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=306bfd7d8956f91c4c5c721db480dc0b3c563f4c1f64ae4473442285e791d48d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=66582054d9846d1ce0ca0809842bb8560f99bd4d4abbcbc157f09aac8ad499b2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMDY: Good Income With Risks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=215b0400f823f19d0361bb3ae06876b83f709aa5c06a8a0ccfb621f6024606b5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 2,
-        "ChartMill": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "ETF comparison",
-      "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "New Fed Regime, Same Hawkish Theme",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Could Be The Most Important Market Shift In Years",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Better S&P 500 ETF: VOO vs. SPY",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "New Fed regime",
+      "confidence": 30,
+      "reason": "Market shift and Fed regime",
       "headline": "New Fed Regime, Same Hawkish Theme",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
@@ -766,140 +219,11 @@
           "used_by_ai": true
         },
         {
-          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Could Be The Most Important Market Shift In Years",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Better S&P 500 ETF: VOO vs. SPY",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market shift",
-      "headline": "This Could Be The Most Important Market Shift In Years",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
-      "on_watchlist": true,
-      "articles": [
-        {
           "headline": "This Could Be The Most Important Market Shift In Years",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
           "used_by_ai": true
         },
-        {
-          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "New Fed Regime, Same Hawkish Theme",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Better S&P 500 ETF: VOO vs. SPY",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "VOO vs SPY",
-      "headline": "Better S&P 500 ETF: VOO vs. SPY",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Better S&P 500 ETF: VOO vs. SPY",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "New Fed Regime, Same Hawkish Theme",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Could Be The Most Important Market Shift In Years",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "End of forward guidance",
-      "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=af874089c016fdf74ca291f2323e2ffddccad37b2321cc17fe9ae833a07e60e1",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
           "source": "SeekingAlpha",
@@ -910,18 +234,6 @@
           "headline": "SPY vs. QQQ: Which ETF Looks Best for Your Portfolio in 2026?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fda0e1aa1dfd9d2ef235ddaa971f5912d5c9cb8e624deb520289b5c01e4e60e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "New Fed Regime, Same Hawkish Theme",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b540ab9e4b2bf48a83228b30d54d51f3f378de8c35b57a1954529e8ec2c2f2cd",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Could Be The Most Important Market Shift In Years",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ee200681567a8321f9add219045c55d9386a6ef7dc8c642e3ece981e04f7f2e3",
           "used_by_ai": false
         },
         {
