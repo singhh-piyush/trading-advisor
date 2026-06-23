@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T10:10:03Z",
+  "updated_at": "2026-06-23T13:21:14Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -14,36 +14,82 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Undervalued AI stock",
-      "headline": "1 Screaming Buy Value Stock Hiding in Plain Sight",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Tech selloff",
+      "headline": "Will the Tech Stock Rout Force Anthropic to Pull Its IPO?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5814e468e157f1f99e1d18d600e4332731bc89dc1be4887fff082d306cbab379",
+      "url": "https://finnhub.io/api/news?id=527de87b04b0db3cb4cc0b5464d1028b8d7188acf19208d4277973d53478823e",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "1 Screaming Buy Value Stock Hiding in Plain Sight",
+          "headline": "Will the Tech Stock Rout Force Anthropic to Pull Its IPO?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5814e468e157f1f99e1d18d600e4332731bc89dc1be4887fff082d306cbab379",
+          "url": "https://finnhub.io/api/news?id=527de87b04b0db3cb4cc0b5464d1028b8d7188acf19208d4277973d53478823e",
           "used_by_ai": true
         },
         {
-          "headline": "This Is the Top Artificial Intelligence (AI) Chip Stock to Buy Right Now, According to Jim Cramer (Hint: It's Not Nvidia)",
+          "headline": "Should You Forget Stock Picking and Just Buy This ETF Instead?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a82c7fde5cfa5d317dc21a09654724162d8267ee1c3f8325d20d24ecd7e498c6",
+          "url": "https://finnhub.io/api/news?id=a3809ab08db746405b06fdf5e6b077156678724042b406427a78bb727f356b89",
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Just Erased $600 Billion in Market Value in 3 Days. Here's What Long-Term Investors Should Know",
+          "headline": "I'm No Longer Interested in SpaceX, and Elon Musk Is the Reason",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ff44e0172c390d48d5c5f71867477d9b80d2db95b91aa036273555c31140513",
+          "url": "https://finnhub.io/api/news?id=44f9ad89ecd192c19dde97bbc5f6998229780c467f2592c0da4b791fa9549a16",
           "used_by_ai": true
         },
         {
-          "headline": "1 Massively Undervalued Artificial Intelligence (AI) Stock That Could Be Worth More Than SpaceX Within 12 Months",
+          "headline": "SpaceX Will Surpass Nvidia and Become Wall Street's Most-Valuable Public Company by the End of Next Year, According to One Wall Street Analyst",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b5baefc8c8078ad46226a1c3bea0d20256103fb5ae4f6651178b461adf267b1",
+          "url": "https://finnhub.io/api/news?id=52c2f7c0b2286e2d3952b0792318dc8d4dde2f86643f2435a8e05a365361e714",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet, SpaceX, Intel, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9b31ba974abeebeac6416e0cebe87c8b80381e06dddc6ac64048f40e7e7d6224",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Energy initiative",
+      "headline": "Energy Transition Update - Solar Success Powers Sustainable Growth In The Carolinas",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ca894a83bfab5d39b2bc1b4147dfe51708ee5600397604529b46c9bd7120f2a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Energy Transition Update - Solar Success Powers Sustainable Growth In The Carolinas",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ca894a83bfab5d39b2bc1b4147dfe51708ee5600397604529b46c9bd7120f2a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Bull Case \u2018Unraveling in Real Time\u2019? Analyst Says SpaceX Tie-Up Could Leave Trillions Of FSD, Optimus Value \u2018On the Table\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ef170f619869bf22405977d7cd60082ba93979f765910d438363d0389301101",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NatPower and Tesla Launch First Stage of Multi-Billion-Dollar Energy Storage Initiative",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39eae96f6d8afac836e2679edbeacc108a6cce8b2b74ff4ab2103876ebe2dcf1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Auto Registrations in Europe Gain in May, Other Makers Mixed",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=110a732afb34ee25589c42c1640de17c77a799abe343a861cb93af681e64b4bb",
           "used_by_ai": true
         }
       ],
@@ -52,50 +98,120 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Bullish analyst outlook",
-      "headline": "Jim Cramer Reveals What He\u2019d Like To See With Microsoft (MSFT)",
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Tech selloff",
+      "headline": "Tech sell-off deepens as Nasdaq futures slide 2.8%",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea7c5fbf6c15156fffeb3eb142e95fa362894199c21ba63055b0095ddef6d6cf",
+      "url": "https://finnhub.io/api/news?id=86df5625d12927025be431d438b4461fc19a3ca52729f6778ce084d4a09209c0",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Jim Cramer Reveals What He\u2019d Like To See With Microsoft (MSFT)",
+          "headline": "Tech sell-off deepens as Nasdaq futures slide 2.8%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ea7c5fbf6c15156fffeb3eb142e95fa362894199c21ba63055b0095ddef6d6cf",
+          "url": "https://finnhub.io/api/news?id=86df5625d12927025be431d438b4461fc19a3ca52729f6778ce084d4a09209c0",
           "used_by_ai": true
         },
         {
-          "headline": "MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish",
+          "headline": "Empowering Agentic AI and Sustainable HPC: MiTAC Computing Showcases Agentic AI Infrastructure at ISC 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=beac25e035bbbbc1b52476057323746539946858598730516387a04d4b70894a",
+          "url": "https://finnhub.io/api/news?id=51c837266f8c9807323137392963de395684a408eebc3a4ff78cbde9009950a4",
           "used_by_ai": true
         },
         {
-          "headline": "Chevron Signs 20-Year Power Deal With Microsoft for Massive Texas AI Hub",
+          "headline": "Nvidia, AMD, Broadcom Fall as Tech Selloff Catches Up With Chips",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7ac99a3432b0fb8d2348b5a209741bb890bf0643fbec073c91359fceb5303b5d",
+          "url": "https://finnhub.io/api/news?id=69cb84155e9072f0487d4548774ade16889b59d0631dac8238a5e3937adb8db0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meet the Unstoppable Stock That Obliterated Nvidia, Broadcom, and Advanced Micro Devices (AMD) Over the Last 12 Months With a 670% Return",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ea1b40eea47c9bbf9e4650c4c0266b4f2ea322d7c2d4118cf3db235bbd32e75",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Liquidia and Goodyear have been highlighted as Zacks Bull and Bear of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8b7efa6a6b70eca331a9e75388725db3be9a96e039667b1085ef796c616387f4",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed news",
+      "headline": "The Precision Peptide Company Achieves LegitScript Healthcare Merchant Certification",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e313df1d05c3849094b4648e1eb56d53d76ecbe406b26f5f559a81c69bb5d48",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Precision Peptide Company Achieves LegitScript Healthcare Merchant Certification",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e313df1d05c3849094b4648e1eb56d53d76ecbe406b26f5f559a81c69bb5d48",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Stock Has Plunged 3 Days in a Row. Is This a Red Flag or a Buying Opportunity?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f24d8531caf46a841620abba23fc020db4956641bafd851dd9807ce6a289296",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Ceva Launches Microsoft-Certified Spatial Audio Software for PC Gaming Headsets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=886755047f9ab89e4f0a355b3d668af40cd9b2d06eda1867b94a3e1443c4184a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The \u2018Tech Wreck\u2019 Forces Wall Street to Ask How Much Upside Is Left in the High-Flying Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d170cc20812f902c22303e3b4def5a0f2b65b1c0d327db9b0890754f362c38a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Cash-Producing Stock Worth Your Attention and 2 Facing Challenges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89a84af0b85190e2efed7f06ff4e5acfa3d3416d0e9d3b3835635803afd35b09",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Positive CEO comments",
-      "headline": "AI Hyperscalers Take a Hit, and the Fed Adds Fuel to the Fire",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e1499cb69b687ebe3d4788416d6f43682b4e8adb4772031df4330fbd2b772afe",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Price hikes",
+      "headline": "Tech Weekly: SK Hynix takes the lead, Apple hikes prices",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5aab44cb4c9b7d084f60d8dbb5618dc650c6e37783fe42ef9196124372f8d976",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tech Weekly: SK Hynix takes the lead, Apple hikes prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5aab44cb4c9b7d084f60d8dbb5618dc650c6e37783fe42ef9196124372f8d976",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=923720ea5d213f34a9e6e2705fe3993a92b6d812b37a3dba9190c8d0c3972620",
+          "used_by_ai": true
+        },
         {
           "headline": "AI Hyperscalers Take a Hit, and the Fed Adds Fuel to the Fire",
           "source": "ChartMill",
@@ -109,162 +225,69 @@
           "used_by_ai": true
         },
         {
-          "headline": "What Dell Stock's AI Order Book Revealed Before The Surge",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=59044382e4ab79f57f672a5df24f8588168c18c8160e74e7c3154310c615f9af",
-          "used_by_ai": true
-        },
-        {
-          "headline": "10 Words From Apple CEO Tim Cook That Are Music to the Ears of Micron Technology Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b46f3620a1c78be77d8429434d5e20fd869ca37dfbe74c9f5fab6a10a05a079a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Memory's price surge threatens Apple's 'magic formula' \u2014 and the economy: WSJ reporter",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f3b3c466dc2a12819b4fa7d6f1f6129403b3f8885d940a4b2f2fef32e982478",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple is a notable outlier in Monday's drubbing of mega-cap tech stocks",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/22/apple-is-a-notable-outlier-in-mondays-drubbing-of-mega-cap-tech-stocks-.html",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4,
-        "CNBC": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "European competition",
-      "headline": "Tesla headed for its biggest fight in Europe yet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89bd20bdf737f2e5575efdfe8d3924af85979434a74ef9ba3f6972bea26fe5e8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla headed for its biggest fight in Europe yet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89bd20bdf737f2e5575efdfe8d3924af85979434a74ef9ba3f6972bea26fe5e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Heads For Red June \u2014 Jefferies Warns It Could Become a SpaceX Proxy As Merger Talk Builds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a17d1e05bb2cf3a9ce61368b40f65821e801cff161fd26bd9a092d65c56e916",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Rivian Automotive Stock A Smart Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dd47e9b96b38e8cf22e020a4402ee4cec547bc42486e33b4749f966be7f72632",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Singularity Portfolio",
+          "headline": "Apple: Hardware Price Hikes May Drive Frontloading, Then Cool-Off (Downgrade)",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2e5937b36895f82ad2ea73f7ed1f7de2aa5d3cc4271bf2de872242e4145a707b",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=7408f7ecad7f86651a65b6ae0056d1177f989e150b98a91b94434474d2a1bff5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
+        "ChartMill": 1,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth potential",
-      "headline": "Nasdaq, S&P 500 Futures Dip After Megacap Tech Selloff: Why SPCX, INFQ, PLTR, QBTS, HIMS Are In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8eef9d9bba33d270cacb173133a97de3dac18c3570a84e1143817502bc40f199",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nasdaq, S&P 500 Futures Dip After Megacap Tech Selloff: Why SPCX, INFQ, PLTR, QBTS, HIMS Are In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8eef9d9bba33d270cacb173133a97de3dac18c3570a84e1143817502bc40f199",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NVIDIA Stock's Next Big Move Might Not Involve A GPU",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f004c248910cc97231686a7b8fbe83c29fb435e67f7b3a256661d9238066c70f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dell\u2019s AI-Focused Spending Spree and New Debt Financing Could Be A Game Changer For Dell Technologies (DELL)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6124ecb88ddd57e9ff94e2c58db22cf260bd24083327e4653572b6bf31555e4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3b44518dc468e7d306254c6dc0c91d5fb6c130f9bc4e98a64c445c8be5c215c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Beyond the Mag 7: Finding the Real Winners of the AI Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cecf9cc7970db6bc9d8013876f538cfa64bb5c83a173dc51f067abcddb78e70b",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Market volatility",
-      "headline": "Why The Fed May Need To Stay Patient",
+      "confidence": 30,
+      "reason": "Market selloff",
+      "headline": "Small Caps Are Outperforming The Technology Sector",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b1fd8018482ae4f21a9649741a430308ba813891b7df3cc602e6c2a77b21c804",
+      "url": "https://finnhub.io/api/news?id=37c4bd8fe03d1a08222a1c5b0d3f501d9e4d9a2744da58b42720015a8cc0dd49",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why The Fed May Need To Stay Patient",
+          "headline": "Small Caps Are Outperforming The Technology Sector",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b1fd8018482ae4f21a9649741a430308ba813891b7df3cc602e6c2a77b21c804",
+          "url": "https://finnhub.io/api/news?id=37c4bd8fe03d1a08222a1c5b0d3f501d9e4d9a2744da58b42720015a8cc0dd49",
           "used_by_ai": true
         },
         {
-          "headline": "World Markets Watchlist: June 22, 2026",
+          "headline": "AI-Proof Market-Beating Returns: Carlisle Companies",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0d94fbb19ed072d79fd7efdbafc53dbac18fdc311a66a9d562536c578636bba1",
+          "url": "https://finnhub.io/api/news?id=b74b79eff32ab876b84bd4bba7774ac3f43bcce17836caf15633e39ff548bdfe",
           "used_by_ai": true
         },
         {
-          "headline": "ETF Zoo: The Leveraged ETF Frenzy Picks Up Momentum",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=592f03df6efab6e70a15735dab77b811653a749c3d92d92c873f3ff2ba623f2d",
+          "headline": "Why This Market's Going Higher",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b91932d64586eb42d95a23c99f38e220b7a2b5525fef283216ee4068856504e0",
           "used_by_ai": true
         },
         {
-          "headline": "S&P 500, Nasdaq Drop As SpaceX, Broader Tech Weakness Outweighs US-Iran Hopes \u2014 SPCX, GOOGL, NFLX, COIN, MU In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3360ce9880fbfeb2d49c1db2296e0b03d00f3f9dfc9926f375ede9459af46458",
+          "headline": "Warning: These REITs Could Suffer Large Losses",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bc1a87e90b82c17b51e76a2457d4f415b2c1fef476c6f531f10f414a4607d23f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bubble Trouble: U.S. Home Sales Just Hit The Lowest Levels Since The Great Financial Crisis",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b5170c8ba2f665cf04c1a7aef2b6534141b58fa853e084965e6051ea35810045",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDQxcFBhNUJhWlNpLXhmbHBEcUMxSG00alpWU2t3bGpwWU82RUFLZmVFWklDZWpJSjg0a2dYdm14bkoxN3BYanhxUTMyZGprZ25rVlpCXzNQV3NaQmlUcVMydlp5eEdUQ1FMWU92ckNXWjhzTWt5R3NvNTV0UmFtbkhjTExKRm1hWlNPWThBemtwMExrWm9jcFFac2VHZVpmMmFYRGx1dWc?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2
+        "SeekingAlpha": 5,
+        "Reuters": 1
       }
     }
   ]
