@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T20:32:47Z",
+  "updated_at": "2026-06-23T22:13:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,9 +8,90 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 10,
   "sample": false,
   "items": [
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Historic chip partnership",
+      "headline": "Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=371244c66ff8bbf357cfb2056ae749ec532079e62bc55ce2fbfd8a6d4031aa59",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=371244c66ff8bbf357cfb2056ae749ec532079e62bc55ce2fbfd8a6d4031aa59",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Meta unveils cheaper AI smart glasses, but the competition is heating up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33583d982dd5cb309b90fa33eeb55bf6287d17e41fe19fefbeb148c02a499faa",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The lessons that wearable tech companies can learn from FitBit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=83d4b78e372e0a1b3a10030a965d1cf542bcea79d5d36408a4f73ca50703608a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "META Expands $299 Smart Glasses Lineup As It Challenges Apple\u2019s AR Ambitions \u2014 Stock Gains Nearly 1.5%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d588207d65084750c1e92a819613f965dc4d8f58d189ca2090c37ead3b589ca",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI data center expansion",
+      "headline": "Bill Ackman just showed what\u2019s inside his $5B fund",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d96af9e389fc1b216873c128d2e79e03be62cff7ccf2781bc0728f026cfa1ff7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bill Ackman just showed what\u2019s inside his $5B fund",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d96af9e389fc1b216873c128d2e79e03be62cff7ccf2781bc0728f026cfa1ff7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Stock Gains on $4.7B AI Data Center Expansion in Wisconsin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f7fdfe542d37c7cdedb2d0ed7cff6d66b65f01d9c2487b2d32e5b677f56d63f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1a7c9bf7f2ceaedc51096b4f3a818a5b731ceb4599400e53810bafd7cd9672fc",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "ChartMill": 1
+      }
+    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
@@ -59,38 +140,194 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI data center expansion",
-      "headline": "Microsoft Stock Gains on $4.7B AI Data Center Expansion in Wisconsin",
+      "confidence": 80,
+      "reason": "Analysts rate as buy",
+      "headline": "Marvell Stock And The Custom Chip Story The Market Underestimated",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f7fdfe542d37c7cdedb2d0ed7cff6d66b65f01d9c2487b2d32e5b677f56d63f",
+      "url": "https://finnhub.io/api/news?id=0fd677634fcb64e244bea1337942f1103ef9531e06d97a49b15603bf8f77fd70",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft Stock Gains on $4.7B AI Data Center Expansion in Wisconsin",
+          "headline": "Marvell Stock And The Custom Chip Story The Market Underestimated",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f7fdfe542d37c7cdedb2d0ed7cff6d66b65f01d9c2487b2d32e5b677f56d63f",
+          "url": "https://finnhub.io/api/news?id=0fd677634fcb64e244bea1337942f1103ef9531e06d97a49b15603bf8f77fd70",
           "used_by_ai": true
         },
         {
-          "headline": "Bill Ackman just showed what\u2019s inside his $5B fund",
+          "headline": "Over 40 Analysts Rate AMD a Buy, Here\u2019s Why We Agree",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d96af9e389fc1b216873c128d2e79e03be62cff7ccf2781bc0728f026cfa1ff7",
+          "url": "https://finnhub.io/api/news?id=270e2dd06abb0ed3609168aa67d49b05e475780e3543b61118b26f0c851ec3e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD (AMD) Stock Sees Modest Fair Value Lift As AI Target Revisions Split Analysts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85041af185ac62b8f1bf2fba0616fc7bbbeede56a0cf69d89f468f41a1504c29",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD and Intel Drop 5%, NVIDIA Slips 3% Amid Korean-Led Chip Selloff Bulls Say Is \u201cHealthy\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f304f526512184de6f58a9a597e8854fa955fc4a19dc955c3f98aed38ee317fa",
           "used_by_ai": false
         },
         {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1a7c9bf7f2ceaedc51096b4f3a818a5b731ceb4599400e53810bafd7cd9672fc",
+          "headline": "OPAQUE Extends the Agent Governance Toolkit with Verifiable Identity and First Ever Verifiably Governed and Secure MCP",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2fd14f0a106e9099402ee34b0cb8a87dc32354647ba8218417bb8a29b0cdbbbb",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Tech stocks tumble",
+      "headline": "Tech stocks tumble for a second day. Here's what is behind the selloff.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc76a6e438fe7b859bce6fc9182101bb61fb9bb6b3c1de783faa3e2e9d9df524",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tech stocks tumble for a second day. Here's what is behind the selloff.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cc76a6e438fe7b859bce6fc9182101bb61fb9bb6b3c1de783faa3e2e9d9df524",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD and Intel Drop 5%, NVIDIA Slips 3% Amid Korean-Led Chip Selloff Bulls Say Is \u201cHealthy\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f304f526512184de6f58a9a597e8854fa955fc4a19dc955c3f98aed38ee317fa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Infleqtion (INFQ): Social Media\u2019s Favorite Quantum Stock With 10X Potential",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14fc85496852a0fe5acce0bb777f737ec7782bd338b183c8363c20fe8cd24fa9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is IREN (IREN) The Best AI Stock With 10X Potential?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6da0299e2eced11eb49868ba48d2ae101cb021cba0c66da97c5bada64091adcf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Does Nebius Group (NBIS) Have More Upside?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=72f171de9f0a846650ccb9b153ea1624dddc45852c7133b160071400e480c979",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nu Holdings Keeps Adding Customers at a Blistering Pace. Is the Fintech Still a Bargain?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05708c0bb7978eeedb168da7017c11b5b4b268324f5e9fa1fabb16d77826e45a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 6
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Europe registrations jump",
+      "headline": "Tesla Europe Registrations Jump 57% As Recovery Gains Momentum",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c64f0dddc6756eabb97f484635af021c141268b290f77198f4807278db012c7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Europe Registrations Jump 57% As Recovery Gains Momentum",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c64f0dddc6756eabb97f484635af021c141268b290f77198f4807278db012c7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Tesla (TSLA) Shares Are Trading Lower Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee844d4bd4d9bd2a729b50fb54caa6e6986ce39e016d8aecd3c6cde5f21dd2b9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla stock tumbles amid new probe over fatal crash into Texas home",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=838d1b34e1e368bf6b0427aab85e1e5255ed0e25b6f275f715a7188a7a86f700",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=38bcd9ac167f2f6b077abe8cdb9298c530469406740fc8f36cab4cd646da5bbe",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SPCX: Should you Buy the Dip?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f6a3053316a018653373ca793ea15d12244a6bf5224840ee0037ff3adbf9dd5c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
         "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Competition heats up",
+      "headline": "Meta unveils cheaper AI smart glasses, but the competition is heating up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33583d982dd5cb309b90fa33eeb55bf6287d17e41fe19fefbeb148c02a499faa",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Meta unveils cheaper AI smart glasses, but the competition is heating up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=33583d982dd5cb309b90fa33eeb55bf6287d17e41fe19fefbeb148c02a499faa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The lessons that wearable tech companies can learn from FitBit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=83d4b78e372e0a1b3a10030a965d1cf542bcea79d5d36408a4f73ca50703608a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "META Expands $299 Smart Glasses Lineup As It Challenges Apple\u2019s AR Ambitions \u2014 Stock Gains Nearly 1.5%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d588207d65084750c1e92a819613f965dc4d8f58d189ca2090c37ead3b589ca",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=371244c66ff8bbf357cfb2056ae749ec532079e62bc55ce2fbfd8a6d4031aa59",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
@@ -142,176 +379,82 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Chip selloff",
-      "headline": "Tech stocks tumble for a second day. Here's what is behind the selloff.",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Quantum stock potential",
+      "headline": "Infleqtion (INFQ): Social Media\u2019s Favorite Quantum Stock With 10X Potential",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc76a6e438fe7b859bce6fc9182101bb61fb9bb6b3c1de783faa3e2e9d9df524",
+      "url": "https://finnhub.io/api/news?id=14fc85496852a0fe5acce0bb777f737ec7782bd338b183c8363c20fe8cd24fa9",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Tech stocks tumble for a second day. Here's what is behind the selloff.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc76a6e438fe7b859bce6fc9182101bb61fb9bb6b3c1de783faa3e2e9d9df524",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD and Intel Drop 5%, NVIDIA Slips 3% Amid Korean-Led Chip Selloff Bulls Say Is \u201cHealthy\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f304f526512184de6f58a9a597e8854fa955fc4a19dc955c3f98aed38ee317fa",
-          "used_by_ai": true
-        },
         {
           "headline": "Infleqtion (INFQ): Social Media\u2019s Favorite Quantum Stock With 10X Potential",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=14fc85496852a0fe5acce0bb777f737ec7782bd338b183c8363c20fe8cd24fa9",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Is IREN (IREN) The Best AI Stock With 10X Potential?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6da0299e2eced11eb49868ba48d2ae101cb021cba0c66da97c5bada64091adcf",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Does Nebius Group (NBIS) Have More Upside?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=72f171de9f0a846650ccb9b153ea1624dddc45852c7133b160071400e480c979",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Nu Holdings Keeps Adding Customers at a Blistering Pace. Is the Fintech Still a Bargain?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=05708c0bb7978eeedb168da7017c11b5b4b268324f5e9fa1fabb16d77826e45a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 6
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Europe registrations jump",
-      "headline": "Tesla Europe Registrations Jump 57% As Recovery Gains Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c64f0dddc6756eabb97f484635af021c141268b290f77198f4807278db012c7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Europe Registrations Jump 57% As Recovery Gains Momentum",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c64f0dddc6756eabb97f484635af021c141268b290f77198f4807278db012c7",
           "used_by_ai": true
         },
         {
-          "headline": "Why Tesla (TSLA) Shares Are Trading Lower Today",
+          "headline": "Tech stocks tumble for a second day. Here's what is behind the selloff.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee844d4bd4d9bd2a729b50fb54caa6e6986ce39e016d8aecd3c6cde5f21dd2b9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla stock tumbles amid new probe over fatal crash into Texas home",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=838d1b34e1e368bf6b0427aab85e1e5255ed0e25b6f275f715a7188a7a86f700",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=38bcd9ac167f2f6b077abe8cdb9298c530469406740fc8f36cab4cd646da5bbe",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SPCX: Should you Buy the Dip?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6a3053316a018653373ca793ea15d12244a6bf5224840ee0037ff3adbf9dd5c",
+          "url": "https://finnhub.io/api/news?id=cc76a6e438fe7b859bce6fc9182101bb61fb9bb6b3c1de783faa3e2e9d9df524",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Warning from Tim Cook",
-      "headline": "Tim Cook issues chilling warning as \u2018hundred-year-flood\u2019 strikes US tech giants like Apple, Dell, HP. Get protection now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=defe38b5b955f432864076fab126e236c5c839a67beedbcc20d2bf365d87f25c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tim Cook issues chilling warning as \u2018hundred-year-flood\u2019 strikes US tech giants like Apple, Dell, HP. Get protection now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=defe38b5b955f432864076fab126e236c5c839a67beedbcc20d2bf365d87f25c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "META Expands $299 Smart Glasses Lineup As It Challenges Apple\u2019s AR Ambitions \u2014 Stock Gains Nearly 1.5%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d588207d65084750c1e92a819613f965dc4d8f58d189ca2090c37ead3b589ca",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel's Stock Is Soaring. Is It Too Late to Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a622abf91258b3752ec03fc87f3d03a21669602fe735e8cb11d797c7c39e617",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Jim Cramer Says \u201cIntel\u2019s Now My Favorite Stock in My Charitable Trust\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1db6a06bf1816edd58ab0def22c3464a14a2ea76eb6c3453e214e9beb054ecc4",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Semi Mania Gets A Reality Check From South Korea; Investors Should Pay Attention To Shift In AI Tokens",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=20ea064ed3b66ad68f1edbe4e8c767df47f2d2439ebab25a07c8c7af7356a613",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "Global tech selloff",
-      "headline": "Global Tech Selloff Underway, Hitting Broader Market As Well",
+      "reason": "Market surprises",
+      "headline": "4 Market Surprises For Q3",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ea990c743606ad393f0bc9a153ce2480f025b1414edbd1e1ef102757154fdb89",
+      "url": "https://finnhub.io/api/news?id=f0fd77b6ee1a6fb1ae60e07132c3a69de2f013ebf889db965a56bf1e6fd37096",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Global Tech Selloff Underway, Hitting Broader Market As Well",
+          "headline": "4 Market Surprises For Q3",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ea990c743606ad393f0bc9a153ce2480f025b1414edbd1e1ef102757154fdb89",
+          "url": "https://finnhub.io/api/news?id=f0fd77b6ee1a6fb1ae60e07132c3a69de2f013ebf889db965a56bf1e6fd37096",
+          "used_by_ai": true
+        },
+        {
+          "headline": "GPIX: Solid Results With An 8% Distribution Yield Paid Monthly",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c92feb6fd80bfa435ffa5b545f1ddffaec8991def49880d451b87ddbfcd7b999",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Stock Market Is Not A Leading Indicator: This Is...",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=727bf8f1377bd5f0bf8380d403b3031b6fbeb3213f3ae8db23d7d93ddf7bb9ba",
           "used_by_ai": true
         },
         {
           "headline": "The $24,500 Trap: Why Most Americans Contribute Just $4,945 to Their 401(k)",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2a548619a4dd0cd3508c8991b4d3428824f2ac2081420314be9ac298911d9ec2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Stock Market Is Not A Leading Indicator: This Is...",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=727bf8f1377bd5f0bf8380d403b3031b6fbeb3213f3ae8db23d7d93ddf7bb9ba",
           "used_by_ai": false
         },
         {
@@ -322,7 +465,7 @@
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
+        "SeekingAlpha": 3,
         "Yahoo": 2
       }
     }
