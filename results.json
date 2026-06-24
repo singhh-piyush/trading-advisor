@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T03:35:36Z",
+  "updated_at": "2026-06-24T07:41:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,114 @@
   "sample": false,
   "items": [
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "New Siri strategy",
+      "headline": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e9d482d7ab183572989200b44e125c6663b6cae0508e5234ff0f302ab7ec443",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1e9d482d7ab183572989200b44e125c6663b6cae0508e5234ff0f302ab7ec443",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bank of America resets Apple stock forecast after Siri AI shift",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=57c6c4eca5646ada1273a6abad610484738b0a7e674093e1bdaf2ffe336ad2b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Real Engine Behind Apple Stock's Next Potential Climb",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2abd4f4624a62c5a2db3a128dcc954836b9338d97a8c04852089cedfa2a77576",
+          "used_by_ai": true
+        },
+        {
+          "headline": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d77fc38349e21d4bd561e49299dba17edd1f6dfbcec1e81f267fa91edae69da9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI growth potential",
+      "headline": "SpaceX Stock Soared on Day One. Is the Stock a Buy at $2 Trillion?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c38a304fc2e4f3e26e19a403e21d53c236d8846ab6e3790731c7057102d841ee",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX Stock Soared on Day One. Is the Stock a Buy at $2 Trillion?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c38a304fc2e4f3e26e19a403e21d53c236d8846ab6e3790731c7057102d841ee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=65b05de047d5de8aebc271f85e0a6abc9a6f1d26f5a35a48cc2651e88a628193",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why SpaceX Could Become the Most Important AI Company Investors Aren't Calling an AI Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fccef3bfbc9e1259025b0b8df765995dfad635653e2c8284444f2dd7001f6d37",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm (QCOM) Is In Talks To Buy Modular And Push Further Into AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac6bb72dd6abebfbe835cea27404b0608de06fb2dcb26322a194a4e523cb75ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Netflix Is Down 32% Since Reed Hastings Said He Was Leaving. Should You Buy the Dip or Is It a Red Flag?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21b5f401cf37cce7abc69bfac28e3edca98357b4c74831ffc312ef07acbb7f93",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "New battery deal",
-      "headline": "NatPower and Tesla Strike 25 GWh European Battery Storage Deal",
+      "confidence": 60,
+      "reason": "Battery storage deal",
+      "headline": "Tesla stock has a SpaceX problem, veteran analyst says",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54ab539a07f48cbffb60d002194be9e954b448c71438e27824922063c4db23d8",
+      "url": "https://finnhub.io/api/news?id=1d9dcab4fc4fed9b622f723e9f1c806263d6cdb0ff80c3f00703434d3d2f94dd",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tesla stock has a SpaceX problem, veteran analyst says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d9dcab4fc4fed9b622f723e9f1c806263d6cdb0ff80c3f00703434d3d2f94dd",
+          "used_by_ai": true
+        },
         {
           "headline": "NatPower and Tesla Strike 25 GWh European Battery Storage Deal",
           "source": "Yahoo",
@@ -41,102 +139,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Lemonade (LMND) Stock Is Up, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec2b8e5e6b8d47e8e7afc41fc724204daaad68c342cf22c030217303d33e787a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth potential",
-      "headline": "Does a Lower Stock Price and New Contracts Make SpaceX Stock a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f5aeb46d08ddef502207fad5d46f68632875e56dcf44c894874fd3acf0374caf",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Does a Lower Stock Price and New Contracts Make SpaceX Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5aeb46d08ddef502207fad5d46f68632875e56dcf44c894874fd3acf0374caf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is This Asset the Secret to SpaceX's Success? (Hint: It Has Nothing To Do With Space or Starlink)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7403964707794fb5e88aae689603a6eb12ee57051914896dbc550f026e57b20a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Johnson & Johnson, Altria, Verizon, and Other Safe Dividend Stocks Climbed Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1afc6ee7cbcaee06a545e881f8d075a404f2a77d4f2dc67cb811a008cc8c7eb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad3f51c80e5a7d686610a532c2d962d71b6a2ca6f4362fe222e810b1416152da",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A Social Security Benefits Cut Seems Inevitable. Here Is When It Could Possibly Happen.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e546fa2b4dd4ba661fd8b36bf75b8e11f040dc8a52bcb3195bf51e8d5d715c5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Stock potential climb",
-      "headline": "The Real Engine Behind Apple Stock's Next Potential Climb",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2abd4f4624a62c5a2db3a128dcc954836b9338d97a8c04852089cedfa2a77576",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Real Engine Behind Apple Stock's Next Potential Climb",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2abd4f4624a62c5a2db3a128dcc954836b9338d97a8c04852089cedfa2a77576",
-          "used_by_ai": true
-        },
-        {
-          "headline": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d77fc38349e21d4bd561e49299dba17edd1f6dfbcec1e81f267fa91edae69da9",
-          "used_by_ai": true
-        },
-        {
           "headline": "Is SpaceX a Better Buy Than the 2 \"Magnificent Seven\" Stocks It Has Surpassed in Market Cap?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=38fc2c17b4043f985494afdaee01a551f1fb74de174b5a1087c74ac6fbd98355",
           "used_by_ai": true
-        },
-        {
-          "headline": "Why tech stocks are getting hammered",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b260133f06ee8fd34654863372b123d6e8f2f5cc7292b2c0dc51a9fa9280892f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -146,14 +152,26 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Stock rally potential",
-      "headline": "SOXL\u2019s 23% Single-Day Collapse Exposes the Real Price of 3X Leverage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c23edddd8a40ff71cbe9902b543a9ec3a0baa190a3f4207227f5e600a0bd81f4",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Stock trading lower",
+      "headline": "BUZZ Investing: AI Leadership Rotates And Macro Risks Reassert",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=381559ea79264a7d530a75a7a68e971ceb7d1c267038d0fe463e1915f80faf34",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "BUZZ Investing: AI Leadership Rotates And Macro Risks Reassert",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=381559ea79264a7d530a75a7a68e971ceb7d1c267038d0fe463e1915f80faf34",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c4d4b05f0f3712c588895f035168e2c630e95d89bb3ff725b6c605ce7176e66c",
+          "used_by_ai": true
+        },
         {
           "headline": "SOXL\u2019s 23% Single-Day Collapse Exposes the Real Price of 3X Leverage",
           "source": "Yahoo",
@@ -165,41 +183,59 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=84d193c3f922e70521896edb23dd136f8dcf478c86be5dff2a801c8f86f8e38b",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI marketing platforms",
+      "headline": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ac9fbea34735e88537bcff0cf1284e099a36549db55411d97126a84cac4fc44",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Marvell Stock And The Custom Chip Story The Market Underestimated",
+          "headline": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fd677634fcb64e244bea1337942f1103ef9531e06d97a49b15603bf8f77fd70",
+          "url": "https://finnhub.io/api/news?id=2ac9fbea34735e88537bcff0cf1284e099a36549db55411d97126a84cac4fc44",
           "used_by_ai": true
         },
         {
-          "headline": "With Its MEXT Acquisition, Advanced Micro Devices Stock Could Rally to Higher Highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3712b842c4c954bbb6b00122a1453d089f179d02eb571b1f3663e7891c30490c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Over 40 Analysts Rate AMD a Buy, Here\u2019s Why We Agree",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=270e2dd06abb0ed3609168aa67d49b05e475780e3543b61118b26f0c851ec3e9",
+          "headline": "Software Back Down",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=09eb44583c72d6ec76152f19cb207c6b74e07ba264e38e9a727a44a537b52ae6",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 1,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 50,
+      "direction": "neutral",
+      "confidence": 30,
       "reason": "Market trends",
-      "headline": "Dow, S&P 500, Nasdaq Futures Rise After Chip Stock Selloff: Why CBRS, PLTR, BLZE, MU, FDX Are Trending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6838ab3479bdfce0c873540cac7d49fe37e650de64149827eb6d7bec1de4df40",
+      "headline": "Above The Noise: AI, Markets, And Momentum",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b61899eab765588aa7a82f4ce1ef72dc09f624e654e9c68f5b6f624a43d2e86",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Above The Noise: AI, Markets, And Momentum",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8b61899eab765588aa7a82f4ce1ef72dc09f624e654e9c68f5b6f624a43d2e86",
+          "used_by_ai": true
+        },
         {
           "headline": "Dow, S&P 500, Nasdaq Futures Rise After Chip Stock Selloff: Why CBRS, PLTR, BLZE, MU, FDX Are Trending",
           "source": "Yahoo",
@@ -213,49 +249,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "The Federal Reserve's New Leader Lays Out His Agenda",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=47bce369e0436d5b7119e67581c97bf443afa6356788b1bd5173ad51a4cb0b6c",
+          "used_by_ai": true
+        },
+        {
           "headline": "Flash PMIs Signal Diverging Growth Trends Among The Major Developed Economies",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=4903df11f7dc9be3625d4174cd24d0a43c55085d71cad806af279f4df18125c2",
           "used_by_ai": true
-        },
-        {
-          "headline": "Why ARKK Investors Paid Premium Fees for a 37.88% Loss Over Five Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40409bfd867c5f3fc9138b0af8485fe19eff8a8273cf75e921634ef26ba4bd28",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Honeywell's Breakup: Analysing Honeywell Aerospace's Index Dynamics",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9d22dc60072063b77e604351da33a1d1763f22bdbe87e89b3ba14d3c0fb0867c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Congress news",
-      "headline": "Gates Told Congress Epstein Considered Blackmail Over Affairs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=337d12ac6988cf5fdad783b89ff19a333611e698e8b776740e4a48073d96700c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Gates Told Congress Epstein Considered Blackmail Over Affairs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=337d12ac6988cf5fdad783b89ff19a333611e698e8b776740e4a48073d96700c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
