@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T07:41:11Z",
+  "updated_at": "2026-06-24T10:50:16Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,69 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI growth",
+      "headline": "NVIDIA Corp (NASDAQ:NVDA) Ranks High on the Affordable Growth Screen",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=fa8d61357b507d2e7304dda8972102fd1b0a7e4c30edf9de50bdc15526738e88",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVIDIA Corp (NASDAQ:NVDA) Ranks High on the Affordable Growth Screen",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fa8d61357b507d2e7304dda8972102fd1b0a7e4c30edf9de50bdc15526738e88",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Is Quietly Becoming One of the Most Important Data Center Companies in AI. Here's What That Means for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ba0a940ba5aa944e7e3185e6238b94da01bd05ffa84dd362222deef43e5181b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should Investors Choose IonQ Over a More Established Quantum Computing Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3216eb5dbd702d4adf839976073f153cf8c354b72e5562ca1f4c7259b3d34516",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Now That SpaceX Is Public, Should You Ditch Tesla Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01eb7ad9a576af0583a21753cb93d6e5b0513e1d355b853e3a3ef092a48a61d9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The S&P 500 Is Up 9% in 2026. Wall Street Says the Stock Market Will Do This Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=733db60a7879a37e5ea0c2e5049768c0d70416f8bbd81a22804a2429e6613ada",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
-      "reason": "New Siri strategy",
-      "headline": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
+      "confidence": 70,
+      "reason": "AI strategy",
+      "headline": "1 Striking Reason This Trillion-Dollar Cloud Pioneer Is a Better Artificial Intelligence (AI) Buy Than Apple Right Now",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e9d482d7ab183572989200b44e125c6663b6cae0508e5234ff0f302ab7ec443",
+      "url": "https://finnhub.io/api/news?id=b2bf022ebef248981a0eec469450d0a439db884811c0bb40d99a8217161f9c14",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "1 Striking Reason This Trillion-Dollar Cloud Pioneer Is a Better Artificial Intelligence (AI) Buy Than Apple Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2bf022ebef248981a0eec469450d0a439db884811c0bb40d99a8217161f9c14",
+          "used_by_ai": true
+        },
         {
           "headline": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
           "source": "Yahoo",
@@ -41,79 +94,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d77fc38349e21d4bd561e49299dba17edd1f6dfbcec1e81f267fa91edae69da9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth potential",
-      "headline": "SpaceX Stock Soared on Day One. Is the Stock a Buy at $2 Trillion?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c38a304fc2e4f3e26e19a403e21d53c236d8846ab6e3790731c7057102d841ee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX Stock Soared on Day One. Is the Stock a Buy at $2 Trillion?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c38a304fc2e4f3e26e19a403e21d53c236d8846ab6e3790731c7057102d841ee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65b05de047d5de8aebc271f85e0a6abc9a6f1d26f5a35a48cc2651e88a628193",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why SpaceX Could Become the Most Important AI Company Investors Aren't Calling an AI Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fccef3bfbc9e1259025b0b8df765995dfad635653e2c8284444f2dd7001f6d37",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Qualcomm (QCOM) Is In Talks To Buy Modular And Push Further Into AI Chips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac6bb72dd6abebfbe835cea27404b0608de06fb2dcb26322a194a4e523cb75ed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Netflix Is Down 32% Since Reed Hastings Said He Was Leaving. Should You Buy the Dip or Is It a Red Flag?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=21b5f401cf37cce7abc69bfac28e3edca98357b4c74831ffc312ef07acbb7f93",
+          "headline": "Chip Selloff Deepens as AI Doubts Bleed Into a Second Session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d4d0c51b7a343f7545fa634afcf3d6c7cfda10ec0ee21023a4e733c769fae414",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
+      "direction": "down",
       "confidence": 60,
-      "reason": "Battery storage deal",
-      "headline": "Tesla stock has a SpaceX problem, veteran analyst says",
+      "reason": "SpaceX impact",
+      "headline": "Now That SpaceX Is Public, Should You Ditch Tesla Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d9dcab4fc4fed9b622f723e9f1c806263d6cdb0ff80c3f00703434d3d2f94dd",
+      "url": "https://finnhub.io/api/news?id=01eb7ad9a576af0583a21753cb93d6e5b0513e1d355b853e3a3ef092a48a61d9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Now That SpaceX Is Public, Should You Ditch Tesla Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01eb7ad9a576af0583a21753cb93d6e5b0513e1d355b853e3a3ef092a48a61d9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Is Down 32% From Its High. 4 Reasons Why a Merger with Tesla Would Make SpaceX a Better Long-Term Buy.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=445c3e1dff72eb8a5788f255f5ec337813f23200ab08658f683ae7f2d957628b",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla stock has a SpaceX problem, veteran analyst says",
           "source": "Yahoo",
@@ -121,45 +135,73 @@
           "used_by_ai": true
         },
         {
-          "headline": "NatPower and Tesla Strike 25 GWh European Battery Storage Deal",
+          "headline": "Zacks Investment Ideas feature highlights: SpaceX, and Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54ab539a07f48cbffb60d002194be9e954b448c71438e27824922063c4db23d8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Ross Gerber Calls Waymo 'Way Safer And Better' Than Tesla's FSD, Questions Whether Elon Musk Can 'Catch Up'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5022f2c302eca9a4dd28df884ece10ebe87da2d148d423a3441ca469e8950cc7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Quietly Files Megapod Trademark \u2014 An AI Data Center Play That Could See Elon Musk Challenging Nvidia's Dominance",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e009f9188f39851d791c97fd104ee77f4e011cd397b7a71e3543e20550bbe2a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is SpaceX a Better Buy Than the 2 \"Magnificent Seven\" Stocks It Has Surpassed in Market Cap?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38fc2c17b4043f985494afdaee01a551f1fb74de174b5a1087c74ac6fbd98355",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=23db0a6fa0b164fa7af2f628bedc3d477b32f4ae61ba12625629356a723088df",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI and partnerships",
+      "headline": "Zacks Investment Ideas feature highlights: SpaceX, Microsoft, Alphabet, RSP and IWM",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb78ddef970eee5894829de13c109e894da24e66d572b7e17de059c1f4579902",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Zacks Investment Ideas feature highlights: SpaceX, Microsoft, Alphabet, RSP and IWM",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb78ddef970eee5894829de13c109e894da24e66d572b7e17de059c1f4579902",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Micron Earnings Take on New Gravity With Market on Edge Over AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fcfd77d04f8e7a875bada282971bd1e3083086acb224938fd3e0253aa9724f01",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ASUS Partners with Microsoft Excel World Championships to Power the Global Excel Landmark Battle Competition",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b426877007727330597596ffe2360a3d75a4aaa36d87afb0c0372d3281f142f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ByteDance Seeks $20 Billion in Its Largest-Ever Offshore Loan",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=573ba199b32296275ca0e315869a8a4a1aef37099dc8b09e4757bdd251225f40",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "down",
+      "direction": "up",
       "confidence": 50,
-      "reason": "Stock trading lower",
-      "headline": "BUZZ Investing: AI Leadership Rotates And Macro Risks Reassert",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=381559ea79264a7d530a75a7a68e971ceb7d1c267038d0fe463e1915f80faf34",
+      "reason": "chip demand",
+      "headline": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=65b05de047d5de8aebc271f85e0a6abc9a6f1d26f5a35a48cc2651e88a628193",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=65b05de047d5de8aebc271f85e0a6abc9a6f1d26f5a35a48cc2651e88a628193",
+          "used_by_ai": true
+        },
         {
           "headline": "BUZZ Investing: AI Leadership Rotates And Macro Risks Reassert",
           "source": "SeekingAlpha",
@@ -173,49 +215,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "SOXL\u2019s 23% Single-Day Collapse Exposes the Real Price of 3X Leverage",
+          "headline": "Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c23edddd8a40ff71cbe9902b543a9ec3a0baa190a3f4207227f5e600a0bd81f4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMD (AMD) Stock Is Trading Lower Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84d193c3f922e70521896edb23dd136f8dcf478c86be5dff2a801c8f86f8e38b",
+          "url": "https://finnhub.io/api/news?id=4041d28e6b1e8afa3a0fa5ece8c5eeb776c2de8686626257c12c18e01013ae6b",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI marketing platforms",
-      "headline": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ac9fbea34735e88537bcff0cf1284e099a36549db55411d97126a84cac4fc44",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ac9fbea34735e88537bcff0cf1284e099a36549db55411d97126a84cac4fc44",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Software Back Down",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=09eb44583c72d6ec76152f19cb207c6b74e07ba264e38e9a727a44a537b52ae6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     },
@@ -223,13 +230,25 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market trends",
-      "headline": "Above The Noise: AI, Markets, And Momentum",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8b61899eab765588aa7a82f4ce1ef72dc09f624e654e9c68f5b6f624a43d2e86",
+      "confidence": 40,
+      "reason": "market trends",
+      "headline": "The S&P 500 Is Up 9% in 2026. Wall Street Says the Stock Market Will Do This Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=733db60a7879a37e5ea0c2e5049768c0d70416f8bbd81a22804a2429e6613ada",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The S&P 500 Is Up 9% in 2026. Wall Street Says the Stock Market Will Do This Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=733db60a7879a37e5ea0c2e5049768c0d70416f8bbd81a22804a2429e6613ada",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Chip Selloff Pressures Breadth, Longer-Term Participation Still Holds",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=428088e97af61f18609581ffa3520fc0395cf094788212e51a0e8372c4d16c4a",
+          "used_by_ai": true
+        },
         {
           "headline": "Above The Noise: AI, Markets, And Momentum",
           "source": "SeekingAlpha",
@@ -253,17 +272,12 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=47bce369e0436d5b7119e67581c97bf443afa6356788b1bd5173ad51a4cb0b6c",
           "used_by_ai": true
-        },
-        {
-          "headline": "Flash PMIs Signal Diverging Growth Trends Among The Major Developed Economies",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4903df11f7dc9be3625d4174cd24d0a43c55085d71cad806af279f4df18125c2",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
+        "Yahoo": 3,
+        "ChartMill": 1,
+        "SeekingAlpha": 2
       }
     }
   ]
