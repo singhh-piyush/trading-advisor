@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:24:38Z",
+  "updated_at": "2026-06-25T23:52:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -51,10 +51,17 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c980712f7967fd9fdfbbcf69050e60c18eb90c9d056a523f1a90b59e79694b5",
           "used_by_ai": true
+        },
+        {
+          "headline": "Apple stock gets slammed on bigger Mac, iPad price hikes. Why it can weather the storm",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/25/apple-stock-gets-slammed-on-bigger-mac-ipad-price-hikes-why-it-can-weather-the-storm.html",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 5,
+        "CNBC": 1
       }
     },
     {
@@ -101,6 +108,46 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Price target revision",
+      "headline": "Stock Market Today: Indexes Volatile; Micron Surges, But Apple Makes Sell Signal (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb61229900ce0d36764c46d2b83bf569d2fee30e2c69ad905e9d696a83be5f39",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stock Market Today: Indexes Volatile; Micron Surges, But Apple Makes Sell Signal (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb61229900ce0d36764c46d2b83bf569d2fee30e2c69ad905e9d696a83be5f39",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Update: Nasdaq Extends Losing Streak; Apple Plunges After Price Hikes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f1cc134cf3e260e7b4c51631809bf47c0a7219686201987048baee536810e98e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Melius Research: \u201cBuy the chip dip, skip hyperscalers\u201d until AI payoff becomes clear",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=70075aa1566570f75d40c15fd94b749757e0c6fe3b2eb2d1b5959529c66151c2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "MSFT Stock Slides 4.5% \u2014 Microsoft Price Target Revision By Stifel And Xbox Pricing Changes In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eac08112e415912f7610592bc7db034aaaaccf371e46cf230e7573ff4c64245f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
@@ -190,50 +237,10 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Price target revision",
-      "headline": "Stock Market Today: Indexes Volatile; Micron Surges, But Apple Makes Sell Signal (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb61229900ce0d36764c46d2b83bf569d2fee30e2c69ad905e9d696a83be5f39",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today: Indexes Volatile; Micron Surges, But Apple Makes Sell Signal (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb61229900ce0d36764c46d2b83bf569d2fee30e2c69ad905e9d696a83be5f39",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: Nasdaq Extends Losing Streak; Apple Plunges After Price Hikes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f1cc134cf3e260e7b4c51631809bf47c0a7219686201987048baee536810e98e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Melius Research: \u201cBuy the chip dip, skip hyperscalers\u201d until AI payoff becomes clear",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=70075aa1566570f75d40c15fd94b749757e0c6fe3b2eb2d1b5959529c66151c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "MSFT Stock Slides 4.5% \u2014 Microsoft Price Target Revision By Stifel And Xbox Pricing Changes In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eac08112e415912f7610592bc7db034aaaaccf371e46cf230e7573ff4c64245f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
+      "confidence": 30,
       "reason": "Mixed market signals",
       "headline": "Own 100 Shares of SPY? Here\u2019s How to Earn High Income Selling Covered Calls",
       "source": "Yahoo",
