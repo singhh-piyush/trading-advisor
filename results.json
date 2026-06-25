@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:47:28Z",
+  "updated_at": "2026-06-25T00:13:37Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -45,39 +45,45 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a645c411a72af7e02f0a31d0d087af0d05915edb5afc8218e51058d43d08067b",
           "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cfff5d29d4703ebc6e0f2339918204f1b9ef02c682ef03b8f45e60caaab8384f",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
-      "company": "AMD",
+      "company": "Advanced Micro",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "AI data center showdown",
-      "headline": "Arm Holdings vs Advanced Micro Devices: One Winner of The AI Data Center Showdown",
+      "headline": "Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70bed5ed04c9debc4a572d736f67f98c0d7c87cb8d383a4f472d09f057c7d310",
+      "url": "https://finnhub.io/api/news?id=005ffb33bf47e6f73c6e01a239d72b80782dd367382c11f7e4ebb2c6cafea888",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=005ffb33bf47e6f73c6e01a239d72b80782dd367382c11f7e4ebb2c6cafea888",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Popular Stocks to Steer Clear Of",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1b95a8f18398d4868908fb639838ac30fb1a6746d3e18b59484d52d018e284bd",
+          "used_by_ai": true
+        },
         {
           "headline": "Arm Holdings vs Advanced Micro Devices: One Winner of The AI Data Center Showdown",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=70bed5ed04c9debc4a572d736f67f98c0d7c87cb8d383a4f472d09f057c7d310",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Micron, Alphabet, Builders FirstSource, Sunrun, Wendy\u2019s, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecb2fa6ec5a4119d673315ec406df8616d4fae6a2f6ca813e626d2e546e3b6f9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "5-star analyst sets jaw-dropping AMD stock price target",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37fcf3176d433a4b70f8e208b8b594d73c5ff2fb99781ff1f34c9392fb3e6a2a",
           "used_by_ai": true
         }
       ],
@@ -88,14 +94,20 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Musk loses trillionaire status",
-      "headline": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Deal with Sunrun",
+      "headline": "Sunrun (RUN) Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff5f12809b40dfa57b4ca2a622f1cb3486b021ff7a8f64edbd4415bbf197615e",
+      "url": "https://finnhub.io/api/news?id=376e87757ad4e452ba19498f42bb8fc965f41be3d0a7b4dcf744565c8797a4c6",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Sunrun (RUN) Shares Skyrocket, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=376e87757ad4e452ba19498f42bb8fc965f41be3d0a7b4dcf744565c8797a4c6",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
           "source": "Yahoo",
@@ -103,22 +115,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Sunrun (RUN) Shares Skyrocket, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=376e87757ad4e452ba19498f42bb8fc965f41be3d0a7b4dcf744565c8797a4c6",
-          "used_by_ai": false
-        },
-        {
           "headline": "Sunrun Shares Rise on Deal With Tesla, Renew Home to Supply Power for Data Centers",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5debe86e8188a8d3c4e346c86cc2e7e1ccfe05d0edba529401fa817562a0034a",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Better Buy: SpaceX or the \"Magnificent Seven\"?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c3294e9ddf2cc16defbc9e14e693be0181f9e2a15f3345d5dcabc8a00d2168a",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -126,50 +132,56 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Deal with Sunrun",
-      "headline": "Sunrun Shares Rise on Deal With Tesla, Renew Home to Supply Power for Data Centers",
+      "confidence": 50,
+      "reason": "Memory chip crunch",
+      "headline": "The memory chip crunch is paying off for this US company",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5debe86e8188a8d3c4e346c86cc2e7e1ccfe05d0edba529401fa817562a0034a",
+      "url": "https://finnhub.io/api/news?id=39874216f7bcb8f934c1bbe09625d5816d3915cc7fb9cd99207c82c95904aa72",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Sunrun Shares Rise on Deal With Tesla, Renew Home to Supply Power for Data Centers",
+          "headline": "The memory chip crunch is paying off for this US company",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5debe86e8188a8d3c4e346c86cc2e7e1ccfe05d0edba529401fa817562a0034a",
+          "url": "https://finnhub.io/api/news?id=39874216f7bcb8f934c1bbe09625d5816d3915cc7fb9cd99207c82c95904aa72",
           "used_by_ai": true
         },
         {
-          "headline": "Sunrun (RUN) Shares Skyrocket, What You Need To Know",
+          "headline": "Stock Market Today, June 24: Micron Surges After Hours as Nasdaq Stems Losses",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=376e87757ad4e452ba19498f42bb8fc965f41be3d0a7b4dcf744565c8797a4c6",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=bb688fcccd26858c2da7212adae16c1ba8ffa3f557a9a4c3d855b594015541e4",
+          "used_by_ai": true
         },
         {
-          "headline": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
+          "headline": "Verizon Is the Dow\u2019s Loss. Investors Can Still Gain With Its 6% Dividend Yield",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff5f12809b40dfa57b4ca2a622f1cb3486b021ff7a8f64edbd4415bbf197615e",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ade790f85a4d8dc666f7c8380301f9e5249b3652fddf655403e496c8f20e17df",
+          "used_by_ai": true
         },
         {
-          "headline": "Better Buy: SpaceX or the \"Magnificent Seven\"?",
+          "headline": "Qualcomm bets on AI chips to break smartphone reliance, but faces crowded race",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c3294e9ddf2cc16defbc9e14e693be0181f9e2a15f3345d5dcabc8a00d2168a",
+          "url": "https://finnhub.io/api/news?id=fcaffd90be4044a7496b27f159d176c733c07b5f5ae0e8e833d9b90adb592552",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Verizon Just Got Kicked Out of the Dow, but Its 6% Dividend Yield Still Looks Solid",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f28640fe41565093e130f47d04c9cdec825d786f09775b03da68a03db03a7ee",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "AI portfolio",
       "headline": "Leopold Aschenbrenne Latest AI Portfolio: IREN (IREN)",
       "source": "Yahoo",
@@ -212,68 +224,16 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Stock market today",
-      "headline": "Stock Market Today, June 24: Micron Surges After Hours as Nasdaq Stems Losses",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb688fcccd26858c2da7212adae16c1ba8ffa3f557a9a4c3d855b594015541e4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today, June 24: Micron Surges After Hours as Nasdaq Stems Losses",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bb688fcccd26858c2da7212adae16c1ba8ffa3f557a9a4c3d855b594015541e4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Verizon Is the Dow\u2019s Loss. Investors Can Still Gain With Its 6% Dividend Yield",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ade790f85a4d8dc666f7c8380301f9e5249b3652fddf655403e496c8f20e17df",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Qualcomm bets on AI chips to break smartphone reliance, but faces crowded race",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fcaffd90be4044a7496b27f159d176c733c07b5f5ae0e8e833d9b90adb592552",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 No-Brainer Stocks to Buy in June and Hold Forever",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d39c78171c4e8605aa9235b6d6d40dde9513a0078f5102b9da8fa21e37ebaa5c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Danaher Is Down 22% This Year. Is the Masimo Acquisition the Entry Point Investors Have Been Waiting for?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=96a50a2534ce8478dfbae223c511c26069b212f5480dcdbe4f3f3e376d418102",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Fed stress test results",
-      "headline": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+      "confidence": 40,
+      "reason": "Market rally",
+      "headline": "1 High-Yielding Industrial Juggernaut to Buy and Never Sell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1ddf80b740400870ce845dece8bdd7429e6445970b8c70d6e93553b43437cf9",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-          "used_by_ai": true
-        },
         {
           "headline": "1 High-Yielding Industrial Juggernaut to Buy and Never Sell",
           "source": "Yahoo",
@@ -306,7 +266,6 @@
         }
       ],
       "source_breakdown": {
-        "CNBC": 1,
         "Yahoo": 3,
         "Benzinga": 2
       }
