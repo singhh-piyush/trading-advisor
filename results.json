@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T13:11:41Z",
+  "updated_at": "2026-06-26T15:39:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,85 +12,130 @@
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "AI spending concerns",
-      "headline": "Veteran Bank Cuts Microsoft Stock Price Target on AI Spending Concerns",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Stock price prediction",
+      "headline": "Stock Price Prediction: Super Micro Computer Set for 10% Climb After Repricing",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87990aac3bf3f6913074732f0ef9cf2cbea9ed373afb7238d78896b375a4f954",
+      "url": "https://finnhub.io/api/news?id=0f52dc3f78d6502300fda4247ec8beba5fad7086a0de1ae2b896deb00f2367e3",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Veteran Bank Cuts Microsoft Stock Price Target on AI Spending Concerns",
+          "headline": "Stock Price Prediction: Super Micro Computer Set for 10% Climb After Repricing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87990aac3bf3f6913074732f0ef9cf2cbea9ed373afb7238d78896b375a4f954",
+          "url": "https://finnhub.io/api/news?id=0f52dc3f78d6502300fda4247ec8beba5fad7086a0de1ae2b896deb00f2367e3",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Faces Italy Probe Over AI Pricing",
+          "headline": "Where Will NuScale Power Stock Be in 100 Years?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e8b189480092c81d26d8fe415e3ae3bdea454cdc601f0ac6f6140ac558568c9",
+          "url": "https://finnhub.io/api/news?id=d8363b0452eeacdef4a9e6f7bb934e19d2b838ea1b0adbf69fc4aa3ef618ab3c",
           "used_by_ai": true
         },
         {
-          "headline": "Asian stocks suffer fresh rout as rollercoaster week draws to close",
+          "headline": "AWS raising GPU instance prices 20% on July 1",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7829e853fdba0592df509b39d260eda42b1bf61090d3284c68f0402fe993aa74",
+          "url": "https://finnhub.io/api/news?id=480b623e47941d22465a09fe1cc8a75e4b2d4dc601b8abbcd6321705b831e425",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Corp (NASDAQ:MSFT) Shines as a Quality Investment Through Caviar Cruise Screening",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=a8cfc4542446a78eb8a6770f2f3450ee5696792fb45250fd1156caaef2b4c43b",
-          "used_by_ai": false
+          "headline": "Stock Market Today: Nasdaq Slides Amid Global Technology Sell-Off; Micron, Nvidia, Sandisk Fall (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=97712357d3c40e2ee61379630cbf265c2ff15b49deeb47a26a1e6e5c60ff0b88",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Production expansion",
+      "headline": "Tesla Expands Production In Germany, As VW Cuts 100,000 Jobs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=060bf38fedc83fa7fe813bd6b686984b96d738b4073896842d72dea31193c22d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Expands Production In Germany, As VW Cuts 100,000 Jobs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=060bf38fedc83fa7fe813bd6b686984b96d738b4073896842d72dea31193c22d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Beyond Rockets: SpaceX's Real Growth Story Is Its AI Infrastructure Business",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1a2a84c400671d49ca1342449f54aa9e699be5cf53ae80a31fad11d0fe94a6b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget Betting Everything on Tesla\u2019s Robot. This Fund Already Owns the Robotics Winners",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1a23ec5f507e358f8ed83cfee3e33ee16bc0eb9a8b365f0436e6c3be552e18d3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla, Sunrun Team Up To Use Home Batteries And Solar To Power AI Data Centers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cc4c1759d33419c5b27aa26273b9059c9ec0afe8049bb2749fe78f9879680a32",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Week in Numbers: Micron climbs high, Apple raises prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9eaa90b5fdb195f62a20d039dc6b8e7c8fa627e78e8dab4bfa00886a4440e808",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "down",
-      "confidence": 55,
+      "direction": "neutral",
+      "confidence": 60,
       "reason": "Price hikes",
-      "headline": "Stocks Fall Pre-Bell as Tech Weakness Persists",
+      "headline": "Apple Should Raise Prices On iPhones",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=547ef03fb5debcb3f282909d11963e686723e29190348bcbf3d8614bb13667e1",
+      "url": "https://finnhub.io/api/news?id=1d6f12540e20d5eb403284e7106898fd8ec250b1a7005f6e96c5e77f0526bca7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Stocks Fall Pre-Bell as Tech Weakness Persists",
+          "headline": "Apple Should Raise Prices On iPhones",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=547ef03fb5debcb3f282909d11963e686723e29190348bcbf3d8614bb13667e1",
+          "url": "https://finnhub.io/api/news?id=1d6f12540e20d5eb403284e7106898fd8ec250b1a7005f6e96c5e77f0526bca7",
           "used_by_ai": true
         },
         {
-          "headline": "Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now",
+          "headline": "Semiconductor stocks retreat over worries about memory costs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69fa5bce4cf936fdb5d0c14d75f12efd5b59cff20e9fc029d72f7394bdf695c5",
+          "url": "https://finnhub.io/api/news?id=df999755165bbdc2cd8391bae1261414fc97e2bcfbbe6895fe809fe904f6fe60",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now",
+          "headline": "Samsung, SK Hynix Slide 9% Before $646 Billion Investment Update",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2354f67860768a77109d4ea1fda3904b044ed0df38ae7c027c54f49a132a401e",
+          "url": "https://finnhub.io/api/news?id=6ced8a60dd6baab993d181aac76f4ab595d8c88d0db6ebc64d23931b4fa8b8c3",
           "used_by_ai": true
         },
         {
-          "headline": "Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",
+          "headline": "Apple Hiked Prices Of Its Products Due To Soaring Memory Costs \u2014 And Dan Ives Says AAPL Can Get Away With It",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=684fd2161cd22030b91fb2cbced74da83b4f8757c42e9a8dbdf3c9f584396821",
+          "url": "https://finnhub.io/api/news?id=d5c17fdf90658e4f2cbe3311635f1fb8fac2e7596aa5bd74a97e67875aa32f66",
           "used_by_ai": true
         },
         {
-          "headline": "Kospi Plunges 8% as AI Rally Faces Fresh Stress",
+          "headline": "Nasdaq set to take another hit from rotation out of tech before quarter-end",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c8eec08131e791764a4c06897f2d576724d7bf3ce361b3b9f84c2085afa4235",
+          "url": "https://finnhub.io/api/news?id=1f1a865c23998f7c3b813156ecbada385dd53d8427ef1b3f3a31b64fcad709be",
           "used_by_ai": true
         },
         {
@@ -112,33 +157,68 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "Prediction: Oil Is Heading to $60 a Barrel by 2027, and These Stocks Are Worth Buying Now",
+      "confidence": 60,
+      "reason": "AI rally",
+      "headline": "Micron Smashed Even the Bulls: Evercore Says This AI Rally Has the \u2018Earnings Power\u2019 to Last",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=337d8b7f5e501fa658c4e137ef4d276d80437fda173209346b492d1f3e310392",
+      "url": "https://finnhub.io/api/news?id=7ff0c0b94db90c7c051c1df8c1f6d2e72806265a0eb61b3e3b5e25acb6d49380",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Prediction: Oil Is Heading to $60 a Barrel by 2027, and These Stocks Are Worth Buying Now",
+          "headline": "Micron Smashed Even the Bulls: Evercore Says This AI Rally Has the \u2018Earnings Power\u2019 to Last",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=337d8b7f5e501fa658c4e137ef4d276d80437fda173209346b492d1f3e310392",
+          "url": "https://finnhub.io/api/news?id=7ff0c0b94db90c7c051c1df8c1f6d2e72806265a0eb61b3e3b5e25acb6d49380",
           "used_by_ai": true
         },
         {
-          "headline": "Staying Away From SpaceX? Here Are 3 Other Stocks That Can Boost Your Portfolio's Satellite Economy Exposure.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3404ce6ec9f8943f890b6734f65b5d27afeebb56a82a79f761df7a5699161339",
+          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=32bdefd2f1dd87a77dda2ef89cc568fbe3e498da33cd7c910d5dd425af53c6f5",
           "used_by_ai": true
         },
         {
-          "headline": "Micron Leads Tech Stocks Rally on Blowout Earnings",
+          "headline": "Tech Stocks Drag Down Equity Index Futures Pre-Bell Amid AI, Gulf Worries",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ba3f69a3b3abc718a83ba15c4d5be85cc4ee3e291ea35501fd3ac861ba90e3c",
+          "url": "https://finnhub.io/api/news?id=905949bc77099c1cedc557a46e2db11f4664ecc67085ef79aabe1ebc6c30d74d",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Tech sell-off",
+      "headline": "Update: Tech Stocks Drag Down Equity Index Futures Pre-Bell Amid AI, Gulf Worries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c595cfb597ed365ae1da75b18256238dd2b313a97a7a003b90746b71434dde9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Update: Tech Stocks Drag Down Equity Index Futures Pre-Bell Amid AI, Gulf Worries",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c595cfb597ed365ae1da75b18256238dd2b313a97a7a003b90746b71434dde9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Latest News In Cloud AI - Quantum-Classical Chemistry Collaboration Leverages AWS in Singapore",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e6893587ac4ea9ba06d116a28a5bb8b3b65f7cf369e95dc4f9911976f2928cb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=923aff9941a558cf5cf2186d55949f83488280cdb06aa09343e995ec333bdb76",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -146,107 +226,20 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 45,
-      "reason": "EV growth",
-      "headline": "The Week in Numbers: Micron climbs high, Apple raises prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9eaa90b5fdb195f62a20d039dc6b8e7c8fa627e78e8dab4bfa00886a4440e808",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Week in Numbers: Micron climbs high, Apple raises prices",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9eaa90b5fdb195f62a20d039dc6b8e7c8fa627e78e8dab4bfa00886a4440e808",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Ross Gerber Says Slate Auto Is What Happens When 'Top Tesla And Amazon' Execs Build An EV, Predicts Buyers Will \u2018Love\u2019 Its $25,000 Pickup",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0452bf92de73b60387ff8fec87e15afb3425bb0c9545bbd41f5b4a82c8106c90",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Latest News In Electric Vehicles - Blue Cloud Drives Innovation with Strategic Tech Integrations",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae70cc1ca7aefe0a8af9b9775109ac35a3aac2c0bcb81e2ff0d2d22c09ad1690",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here is Why Tesla (TSLA) is One of the Best Stocks For Beginners to Buy Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53b5a497042f74e1e6a5d9a3f493e25e00f079d01570fddb80216005aac53fed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Exclusive-Apple supplier Tata tightens internal controls after data breach, sources say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d899aa09fcf978dfe7f70190c1663a7347a2b60bdb3944d4208b5f51f4f305e6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Apple price hikes",
-      "headline": "Chips Throw a Party, Apple Sends the Bill, and Hormuz Closes the Tap",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=80e5b454222dcfcffa7eeeecfaed412c9fba83988139dbb957eacb456d4baba0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Chips Throw a Party, Apple Sends the Bill, and Hormuz Closes the Tap",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=80e5b454222dcfcffa7eeeecfaed412c9fba83988139dbb957eacb456d4baba0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "U.S. chip stocks retreat after Apple price hikes stoke fears over AI trade",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24b425f265c0ff0db21829cf86747428ae83ee3f4f0e6fb0616b8fe1795360e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "INTC Stock Has More Than Tripled This Year \u2014 But Goldman Sachs Names 3 Better Chip Bets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db1b3a3305edcd153c34dfd71e158d75a1938df5cb97c728de4c329a233113d7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=32bdefd2f1dd87a77dda2ef89cc568fbe3e498da33cd7c910d5dd425af53c6f5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 2,
-        "Yahoo": 2
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 35,
-      "reason": "Market weakness",
-      "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=32bdefd2f1dd87a77dda2ef89cc568fbe3e498da33cd7c910d5dd425af53c6f5",
+      "confidence": 50,
+      "reason": "Market decline",
+      "headline": "Correction: Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71969e62e940c0a04ec192ce2e4d656020a5487c52581157b8e4ae6035c6c938",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=32bdefd2f1dd87a77dda2ef89cc568fbe3e498da33cd7c910d5dd425af53c6f5",
+          "headline": "Correction: Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=71969e62e940c0a04ec192ce2e4d656020a5487c52581157b8e4ae6035c6c938",
           "used_by_ai": true
         },
         {
@@ -260,30 +253,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ffccfd424cfac7eaecc54841faa54e2c25042c67d740e2841a3efb28810c9c95",
           "used_by_ai": true
-        },
-        {
-          "headline": "How Much of Your Portfolio Should Be in Index Funds?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbf4ecd62e50a3ec41985b3b30d7aba746e19e412ff4a0e8413b8f9dedd21c92",
-          "used_by_ai": true
-        },
-        {
-          "headline": "If You Own These 10 Stocks \u2014 Analysts Think You Should Sell Them",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4024868e7b2f26fb5d4be49384744fd4d82d0fde97715190bef02f8b7ffd2fda",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Friedman Was Right, Just Mostly Misquoted",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b970a8588c81f981b9083e4c399fcb757097e355095b0cf642807240b167372b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 2,
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 2,
+        "ChartMill": 1
       }
     }
   ]
