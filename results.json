@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:48:10Z",
+  "updated_at": "2026-06-26T21:19:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,163 +8,93 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 80,
-      "reason": "Worst drop in a year",
-      "headline": "Apple Suffers Worst Drop in Over a Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c6b303ab709f725376a53a966a5f60b1038283111034c892f7d57ff93ca23cc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Suffers Worst Drop in Over a Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c6b303ab709f725376a53a966a5f60b1038283111034c892f7d57ff93ca23cc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=99e86adc30d84da9a1445912cc9e698fc1bd9bd3126046ffaeb8b7d0766be32e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Which S&P500 stocks are the most active on Friday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2a9847399ae6919703254f8d84e290420cfbd7adbdad703a8aebf704e693ce8d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Emerging-Market Stocks Sink 3.9% as Tech Selloff Hits Asia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6b1acad7b0c88be059ab7198b98005300d067d7904512b0ecfefda2e27f807e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Asian Tech Stocks Slide as AI Memory Rally Faces Demand Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab3867dcfc1166850f25c7abc0930659f9c7a91c7a4ce7d721eabb80372562cf",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 2
-      }
-    },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
       "confidence": 60,
-      "reason": "Crypto and AI growth",
-      "headline": "Standard Chartered Thinks This Under-the-Radar Crypto Is Going to Skyrocket 30x in Price. Is It Worth a Closer Look?",
+      "reason": "Multiple AI mentions",
+      "headline": "UnitedHealth is Near its 52-Week High. Wall Street Is Starting to Notice This Blue Chip Stock -- and So Should You.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6e29ae0ec18ad455cd13f4056274f3b1ace29c5ebdf08a067f0d55ac6497d41",
+      "url": "https://finnhub.io/api/news?id=ffb3da432c2c0226c6e294d8002e508c0d8cc70c262dda4f34dcacf8c8ce17ca",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Standard Chartered Thinks This Under-the-Radar Crypto Is Going to Skyrocket 30x in Price. Is It Worth a Closer Look?",
+          "headline": "UnitedHealth is Near its 52-Week High. Wall Street Is Starting to Notice This Blue Chip Stock -- and So Should You.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6e29ae0ec18ad455cd13f4056274f3b1ace29c5ebdf08a067f0d55ac6497d41",
+          "url": "https://finnhub.io/api/news?id=ffb3da432c2c0226c6e294d8002e508c0d8cc70c262dda4f34dcacf8c8ce17ca",
           "used_by_ai": true
         },
         {
-          "headline": "Why Apogee Enterprises Stock Is Skyrocketing Today",
+          "headline": "Prediction: Walmart Will Rejoin the $1 Trillion Club by 2027. Here's Why It's a Great Buy Now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7dfe8ce2a2596c6c587dcf68f1e0a962727216dcd885cb14ddcce82c9857a6d0",
+          "url": "https://finnhub.io/api/news?id=32e55cd8dffae001e160cbfe3d7e985f90918162d5b4f97557c9de16997d9c57",
           "used_by_ai": true
         },
         {
-          "headline": "These stocks are making the most noise in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=da4eb2c15f84dfc78bac209954c670f0bc6ebb6a9281e3a46a2a8b4c926354cf",
-          "used_by_ai": false
+          "headline": "Rocket Lab Just Shattered This Space Force Record: Does That Make The Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=588023b43ff9ba68b4f62d323e73ac7c3fc1218118568dc91891ba7361b6e1f2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What a $10,000 Investment in SpaceX Could Return by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5179868fe70ec70b96c7a287bafcdf999377fbd1ad6589a0e92904e3775dedb1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Could Buying These 3 Rare Earth Stocks Make You Rich?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08d61de76e3f5c0952bc837b8f545c0657e517836866c02c34b5f7ebe3e962f5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Much Upside Can NVDA Stock's Growth Deliver?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8fabaa25ef1ec73c66c853fedc4ffa8dfb6af10f992f4f75eef0d69bfc4fe672",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "ChartMill": 1
+        "Yahoo": 6
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
+      "direction": "down",
       "confidence": 50,
-      "reason": "Tech spending lead",
-      "headline": "Microsoft and Amazon Lead Tech Spending Survey",
+      "reason": "Fallen 25% this year",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7171d9ece3c8257feabd6b8a7818b4d02400b30121b5c7e2407f38aebd628206",
+      "url": "https://finnhub.io/api/news?id=d35eeb15635f4f2e5132ca0e936578cf701e4993647756b7603b42e39e6b0601",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft and Amazon Lead Tech Spending Survey",
+          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7171d9ece3c8257feabd6b8a7818b4d02400b30121b5c7e2407f38aebd628206",
+          "url": "https://finnhub.io/api/news?id=d35eeb15635f4f2e5132ca0e936578cf701e4993647756b7603b42e39e6b0601",
           "used_by_ai": true
         },
         {
-          "headline": "The Strain Inside Palantir Stock",
+          "headline": "Microsoft Has Fallen 25% This Year: What Could Push MSFT Back to $500?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=273494e5b5272f76027bfe3342d160db51b4d7e2287900c528764b029fd36a1d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Potential S&P 500 surge",
-      "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
+          "url": "https://finnhub.io/api/news?id=057ec1e658dd365102853f3d5fc37f8264aa2596135791d16bd820e44dbb0ea8",
           "used_by_ai": true
         },
         {
-          "headline": "Corporate America Is Quietly Buying Back Its Own Stock at a Record Pace, and It\u2019s Not Just the Mag 7",
+          "headline": "A VC Says the \u2018All Your Eggs in the AI Basket\u2019 Trade Is Finally Cracking \u2014 Here\u2019s Where the Money Goes Next",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fac3b201784247197618314a9f31d6dfaea88bb79cf778e80c6030194641e7a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "$30 Billion in Stocks Are About to Hit the Market in 2 Days, and One Strategist Says: Buy It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dcb007bb71fb8d7fd57842ed1f23932f6f0be3aff4f72ed911468a5126857c5d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Jeremy Grantham Warns U.S. Stocks Could Plunge 70% in the Most Expensive Market in History",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ead76daf39f5f2555930acdfa20ef872d42d7a9fe2a9decc5c4dc0d0db61a9cc",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Forget the Magnificent Seven. This Equal-Weight S&P Fund Beats the Mega-Caps for Just 0.20%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=429a95d5e05b6bcf76de7fa37b9f940b3d09550294c46609fb172e01c3b0d41e",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=d4b15afc3a867df94f3f75ffd0ff80e9cadcb619e7f424856619e53d135acc3d",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3
       }
     },
     {
@@ -172,41 +102,41 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI chip sales promise",
-      "headline": "Qualcomm Just Promised $15 Billion in AI Chip Sales, but There\u2019s a Catch: The Chips Don\u2019t Exist Yet",
+      "reason": "Multiple mentions",
+      "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9c210bac5e75c746dd0eebc88e95ee225edfb8089fa5647b7c9dfdb8259c210",
+      "url": "https://finnhub.io/api/news?id=f4655f714c58e3ab0a50606c563842b19cf49b371f4db5c209b26ca271df7034",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Qualcomm Just Promised $15 Billion in AI Chip Sales, but There\u2019s a Catch: The Chips Don\u2019t Exist Yet",
+          "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9c210bac5e75c746dd0eebc88e95ee225edfb8089fa5647b7c9dfdb8259c210",
+          "url": "https://finnhub.io/api/news?id=f4655f714c58e3ab0a50606c563842b19cf49b371f4db5c209b26ca271df7034",
           "used_by_ai": true
         },
         {
-          "headline": "Micron Just Delivered Great News for Intel, AMD, Arm, and Qualcomm Stock Investors",
+          "headline": "Is The Growth Baked Into Advanced Micro Devices Stock Believable?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95fa7b459dc7ecf8e32975cb13c211436f2af041aaef85f905ff28d9d9668cbb",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=e2ef20507a6bd0abdd6ff861b3513e5b6dfd13aec60155b5e1a6cd392f1044e0",
+          "used_by_ai": true
         },
         {
-          "headline": "AMD\u2019s stock split history (& prospects) explained",
+          "headline": "How Much Upside Can NVDA Stock's Growth Deliver?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a40660d31e3cb3508bfdf5f2b0f8cc41ea46c4f6b6cd744053402bbc3773dc7",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8fabaa25ef1ec73c66c853fedc4ffa8dfb6af10f992f4f75eef0d69bfc4fe672",
+          "used_by_ai": true
         },
         {
-          "headline": "Can Marvell Technology's Record Cash Flow Fuel Future Growth?",
+          "headline": "2 Reasons to Like AMD and 1 to Stay Skeptical",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=478bafd9dd0dcf2ce038a9cade082b1e97816eef7e82d3154b0fbea0da2907b3",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=a99f8a937d27c7a98ce74db34cf5a8d782d7b7153a0e1262dcee01ef60495e87",
+          "used_by_ai": true
         },
         {
-          "headline": "Why Advanced Micro Devices Stock Slipped on Friday",
+          "headline": "What Is The Price Of Micron Technology's New Profitability Floor?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6af55aaa1043112f93c92e2cf8447a050b9fe2ae7fe063cb6067b458ddec3474",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=db3c024600a417143dc4bdcd1e134573935f24cdaaf3c148687114c69d956b7a",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -216,37 +146,84 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
+      "direction": "down",
       "confidence": 50,
-      "reason": "Supplier IPO success",
-      "headline": "Apple, Tesla Supplier Jumps 15.9% After $1.06 Billion Hong Kong IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=393564025e9bd640a47f9cdca7cfe0ccd3e218ffe7dd8dfd50513ef8aa4cf406",
+      "reason": "Competition from Bezos-backed company",
+      "headline": "Which S&P500 stocks are the most active on Friday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2a9847399ae6919703254f8d84e290420cfbd7adbdad703a8aebf704e693ce8d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple, Tesla Supplier Jumps 15.9% After $1.06 Billion Hong Kong IPO",
+          "headline": "Which S&P500 stocks are the most active on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2a9847399ae6919703254f8d84e290420cfbd7adbdad703a8aebf704e693ce8d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A $24,950 Electric Pickup Truck? Bezos-Backed Company Ready To Take On Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=393564025e9bd640a47f9cdca7cfe0ccd3e218ffe7dd8dfd50513ef8aa4cf406",
+          "url": "https://finnhub.io/api/news?id=f7c16cd62c90836abd2b7aa19b3cafc9b01258530532ec316dee26e1d279a723",
           "used_by_ai": true
         },
         {
           "headline": "Elon Musk and Tim Cook issue the same red alert over new crisis in America \u2014 and it\u2019s unlike anything they\u2019ve ever seen",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=086d49af18179dcec43a560d340663d964966270ce02cb818325412db44a4814",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Analyst Behind $250 SpaceX Target Says Physical AI Will Be \u201cOne of AI\u2019s Fastest-Growing Areas Over the Next 4-5 Years\u201d",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=880cbc03156a4c5b261984d13725df94d0721e50bf13e0d75f845f268220ed03",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "MEDIA ALERT: Fresno Charging Depot Grand Opening",
+          "headline": "Apple, Tesla Supplier Jumps 15.9% After $1.06 Billion Hong Kong IPO",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc4d4f650f5b0efc44a16831503c026e94c3a6aa3dfd06885ed9e92ba9508a83",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=393564025e9bd640a47f9cdca7cfe0ccd3e218ffe7dd8dfd50513ef8aa4cf406",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Potential to smash through 8,000",
+      "headline": "The \u201cBALI\u201d Bull Run: Is BlackRock\u2019s 7.7% Yield Strategy Too Good to Be True?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=279478d90c0c33370c0132e1cac617307ece05c8773a273506b62d4d1a75291a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The \u201cBALI\u201d Bull Run: Is BlackRock\u2019s 7.7% Yield Strategy Too Good to Be True?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=279478d90c0c33370c0132e1cac617307ece05c8773a273506b62d4d1a75291a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Corporate America Is Quietly Buying Back Its Own Stock at a Record Pace, and It\u2019s Not Just the Mag 7",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fac3b201784247197618314a9f31d6dfaea88bb79cf778e80c6030194641e7a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "$30 Billion in Stocks Are About to Hit the Market in 2 Days, and One Strategist Says: Buy It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcb007bb71fb8d7fd57842ed1f23932f6f0be3aff4f72ed911468a5126857c5d",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -254,49 +231,50 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "Potential market plunge",
-      "headline": "Jeremy Grantham Warns U.S. Stocks Could Plunge 70% in the Most Expensive Market in History",
+      "reason": "Mentions in various articles",
+      "headline": "Microsoft Has Fallen 25% This Year: What Could Push MSFT Back to $500?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ead76daf39f5f2555930acdfa20ef872d42d7a9fe2a9decc5c4dc0d0db61a9cc",
+      "url": "https://finnhub.io/api/news?id=057ec1e658dd365102853f3d5fc37f8264aa2596135791d16bd820e44dbb0ea8",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Jeremy Grantham Warns U.S. Stocks Could Plunge 70% in the Most Expensive Market in History",
+          "headline": "Microsoft Has Fallen 25% This Year: What Could Push MSFT Back to $500?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ead76daf39f5f2555930acdfa20ef872d42d7a9fe2a9decc5c4dc0d0db61a9cc",
+          "url": "https://finnhub.io/api/news?id=057ec1e658dd365102853f3d5fc37f8264aa2596135791d16bd820e44dbb0ea8",
           "used_by_ai": true
         },
         {
-          "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
-          "used_by_ai": false
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=99e86adc30d84da9a1445912cc9e698fc1bd9bd3126046ffaeb8b7d0766be32e",
+          "used_by_ai": true
         },
         {
-          "headline": "Corporate America Is Quietly Buying Back Its Own Stock at a Record Pace, and It\u2019s Not Just the Mag 7",
+          "headline": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fac3b201784247197618314a9f31d6dfaea88bb79cf778e80c6030194641e7a",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=c45293ac4ea4b26952e64c6499ebb0b0dc30b765aa583a6ca2ca85276f43112e",
+          "used_by_ai": true
         },
         {
-          "headline": "$30 Billion in Stocks Are About to Hit the Market in 2 Days, and One Strategist Says: Buy It",
+          "headline": "Sandisk Stock Limps Along. The Micron Earnings Afterglow Is Gone.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dcb007bb71fb8d7fd57842ed1f23932f6f0be3aff4f72ed911468a5126857c5d",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=2bdd5d6e423b74c90277a6e19dc390b19c5840a9f15d6b2a040aa6367a1b26d5",
+          "used_by_ai": true
         },
         {
-          "headline": "Forget the Magnificent Seven. This Equal-Weight S&P Fund Beats the Mega-Caps for Just 0.20%",
+          "headline": "Investing.com\u2019s stocks of the week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=429a95d5e05b6bcf76de7fa37b9f940b3d09550294c46609fb172e01c3b0d41e",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=1b43df8f5afc9561c187c05e7f787b03848fac71a29ac4ee251d801a43a07d6c",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     }
   ]
