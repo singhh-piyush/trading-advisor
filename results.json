@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T11:54:37Z",
+  "updated_at": "2026-06-27T13:43:03Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,68 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "New AI toolkit launch",
+      "headline": "The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=daf23b04777c6ac78e760a2c7fd19826d6da37975422af68b16e0c16b40e4ed7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=daf23b04777c6ac78e760a2c7fd19826d6da37975422af68b16e0c16b40e4ed7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Owns This Under-the-Radar $20 Stock Poised to Disrupt a $1.8 Trillion Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=956a18c4c3a01a9b17d90666683d38b247226ad8b57e9946c0f103ad03127b9d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Vanguard ETF Built for Investors Who Want Dividends That Actually Grow",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5cfd7078dacb42b9c41c2c036e118710cc806ee759cacfe8d92f6935281c3598",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0de0fe1d33e42ea1cbf356a9bc084d5d5563aef749671fc76ab1699884418c7a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b98406f210fbeed6ca2b8872e4f7c29c97a5726a64442e795f3a789d227a0841",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 30,
-      "reason": "Blacklisted supplier",
-      "headline": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
+      "confidence": 70,
+      "reason": "Blacklisted chip supplier",
+      "headline": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67f862178790e3971d1046855eb7ed1ddd0f0b2b0b9f3bc3ea084fe1396a4fd8",
+      "url": "https://finnhub.io/api/news?id=47487a1654fbace9392b1092ef6535db698fe2dfa559fd15e27eaf822fe4ad8e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47487a1654fbace9392b1092ef6535db698fe2dfa559fd15e27eaf822fe4ad8e",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
           "source": "Yahoo",
@@ -45,12 +97,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6dbc80f38bf983dd888805faaad1d836b263836d9615c8cb86acb2520fe96d67",
           "used_by_ai": true
-        },
-        {
-          "headline": "US Equity Indexes Mixed, Mag-7 Lags Amid Micron Technology's Blockbuster Quarterly Results This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6570a3fe4efe720cb8bd120020a7dcbb9d9340ca70662b4621174249e9de9fad",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -59,11 +105,105 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Market commentary",
+      "headline": "Trading in these two ETFs suggests inflation fears are overblown",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Trading in these two ETFs suggests inflation fears are overblown",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Think Your Covered Call ETF Income Is Safe? 2 Risks That Should Keep You Up At Night",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=895ae42e67614893fe877e035a66bf8f7cd644708874322555e1557dbe4d3d8a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "H2 2026 Playbook: The Midyear Reset And What Comes Next",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=dfbc945371cb981ef8b6f10cda0f1daa9c67d14ffd25e104c29817474d631091",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Indicators: Simply Stellar Consumer Spending",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=982358c0c2a4f98783020771cf77cd9c024a816034f8a2b2d6cdbdaa463a296f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Tech Rally Meets Economic Fundamentals",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=36af2fe18cef951b5bfd66703e1a6432d1fc5772a12820ae6633614aea04382b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Commentary: The Treasury Secretary And The Maestro",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1e09d9089e749a5abc22ce589d14199a70abb52351a043c40eff68e7a029f5ca",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "CNBC": 1,
+        "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Hyperscaler performance",
+      "headline": "How did the hyperscalers do in 1Q26?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "How did the hyperscalers do in 1Q26?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI Story Mutates And Divides",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e60c0840a20c103651aebd4d1389620e0060b3ddf9c91c8ee7fb76b912145919",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wedbush spots clear investor opportunities in tech stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a49dbd303a019635168b2a7f8e786fa1e9430a60880e75e5ae2c76e3cac61634",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Old-School Signal That Lit Up Palo Alto Networks Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cd46485dc6ccc7f33942a22752cf44eeb2f4e75c9d4d364b02f4beadcbc7dfb5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 25,
-      "reason": "AI momentum",
+      "confidence": 60,
+      "reason": "Stock buybacks and AI",
       "headline": "AMUU: Bull 2x Of AMD In The Phase Of Most Extreme Momentum",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3c675d54de7c9c4d1a58d443f098d291f60f511e4fdc044cdfbf4bf46376951f",
@@ -106,98 +246,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "AI infrastructure boom",
-      "headline": "Thinking of Buying the Bottom With Dogecoin? Do This 1 Thing First.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f4ce5103fc1671388aaf07b136a9fd53a4d51118d05ccea107721db556a2d26",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Thinking of Buying the Bottom With Dogecoin? Do This 1 Thing First.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9f4ce5103fc1671388aaf07b136a9fd53a4d51118d05ccea107721db556a2d26",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Where Will SpaceX's Price Be in September? Here's What the Options Market Says.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3e0ca31b574b86accf2040fc242f8f799f3d6bf9ed99c55c64545adc4d30762",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Could Buying VTI Today Set You Up for Life?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0adc6830a9a99b1ce9f113df0860f24cc1b771ba0a3c58185ecf55a65f14e692",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 Hot Industrial Stock Riding the AI Infrastructure Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84a0cfb04e901f9c0ce9fb2699546fa396d46864dd48ff0a9eb323e236911ddd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Would You Let an AI Agent Trade Crypto For You? Here's What to Know About Coinbase's New AI Agent Tool.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3cf6ccda70a8115a331fb730824d76ce7d4f4467f9b8d0d512c1ce5f4602c7f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "Tech rally",
-      "headline": "How did the hyperscalers do in 1Q26?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "How did the hyperscalers do in 1Q26?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Story Mutates And Divides",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e60c0840a20c103651aebd4d1389620e0060b3ddf9c91c8ee7fb76b912145919",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wedbush spots clear investor opportunities in tech stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a49dbd303a019635168b2a7f8e786fa1e9430a60880e75e5ae2c76e3cac61634",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Old-School Signal That Lit Up Palo Alto Networks Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd46485dc6ccc7f33942a22752cf44eeb2f4e75c9d4d364b02f4beadcbc7dfb5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Stock split speculation",
+      "confidence": 50,
+      "reason": "Competition and stock split",
       "headline": "Jeff Bezos Challenges Elon Musk\u2019s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=022dab43b37b2ead25a375572515202e1e0e7f741b0c3bf6c3f1cd1b754c556d",
@@ -220,63 +273,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6273988d7a930dcecf47792a6241a6a100e5ad84dfc132dbca26192843914232",
           "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9016c046004f47d1a75815c7b7b79f56d0fc74ed894d2cae637a664dbc97d85",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0606ba32ba2ac4ffccced7296d0646e1d320ee05d8c33d16e72f2840c001d7e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 15,
-      "reason": "Market commentary",
-      "headline": "The Tech Rally Meets Economic Fundamentals",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=36af2fe18cef951b5bfd66703e1a6432d1fc5772a12820ae6633614aea04382b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Tech Rally Meets Economic Fundamentals",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=36af2fe18cef951b5bfd66703e1a6432d1fc5772a12820ae6633614aea04382b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Commentary: The Treasury Secretary And The Maestro",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1e09d9089e749a5abc22ce589d14199a70abb52351a043c40eff68e7a029f5ca",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Scott Bessent Defends Tariff Reboot, Unveils \u20183 Through 3\u2019 Plan To Beat \u2018Structural Inflation\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba470094e96d33d94e3ca75987210eb898a89387f7e03cc19ab36bf5cecdd5d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "QLC: Passive QVM ETF Working Well In Current Market Environment",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3192ade5f392cd8629c5bbb14006edff50b3641f959bfd6b81b16919ab7f0a38",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 1
+        "Yahoo": 3
       }
     }
   ]
