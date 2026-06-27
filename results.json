@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:45:06Z",
+  "updated_at": "2026-06-27T00:07:24Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,105 @@
   "sample": false,
   "items": [
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Market update",
+      "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Corporate America Is Quietly Buying Back Its Own Stock at a Record Pace, and It\u2019s Not Just the Mag 7",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fac3b201784247197618314a9f31d6dfaea88bb79cf778e80c6030194641e7a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c45293ac4ea4b26952e64c6499ebb0b0dc30b765aa583a6ca2ca85276f43112e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The \u201cBALI\u201d Bull Run: Is BlackRock\u2019s 7.7% Yield Strategy Too Good to Be True?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=279478d90c0c33370c0132e1cac617307ece05c8773a273506b62d4d1a75291a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Year 2000 Called, And It Wants Its Semiconductor Chart Back",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=00b97ef46dd1df78bee8689b164f13c8ff74d700b00a53962f58d1c6533fd5c1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 15,
+      "reason": "Competition",
+      "headline": "A $24,950 Electric Pickup Truck? Bezos-Backed Company Ready To Take On Tesla",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7c16cd62c90836abd2b7aa19b3cafc9b01258530532ec316dee26e1d279a723",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A $24,950 Electric Pickup Truck? Bezos-Backed Company Ready To Take On Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7c16cd62c90836abd2b7aa19b3cafc9b01258530532ec316dee26e1d279a723",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b9016c046004f47d1a75815c7b7b79f56d0fc74ed894d2cae637a664dbc97d85",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0606ba32ba2ac4ffccced7296d0646e1d320ee05d8c33d16e72f2840c001d7e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Which S&P500 stocks are the most active on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2a9847399ae6919703254f8d84e290420cfbd7adbdad703a8aebf704e693ce8d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk and Tim Cook issue the same red alert over new crisis in America \u2014 and it\u2019s unlike anything they\u2019ve ever seen",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=086d49af18179dcec43a560d340663d964966270ce02cb818325412db44a4814",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "SpaceX red flag",
+      "direction": "neutral",
+      "confidence": 10,
+      "reason": "Analysis",
       "headline": "Here's Why SpaceX's Latest Decision Is a Huge Red Flag for Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=44beab57ca137316501c44516684424efb52ff3ab0a8d9846b88e6e269aa710c",
@@ -58,58 +152,11 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Competition and volatility",
-      "headline": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9016c046004f47d1a75815c7b7b79f56d0fc74ed894d2cae637a664dbc97d85",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9016c046004f47d1a75815c7b7b79f56d0fc74ed894d2cae637a664dbc97d85",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0606ba32ba2ac4ffccced7296d0646e1d320ee05d8c33d16e72f2840c001d7e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Which S&P500 stocks are the most active on Friday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2a9847399ae6919703254f8d84e290420cfbd7adbdad703a8aebf704e693ce8d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A $24,950 Electric Pickup Truck? Bezos-Backed Company Ready To Take On Tesla",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7c16cd62c90836abd2b7aa19b3cafc9b01258530532ec316dee26e1d279a723",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk and Tim Cook issue the same red alert over new crisis in America \u2014 and it\u2019s unlike anything they\u2019ve ever seen",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=086d49af18179dcec43a560d340663d964966270ce02cb818325412db44a4814",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed market news",
+      "confidence": 10,
+      "reason": "Analysis",
       "headline": "Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6dbc80f38bf983dd888805faaad1d836b263836d9615c8cb86acb2520fe96d67",
@@ -153,9 +200,9 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Tech sell-off",
+      "direction": "neutral",
+      "confidence": 5,
+      "reason": "Mention",
       "headline": "Stock Market Today: Nasdaq Slides Amid Global Technology Sell-Off; Micron, Nvidia, Sandisk Fall (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=97712357d3c40e2ee61379630cbf265c2ff15b49deeb47a26a1e6e5c60ff0b88",
@@ -188,8 +235,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed analyst views",
+      "confidence": 5,
+      "reason": "Mention",
       "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f4655f714c58e3ab0a50606c563842b19cf49b371f4db5c209b26ca271df7034",
@@ -199,6 +246,12 @@
           "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f4655f714c58e3ab0a50606c563842b19cf49b371f4db5c209b26ca271df7034",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Outlook For AI Chip Sector: The Party Goes On, Bigger Than Ever",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0efc050bfe3a3f22e22cdbe23949b1e60f74bbe318de6a5fa781db7cee8eb2d0",
           "used_by_ai": true
         },
         {
@@ -217,58 +270,6 @@
           "headline": "2 Reasons to Like AMD and 1 to Stay Skeptical",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a99f8a937d27c7a98ce74db34cf5a8d782d7b7153a0e1262dcee01ef60495e87",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Is The Price Of Micron Technology's New Profitability Floor?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db3c024600a417143dc4bdcd1e134573935f24cdaaf3c148687114c69d956b7a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Bullish strategist view",
-      "headline": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c45293ac4ea4b26952e64c6499ebb0b0dc30b765aa583a6ca2ca85276f43112e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c45293ac4ea4b26952e64c6499ebb0b0dc30b765aa583a6ca2ca85276f43112e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The \u201cBALI\u201d Bull Run: Is BlackRock\u2019s 7.7% Yield Strategy Too Good to Be True?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=279478d90c0c33370c0132e1cac617307ece05c8773a273506b62d4d1a75291a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Year 2000 Called, And It Wants Its Semiconductor Chart Back",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=00b97ef46dd1df78bee8689b164f13c8ff74d700b00a53962f58d1c6533fd5c1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Corporate America Is Quietly Buying Back Its Own Stock at a Record Pace, and It\u2019s Not Just the Mag 7",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fac3b201784247197618314a9f31d6dfaea88bb79cf778e80c6030194641e7a",
           "used_by_ai": true
         }
       ],
