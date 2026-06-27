@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:03:41Z",
+  "updated_at": "2026-06-27T22:35:46Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,48 +8,106 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Production increase",
-      "headline": "Tesla (TSLA) to Raise Production at Berlin Plant by 20%, Reuters Reports",
+      "confidence": 60,
+      "reason": "SpaceX deal",
+      "headline": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4eca45f8026c6b0dbf5d72113c8cb51b17bf08b8e0f2557d6ebff3923107bead",
+      "url": "https://finnhub.io/api/news?id=9118d067130318bd34d347019629647b7cf046b07583e7ab2217ca2671328a07",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla (TSLA) to Raise Production at Berlin Plant by 20%, Reuters Reports",
+          "headline": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4eca45f8026c6b0dbf5d72113c8cb51b17bf08b8e0f2557d6ebff3923107bead",
+          "url": "https://finnhub.io/api/news?id=9118d067130318bd34d347019629647b7cf046b07583e7ab2217ca2671328a07",
           "used_by_ai": true
         },
         {
-          "headline": "Micron (MU) Surpasses Market Valuation of \u200bMeta and Briefly Tesla, Reuters Reports",
+          "headline": "Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5477462586c6d49244f7d114b5cb650c089e44c8b1655da48a1e18e4f4479feb",
+          "url": "https://finnhub.io/api/news?id=05d55c1243776dfe8ca3f1a90a49dead612ef9494025e31b0bff0a15ef7be368",
           "used_by_ai": false
         },
         {
-          "headline": "Here's What a $50,000 Investment in SpaceX Stock Could Look Like in 10 Years, According to Billionaire Investor Ron Baron",
+          "headline": "Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac85ec2d1e7de35d0db202005b49928931dbc452022721aeffdd8512998d9d92",
+          "url": "https://finnhub.io/api/news?id=84a3191422876bff546c01d1103ff4a248a020a67f90f92cc3365a53e039ab75",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Should Investors Buy Infleqtion to Ride the Quantum Computing Rally?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c05d9be9d948735f74d4298a085d3674acde3e4977949d90742197a7d1b3e184",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1ad408b1652619196fec6dffc6ae71e86c9abba158ae5c1fcb0481294074659",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Expands cloud partnerships",
+      "headline": "Teradata (TDC) Expands Cloud Partnerships As VantageCloud Adoption Picks Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4df02c4f8d0c689aef8b80abd2a559867d4137ff207e878815203ff3af1a98a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Teradata (TDC) Expands Cloud Partnerships As VantageCloud Adoption Picks Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4df02c4f8d0c689aef8b80abd2a559867d4137ff207e878815203ff3af1a98a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT)-Backed OpenAI May Wait Until 2027 for IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4675b875a296075eb78485006e66711d9f0020567165e6510c10cabecde541d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Amazon.com (AMZN) One of the Top Trending US Stocks to Buy Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d8126630eb3fdd0a484bb29878edb5a33c50183961723fadd8afb51c756d0d2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nancy Pelosi places big bets on two surging tech stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=63c43e0a06041994c90c166926062ca7ee675d1b8dc152799f49aee8b70c5562",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Here\u2019s What JPMorgan Thinks About Microsoft (MSFT) and Chevron\u2019s 20-Year Agreement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c3ccc69494f693d4d3146b69ff99c84df935218e1be58a969a2c3a633cc34a5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 40,
       "reason": "Downgrade to Hold",
       "headline": "KGI Securities Downgrades Apple (AAPL) to Hold \u2013 Here\u2019s Why",
       "source": "Yahoo",
@@ -93,62 +151,62 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Partnership and IPO",
-      "headline": "Microsoft (MSFT)-Backed OpenAI May Wait Until 2027 for IPO",
+      "confidence": 40,
+      "reason": "Raises production",
+      "headline": "Tesla (TSLA) to Raise Production at Berlin Plant by 20%, Reuters Reports",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4675b875a296075eb78485006e66711d9f0020567165e6510c10cabecde541d",
+      "url": "https://finnhub.io/api/news?id=4eca45f8026c6b0dbf5d72113c8cb51b17bf08b8e0f2557d6ebff3923107bead",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft (MSFT)-Backed OpenAI May Wait Until 2027 for IPO",
+          "headline": "Tesla (TSLA) to Raise Production at Berlin Plant by 20%, Reuters Reports",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d4675b875a296075eb78485006e66711d9f0020567165e6510c10cabecde541d",
+          "url": "https://finnhub.io/api/news?id=4eca45f8026c6b0dbf5d72113c8cb51b17bf08b8e0f2557d6ebff3923107bead",
           "used_by_ai": true
         },
         {
-          "headline": "Nancy Pelosi places big bets on two surging tech stocks",
+          "headline": "Prediction: Buying Rivian Stock Today Could Set You Up for Life",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63c43e0a06041994c90c166926062ca7ee675d1b8dc152799f49aee8b70c5562",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here\u2019s What JPMorgan Thinks About Microsoft (MSFT) and Chevron\u2019s 20-Year Agreement",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c3ccc69494f693d4d3146b69ff99c84df935218e1be58a969a2c3a633cc34a5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Amazon.com (AMZN) One of the Top Trending US Stocks to Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d8126630eb3fdd0a484bb29878edb5a33c50183961723fadd8afb51c756d0d2",
+          "url": "https://finnhub.io/api/news?id=24ffd846c36981e61f3ec8ff1107cba4aa033dd994fea7c470d16eb19ef65f7b",
           "used_by_ai": false
         },
         {
-          "headline": "Cloudflare (NET) Announces New Initiative With Major Web Browsers",
+          "headline": "Micron (MU) Surpasses Market Valuation of \u200bMeta and Briefly Tesla, Reuters Reports",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e0d67eecb2260ba8e26b130c12b0b1cb2a1ad0b32b80e6cf44915e977094d98",
+          "url": "https://finnhub.io/api/news?id=5477462586c6d49244f7d114b5cb650c089e44c8b1655da48a1e18e4f4479feb",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's What a $50,000 Investment in SpaceX Stock Could Look Like in 10 Years, According to Billionaire Investor Ron Baron",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac85ec2d1e7de35d0db202005b49928931dbc452022721aeffdd8512998d9d92",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 30,
       "reason": "Stock buybacks",
-      "headline": "Does AMD pay dividends? How the chipmaker spends its money",
+      "headline": "Goldman Sachs Starts Intel (INTC) Coverage",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66683fb629f4fcd517bab27d9ca6ed8ff09d60aac32f49e8c8f34f9a0e43458c",
+      "url": "https://finnhub.io/api/news?id=89601bfeb6c20283d8a54f0fc500dc80bffb633a158be94f705dcd02b5bda94b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Goldman Sachs Starts Intel (INTC) Coverage",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89601bfeb6c20283d8a54f0fc500dc80bffb633a158be94f705dcd02b5bda94b",
+          "used_by_ai": true
+        },
         {
           "headline": "Does AMD pay dividends? How the chipmaker spends its money",
           "source": "Yahoo",
@@ -175,7 +233,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "SeekingAlpha": 1
       }
     },
@@ -183,7 +241,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 20,
       "reason": "Market trends",
       "headline": "Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers",
       "source": "Yahoo",
