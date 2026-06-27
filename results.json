@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T04:34:38Z",
+  "updated_at": "2026-06-27T07:49:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,20 +8,38 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Tech opportunities",
-      "headline": "Wedbush spots clear investor opportunities in tech stocks",
+      "confidence": 80,
+      "reason": "Buying opportunity",
+      "headline": "Nvidia's Market Cap Just Fell Below $5 Trillion. Here's Why It's a Buying Opportunity",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a49dbd303a019635168b2a7f8e786fa1e9430a60880e75e5ae2c76e3cac61634",
+      "url": "https://finnhub.io/api/news?id=bea7fb78d91dda0c6f48ae02ad85e62cea3adad3c5d299ec86cc77b6e33393b1",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nvidia's Market Cap Just Fell Below $5 Trillion. Here's Why It's a Buying Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bea7fb78d91dda0c6f48ae02ad85e62cea3adad3c5d299ec86cc77b6e33393b1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Beaten-Down AI Chip Stocks to Consider Buying in the Sell-Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=143333aad286e0a0b1214a155e21ad546324094cce48b15184b571e6606de704",
+          "used_by_ai": true
+        },
+        {
+          "headline": "From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2912925c6b1634398b0d2b65cb19201863f43b54132011ccae71ed5168b35f43",
+          "used_by_ai": true
+        },
         {
           "headline": "Wedbush spots clear investor opportunities in tech stocks",
           "source": "Yahoo",
@@ -29,28 +47,56 @@
           "used_by_ai": true
         },
         {
-          "headline": "From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company",
+          "headline": "2 Reasons Not to Invest in SpaceX -- and What to Buy Instead",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2912925c6b1634398b0d2b65cb19201863f43b54132011ccae71ed5168b35f43",
+          "url": "https://finnhub.io/api/news?id=758fc3bf72a39807acbd3895341b64da4d54ae17e069c32e8fbeeaa9bd6ad793",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Stock volatility",
+      "headline": "Jeff Bezos Challenges Elon Musk\u2019s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=022dab43b37b2ead25a375572515202e1e0e7f741b0c3bf6c3f1cd1b754c556d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Jeff Bezos Challenges Elon Musk\u2019s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=022dab43b37b2ead25a375572515202e1e0e7f741b0c3bf6c3f1cd1b754c556d",
+          "used_by_ai": true
         },
         {
-          "headline": "SoFi Stock Is Down More Than 30% This Year. Its CEO Is Buying Anyway.",
+          "headline": "Enphase Just Found A New Story To Tell",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db601845a6b9ddeecdb13167f83dc571cc803e0a6a9d578502e05b8d842418e1",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=3af4ff3450a007fc159d1fc9c5a89ff8b8b7882da4a697c5e14bbe23d6c36988",
+          "used_by_ai": true
         },
         {
-          "headline": "Can Meta's New $300 Glasses Turn Around the Stock?",
+          "headline": "After Issuing Its First Stock Split in 2020, Tesla Took Just 2 Years to Issue Its Second Split. Could a Third Stock Split Come in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=228af7baca70543ebaa80365621ed5c8e0a2d1fa403b3995ab7b9084505e59a7",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=6273988d7a930dcecf47792a6241a6a100e5ad84dfc132dbca26192843914232",
+          "used_by_ai": true
         },
         {
-          "headline": "SpaceX Just Pulled Off the Largest IPO Ever. Here's Why Robinhood Might Be the Real Winner.",
+          "headline": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94d89da2a6213a1061e9f228380cbab5445fbe78842087289f23bd05ad590358",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=b9016c046004f47d1a75815c7b7b79f56d0fc74ed894d2cae637a664dbc97d85",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0606ba32ba2ac4ffccced7296d0646e1d320ee05d8c33d16e72f2840c001d7e",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -62,29 +108,29 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "Stock rose today",
-      "headline": "Why Microsoft Stock Rose Today",
+      "reason": "Stock rose",
+      "headline": "How did the hyperscalers do in 1Q26?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c0cba36e550092025fba199124e550ec045d06966930426745f9863c57da35a",
+      "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Microsoft Stock Rose Today",
+          "headline": "How did the hyperscalers do in 1Q26?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c0cba36e550092025fba199124e550ec045d06966930426745f9863c57da35a",
+          "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
           "used_by_ai": true
         },
         {
           "headline": "The Old-School Signal That Lit Up Palo Alto Networks Stock",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cd46485dc6ccc7f33942a22752cf44eeb2f4e75c9d4d364b02f4beadcbc7dfb5",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "Adobe (ADBE) Buys Topaz Labs As It Expands Agentic AI Partnerships",
+          "headline": "Why Microsoft Stock Rose Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4df0cd10a4f4b4675470689f000afb2f6bf8d4fcf6b4b5c7f77066d75074a71f",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=5c0cba36e550092025fba199124e550ec045d06966930426745f9863c57da35a",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -92,10 +138,103 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Growth potential",
+      "headline": "AMD\u2019s stock buybacks explained: History, balance & outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbf3c78277568ddb2a87e8f2e2140c4f744466152af52a3a09ccb3a0629b2762",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD\u2019s stock buybacks explained: History, balance & outlook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbf3c78277568ddb2a87e8f2e2140c4f744466152af52a3a09ccb3a0629b2762",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What If The Real Power Behind Marvell Stock Isn't Just Growth?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=604dca7c562902d356445a7bc12ab2f04a697e783d0b808560af4688741878bf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Power Stocks Could Be a Once-in-a-Generation Trade. Start With the Companies Behind Every Data Center.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0333ad9773676550735959015839b975be5ba017e05214e9f19a0b3399872b3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f4655f714c58e3ab0a50606c563842b19cf49b371f4db5c209b26ca271df7034",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Outlook For AI Chip Sector: The Party Goes On, Bigger Than Ever",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0efc050bfe3a3f22e22cdbe23949b1e60f74bbe318de6a5fa781db7cee8eb2d0",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Investment warning",
+      "headline": "2 Reasons Not to Invest in SpaceX -- and What to Buy Instead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=758fc3bf72a39807acbd3895341b64da4d54ae17e069c32e8fbeeaa9bd6ad793",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "2 Reasons Not to Invest in SpaceX -- and What to Buy Instead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=758fc3bf72a39807acbd3895341b64da4d54ae17e069c32e8fbeeaa9bd6ad793",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Market Cap Just Fell Below $5 Trillion. Here's Why It's a Buying Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bea7fb78d91dda0c6f48ae02ad85e62cea3adad3c5d299ec86cc77b6e33393b1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Beaten-Down AI Chip Stocks to Consider Buying in the Sell-Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=143333aad286e0a0b1214a155e21ad546324094cce48b15184b571e6606de704",
+          "used_by_ai": false
+        },
+        {
+          "headline": "From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2912925c6b1634398b0d2b65cb19201863f43b54132011ccae71ed5168b35f43",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wedbush spots clear investor opportunities in tech stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a49dbd303a019635168b2a7f8e786fa1e9430a60880e75e5ae2c76e3cac61634",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Blacklisted supplier",
       "headline": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
       "source": "Yahoo",
@@ -112,25 +251,25 @@
           "headline": "This Week's Market Wrap: AI Memory Shock, Crude Cracks, And Data Boxes In The Fed",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=1c05d80b484fc80f4edac27600c8ac2915fb138233bca6ec9ce42d41a131bb3d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays \u2014 ON, AAPL, SLS, INFQ, NKE in Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4feee06a415ef9bfb21c2f6485283f458e0db5b094997ad8b2624b604c8a72a6",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6dbc80f38bf983dd888805faaad1d836b263836d9615c8cb86acb2520fe96d67",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "US Equity Indexes Mixed, Mag-7 Lags Amid Micron Technology's Blockbuster Quarterly Results This Week",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6570a3fe4efe720cb8bd120020a7dcbb9d9340ca70662b4621174249e9de9fad",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -139,132 +278,39 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI chip sector growth",
-      "headline": "Outlook For AI Chip Sector: The Party Goes On, Bigger Than Ever",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0efc050bfe3a3f22e22cdbe23949b1e60f74bbe318de6a5fa781db7cee8eb2d0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Outlook For AI Chip Sector: The Party Goes On, Bigger Than Ever",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0efc050bfe3a3f22e22cdbe23949b1e60f74bbe318de6a5fa781db7cee8eb2d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD\u2019s stock buybacks explained: History, balance & outlook",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbf3c78277568ddb2a87e8f2e2140c4f744466152af52a3a09ccb3a0629b2762",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What If The Real Power Behind Marvell Stock Isn't Just Growth?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=604dca7c562902d356445a7bc12ab2f04a697e783d0b808560af4688741878bf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4655f714c58e3ab0a50606c563842b19cf49b371f4db5c209b26ca271df7034",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is The Growth Baked Into Advanced Micro Devices Stock Believable?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2ef20507a6bd0abdd6ff861b3513e5b6dfd13aec60155b5e1a6cd392f1044e0",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Stock split speculation",
-      "headline": "After Issuing Its First Stock Split in 2020, Tesla Took Just 2 Years to Issue Its Second Split. Could a Third Stock Split Come in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6273988d7a930dcecf47792a6241a6a100e5ad84dfc132dbca26192843914232",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "After Issuing Its First Stock Split in 2020, Tesla Took Just 2 Years to Issue Its Second Split. Could a Third Stock Split Come in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6273988d7a930dcecf47792a6241a6a100e5ad84dfc132dbca26192843914232",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jeff Bezos Challenges Elon Musk\u2019s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=022dab43b37b2ead25a375572515202e1e0e7f741b0c3bf6c3f1cd1b754c556d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Enphase Just Found A New Story To Tell",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3af4ff3450a007fc159d1fc9c5a89ff8b8b7882da4a697c5e14bbe23d6c36988",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9016c046004f47d1a75815c7b7b79f56d0fc74ed894d2cae637a664dbc97d85",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0606ba32ba2ac4ffccced7296d0646e1d320ee05d8c33d16e72f2840c001d7e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "S&P 500 growth potential",
-      "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Market wrap",
+      "headline": "Scott Bessent Defends Tariff Reboot, Unveils \u20183 Through 3\u2019 Plan To Beat \u2018Structural Inflation\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
+      "url": "https://finnhub.io/api/news?id=ba470094e96d33d94e3ca75987210eb898a89387f7e03cc19ab36bf5cecdd5d6",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "This Strategist Thinks the S&P 500 Could Smash Through 8,000 \u2018In the Near Term\u2019",
+          "headline": "Scott Bessent Defends Tariff Reboot, Unveils \u20183 Through 3\u2019 Plan To Beat \u2018Structural Inflation\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e9120db8cf6de99195c0637192e93de4c46f5f06b6cda3661d20951a3f5a30",
+          "url": "https://finnhub.io/api/news?id=ba470094e96d33d94e3ca75987210eb898a89387f7e03cc19ab36bf5cecdd5d6",
           "used_by_ai": true
         },
         {
           "headline": "QLC: Passive QVM ETF Working Well In Current Market Environment",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3192ade5f392cd8629c5bbb14006edff50b3641f959bfd6b81b16919ab7f0a38",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c45293ac4ea4b26952e64c6499ebb0b0dc30b765aa583a6ca2ca85276f43112e",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "The \u201cBALI\u201d Bull Run: Is BlackRock\u2019s 7.7% Yield Strategy Too Good to Be True?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=279478d90c0c33370c0132e1cac617307ece05c8773a273506b62d4d1a75291a",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
