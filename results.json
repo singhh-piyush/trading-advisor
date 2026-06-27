@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T16:38:46Z",
+  "updated_at": "2026-06-27T18:03:20Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,51 +12,11 @@
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Burry's big bet",
-      "headline": "Michael Burry Just Bet Big Microsoft Will More Than Double by 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=156c8a328a98ed2a90785a0a293f714583dd90780e90f981bc26f6b7bdd50d5a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Michael Burry Just Bet Big Microsoft Will More Than Double by 2028",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=156c8a328a98ed2a90785a0a293f714583dd90780e90f981bc26f6b7bdd50d5a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Caterpillar (CAT) Joins Russell Top 50 As AI Power Backlog Draws Investor Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=317d6f9a79d1c3b8924d37f3773801eed733bc78770dd2b3e7878aded3156b6e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI\u2019s Energy Crunch Has Investors Searching for Next IPO Winners",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bca6a93c8e9a40d71f05613fe38ebf8091f4a5fa507982348a18f3d75fbb090",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft vs. Alphabet: What Their Revenue Trends Tell Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bd8c1f4ea4186991823c42367af888574c87cec09a6473f7816bc2f7e98519a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Brain-Computer Interface",
+      "confidence": 80,
+      "reason": "High dividend yield",
       "headline": "The Average Dividend Yield is 1%. Want More Income? These 3 Stocks Offer Yields of Up 5.9%",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=75527c53dd2d4151ac159a24ce3e632ac7630162c2dd7b3adbd03b9b0b24353c",
@@ -98,38 +58,43 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Musk's stock",
-      "headline": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+      "confidence": 70,
+      "reason": "Growth potential",
+      "headline": "Michael Burry Just Bet Big Microsoft Will More Than Double by 2028",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0de0fe1d33e42ea1cbf356a9bc084d5d5563aef749671fc76ab1699884418c7a",
+      "url": "https://finnhub.io/api/news?id=156c8a328a98ed2a90785a0a293f714583dd90780e90f981bc26f6b7bdd50d5a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+          "headline": "Michael Burry Just Bet Big Microsoft Will More Than Double by 2028",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0de0fe1d33e42ea1cbf356a9bc084d5d5563aef749671fc76ab1699884418c7a",
+          "url": "https://finnhub.io/api/news?id=156c8a328a98ed2a90785a0a293f714583dd90780e90f981bc26f6b7bdd50d5a",
           "used_by_ai": true
         },
         {
-          "headline": "Mid-Year Update: Warnings On AI Hyperscalers, Private Credit, And The SpaceX IPO",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bcf9f5445e12bc286506147da099d61cc4f36ce087d1c6a5e32182a8f3c75bb5",
+          "headline": "Caterpillar (CAT) Joins Russell Top 50 As AI Power Backlog Draws Investor Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=317d6f9a79d1c3b8924d37f3773801eed733bc78770dd2b3e7878aded3156b6e",
           "used_by_ai": true
         },
         {
-          "headline": "Jeff Bezos Challenges Elon Musk\u2019s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
+          "headline": "AI\u2019s Energy Crunch Has Investors Searching for Next IPO Winners",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=022dab43b37b2ead25a375572515202e1e0e7f741b0c3bf6c3f1cd1b754c556d",
+          "url": "https://finnhub.io/api/news?id=7bca6a93c8e9a40d71f05613fe38ebf8091f4a5fa507982348a18f3d75fbb090",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft vs. Alphabet: What Their Revenue Trends Tell Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7bd8c1f4ea4186991823c42367af888574c87cec09a6473f7816bc2f7e98519a",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
@@ -137,7 +102,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Stock buybacks",
+      "reason": "Momentum and growth",
       "headline": "Does AMD pay dividends? How the chipmaker spends its money",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=66683fb629f4fcd517bab27d9ca6ed8ff09d60aac32f49e8c8f34f9a0e43458c",
@@ -180,11 +145,46 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Competition and growth",
+      "headline": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0de0fe1d33e42ea1cbf356a9bc084d5d5563aef749671fc76ab1699884418c7a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0de0fe1d33e42ea1cbf356a9bc084d5d5563aef749671fc76ab1699884418c7a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mid-Year Update: Warnings On AI Hyperscalers, Private Credit, And The SpaceX IPO",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bcf9f5445e12bc286506147da099d61cc4f36ce087d1c6a5e32182a8f3c75bb5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jeff Bezos Challenges Elon Musk\u2019s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=022dab43b37b2ead25a375572515202e1e0e7f741b0c3bf6c3f1cd1b754c556d",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Memory purchase",
+      "reason": "Mixed news",
       "headline": "Stock Market Week Ahead: Rotating, For Now, Away From The AI Boom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=39d62f6fdbd5b6e6aa770e07566d47062372f6ac95f0d5846c7bfb842e94f821",
@@ -203,6 +203,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "US, Allies Move To Strengthen AI Supply Chains in Push To Break China\u2019s Grip on Critical Minerals",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c5658b52893619983437c30f0ffab2f9ae5d1aaf303494f42950b27ed198e1db",
+          "used_by_ai": true
+        },
+        {
           "headline": "Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=56eb2dbc1375f117879723f64d09a5348460be184a90cef8ba0ad12de649ee17",
@@ -213,16 +219,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=282d2dbdf7e417688103fb28cc32acbc727f49b6b65d075ce22ccb9ac76cebcc",
           "used_by_ai": true
-        },
-        {
-          "headline": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47487a1654fbace9392b1092ef6535db698fe2dfa559fd15e27eaf822fe4ad8e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
+        "Benzinga": 1,
         "SeekingAlpha": 1
       }
     },
@@ -244,6 +245,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "A Near-Perfect And Simple Retirement Dividend Growth Portfolio",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=577002254e61a2089173314619217f3e4a65c00ed6d5538048ef148121c28246",
+          "used_by_ai": true
+        },
+        {
           "headline": "Precious Metals Risk/Reward Now Positive",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d8dba6af6532434ba9f371e55b99aa0004fcd39051129b10aa54adb93907a9f4",
@@ -258,7 +265,7 @@
       ],
       "source_breakdown": {
         "Yahoo": 1,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 3
       }
     }
   ]
