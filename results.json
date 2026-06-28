@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:19:47Z",
+  "updated_at": "2026-06-28T20:41:19Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI cloud stock gains",
+      "reason": "AI growth potential",
       "headline": "This Artificial Intelligence (AI) Cloud Stock Has Crushed Amazon, Microsoft, and Google in 2026. It Can Continue Skyrocketing After 184% Gains",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a89a634892ae6f7a4a5b964348353b81cb10fd74f4d68a532fe05791f3669cfb",
@@ -41,12 +41,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Why Today\u2019s Retirees May Need More Stocks Than Their Parents Did",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecc5b9638673ea4a37d877f2fdf844b94647d2c7281f42ce8984cbad48c9015d",
-          "used_by_ai": true
-        },
-        {
           "headline": "Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=228fe41c1517e219435d28203171e315d3eac8dcf51c192cf5706773bb96db2d",
@@ -54,7 +48,54 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 75,
+      "reason": "Acquisition and semis outlook",
+      "headline": "Taiwan Semiconductor Manufacturing Company (TSM)\u2019s Monthly Sales Rise",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8241007f25d314e9f89e7003157f6c78d45a8f34bcbd5048f4ff2d2c0fae9368",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Taiwan Semiconductor Manufacturing Company (TSM)\u2019s Monthly Sales Rise",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8241007f25d314e9f89e7003157f6c78d45a8f34bcbd5048f4ff2d2c0fae9368",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Just Acquired MEXT to Crack the Memory Optimization Problem. Should Micron and Sandisk Investors Be Nervous?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b375c4da0ff4f2a1b2948f76aa7a99d295639f72880a2b7a77befc5e08b476d4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "5 AI Hardware Stocks Create a New \u2018MANIA\u2019 Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a73b8bdb1cb504c400abe21680effa56b313eb26164f18c86c1934db109d3e30",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Semis Outlook: The Best Days Are Likely Far From Over",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c0140b3bcc4fcfb4b183820bdad5a08917e2828a5776fd8adcc7d13b4a10aa9d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c837365ed04918f64f122476aa181be316d394c972d626f7cd7ccc254c53455",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -62,59 +103,64 @@
       "company": "Apple",
       "direction": "down",
       "confidence": 70,
-      "reason": "Price rise criticism",
-      "headline": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How Much You'll Pay Now",
+      "reason": "Price increase criticism",
+      "headline": "Intel Corporation (INTC)\u2019s Stock Has Surged but Needs an Engineering Revival",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e5117200666d6454a2c44740d48370938950f2d0a8f0594c1c47b96e83de73f",
+      "url": "https://finnhub.io/api/news?id=26e0be6f4d7a82949049bc393eaa12d7d6a7175fa438e482356bb60dbc90cd5b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Intel Corporation (INTC)\u2019s Stock Has Surged but Needs an Engineering Revival",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=26e0be6f4d7a82949049bc393eaa12d7d6a7175fa438e482356bb60dbc90cd5b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple just billed you for the AI buildout you never asked for",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a3125fe055bff8e5340e9041a38d2d3c42ed919dcacc46ff03adca7967fb6aa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Disney And Apple Almost Merged, Here's Why The Deal Didn't Work",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=979b488480b94ac8d833648ba5f2bb6b67059bf6608ca0147a79c72874032957",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jobs, Home Prices, Nike, Constellation, and More to Watch This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d36217483f46901f2ab42c9e08b496bda4f5e8b5906d7c2dabe4877d4ac0ca4",
+          "used_by_ai": true
+        },
         {
           "headline": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How Much You'll Pay Now",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2e5117200666d6454a2c44740d48370938950f2d0a8f0594c1c47b96e83de73f",
           "used_by_ai": true
-        },
-        {
-          "headline": "Even Apple supply chain maestro Tim Cook couldn\u2019t dodge the memory chip \u2018RAM-ageddon\u2019 crisis. Here\u2019s why PC prices are soaring this summer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e1eacbc58d06e7737139ceb4b7e1dd91738550389303f9709a605b51bc9a1ae",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Berkshire May Just Save You From A Likely Market Crash",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=065427260e90b565fa6294ecb480f07ae5def3489e5184b066dc992ea87ad7c9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amkor Technology, Inc. (AMKR) Is A \u201cSecret Weapon,\u201d Says Newsletter",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=52839bf28bdfe28e96a09a694eedb92cd8286b046cf1fb9a1c9a1db8912fc9e4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Markets Starting To Choke On Massive Surge In Debt Issuance",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5f66f86ae8e56ee4863f054e9026a85a05d7a3f101bbc7b07bce262a1d04aa8c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "Yahoo": 5
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Elon Musk predictions",
-      "headline": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
+      "direction": "down",
+      "confidence": 65,
+      "reason": "Broad tech rout and decline",
+      "headline": "SpaceX, Tesla, and Alphabet All Fall in a Broad Tech Rout. Should You Rebalance Your Portfolio?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=473930b5b0474f5ccb7f605249830587e4c8dfdee45c0b48798cc81f95d97089",
+      "url": "https://finnhub.io/api/news?id=66571265f1926c1d57d85e22a7ec6601bda21ba6f3ae5aa2fb65cddde6677d9d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SpaceX, Tesla, and Alphabet All Fall in a Broad Tech Rout. Should You Rebalance Your Portfolio?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66571265f1926c1d57d85e22a7ec6601bda21ba6f3ae5aa2fb65cddde6677d9d",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
           "source": "Yahoo",
@@ -132,12 +178,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6072892e409afe98ed91585d5bd4d67759f78ab36deb999522e950a025e82a64",
           "used_by_ai": true
-        },
-        {
-          "headline": "\u2018High on Coke\u2019: Elon Musk floored by Berkshire Hathaway's Coca-Cola dividend windfall. How to tap in and get rich",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e29ac450b8d50378da9aeb3e80e8414a8ea9f122cc54aa625403eeda81310c8",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -148,41 +188,41 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI and tech trends",
-      "headline": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
+      "confidence": 60,
+      "reason": "Growth potential",
+      "headline": "Is GameStop the Next Berkshire Hathaway?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9fe2689283b44055be30ea6a71859ca940cacb06c2ab4940abe7922d24b857f4",
+      "url": "https://finnhub.io/api/news?id=e63fc47a046af7aeb172f004c216fc8720de44713c32a7d64217d9f0a3d70eb9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
+          "headline": "Is GameStop the Next Berkshire Hathaway?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fe2689283b44055be30ea6a71859ca940cacb06c2ab4940abe7922d24b857f4",
+          "url": "https://finnhub.io/api/news?id=e63fc47a046af7aeb172f004c216fc8720de44713c32a7d64217d9f0a3d70eb9",
           "used_by_ai": true
         },
         {
-          "headline": "Jefferies Reports Earnings Before the Big Banks. Here's Why Wall Street Should Be Watching Closely.",
+          "headline": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b5a602eddd1178f4f0f441d8d60abe3e33e95d193bcd6fad63ea24d71f10a5e",
+          "url": "https://finnhub.io/api/news?id=b19466f87eeaa32db260de5745d629a237e42b16eb90b508423786e941655077",
           "used_by_ai": true
         },
         {
-          "headline": "1 Unstoppable Trend That Could Supercharge Ford Stock by 2030",
+          "headline": "Could Buying This Magnificent Seven ETF Today Set You Up for Life?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad306277d0b9185eb999bfef75430683e9e09140a10035dfef5f7d38fcbed040",
+          "url": "https://finnhub.io/api/news?id=436601de859ad133d76dd3cce8481ef820df676fcd902e83536e8bb9f87e55ac",
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Just Spent $60 Billion on Artificial Intelligence (AI). Could Elon Musk Be Building the Next Amazon?",
+          "headline": "Why Braiin Stock Plummeted This Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc7ddb9fda9fd03d41a43fb4ccace04f42831198b476563b0d3518c8f5bcfa3a",
+          "url": "https://finnhub.io/api/news?id=d94f609d27903974bf6281960422ddf5c1ea0b78ff37347e203c3f11fa882ae8",
           "used_by_ai": true
         },
         {
-          "headline": "Will the Micron Stock Split Happen Now After Its Blowout Earnings Results?",
+          "headline": "SoFi's Latest Innovation Could Transform Its Growth Trajectory",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0197b7efd428cc580dac9c0db09ff75384b97d4bdb92018acb043231a189da4a",
+          "url": "https://finnhub.io/api/news?id=ec8df2873244d77008b0823d918abd688bc6ed77db4ac30eac407c09ea3d5632",
           "used_by_ai": true
         }
       ],
@@ -191,58 +231,11 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Semis outlook",
-      "headline": "Semis Outlook: The Best Days Are Likely Far From Over",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c0140b3bcc4fcfb4b183820bdad5a08917e2828a5776fd8adcc7d13b4a10aa9d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Semis Outlook: The Best Days Are Likely Far From Over",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c0140b3bcc4fcfb4b183820bdad5a08917e2828a5776fd8adcc7d13b4a10aa9d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c837365ed04918f64f122476aa181be316d394c972d626f7cd7ccc254c53455",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=463dcb39e942d8a17aa1d94639b4fd4825be63e238e5572b0337e0cf9db4e6bf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cafe9faba207eb82aa820b56ea01de4cb5e1309a5ff3bb38ec3e2be8c0e0517e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Goldman Sachs Starts Intel (INTC) Coverage",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89601bfeb6c20283d8a54f0fc500dc80bffb633a158be94f705dcd02b5bda94b",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market trends",
+      "confidence": 50,
+      "reason": "Market watch",
       "headline": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a81696209e2543aacde72b854162efcdc974a1b79c32f5b7ca38bfe274149ace",
