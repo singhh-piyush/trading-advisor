@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T17:44:03Z",
+  "updated_at": "2026-06-28T19:19:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,56 @@
   "sample": false,
   "items": [
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI cloud stock gains",
+      "headline": "This Artificial Intelligence (AI) Cloud Stock Has Crushed Amazon, Microsoft, and Google in 2026. It Can Continue Skyrocketing After 184% Gains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a89a634892ae6f7a4a5b964348353b81cb10fd74f4d68a532fe05791f3669cfb",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "This Artificial Intelligence (AI) Cloud Stock Has Crushed Amazon, Microsoft, and Google in 2026. It Can Continue Skyrocketing After 184% Gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a89a634892ae6f7a4a5b964348353b81cb10fd74f4d68a532fe05791f3669cfb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Overlooked AI Infrastructure Stock Could Be 2026's Biggest Winner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=56277b28a1375cfc25be9e96e1b90bd6ff8ad49432729bcc298e44cd1f43099e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e52460e726b3a7eb64198d94012f3fe8c7b48aff876aadfe4c0406aeb2e15f41",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Today\u2019s Retirees May Need More Stocks Than Their Parents Did",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecc5b9638673ea4a37d877f2fdf844b94647d2c7281f42ce8984cbad48c9015d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=228fe41c1517e219435d28203171e315d3eac8dcf51c192cf5706773bb96db2d",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "Price rise criticism",
       "headline": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How Much You'll Pay Now",
       "source": "Yahoo",
@@ -38,19 +84,19 @@
           "headline": "Berkshire May Just Save You From A Likely Market Crash",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=065427260e90b565fa6294ecb480f07ae5def3489e5184b066dc992ea87ad7c9",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Amkor Technology, Inc. (AMKR) Is A \u201cSecret Weapon,\u201d Says Newsletter",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=52839bf28bdfe28e96a09a694eedb92cd8286b046cf1fb9a1c9a1db8912fc9e4",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Markets Starting To Choke On Massive Surge In Debt Issuance",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5f66f86ae8e56ee4863f054e9026a85a05d7a3f101bbc7b07bce262a1d04aa8c",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -61,14 +107,26 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Stock decline",
-      "headline": "Elon Musk Should 'Consider Selling EVs Again,' Says Ross Gerber As TSLA Stock Declines",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Elon Musk predictions",
+      "headline": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6072892e409afe98ed91585d5bd4d67759f78ab36deb999522e950a025e82a64",
+      "url": "https://finnhub.io/api/news?id=473930b5b0474f5ccb7f605249830587e4c8dfdee45c0b48798cc81f95d97089",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=473930b5b0474f5ccb7f605249830587e4c8dfdee45c0b48798cc81f95d97089",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6994e3013ad609a2a9735c0d33133c0c354dea8dc7cf609be16c38f38158251b",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk Should 'Consider Selling EVs Again,' Says Ross Gerber As TSLA Stock Declines",
           "source": "Yahoo",
@@ -79,17 +137,57 @@
           "headline": "\u2018High on Coke\u2019: Elon Musk floored by Berkshire Hathaway's Coca-Cola dividend windfall. How to tap in and get rich",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4e29ac450b8d50378da9aeb3e80e8414a8ea9f122cc54aa625403eeda81310c8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "I Let Wayve\u2019s AI Car Drive Me Through London\u2019s Busiest Streets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c87f8bc349ff660f597eefbc0183f9543ecb8935d29611acdfe0ec3080f6a868",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI and tech trends",
+      "headline": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fe2689283b44055be30ea6a71859ca940cacb06c2ab4940abe7922d24b857f4",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fe2689283b44055be30ea6a71859ca940cacb06c2ab4940abe7922d24b857f4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jefferies Reports Earnings Before the Big Banks. Here's Why Wall Street Should Be Watching Closely.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9b5a602eddd1178f4f0f441d8d60abe3e33e95d193bcd6fad63ea24d71f10a5e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Unstoppable Trend That Could Supercharge Ford Stock by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad306277d0b9185eb999bfef75430683e9e09140a10035dfef5f7d38fcbed040",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Just Spent $60 Billion on Artificial Intelligence (AI). Could Elon Musk Be Building the Next Amazon?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc7ddb9fda9fd03d41a43fb4ccace04f42831198b476563b0d3518c8f5bcfa3a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Will the Micron Stock Split Happen Now After Its Blowout Earnings Results?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0197b7efd428cc580dac9c0db09ff75384b97d4bdb92018acb043231a189da4a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
@@ -97,7 +195,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Positive outlook",
+      "reason": "Semis outlook",
       "headline": "Semis Outlook: The Best Days Are Likely Far From Over",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c0140b3bcc4fcfb4b183820bdad5a08917e2828a5776fd8adcc7d13b4a10aa9d",
@@ -140,62 +238,28 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Comparison to Micron",
-      "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6994e3013ad609a2a9735c0d33133c0c354dea8dc7cf609be16c38f38158251b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6994e3013ad609a2a9735c0d33133c0c354dea8dc7cf609be16c38f38158251b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=228fe41c1517e219435d28203171e315d3eac8dcf51c192cf5706773bb96db2d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Bond ETF Most Investors Overlook -- and Why It Belongs in Your Portfolio Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79f88c33d6a51684b479acbe3b44cf300615cadd57044764a7eca6c5f67fbfc8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is American Express Built for the Next Decade of Spending?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=78fe49f5baa6dc47cae69dd6fac53d6fac050364c507bdc518ccccd8858d2c45",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Tiny AI Stock Is Up By 680% in a Year. Is It A Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b74089da91d9872fcb910068f1779d5c573f3117aab677af8ea8b210d5dd626d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market analysis",
-      "headline": "A Strong Jobs Report Could Change Everything For The Market",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=172ecb3cea9990abaf54dda0fb28f3278aa539a237346d9d16de259b5a83cbc9",
+      "reason": "Market trends",
+      "headline": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a81696209e2543aacde72b854162efcdc974a1b79c32f5b7ca38bfe274149ace",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a81696209e2543aacde72b854162efcdc974a1b79c32f5b7ca38bfe274149ace",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Confessions Of An Oil Bull",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=36fd128517700b7f46da67a4c08a7aedcf1cafaf4946e1c2444fcd2b165023ed",
+          "used_by_ai": true
+        },
         {
           "headline": "A Strong Jobs Report Could Change Everything For The Market",
           "source": "SeekingAlpha",
@@ -207,62 +271,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=641be71d37147f088e05e7bacffec58793e79df33c5bdeeff5a3eb3010067f17",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Pullback Is Healthier Than It Looks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f844e572ab4282ad207e3844388458bf1a674b0d4c1ec92a74c33c6e89410fc9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Markets Got Its Final Warnings",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5faf5e0557369d124c5c796202dc30b62cad9d5fa7afc5304acd225b235648cd",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "AI infrastructure",
-      "headline": "This Overlooked AI Infrastructure Stock Could Be 2026's Biggest Winner",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56277b28a1375cfc25be9e96e1b90bd6ff8ad49432729bcc298e44cd1f43099e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "This Overlooked AI Infrastructure Stock Could Be 2026's Biggest Winner",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56277b28a1375cfc25be9e96e1b90bd6ff8ad49432729bcc298e44cd1f43099e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e52460e726b3a7eb64198d94012f3fe8c7b48aff876aadfe4c0406aeb2e15f41",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Today\u2019s Retirees May Need More Stocks Than Their Parents Did",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecc5b9638673ea4a37d877f2fdf844b94647d2c7281f42ce8984cbad48c9015d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Older tech workers are retiring at 55. But claiming Social Security early offers smaller checks for life.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4eb860907f4ab84760891727891fcea07eb00401c026cfbf71fb1915026b268a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 1,
+        "SeekingAlpha": 3
       }
     }
   ]
