@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:52:57Z",
+  "updated_at": "2026-06-29T19:04:45Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,64 +12,49 @@
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI spending increase",
-      "headline": "Piper Sandler CIO survey finds AI spending \u2019beyond experimental\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=640a8a6c521852fba047737ccf760ecbf84295acc54cf12d4819cd283a8acabd",
+      "reason": "Active stock",
+      "headline": "Monday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=53e4d9e23f7f3b59e9ad0b83e0fab948ad849b9beea2c4278bb192408fb69dae",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Piper Sandler CIO survey finds AI spending \u2019beyond experimental\u2019",
+          "headline": "Monday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=53e4d9e23f7f3b59e9ad0b83e0fab948ad849b9beea2c4278bb192408fb69dae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "STMicro Rises on Barclays Upgrade",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=640a8a6c521852fba047737ccf760ecbf84295acc54cf12d4819cd283a8acabd",
+          "url": "https://finnhub.io/api/news?id=2c9322668abb405360b2c2dc5c86cc72cfad4db2028481ba81e52835dbd7dc1a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Eyes China Memory Option",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c4cf5e03f80dca9591a20b36f27d3fd0665e1f569bcb17f2377f0c48d7be040",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Rise Monday Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06eaea86267a90e5fd70ad65e2db5c605eaca826b74a3ffdea145b40ce73cdbd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Micron Stock Just Dropped",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a69a4328ce4366b6bf165fcd466844316dcf3c3445c38a3a416f2a48a80aa19",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Recovery and partnerships",
-      "headline": "Tesla Recovers Alongside Magnificent Seven, Analysts Chime In On Deliveries",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a599c8bb442aa624db717ad51a417ff101b0c587b6fa3044602c251be59ba220",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Recovers Alongside Magnificent Seven, Analysts Chime In On Deliveries",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a599c8bb442aa624db717ad51a417ff101b0c587b6fa3044602c251be59ba220",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fcc7e4381e756837890cf5b93b7153d0981ee58414765d73d45d2fb7a2257ea9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Rises as Musk\u2019s EV Maker Deepens Ties With SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20ed2a0c492715ee4b7961cd6b1b98c6b10089f0d35c794ac31885150984c189",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Invesco\u2019s SPHD Pays 4.57% While the S&P 500 Pays 0.98%, And It Is Up This Year Without the Tech Bubble Risk",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aa792bcddbe4e6b84b2eb85fa475ff10b3f70668de52c483085bfa53257170d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
+        "ChartMill": 1,
         "Yahoo": 4
       }
     },
@@ -77,127 +62,170 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 40,
-      "reason": "AI and tech growth",
-      "headline": "Where Will Cerebras Stock be in 3 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11d28211bc508fc53cda048d54261ed4250e0a5561fb63f95399713c5687df62",
+      "confidence": 60,
+      "reason": "M&A wins and AI",
+      "headline": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/29/chip-stocks-rebound-and-goldman-racks-up-a-series-of-ma-wins-.html",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Where Will Cerebras Stock be in 3 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11d28211bc508fc53cda048d54261ed4250e0a5561fb63f95399713c5687df62",
+          "headline": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/chip-stocks-rebound-and-goldman-racks-up-a-series-of-ma-wins-.html",
           "used_by_ai": true
         },
         {
-          "headline": "Missed the Historic SpaceX IPO? 1 Reason Why SPCX Is Still a Screaming Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=055f1745c79654ce15ef14c723d88836b417f36b075fd26c0bda1899197f9020",
+          "headline": "Most active stocks in Monday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=71b7ee35df0ff690b0c678730aced652a74f6c197c8df620724be8720e9c66be",
           "used_by_ai": true
         },
         {
-          "headline": "AbbVie Stock Hits a New 52-Week High. Has It Gotten Too Expensive to Buy?",
+          "headline": "Palantir and Nvidia Bring Open AI Models Inside U.S. Government Systems",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4bfa78b420856d3cf1dfa1544fc0b60ab0d4ff3eea73e0b465cfbaa29973a51",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=bd2e51b5f264624dfcc53c0e968d1d3169d187bcf5bb3126a9d8c92bb40b4876",
+          "used_by_ai": true
         },
         {
-          "headline": "Inflation Could Wreck Your Retirement. Here's How to Tackle It.",
+          "headline": "This Little-Known Company Sinks After Securing $11 Million in Nvidia Blackwell AI Servers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e623ef73189deef3eba9f67b36e30d4acfe83c912280797e11c66fee9837f687",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=3ed9a1d0de48da2c3972765a04864165655963e120ae48ad6277fc0cb3cb5ca1",
+          "used_by_ai": true
         },
         {
-          "headline": "3 Reasons Why Chipotle Is Down 53% Since Its 50-for-1 Stock Split",
+          "headline": "Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11c55b9ac3c8db84c0c767d59841bd1d0b32822ebd6fac7d32ae9a3701e50945",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=c51f7fcc7af7e8eadccab718c1a6f44757941f237df009d3630973db4e521267",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "CNBC": 1,
+        "ChartMill": 1,
+        "Yahoo": 3
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Tech rebound",
-      "headline": "Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech",
+      "confidence": 60,
+      "reason": "Bullish AI spending",
+      "headline": "Tech giants are not going to slash their AI spending plans, bullish tech analyst says",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aac797d1562359441c68ea7904a1f8811c4b997bdba2987c8ccae4eab704a3f4",
+      "url": "https://finnhub.io/api/news?id=7b7a8e45d87bf51f8f77577d9998b1a8eaeec59dc94fb69c902f9d8d23f3bbd8",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech",
+          "headline": "Tech giants are not going to slash their AI spending plans, bullish tech analyst says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aac797d1562359441c68ea7904a1f8811c4b997bdba2987c8ccae4eab704a3f4",
+          "url": "https://finnhub.io/api/news?id=7b7a8e45d87bf51f8f77577d9998b1a8eaeec59dc94fb69c902f9d8d23f3bbd8",
           "used_by_ai": true
         },
         {
-          "headline": "Amazon Stock's Climb Leads Strong Day For Magnificent Seven",
+          "headline": "Alphabet joins Dow Jones Industrial Average, shares rise 3.7%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8ea2798e5bcf7e685fc5f94476272f4b35b9759975ae17aa6229844f2ce7468",
+          "url": "https://finnhub.io/api/news?id=415b9858857209c518751e1e13baa4f5d6586be6ed99ca392bb370637b8f1abf",
           "used_by_ai": true
         },
         {
-          "headline": "Apple says India 'copy-pasted' rivals' claims in antitrust probe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=986c247cdcfc56c121fd3f8fd47fc0842fffb10450356cd64eec3083f6a8bf0b",
+          "headline": "Stay informed with the top movers within the dow jones index on Monday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c58f87f519bedc86a770597cfc7adc8b085161030ab75d342efee5f9f6a17bb1",
           "used_by_ai": true
         },
         {
-          "headline": "Tech stocks today: Tech stocks halt slide, Google rises after joining the Dow",
+          "headline": "Apple vs. Microsoft: The Enterprise Capex Bubble vs. The Asset-Light Consumer Fortress",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=693eeea11ccb3e31201da940183c8c241466759ade439b99ca06bb5ec06d50cb",
+          "url": "https://finnhub.io/api/news?id=18e9fc209950e5f46e1a9f76b7f38256722aebd60e5a3d55d684ec70f1a1713e",
           "used_by_ai": true
         },
         {
-          "headline": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
+          "headline": "What Could Push META Stock Higher From Here?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29745504a0710356fb2ff8120cc05dc2352c400901c4cb001aa92d75a1bf6042",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8a05e0e6fb9bb95d367460d35d00d397ddad97cf84a3104dfc50bbee81afb7dc",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "AI and chip growth",
-      "headline": "ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP",
+      "confidence": 50,
+      "reason": "Chip sector",
+      "headline": "Micron, Intel Stocks Extend Selloff as $200 Billion Chip Sector Wipes Out",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=111cc67f2c99bf2823a09b0bda957c9950a5f7d2c55bf001127f9a37e55e4644",
+      "url": "https://finnhub.io/api/news?id=e2b39cea1e0ea8743919c04f1bb49f0fb46f5412098a6d457d2e454a7e3c6401",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Micron, Intel Stocks Extend Selloff as $200 Billion Chip Sector Wipes Out",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2b39cea1e0ea8743919c04f1bb49f0fb46f5412098a6d457d2e454a7e3c6401",
+          "used_by_ai": true
+        },
+        {
+          "headline": "HPE vs. AMD: Which Stock Is the Better Value Option?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=058fd55629be32217881d5a20b5f7d36f516f03e722e3a49af5bf75668979f6a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29745504a0710356fb2ff8120cc05dc2352c400901c4cb001aa92d75a1bf6042",
+          "used_by_ai": true
+        },
         {
           "headline": "ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=111cc67f2c99bf2823a09b0bda957c9950a5f7d2c55bf001127f9a37e55e4644",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "New rival",
+      "headline": "Update: US Equity Indexes Rise as Communication Services Tops Sector Charts, Trump Sends Envoys to Qatar for Iran Talks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a27c72931e5001ac58b5d7c42e2490937bf9020bdf4aa121d2ca948ef60f47f",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Micron Stock: Let's Talk About Those Long-Term Contracts",
+          "headline": "Update: US Equity Indexes Rise as Communication Services Tops Sector Charts, Trump Sends Envoys to Qatar for Iran Talks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b77ab8d1a2e04081323befaf19bcfa2f12536d8956d02e0ceeb54f471bc3950c",
+          "url": "https://finnhub.io/api/news?id=7a27c72931e5001ac58b5d7c42e2490937bf9020bdf4aa121d2ca948ef60f47f",
           "used_by_ai": true
         },
         {
-          "headline": "Is AMD\u2019s (AMD) Russell Top 50 Move Reframing Its AI Infrastructure Investment Story?",
+          "headline": "Rivian Posts Worst Scores On Quality Study (Maybe)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98dee1723eef34cca1ad265f1b5bc4558f642fdf7a3728355c9cb6c533dc4dcb",
+          "url": "https://finnhub.io/api/news?id=b0e4c43f0b7b52a821115da04bb37389f2c83f0d2cf958cc87cd8562153692b5",
           "used_by_ai": true
         },
         {
-          "headline": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It",
+          "headline": "Tesla Faces Fierce New Rival in Self-Driving Race",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04ba61020d37c15c8e634c43d7a86e60b1eae820cda2b5b5badfa416dcca8038",
+          "url": "https://finnhub.io/api/news?id=ccf6f82c8d441058883c99f681e092c0eb2aaece9672101d683712f9ba6c1dc6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Charter Communications Is Today\u2019s Top S&P 500 Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f14fdb06f49e76e1b3a746bd5ed3ed06d640964461a58a1b2c12d036a7c1ae7",
           "used_by_ai": true
         }
       ],
@@ -208,9 +236,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Market optimism",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market rotation",
       "headline": "3 Emerging Long-Term Headwinds for the S&P 500",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4c992775089c3cc9c6176f2e362d84b1ab6c859befaaec71ecaa7252d83fbdf7",
@@ -223,32 +251,33 @@
           "used_by_ai": true
         },
         {
+          "headline": "Will Mild Trimmed-Mean Inflation Delay Fed Rate Hikes?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ad86029b6fbaa40fe3ee258da3462cd8c8dac9b3704c540a8e5884f634337d6e",
+          "used_by_ai": true
+        },
+        {
           "headline": "Looking Forward to Holiday-Shortened \"Jobs Week\"",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=39d41fa638c40bee929420b3ea9b0553c8f090752cd29e009d6c36908a72bfc5",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Index Addition (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3990c444675174a89579cdbda18ce97b8bde4a7731ef8e7c227b3821432586c",
+          "headline": "Case For A Healthy Market Rotation Vs. A Tech Bubble",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=854317a87964ede898279a6428c580fd6dc2f861f87daaa0651b38ad2d679ea8",
           "used_by_ai": true
         },
         {
-          "headline": "Nasdaq-100 ETFs Keep Sizzling: Can the Rally Last?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11e28240528040b4fd09c3dcfd6976e6f183502a77518c6f480e3115e0687a21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid Hopes for Renewed US-Iran Diplomacy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b33b5e5043ef2be72a01fe1d3bc70096514f60e83e75eb6ab68a4273fd1d3e2d",
+          "headline": "GDV: Solid Equity Fund For Retired Income Investors",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a79021752ca9530f99307f25c2560d0ca1eb0c2c4f3802f6a1572641ed53e7a0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     }
   ]
