@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:57:50Z",
+  "updated_at": "2026-06-30T22:18:45Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,139 +8,95 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Tech stocks rise",
-      "headline": "S&P 500, Nasdaq post best quarter since 2020 despite Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRDcUUwRFFNVjBGV3pwVVVHRU12NjdzSGVuY29pWHRGamc3NTAxSkExaThvUFdFLUVnUUx0VkJ2NWszanJCTmhVVjViUzlIUlVVTkVsOVdOanFITWF6Z0J2Ql9fSTBLX1p2TDdEakN3TUU5elV0NnNLNTRvajV6UjJzR2tPTzEtaGNPRUVlbVhJdmNMMXZUMmEzYU5DQm1qM1JB?oc=5",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Short position",
+      "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "S&P 500, Nasdaq post best quarter since 2020 despite Iran war - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRDcUUwRFFNVjBGV3pwVVVHRU12NjdzSGVuY29pWHRGamc3NTAxSkExaThvUFdFLUVnUUx0VkJ2NWszanJCTmhVVjViUzlIUlVVTkVsOVdOanFITWF6Z0J2Ql9fSTBLX1p2TDdEakN3TUU5elV0NnNLNTRvajV6UjJzR2tPTzEtaGNPRUVlbVhJdmNMMXZUMmEzYU5DQm1qM1JB?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Look Closer At SPY, QQQ: Investors Are Rigging A Safety Net Under The Stock Market",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a5039d746603a7abd0321a7685e47fb966b68e8245b394149dc68d9ff8d321ab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Indexes Supported by Strong Demand for Technology Stocks",
+          "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92734e58d0aa9fde3e06f4ddd417d453a50390440776fec08c5a782c41f34686",
+          "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today: Dow Wobbles Amid Key Economic Data; AeroVironment Soars On Earnings (Live Coverage)",
+          "headline": "Time to Sound the Alarm on Archer Aviation?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20490b69b19e3873752449729f67bfd76c71fceb68cdedc117c202aac529afe5",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=069606237edad17b08d72535956273b55f8c76e076a3cbd21df257eabb13d0f3",
+          "used_by_ai": false
         },
         {
-          "headline": "It's Time To Hedge",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=96f30ca4ed4126b2e9ae46ae7072bfec65a7f59cea71fb5825f12aa02a981516",
+          "headline": "Why Beyond Meat Stock Is Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6512b0955c0503779f2d865ddaed296f65d908bd3e6aa1a79db44aace826e39",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Reasons Why I'm Loading Up on Penn Entertainment in the Second Half of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=297f4ab5b6c2f59eacb2f584d72665e80dcbe723ea5356911407bc9a5c4d4da4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Won't Be Free-Cash-Flow Positive Until 2029 and It's Already Taking on $25 Billion in Debt. Here's What That Means for Your Investment.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8d8cbbcaa1864648ebc8185711070790c532e5fb9b8eab52c40d3e35855bb6f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Micron, Intel and AMD add $2 trillion in value in Q2 rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0c33935880cb501fa457ec6608dcf929e32411e22c71348a3f66d628d29d52fa",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
-        "Benzinga": 1,
-        "Yahoo": 2,
-        "SeekingAlpha": 1
+        "Yahoo": 6
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Tech rally",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Short position",
+      "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d74bc712ee8492dafdd33b494cca940433cb538edbbf3dda5ab57aba05b66e92",
+      "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+          "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d74bc712ee8492dafdd33b494cca940433cb538edbbf3dda5ab57aba05b66e92",
+          "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508",
           "used_by_ai": true
         },
         {
-          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1360633735fb738fc330c59595c3f0f40052c3306c4f5373b496cb75f3438b42",
-          "used_by_ai": true
+          "headline": "Should You 'Buy' or 'Sell' Tesla Stock Before July 2",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c2a82cecc2eb628d7cfa1887e4eb2cf5688044c4a25dd839ff85a6a41fb1a5ba",
+          "used_by_ai": false
         },
         {
-          "headline": "Apple\u2019s looking at a politically radioactive fix for the memory crisis, and the US government isn\u2019t happy about it",
+          "headline": "Tesla's Stock Just Bounced Back in a Big Way. Here's Where Traders See It Going Next",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b30ddaa6bd32cbdeaacc099b7922114157921f3cc793c0629c8dcf8d0dde8d9",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=5b3af25618902abf999e90ca9c28796540f3b10ecc8a3a3707d0ad2aa67acfab",
+          "used_by_ai": false
         },
         {
-          "headline": "Market Indexes Close Out June With a Tech-Fueled Tuesday Rally",
+          "headline": "SpaceX and Tesla Shares Are Trading Like Twins",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce4e15ce8d2a9f9c224f3edf06cce67c092e9e25dbb34eb95011f5f1b58dc36b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Inc. (AAPL) Is A Top Warren Buffett Stock Pick",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e21472bc29bd23c2594d416cb935e01a0b84cd0231851915064427051792344a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI chip rally",
-      "headline": "Stock Market Today: Nasdaq Tests Critical Level; This Drone Maker Rockets Higher On Earnings (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f2476984aa515f1cf02ee7fd6f011d98f1d953df462e5acbec80a964adfd9fc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today: Nasdaq Tests Critical Level; This Drone Maker Rockets Higher On Earnings (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f2476984aa515f1cf02ee7fd6f011d98f1d953df462e5acbec80a964adfd9fc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 1.09% Fee Dilemma: Is NVDY Income Worth the Opportunity Cost?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=841babe3531c25344c6b1d25e0de9e820c0ada5917b567220d0f99e90a96a0e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Marvell Just Ripped 45% in a Month. Is It Time to Take Profits?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2803d2c2955188d4e4c6777ee6a112addd54969d32da60c72f768bb78127a809",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1801a253240f737b3de5e31d30a52d80be81fbf665fc143d5a5008a9c675048c",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=1b151bdf2bb2a34f08da417dd3177d09b939591803df2a926394d10d0ebae6de",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -148,22 +104,96 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Stock bounce back",
-      "headline": "Should You 'Buy' or 'Sell' Tesla Stock Before July 2",
+      "confidence": 50,
+      "reason": "AI boom",
+      "headline": "How Micron Used The AI Boom To Tame Its Oldest Demon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2a82cecc2eb628d7cfa1887e4eb2cf5688044c4a25dd839ff85a6a41fb1a5ba",
+      "url": "https://finnhub.io/api/news?id=fde9c77d30ab13d00f8699cc92f7b29b0fe445bfe268b3a0d779fdfb508a309f",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Should You 'Buy' or 'Sell' Tesla Stock Before July 2",
+          "headline": "How Micron Used The AI Boom To Tame Its Oldest Demon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2a82cecc2eb628d7cfa1887e4eb2cf5688044c4a25dd839ff85a6a41fb1a5ba",
+          "url": "https://finnhub.io/api/news?id=fde9c77d30ab13d00f8699cc92f7b29b0fe445bfe268b3a0d779fdfb508a309f",
           "used_by_ai": true
         },
+        {
+          "headline": "Veteran Bank Revamps AMD Stock Price Target for 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bbad29935650967bdc59aaa42249a7ce2ecfcf123f978b982b15cbaef64ad3db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Stock Jumps as Wall Street Sees AI's Next Big Winner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=68265e38c26d76dc4b3751d8beeb9d07b6fa32d31de8ca287ef48dc2f8a78bc7",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Quarterly gains",
+      "headline": "Update: Dow Hits Fresh High as Wall Street Posts Solid Quarterly Gains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b79d30f0a26d53e2828d61352c6f7b3b86ebf27a6d9555482fcec7c71499728",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Update: Dow Hits Fresh High as Wall Street Posts Solid Quarterly Gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b79d30f0a26d53e2828d61352c6f7b3b86ebf27a6d9555482fcec7c71499728",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple is trying to address AI-related cybersecurity risks. What's going on?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff1fdebe6e257a0d78f834ff90391ac83e207b53b915fc691acbf20ecfd5512c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "American Express Adds Apple Pay Rewards Redemption for US Cardholders",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79f912845c478b15e288740093a7a5581fb750b13887d0d78f02180fb051e0a9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Could Send Google Stock Into A New Gear?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=359709b18484b0cef45e11c331ce895f4775f1d4fff78050fc572a6d1c1c9adc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Retail Trading in Magnificent Seven Falls to 6%, Citi Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=52bb42ad0fc3a8be3182b20b77f531ec658c373358f3670cccbd676785566be6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Stock bounce",
+      "headline": "Tesla's Stock Just Bounced Back in a Big Way. Here's Where Traders See It Going Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b3af25618902abf999e90ca9c28796540f3b10ecc8a3a3707d0ad2aa67acfab",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Tesla's Stock Just Bounced Back in a Big Way. Here's Where Traders See It Going Next",
           "source": "Yahoo",
@@ -177,96 +207,110 @@
           "used_by_ai": true
         },
         {
-          "headline": "The Next Space Race: Could the U.S. Tech Boom Send SPCX Past $3 Trillion by 2027?",
+          "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37cef236257eb6eca7491ad82e5b9ef7b2cfc2c67620b75e5aac3c3cf45e4783",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508",
+          "used_by_ai": false
         },
         {
-          "headline": "Elon Musk Shares Wish For Mankind On 55th Birthday, Mom Maye Says Son Celebrated With Rocket And Moon Base Cake",
+          "headline": "Should You 'Buy' or 'Sell' Tesla Stock Before July 2",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7431a3f22cdf363249a35c9463c0e909a1b862e190c6ac78b4527298a37055d4",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=c2a82cecc2eb628d7cfa1887e4eb2cf5688044c4a25dd839ff85a6a41fb1a5ba",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "SPY",
+      "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI chip rally",
-      "headline": "Veteran Bank Revamps AMD Stock Price Target for 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbad29935650967bdc59aaa42249a7ce2ecfcf123f978b982b15cbaef64ad3db",
+      "confidence": 50,
+      "reason": "Quarterly gains",
+      "headline": "S&P 500, Nasdaq register best quarter since 2020 despite Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRDcUUwRFFNVjBGV3pwVVVHRU12NjdzSGVuY29pWHRGamc3NTAxSkExaThvUFdFLUVnUUx0VkJ2NWszanJCTmhVVjViUzlIUlVVTkVsOVdOanFITWF6Z0J2Ql9fSTBLX1p2TDdEakN3TUU5elV0NnNLNTRvajV6UjJzR2tPTzEtaGNPRUVlbVhJdmNMMXZUMmEzYU5DQm1qM1JB?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Veteran Bank Revamps AMD Stock Price Target for 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bbad29935650967bdc59aaa42249a7ce2ecfcf123f978b982b15cbaef64ad3db",
+          "headline": "S&P 500, Nasdaq register best quarter since 2020 despite Iran war - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRDcUUwRFFNVjBGV3pwVVVHRU12NjdzSGVuY29pWHRGamc3NTAxSkExaThvUFdFLUVnUUx0VkJ2NWszanJCTmhVVjViUzlIUlVVTkVsOVdOanFITWF6Z0J2Ql9fSTBLX1p2TDdEakN3TUU5elV0NnNLNTRvajV6UjJzR2tPTzEtaGNPRUVlbVhJdmNMMXZUMmEzYU5DQm1qM1JB?oc=5",
           "used_by_ai": true
         },
         {
-          "headline": "Intel Stock Jumps as Wall Street Sees AI's Next Big Winner",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68265e38c26d76dc4b3751d8beeb9d07b6fa32d31de8ca287ef48dc2f8a78bc7",
+          "headline": "SDY: A $21.5 Billion Dividend Aristocrats ETF That's Not Very Compelling",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ea620a09381ad4b3f28b108bd94502583572af187fd4d759af3fcfd33d61eeba",
           "used_by_ai": true
         },
         {
-          "headline": "AMD stock jumps, Circle plummets on stablecoin competition",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6effc4af93103d2fee05290d0e266344b8b84dfa44ca97a5c6e3c1aba943e357",
+          "headline": "CUSMA Countdown: What Investors Need To Know",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0370c2280e385dc55660ee841a8410a71c5817ccfcff6bdd5b51038b721ebbbc",
           "used_by_ai": true
         },
         {
-          "headline": "Top S&P500 movers in Tuesday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1607dff3285f4bc45cf8ebe7c9ed22e9600f5e1d933634515c11aa2327149b00",
+          "headline": "Inside The S&P 500's June Swoon And AI Boom, July Fireworks Possible",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=60680653803a8c4a49a58fedd7ced153a6bf8915619aec568e0679a7e499e445",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Nasdaq Tests Critical Level; This Drone Maker Rockets Higher On Earnings (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f2476984aa515f1cf02ee7fd6f011d98f1d953df462e5acbec80a964adfd9fc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Look Closer At SPY, QQQ: Investors Are Rigging A Safety Net Under The Stock Market",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a5039d746603a7abd0321a7685e47fb966b68e8245b394149dc68d9ff8d321ab",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
+        "Reuters": 1,
+        "SeekingAlpha": 3,
+        "Yahoo": 1,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI investment",
-      "headline": "IGV Investors: Watch Oracle\u2019s Free Cash Flow as the Real Test of AI Capex Economics",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI uncertainty",
+      "headline": "'The jury's still out' on AI winners and losers, investor says",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa66d60d450d05909574f49939402392b1a6aa249959d27a3195e7cacf00e9f7",
+      "url": "https://finnhub.io/api/news?id=7781d312e86873d60c31f68b5eb3431d2d090157be9d75fb2cddaf657745ec9b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "IGV Investors: Watch Oracle\u2019s Free Cash Flow as the Real Test of AI Capex Economics",
+          "headline": "'The jury's still out' on AI winners and losers, investor says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa66d60d450d05909574f49939402392b1a6aa249959d27a3195e7cacf00e9f7",
+          "url": "https://finnhub.io/api/news?id=7781d312e86873d60c31f68b5eb3431d2d090157be9d75fb2cddaf657745ec9b",
           "used_by_ai": true
         },
         {
-          "headline": "The \"Magnificent Seven's\" Capex Supercycle Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
+          "headline": "Where Arista Networks Stock Is Most Exposed",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67f1a44e70aaec06391c3e9873a5e9b64d22cdfdaed62a09ee732c62ca475cf2",
+          "url": "https://finnhub.io/api/news?id=8226d62a6fb9f6b6cae3a6d1d1c412f5884f7addfbf507e63dc1b3f4b5ddc93b",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft vs Alphabet: One Bets on OpenAI While The Other Controls Its Own AI Destiny. This Is The Better Buy Today",
+          "headline": "Investors are abandoning Mag7 stocks as AI boom transforms",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c959f5f5fc508ea43dff74239dad647c71a7aa454f28c20f71823bb985fad106",
+          "url": "https://finnhub.io/api/news?id=4904725d474b0cdd8240208a11f28e1e369f4dbb396a1f2b16b14fb68a753074",
           "used_by_ai": true
         },
         {
-          "headline": "How New AI Cloud Partnerships And Rising Costs At Microsoft (MSFT) Have Changed Its Investment Story",
+          "headline": "Xbox Ends \u2018Project Fantasy\u2019 Deal With IO Interactive \u2014 MSFT\u2019s Gaming Unit Reconsiders Investments",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e5d1e6ec438f1f6ac1d67eb482be36b3e2da7432567ed4c280b139f2b650ac5",
+          "url": "https://finnhub.io/api/news?id=cc30c1bed7a7d1f7f7f0d12bcaf8a584d5a09343a8a223b0dc971edec2390505",
           "used_by_ai": true
         }
       ],
