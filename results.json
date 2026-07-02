@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T08:11:11Z",
+  "updated_at": "2026-07-02T11:06:22Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,115 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI growth",
+      "headline": "Nvidia launches revenue-sharing model to help AI startups access computing power (NVDA)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=766bafe62f1999654ebbb30cf95816952569ca23347f9612bf2841da5ca40e1e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia launches revenue-sharing model to help AI startups access computing power (NVDA)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=766bafe62f1999654ebbb30cf95816952569ca23347f9612bf2841da5ca40e1e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street's Blockbuster AI Stock Split of 2026 Has Arrived -- and This Supercharged Growth Stock Has Soared More Than 1,100% Since Its IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0c82bbfd037e23b04866b70e8b9c3f5ffbabdbfed0bbae68ba4c93be3939ec27",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Custody Banks Like State Street and BNY Mellon Are Quietly Near Record Highs. Here's What's Driving the Rally.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a89cbd9ab525da2880c1b53389294b43da267f8070c3d15e51236e99a88c469f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's Why Bitcoin Could Be the Smartest Buy of the Decade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f65dfd500e5b5980f8d1d1acd4e464f45eb018df16ffc5b3730a562b8bdb610",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Trading in Perpetual Futures Hit $1 Billion on Kalshi in the First Week. Here's What That Means for the Crypto Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42149f7f6fda2b2e27d05913980cb16129928d0a6d464266aa05ce3a5bdf8e65",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "iPhone expansion",
+      "headline": "Apple reportedly plans major iPhone expansion with five new models through 2027 (AAPL)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f77fd487435249fef35a1a26333a5d670ca0352e80b64484ea2e21ecbd749501",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple reportedly plans major iPhone expansion with five new models through 2027 (AAPL)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f77fd487435249fef35a1a26333a5d670ca0352e80b64484ea2e21ecbd749501",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Is Best Positioned To Face Memory Shock: Reiterate Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=91f338ca2adc60e9238948dc126b24b0694013d1510037881e40dc662006a35c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Analyst Debut Set to Test $2.2 Trillion Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e5fb1814d6b0250eba25b54819ffcc107b428b6a8303a727cd4345fea3b4ce1b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2cb88a81b146a7298332e3e04c8a8dcc02c72799fb5505194a755703c5ccfea4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple\u2019s India supply-chain bet has hidden risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=084eb90fcbd9c10a04fd3cbb3a3f2ddb83822f53cb8466d4b67155c523f4f61b",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "CEO gets $36M reward",
-      "headline": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b170134649251d3e329bae39b2309fe9ab486609eb15a33875973291280daca1",
+      "confidence": 70,
+      "reason": "AI and aerospace markets",
+      "headline": "Advanced Micro Devices (NASDAQ:AMD) Meets Minervini's High Growth Momentum Trend Template",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bacf2fc3eac5b30fc11baba1c6bdfaa4575eed8248e0dcd12ea8b32cfafbcc15",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Advanced Micro Devices (NASDAQ:AMD) Meets Minervini's High Growth Momentum Trend Template",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=bacf2fc3eac5b30fc11baba1c6bdfaa4575eed8248e0dcd12ea8b32cfafbcc15",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match",
           "source": "Yahoo",
@@ -35,61 +134,56 @@
           "used_by_ai": true
         },
         {
+          "headline": "Chip stocks selloff extends on valuation, Meta\u2019s pivot fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=68da9c284cac378df9b1aa32846c1de48ddf29fdcaba84109aa4867645b402d8",
+          "used_by_ai": false
+        },
+        {
           "headline": "Meta Compute Launch Sends AI Compute Stocks Tumbling Globally",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=77691315a46160e82979a3252c18691df79f394b57ee7400802cb3791212bb75",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bank of America warns of tougher stock market in near future",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0421630fb3ec1311cf902eb3f599681b4ae3b50bc0805171ac94eb263c189997",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top Analyst Reports for AMD, Lam Research & Cisco",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fb5bc5513aa73b2aba9a5aa44fda46076e7c925c00bfb01ab40afb66c1ae8ad",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "ChartMill": 1,
+        "Yahoo": 4
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth",
-      "headline": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors",
+      "confidence": 60,
+      "reason": "AI cloud services",
+      "headline": "SoftBank Plans AI Cloud Services in US to Tap Surging Demand",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2125c061c45c6eda7689784de58ed355939b4549a6ac9933b429ba717197fe52",
+      "url": "https://finnhub.io/api/news?id=64825ba0ce8ee209c80405527d3e23bcd9c7847384ecf7e92fb0f5955702bba9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors",
+          "headline": "SoftBank Plans AI Cloud Services in US to Tap Surging Demand",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2125c061c45c6eda7689784de58ed355939b4549a6ac9933b429ba717197fe52",
+          "url": "https://finnhub.io/api/news?id=64825ba0ce8ee209c80405527d3e23bcd9c7847384ecf7e92fb0f5955702bba9",
           "used_by_ai": true
         },
         {
-          "headline": "1 Artificial Intelligence Stock You Can Buy and Hold for the Next Decade",
+          "headline": "archTIS secures A$3.2M defence contract",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b7aa3744b17d1c260eb0f0e12eed341d748798fff82aa64208f0a882549ff70",
+          "url": "https://finnhub.io/api/news?id=1395d913a27a451a1c4bf2bb7e4b237d4ac79907ac59371f1564aa96ceb85b19",
           "used_by_ai": true
         },
         {
-          "headline": "How Dutch Bros Stock Gained 23.8% Last Month",
+          "headline": "Arista Networks, Inc. (ANET) announced the 7060XE7 Series",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38e3edcaa3c8ba534dfab255a9750f437a8d4435f2e58cd60ed3584fe9356f77",
+          "url": "https://finnhub.io/api/news?id=4a765d8078064379981b75de8cd71abb6e7a9c6fd7885d476fa351de39969010",
           "used_by_ai": true
         },
         {
-          "headline": "Is Nike Inc a Buy After Its Latest Earnings Report?",
+          "headline": "The Pricing Crisis Clouding the AI Trade",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=59d2297ee0963e679e1530ac467b5bacc82c02fb0fdc3c0a5155d2e3cc510cca",
+          "url": "https://finnhub.io/api/news?id=f3059ba874f8e84fbfb2ccb2bdc6028f8ceaada5c9a5b6065983bd6427bf5f79",
           "used_by_ai": false
         }
       ],
@@ -100,124 +194,42 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI and EV growth",
-      "headline": "AI Funds Were Unstoppable in the Second Quarter",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Q2 deliveries",
+      "headline": "Nasdaq, S&P 500, Dow Futures Subdued Ahead Of June Jobs Report: Why TSLA, MU, NBIS, NVDA, SMCI, IREN Are In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c28e5118264968e8febedb0d23720aff4346048e4bf316e582dafec7be3cfb4",
+      "url": "https://finnhub.io/api/news?id=1ce19940664ffa25eca78a511f077112cd1155aa31e0780d34daf90025919211",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Subdued Ahead Of June Jobs Report: Why TSLA, MU, NBIS, NVDA, SMCI, IREN Are In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ce19940664ffa25eca78a511f077112cd1155aa31e0780d34daf90025919211",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSLA Stock Slips Overnight: Tesla Model Y L Rumors Heat Up After \u2018Long Weekend\u2019 Tease As Investors Await Q2 Deliveries",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1a51a4c809f846b2690b959e3a711738fa1fd16d7f349741e66d66c4d91babe0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Top Robotics Companies Transforming The Industry In 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d7f05b3fda70e8fa5211d2478bcfeaf3f27c9dbd1c19d33665c7a1363ff569b2",
+          "used_by_ai": true
+        },
         {
           "headline": "AI Funds Were Unstoppable in the Second Quarter",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3c28e5118264968e8febedb0d23720aff4346048e4bf316e582dafec7be3cfb4",
           "used_by_ai": true
-        },
-        {
-          "headline": "EV Company News For The Month Of June 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=337445b45780a33ebb87cc45b283d126e7b1d77c3fb384f08cff70b24d9cf500",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3cb2c16d0f10bf8a8bd69ceb7a402f8622b81c9cb6322d722009d3dea20675f9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "From Robotaxis To Humanoids: Why Embodied AI Represents An Order-Of-Magnitude Leap Into The Future",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f36ce29cbd693298725b3b1f7b832fd8795b96fd31a8c351a4d7fe70641285e6",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Supply chain risk",
-      "headline": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cb88a81b146a7298332e3e04c8a8dcc02c72799fb5505194a755703c5ccfea4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cb88a81b146a7298332e3e04c8a8dcc02c72799fb5505194a755703c5ccfea4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple\u2019s India supply-chain bet has hidden risk",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=084eb90fcbd9c10a04fd3cbb3a3f2ddb83822f53cb8466d4b67155c523f4f61b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Is Best Positioned To Face Memory Shock: Reiterate Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=91f338ca2adc60e9238948dc126b24b0694013d1510037881e40dc662006a35c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VGT\u2019s 0.09% Fee Hides a Bigger Problem: Overlap Costs That Could Add Up to Tens of Thousands",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c0ecbed03a002240002b50931550eedb84220f23f6d31de17a8adfdc0db6de1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Maps Out 2027 Product Push \u2014 New iPad Pro, Redesigned Entry-Level MacBook Pro Reportedly In Pipeline",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33fabf81a0225fb59c5f88194e39e2176eb39da80420441223dbbe21146513f3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Workforce move",
-      "headline": "S&P 500: Strong Earnings Support The Market, But A Reset Still Looks Likely",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=09303ce5c0325079bb2fd35462708621ddd96d341e465a6162be376fae1a14a0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "S&P 500: Strong Earnings Support The Market, But A Reset Still Looks Likely",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=09303ce5c0325079bb2fd35462708621ddd96d341e465a6162be376fae1a14a0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "META Stock Drops Overnight After Best Day In 6 Months: Analysts See 'Margin Of Safety' From AI Cloud Computing Business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db3a0c251697dbafac3aed5488c31ed162356dd25ffa72e445bf70219e2e0472",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft reportedly makes another brutal workforce move",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ab49290e348c30392c9e52db2583bc21b20c3658af74aafaff8cdfa82141b15",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 2
       }
     },
     {
@@ -226,39 +238,38 @@
       "direction": "neutral",
       "confidence": 40,
       "reason": "Market trends",
-      "headline": "Does AI Raise Or Lower Neutral Rates?",
+      "headline": "Rates Spark: ECB Tweaking Its Business Model",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b35b2b19ee95de0bb3c97ceb543660eae0f210d54d96c4be6d281903710e4c5c",
+      "url": "https://finnhub.io/api/news?id=9526c64dda50a35809ae8e0a058ed4a7cf53b4ac430214f52b9538c13d95b121",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Rates Spark: ECB Tweaking Its Business Model",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9526c64dda50a35809ae8e0a058ed4a7cf53b4ac430214f52b9538c13d95b121",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Rotation Is Turning On Semiconductors",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4e6c0cc1a553c0acb46d92e4a6501160329352840c4ce47986de4d7eb02281f3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500: Strong Earnings Support The Market, But A Reset Still Looks Likely",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=09303ce5c0325079bb2fd35462708621ddd96d341e465a6162be376fae1a14a0",
+          "used_by_ai": true
+        },
         {
           "headline": "Does AI Raise Or Lower Neutral Rates?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b35b2b19ee95de0bb3c97ceb543660eae0f210d54d96c4be6d281903710e4c5c",
           "used_by_ai": true
-        },
-        {
-          "headline": "ADX Vs. ASG: Liberty Growth Vs. Adams Diversified",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=31d8916e9339a8f09cb65cc567db27a4196df404da13ba1ddc7df11b418a99d7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500, Nasdaq Futures Climb While Dow Futures Fall Ahead Of Key Jobs Report: META, MU, JACK, CEG Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=648eab902c56f0bd6db78a3af6160524946582bfbe65100dabefe7201f39557d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "\u2018How\u2019s Your 401(k)?\u2019: Trump Shrugs Off His Billion-Dollar Crypto Haul as Just a Rising Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=299297bb63f5e8ce2c6cff6f2e7e9cd4fcf1b87e7fb090afc0293eca4d6106f5",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2
+        "SeekingAlpha": 4
       }
     }
   ]
