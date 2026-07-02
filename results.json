@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T22:46:43Z",
+  "updated_at": "2026-07-02T00:06:57Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,142 +12,68 @@
   "sample": false,
   "items": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Delivery report anticipation",
-      "headline": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=630a250806e8662a06dcf195d12e2d8d9b16d7bb45a991dbccdb8991d45b4f93",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=630a250806e8662a06dcf195d12e2d8d9b16d7bb45a991dbccdb8991d45b4f93",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report \u2014 Wall Street Expects Year-On-Year Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8422bcb9d84a4ab3639a9b1a60489f234558b1fd08e8240cdec862325e5b8a53",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Rides a 12% Weekly Gain Into a High-Stakes Delivery Report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7cded18b2dc31f84e71e5537bcd347a18ef5c4cd4139f11f41fb17c61e0bef5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Got a Buy Call From a Tesla Bull. Why the Stock Plummeted.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e1507391998e9e6b84ef98f9ade6dde7324152cf4cd33ff699be2ef66b48488",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why this analyst thinks it's too soon to buy SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac67f35f32d9b58168df92299191d6732c7fd78cbcf11e2dff76487870f4e938",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 80,
       "reason": "Meta AI cloud push",
-      "headline": "Why S&P Global Stock Zoomed Almost 8% Higher Today",
+      "headline": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=faad161723105dbf2966a0ae0eb31418ae73647219a645caac6cb2047f286fa8",
+      "url": "https://finnhub.io/api/news?id=7e9b1b197ea6d33f6b6c52ac6fcacab04219238384abed35fbca5e627e2e5c48",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e9b1b197ea6d33f6b6c52ac6fcacab04219238384abed35fbca5e627e2e5c48",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta Cloud Report Hits AI Infrastructure Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca3019dc899843fb984127ecac2b2dc8608bb22a6892141b7aa43d895bb6c7ac",
+          "used_by_ai": true
+        },
         {
           "headline": "Why S&P Global Stock Zoomed Almost 8% Higher Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=faad161723105dbf2966a0ae0eb31418ae73647219a645caac6cb2047f286fa8",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Stock Market Today, July 1: Meta Shakes Up Cloud Sector and Tech Stocks Weigh on Markets",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e62d75ec7f6ce725923800728a6656767c6e86becc9791b1dc9236e632b30687",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Is Ford Stock a Buy Right Now While It's Down From Its Peak?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4074741b3da7d5679eb3ed1a57c2b1408b6f65bbde811389105ab20f259ff93e",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Hewlett Packard (HPE) Ranks Among Hot Stocks with the Highest Upside Potential",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=085656df9ad8d2c1551e91908a7877d11bc3f1d7a2e739d3251433b92704820a",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "What Palantir Technologies (PLTR)'s NVIDIA Sovereign AI and Surf Air Deals Mean For Shareholders",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3dfdb4cb775ffeb48ca6f65e59294731421c5b882903afdd1498f7acfc59605c",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Stock surged today",
-      "headline": "Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9de36dab68babfed6d7c043d849b59c5b1fcad99a47e11867483e6c04e7ea067",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9de36dab68babfed6d7c043d849b59c5b1fcad99a47e11867483e6c04e7ea067",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq Slips After Strong Quarterly Run; Micron Falls As Chip Firms Tumble (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0bde9311c67f5d58f06f4d6bc842ff0b78fa1e639db649038e2d47b0ce18c343",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meta stock soars as Zuck explores cloud business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a02a6d838a5616878bdf77b95e9c69f4221be2db64d175e0db2cc7c37bc9be9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Microsoft Stock Surged Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=893f2cb40b482085faeff7b8187de3151bd656cb09fe3d7bdee5b90bdea2ee4c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 7
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 80,
       "reason": "Meta AI cloud push",
       "headline": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
       "source": "Yahoo",
@@ -170,19 +96,19 @@
           "headline": "Up 72%, This Millionaire Congresswoman Is Breathing Down Nancy Pelosi\u2019s Neck With AI Stock Picks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0dcc727176089ca6b22752465d9e52bb0d2688767c52ccf640596826858ec872",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "The Physical Limits Of AI: Where Scarcity Is Creating Opportunity",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=7cf29672f19229ad8415ba8c58e8dc297f257b3716355deef670be27aec05ede",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Wall Street Keeps Hiking Its Price Targets on This AI Powerhouse",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4e97f7f34a8c72493891e1af64a125c7d15f713d3225fd220a5ab7d03a0b2260",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -191,45 +117,131 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "Negotiates with chipmakers",
-      "headline": "The ETFs behind Trump's new child investment accounts",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Year-on-year growth expected",
+      "headline": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report \u2014 Wall Street Expects Year-On-Year Growth",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53bd8435088237b055463e468c6b835f38a499a89448bebecd51fda0d63b9448",
+      "url": "https://finnhub.io/api/news?id=8422bcb9d84a4ab3639a9b1a60489f234558b1fd08e8240cdec862325e5b8a53",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The ETFs behind Trump's new child investment accounts",
+          "headline": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report \u2014 Wall Street Expects Year-On-Year Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53bd8435088237b055463e468c6b835f38a499a89448bebecd51fda0d63b9448",
+          "url": "https://finnhub.io/api/news?id=8422bcb9d84a4ab3639a9b1a60489f234558b1fd08e8240cdec862325e5b8a53",
           "used_by_ai": true
         },
         {
-          "headline": "Apple negotiates with blacklisted Chinese chipmakers amid AI-driven memory crunch",
+          "headline": "Tesla Stock Rides a 12% Weekly Gain Into a High-Stakes Delivery Report",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da830f9545e6959479c913473276c296b2b5c91542e328d901f70ce585d26c59",
+          "url": "https://finnhub.io/api/news?id=c7cded18b2dc31f84e71e5537bcd347a18ef5c4cd4139f11f41fb17c61e0bef5",
           "used_by_ai": true
         },
         {
-          "headline": "The $95-a-Year Fee Nobody Notices: Why SPXL Underperforms Its Own Math",
+          "headline": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c3d12186e5caeee289b3425a63fedcef8c7c1a22a60e694d5448400275ce706",
+          "url": "https://finnhub.io/api/news?id=630a250806e8662a06dcf195d12e2d8d9b16d7bb45a991dbccdb8991d45b4f93",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Got a Buy Call From a Tesla Bull. Why the Stock Plummeted.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e1507391998e9e6b84ef98f9ade6dde7324152cf4cd33ff699be2ef66b48488",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why this analyst thinks it's too soon to buy SpaceX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac67f35f32d9b58168df92299191d6732c7fd78cbcf11e2dff76487870f4e938",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Stock surged",
+      "headline": "Why Microsoft Stock Surged Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=893f2cb40b482085faeff7b8187de3151bd656cb09fe3d7bdee5b90bdea2ee4c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Microsoft Stock Surged Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=893f2cb40b482085faeff7b8187de3151bd656cb09fe3d7bdee5b90bdea2ee4c",
           "used_by_ai": true
         },
         {
-          "headline": "Apple Warned by Russia Over Local Apps",
+          "headline": "Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc818174257997eee5a0775bd80c24afee2cb968200574d5a337a2629d1208a8",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=9de36dab68babfed6d7c043d849b59c5b1fcad99a47e11867483e6c04e7ea067",
+          "used_by_ai": false
         },
+        {
+          "headline": "Stock Market Today: Nasdaq Slips After Strong Quarterly Run; Micron Falls As Chip Firms Tumble (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0bde9311c67f5d58f06f4d6bc842ff0b78fa1e639db649038e2d47b0ce18c343",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Meta stock soars as Zuck explores cloud business",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4a02a6d838a5616878bdf77b95e9c69f4221be2db64d175e0db2cc7c37bc9be9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Stock gains 2%",
+      "headline": "AAPL Stock Gains 2% Even As Moscow Reportedly Warns Of $52M App Store Penalty",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56a98def32e596c36d44225da6b97487caec0498ec6128b88a08f2a680f9a7e6",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "AAPL Stock Gains 2% Even As Moscow Reportedly Warns Of $52M App Store Penalty",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=56a98def32e596c36d44225da6b97487caec0498ec6128b88a08f2a680f9a7e6",
           "used_by_ai": true
+        },
+        {
+          "headline": "The ETFs behind Trump's new child investment accounts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=53bd8435088237b055463e468c6b835f38a499a89448bebecd51fda0d63b9448",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple negotiates with blacklisted Chinese chipmakers amid AI-driven memory crunch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da830f9545e6959479c913473276c296b2b5c91542e328d901f70ce585d26c59",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The $95-a-Year Fee Nobody Notices: Why SPXL Underperforms Its Own Math",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4c3d12186e5caeee289b3425a63fedcef8c7c1a22a60e694d5448400275ce706",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Warned by Russia Over Local Apps",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cc818174257997eee5a0775bd80c24afee2cb968200574d5a337a2629d1208a8",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -241,12 +253,18 @@
       "company": "",
       "direction": "down",
       "confidence": 50,
-      "reason": "Market rotation out of tech",
-      "headline": "S&P 500, Nasdaq End Lower As Investors Continue Rotation Out Of Tech And Chipmakers \u2014  WMT, META, GM, KR, QCOM In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dadf70b7dd60b049dc2761455f2f99eedb73c15b45259a0b8b37fa1669267861",
+      "reason": "Tech shares drop",
+      "headline": "Wall Street ends choppy session lower as tech shares drop - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wall Street ends choppy session lower as tech shares drop - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
+          "used_by_ai": true
+        },
         {
           "headline": "S&P 500, Nasdaq End Lower As Investors Continue Rotation Out Of Tech And Chipmakers \u2014  WMT, META, GM, KR, QCOM In Focus",
           "source": "Yahoo",
@@ -273,6 +291,7 @@
         }
       ],
       "source_breakdown": {
+        "Reuters": 1,
         "Yahoo": 2,
         "SeekingAlpha": 2
       }
