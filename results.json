@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:42:23Z",
+  "updated_at": "2026-07-02T22:05:59Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Beats delivery estimates",
+      "confidence": 90,
+      "reason": "Beating delivery estimates",
       "headline": "Tesla Delivers 480,126 Vehicles, Beating Estimates by a Wide Margin",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a2e60a6d3060f9d7e38332e71f5aab9a29dba49a29b480e104189cf33fc12cf9",
@@ -61,8 +61,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Invests in AI",
+      "confidence": 80,
+      "reason": "Investing in AI",
       "headline": "Microsoft Unveils 6,000-Employee AI Deployment Organization",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=221793984bab98e751f179d925c5b6871967f7bc0d89260d95d3dc967c0354da",
@@ -98,57 +98,10 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Foldable iPhone push",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple's Foldable iPhone Push Gets Bigger",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dd11190206e578b637c5fdea0eb41a7e725da5633623bf3dc11eae3dd6e9da0a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Which dow jones stocks are moving on Thursday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=55486704e2baf952e730ef71d9723dbe5aeba01b04fb13956ad7d7c40bd38f58",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Equity Markets Mixed Intraday After Jobs Report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d3163335c717863f930b9ef79c90c7b135c71e530ced887fd6c9725bd724137",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Africa's Largest Centralized Exchange Integrates Hyperliquid Perps",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3203355ddce03ce34ac65642ccfd409994ef5f0436c5b942d48af7d2296a89a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "Warning flag for investors",
       "headline": "1 Major Warning Flag AMD and Intel Investors Can't Afford to Ignore",
       "source": "Yahoo",
@@ -194,7 +147,7 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "neutral",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "AI risk and opportunities",
       "headline": "AI-fueled leverage is increasing market risk, expert cautions",
       "source": "Yahoo",
@@ -231,11 +184,58 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "Market gains",
+      "reason": "Foldable iPhone push",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple's Foldable iPhone Push Gets Bigger",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd11190206e578b637c5fdea0eb41a7e725da5633623bf3dc11eae3dd6e9da0a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Thursday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=55486704e2baf952e730ef71d9723dbe5aeba01b04fb13956ad7d7c40bd38f58",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Equity Markets Mixed Intraday After Jobs Report",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9d3163335c717863f930b9ef79c90c7b135c71e530ced887fd6c9725bd724137",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Africa's Largest Centralized Exchange Integrates Hyperliquid Perps",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3203355ddce03ce34ac65642ccfd409994ef5f0436c5b942d48af7d2296a89a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market risk and economy",
       "headline": "\u201cDiversification Means Always Having to Say You\u2019re Sorry\"",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=336f2c3eedb239401e2761d95f29e83a2ff60158dad950ff42731799cbf28cf9",
@@ -260,21 +260,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "BLS Jobs Report: +57K, Half Expectations",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6221e3f9117177fb7f23cb60807097860cbef62ac8a4ebd245f1bb31cf8f615c",
+          "headline": "As Go The Peace Talks, So Goes The Economy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b10e838d1040da632b342550147a9bcbda284f4cdda5477ab27788254092783d",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips: This Week on Wall Street",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5269ba4f42967e112e73fef6209f40622776266ebf80b62e63b6fb58da117d32",
+          "headline": "RDVY: How High Cash, Low Debt, And Low Dividends Lead To Strong Returns",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=07e813d9e74a9cc3a8b3906bf2a8d5d023b388cf058f0b2c46cdcc0d7a371110",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     }
   ]
