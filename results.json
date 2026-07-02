@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T19:27:24Z",
+  "updated_at": "2026-07-02T20:42:23Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,109 +16,126 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 80,
-      "reason": "Closes above $420",
-      "headline": "Tesla Closes Above $420 for First Time, Retail Buying May Accelerate",
+      "reason": "Beats delivery estimates",
+      "headline": "Tesla Delivers 480,126 Vehicles, Beating Estimates by a Wide Margin",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f26cd4ca82d8c360319172edf0c27183dcb871d42ea26e7fbd99d8a819529079",
+      "url": "https://finnhub.io/api/news?id=a2e60a6d3060f9d7e38332e71f5aab9a29dba49a29b480e104189cf33fc12cf9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla Closes Above $420 for First Time, Retail Buying May Accelerate",
+          "headline": "Tesla Delivers 480,126 Vehicles, Beating Estimates by a Wide Margin",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f26cd4ca82d8c360319172edf0c27183dcb871d42ea26e7fbd99d8a819529079",
+          "url": "https://finnhub.io/api/news?id=a2e60a6d3060f9d7e38332e71f5aab9a29dba49a29b480e104189cf33fc12cf9",
           "used_by_ai": true
         },
         {
-          "headline": "Veteran Analyst Dan Ives Says Goodbye to Wedbush After 8 Years",
+          "headline": "Tesla's Q2 Delivery Report Just Landed. Here Are 3 Key Takeaways for Investors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e1bfa7b4cb04d976e7246d5418afc13664369c4caa6352b92b47ddada66ba81",
+          "url": "https://finnhub.io/api/news?id=dc2c2a25c853f5b998691a80581f47746f878a200dfa25be5b4201cd46478d1e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Delivers 480,126 Vehicles In Q2, \u201cFar Better Than The Street Was Expecting\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aa3fe6b3b5731071899dccee41ce30a80f8fec976fc1dbcd184e0bd1e805fe3f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Launches New Model Y Variant In US On Heels Of Breakout Q2 Deliveries",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c00fdb872d6771e20e92f9399036c13942cfbaa0566c0200dcb386859d8c7630",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b3b0b4c9d3ae3afb2e18ba2f152b02e6110ad54b636942113bf52c56f55a42c8",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2
+        "Yahoo": 5
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Launches AI revenue model",
-      "headline": "Nvidia Launches Game-Changing AI Revenue Model With Cloud Partners",
+      "confidence": 70,
+      "reason": "Invests in AI",
+      "headline": "Microsoft Unveils 6,000-Employee AI Deployment Organization",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2487a189e380727e551354a528dab83e29114b8b965e27165d663e126ae6723c",
+      "url": "https://finnhub.io/api/news?id=221793984bab98e751f179d925c5b6871967f7bc0d89260d95d3dc967c0354da",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia Launches Game-Changing AI Revenue Model With Cloud Partners",
+          "headline": "Microsoft Unveils 6,000-Employee AI Deployment Organization",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2487a189e380727e551354a528dab83e29114b8b965e27165d663e126ae6723c",
+          "url": "https://finnhub.io/api/news?id=221793984bab98e751f179d925c5b6871967f7bc0d89260d95d3dc967c0354da",
           "used_by_ai": true
         },
         {
-          "headline": "Thursday's session: most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=51fc33a5f744d4feae5270f79c3b3ce3d13ed535b6dbc070d4b2ff5f19ccd1a7",
-          "used_by_ai": false
+          "headline": "Microsoft to invest $2.5B in new AI implementation business",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d80865341889b8608c6a5822a71365e10a307bc1c6d136a66507861079e6e65e",
+          "used_by_ai": true
         },
         {
-          "headline": "AI Chip Stocks Fall After Asia Selloff",
+          "headline": "Microsoft Invests $2.5 Billion in New AI Implementation Business",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=532183558467107c246fc2a7eae534e086532932814d12526b2cc470b2a5ef2f",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8cb65f66a0e3fcd7b9ebde78b399930b941339159cb4241194ff222cb7678238",
+          "used_by_ai": true
         },
         {
-          "headline": "ISPY vs. GPIX vs. JEPI: The Covered-Call Cage Match Every Income Investor Should Read Before Buying",
+          "headline": "Sector Update: Energy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25c476e17921f720b24f2c4a5bce323bd355250c7bc0342e4a9bee59dd90205f",
+          "url": "https://finnhub.io/api/news?id=0b2cdedf4214bbbe8722dc004057989e5f0e8b62cdbdaee4e26d9e0b346ddf96",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Foldable iPhone saves S&P 500",
-      "headline": "Apple's Foldable iPhone Saves the S&P 500 From a Chip-Fueled Rout",
+      "confidence": 60,
+      "reason": "Foldable iPhone push",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8ea87e15da556ccaf8a7612dc6db725bd94bebbb8ef0e24ef735bd2672f37d0",
+      "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple's Foldable iPhone Saves the S&P 500 From a Chip-Fueled Rout",
+          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8ea87e15da556ccaf8a7612dc6db725bd94bebbb8ef0e24ef735bd2672f37d0",
+          "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
           "used_by_ai": true
         },
         {
-          "headline": "Explore the S&P500 index on Thursday and find out which stocks are the most active in today's session.",
+          "headline": "Apple's Foldable iPhone Push Gets Bigger",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd11190206e578b637c5fdea0eb41a7e725da5633623bf3dc11eae3dd6e9da0a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Thursday?",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=41b038a4b4d7463cb179e4e705d0c8ede370a70be8b30009c66eeef767d8aa29",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=55486704e2baf952e730ef71d9723dbe5aeba01b04fb13956ad7d7c40bd38f58",
+          "used_by_ai": true
         },
         {
-          "headline": "Update: US Equity Indexes Mixed Following Weakest Jobs Report in Four Months",
+          "headline": "Equity Markets Mixed Intraday After Jobs Report",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=554cf5acfdf5eb2ab1f966363668b26fbe8966523720257ea308d84ac066c967",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=9d3163335c717863f930b9ef79c90c7b135c71e530ced887fd6c9725bd724137",
+          "used_by_ai": true
         },
         {
-          "headline": "SpaceX IPO Fireworks Are Triumph Of American Innovation, But China Threat Looms",
+          "headline": "Africa's Largest Centralized Exchange Integrates Hyperliquid Perps",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a780cfab5c37cbe722fa941182ebe65b31fe9d3f371cf09e51dfd6ebbf1dcb87",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Will a Foldable iPhone Be the Catalyst to Drive Apple Shares to $400?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c027653da20a4bc206198076249fe5e1bb32098944acbde9e901327ef666acbb",
+          "url": "https://finnhub.io/api/news?id=c3203355ddce03ce34ac65642ccfd409994ef5f0436c5b942d48af7d2296a89a",
           "used_by_ai": false
         }
       ],
@@ -130,14 +147,32 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Investing $5,000 creates $1.8M portfolio",
-      "headline": "Investing $5,000 Into Each of These 3 Stocks 10 Years Ago Would Have Created a Portfolio Worth $1.8 Million Today",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Warning flag for investors",
+      "headline": "1 Major Warning Flag AMD and Intel Investors Can't Afford to Ignore",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c70227b842385b4e96a77f6c00c321d7a2c072f78ab4027c9e59f319123a7228",
+      "url": "https://finnhub.io/api/news?id=cab9bfa898771b3a2ae562fcfa313617197d4f97cec5977d56f55ce47310e124",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "1 Major Warning Flag AMD and Intel Investors Can't Afford to Ignore",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cab9bfa898771b3a2ae562fcfa313617197d4f97cec5977d56f55ce47310e124",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Sinks 6% Even as HSBC Sees 60% Upside, AMD Slides 5% as Chip Stocks Pull Back",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a090e3adb8818531f7a14ed7ec1116ff2e6a65d0458184213a8538642eeb3f2c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Chip Stocks Fall After Asia Selloff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=532183558467107c246fc2a7eae534e086532932814d12526b2cc470b2a5ef2f",
+          "used_by_ai": true
+        },
         {
           "headline": "Investing $5,000 Into Each of These 3 Stocks 10 Years Ago Would Have Created a Portfolio Worth $1.8 Million Today",
           "source": "Yahoo",
@@ -148,153 +183,7 @@
           "headline": "Your Funds Quietly Made A Big Bet On AMD",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3e5474f2781b0bdc3ea80e643bac5510dc7537a8ccc1207cd873abe648243c1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Nasdaq Was Up 26% in the First Half of 2026 \u2014 These 3 AI Stocks Are Just Getting Started",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=279da9d0d0e83250d3c59ab14f864dd636c0ff0a905d0cd678a59215cf984412",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=256d8a7db3c368c76db7c83067ba7ddee303b1022426bad1c0bad2770645bfaf",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "AI chip stocks fall",
-      "headline": "AI Chip Stocks Fall After Asia Selloff",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=532183558467107c246fc2a7eae534e086532932814d12526b2cc470b2a5ef2f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI Chip Stocks Fall After Asia Selloff",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=532183558467107c246fc2a7eae534e086532932814d12526b2cc470b2a5ef2f",
           "used_by_ai": true
-        },
-        {
-          "headline": "Thursday's session: most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=51fc33a5f744d4feae5270f79c3b3ce3d13ed535b6dbc070d4b2ff5f19ccd1a7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia Launches Game-Changing AI Revenue Model With Cloud Partners",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2487a189e380727e551354a528dab83e29114b8b965e27165d663e126ae6723c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "ISPY vs. GPIX vs. JEPI: The Covered-Call Cage Match Every Income Investor Should Read Before Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25c476e17921f720b24f2c4a5bce323bd355250c7bc0342e4a9bee59dd90205f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Foldable iPhone catalyst",
-      "headline": "Will a Foldable iPhone Be the Catalyst to Drive Apple Shares to $400?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c027653da20a4bc206198076249fe5e1bb32098944acbde9e901327ef666acbb",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Will a Foldable iPhone Be the Catalyst to Drive Apple Shares to $400?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c027653da20a4bc206198076249fe5e1bb32098944acbde9e901327ef666acbb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Explore the S&P500 index on Thursday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=41b038a4b4d7463cb179e4e705d0c8ede370a70be8b30009c66eeef767d8aa29",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Update: US Equity Indexes Mixed Following Weakest Jobs Report in Four Months",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=554cf5acfdf5eb2ab1f966363668b26fbe8966523720257ea308d84ac066c967",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple's Foldable iPhone Saves the S&P 500 From a Chip-Fueled Rout",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8ea87e15da556ccaf8a7612dc6db725bd94bebbb8ef0e24ef735bd2672f37d0",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX IPO Fireworks Are Triumph Of American Innovation, But China Threat Looms",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a780cfab5c37cbe722fa941182ebe65b31fe9d3f371cf09e51dfd6ebbf1dcb87",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Expands sovereignty solutioning",
-      "headline": "Kyndryl Expands Sovereignty Solutioning with Microsoft (MSFT)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=099aaf7c9a85ed261c70c59ab107cf8609c3f6175901670cdec83dfaca1cab57",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Kyndryl Expands Sovereignty Solutioning with Microsoft (MSFT)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=099aaf7c9a85ed261c70c59ab107cf8609c3f6175901670cdec83dfaca1cab57",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Fall Thursday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53a59af34908081cdf4746657cdd15f515b7aefba43e20f596daeaecb861fb19",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This \u2018Dividend\u2019 ETF Pays Just 1.2% | So Why Do Serious Investors Keep Buying It?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=725cb6cda8915fd518d036e3c956bad9d97e2d3d009a609ab9cb38307c0e9865",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta Wants to Sell You Its AI Compute. AWS, Azure, and Google Just Got a New Rival",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa2f0d1e5b32afb93817078368dd5b5818c16dbb2aa9e3ad64c6fc26f372b7b7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SAP SE (SAP) Among Jefferies\u2019 Top European Software Stock Picks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44547da72169324cdb10bedbad03496a98e029e5fc77c24fd2db2c94090c79e6",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -302,99 +191,90 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "US labor market loses momentum",
-      "headline": "The U.S. Labor Market Is Losing Momentum - As Is The USD",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=224d8715e64fe688bdc08f1574d4c8233ef180a66a8b9084cf0ae08f1abf12ef",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "AI risk and opportunities",
+      "headline": "AI-fueled leverage is increasing market risk, expert cautions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9afb635130c1081c1575be89948602f3c1719fcbd25a5755ec3fbaa6b6f2a446",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The U.S. Labor Market Is Losing Momentum - As Is The USD",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=224d8715e64fe688bdc08f1574d4c8233ef180a66a8b9084cf0ae08f1abf12ef",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AAII Sentiment Survey: Optimism Plummets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=67723f7e4e9218fd5223dd40f11a42a2d8d21afcfb6386451968ef7a763dfe56",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The BLS Undershot On The June Jobs Report",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=71968e3fbe582248b10d8edab442162c41e8107cf372f3c5613d313472b2d560",
-          "used_by_ai": true
-        },
-        {
-          "headline": "BLS Jobs Report: +57K, Half Expectations",
+          "headline": "AI-fueled leverage is increasing market risk, expert cautions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6221e3f9117177fb7f23cb60807097860cbef62ac8a4ebd245f1bb31cf8f615c",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=9afb635130c1081c1575be89948602f3c1719fcbd25a5755ec3fbaa6b6f2a446",
+          "used_by_ai": true
         },
         {
-          "headline": "Breadth Cools, but the Positive Trend Holds",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5d2125390181017ddb5850df00438342982a26af187c76e5eb324bc232862b41",
-          "used_by_ai": false
+          "headline": "An Analyst Called SpaceX\u2019s Valuation \u2018Catastrophic.\u2019 Options Traders Are Betting the Other Way",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=092e1aafe1090bb956614f1ce50f450370239ec86434998c77e8c847ec240f02",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Palantir upgraded to Buy, Rivian lifts delivery outlook, Robinhood's new product",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a2937e4664572cd0017ac5558bcd2f10a79f843e2ac0ef41bd213b1d57656dfe",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Palantir CEO Has a Stark Message for OpenAI and Anthropic",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5786227473c789079426f1a36151633124b3d8555ad40c6486b2a97f81112136",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 1,
-        "ChartMill": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 50,
-      "reason": "Breadth cools, positive trend holds",
-      "headline": "Breadth Cools, but the Positive Trend Holds",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5d2125390181017ddb5850df00438342982a26af187c76e5eb324bc232862b41",
+      "reason": "Market gains",
+      "headline": "\u201cDiversification Means Always Having to Say You\u2019re Sorry\"",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=336f2c3eedb239401e2761d95f29e83a2ff60158dad950ff42731799cbf28cf9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Breadth Cools, but the Positive Trend Holds",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5d2125390181017ddb5850df00438342982a26af187c76e5eb324bc232862b41",
+          "headline": "\u201cDiversification Means Always Having to Say You\u2019re Sorry\"",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=336f2c3eedb239401e2761d95f29e83a2ff60158dad950ff42731799cbf28cf9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stocks Soaring, Gas Falling: Inside the July 4th Economy Everyone\u2019s Arguing About",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b8fab879500724562d4c4260adc2f77cfb870aa70bc9effcaef7c25a9a28d86d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fed Chair Warsh Just Said the One Thing About Inflation Every Investor Wanted to Hear",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=477c0944d8116e312f0b9e53854a17efc4daf4a1a606a0060a6694424ebee310",
           "used_by_ai": true
         },
         {
           "headline": "BLS Jobs Report: +57K, Half Expectations",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6221e3f9117177fb7f23cb60807097860cbef62ac8a4ebd245f1bb31cf8f615c",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "The U.S. Labor Market Is Losing Momentum - As Is The USD",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=224d8715e64fe688bdc08f1574d4c8233ef180a66a8b9084cf0ae08f1abf12ef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AAII Sentiment Survey: Optimism Plummets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=67723f7e4e9218fd5223dd40f11a42a2d8d21afcfb6386451968ef7a763dfe56",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The BLS Undershot On The June Jobs Report",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=71968e3fbe582248b10d8edab442162c41e8107cf372f3c5613d313472b2d560",
-          "used_by_ai": false
+          "headline": "Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips: This Week on Wall Street",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5269ba4f42967e112e73fef6209f40622776266ebf80b62e63b6fb58da117d32",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     }
   ]
