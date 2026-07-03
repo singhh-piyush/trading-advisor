@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T23:36:46Z",
+  "updated_at": "2026-07-03T02:58:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,182 @@
   "sample": false,
   "items": [
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 80,
+      "reason": "Q2 delivery misses",
+      "headline": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates \u2014 Investors And Experts Weigh In",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51314b51cc23dd5fb6832ba656663f653924e7feab8ef17d6aa8293ef57d0d63",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates \u2014 Investors And Experts Weigh In",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51314b51cc23dd5fb6832ba656663f653924e7feab8ef17d6aa8293ef57d0d63",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Tesla (TSLA) Shares Are Getting Obliterated Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=471f6f5b6536d815712338979a54e5d5c2007fede57abc621b3831fc9fd7c65d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Popular Tesla investor blames Trump for Bitcoin crash",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=75cc4447fc339ed841814f6a58b1dde271941c267e25a1b26f0fac7f67a6d702",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d08b43c9a761de08c3b33a61140610007c6bf74737d54cdeb6a00de49a6abd5f",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Strategy reveal",
+      "headline": "Nvidia revealed missing puzzle piece of its long-term strategy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4eb2058a33b6cf7d564db316ec1591d0fb40acf65847318f86b8b50719d7927",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia revealed missing puzzle piece of its long-term strategy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c4eb2058a33b6cf7d564db316ec1591d0fb40acf65847318f86b8b50719d7927",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OpenAI Is Now Considering a 2027 IPO With a $1 Trillion Valuation. Should Investors Expect the Same Volatility as the SpaceX IPO?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2ec02e7479bfec6a1f50c7346a6d1d414be86e942a04d5222cdfd8c487447fae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Micron Day Is Here!",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3edd282c021d88f5cf639af5476a6f3a8ba8cc74168bc12140f6dc2867b80c9e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta Wants In on the Cloud. Is Amazon Stock Still a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58b15272319f6ff1bc70492ed59291a23db1185492573db0e5c7a615343ab7c4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is Tilray a Textbook Value Trap -- or the Most Undervalued Cannabis Stock on the Market?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05f3b83a857d72f5d6fb9678dc348f3478e7a5b1457c12428c2f9890b0ff8091",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Stock trading up",
+      "headline": "Why Apple (AAPL) Stock Is Trading Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb218eaff31fc1edafb4b762a078cba1636369de9f41174cd4432164af9d73e1",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Apple (AAPL) Stock Is Trading Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb218eaff31fc1edafb4b762a078cba1636369de9f41174cd4432164af9d73e1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b674938115048840a15d92c2b6216c892d29831d83a8bf099f29179daccf517",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Update: Dow Rises to Record as Wall Street Logs Weekly Gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2dc999544ae627ac5200255528c37418a68bf149c76db7e49c47c48047eec1f1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Update: US Equity Indexes Mixed as Weak Jobs Data Trigger Rotation Out of Growth Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f137306bd53012e590a9d15e300a11bc22bd424de0ef33517feadc8bdf52953c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Cloud push",
+      "headline": "Kyndryl (KD) Stock Trades Up, Here Is Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44e424d47b0581c8b42151ead6398c7f48228c45fad1eaf0ecff370a7cedd3e8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Kyndryl (KD) Stock Trades Up, Here Is Why",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44e424d47b0581c8b42151ead6398c7f48228c45fad1eaf0ecff370a7cedd3e8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Genpact (G) Stock Is Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce57ea5dc3d0794c532ba81684841386fb3880ee06e550f6c6cbca6be6705fa9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Does Kyndryl (KD) and Microsoft\u2019s Sovereign Cloud Push Redefine Its Edge in Regulated AI?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=421b67fd4cfbdbdd9c0078c7d03dd999934fb72826691ef4f7477e87e523781b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Iren (NasdaqGS:IREN) Stock Sees Fair Value Lift On AI Data Center Contract Optimism",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14befa95b466ee149a6547760301b4bde884090cf86afbcfbfa887dd1e89944e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 50,
       "reason": "Chipmaker boom",
       "headline": "Wall Street flees software plays for triple-digit chipmaker boom",
       "source": "Yahoo",
@@ -58,176 +230,34 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Buy signal",
-      "headline": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b674938115048840a15d92c2b6216c892d29831d83a8bf099f29179daccf517",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: Dow Rises to Record as Wall Street Logs Weekly Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2dc999544ae627ac5200255528c37418a68bf149c76db7e49c47c48047eec1f1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: US Equity Indexes Mixed as Weak Jobs Data Trigger Rotation Out of Growth Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f137306bd53012e590a9d15e300a11bc22bd424de0ef33517feadc8bdf52953c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Inside Securitize's SPAC IPO and tokenization strategy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f95f93978c0d6d2ccdba2b24e48233d1566eb88f3988ffa80daf41f7b63ea31",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Investment pick",
-      "headline": "Why Rivian Stock Popped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88e41e9495a71f145b92b746b41bed73e291896cde9bce99264e31682992fe24",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Rivian Stock Popped Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88e41e9495a71f145b92b746b41bed73e291896cde9bce99264e31682992fe24",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Got $1,000 to Invest? Buy These 2 Stocks Right Now and Hold Them for Decades.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d1b20786fb86cc8eeea3905a4d28109c998c259b4b1ade352d107df49fa97ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Franklin Covey Stock Plummeted Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b50122082838c84667e98a07c1961938c7009c9047ce40de679ae47f5d6921a1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Where Will SpaceX Stock Be in 1 Year?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b51ba3f23a521a5d06495bbdee62ab800bdd0fd47a6605fbda71d991aad6ea6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Dive",
-      "headline": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d08b43c9a761de08c3b33a61140610007c6bf74737d54cdeb6a00de49a6abd5f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed news",
-      "headline": "Should Long-Term Investors Buy Microsoft (MSFT) Instead of SpaceX (SPCX)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fbd62df42ec844c24b8c33bf37d385046638cdff40421457769b7330d6cbdd99",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Should Long-Term Investors Buy Microsoft (MSFT) Instead of SpaceX (SPCX)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbd62df42ec844c24b8c33bf37d385046638cdff40421457769b7330d6cbdd99",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meta just picked a fight with Amazon's cash cow",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8913f628eee6b11fdbc2d9bb1b36cc8f1d8b90229a83eed8dd62e3d09f4ef299",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Microsoft Corporation (MSFT) Stock Impacted by Reported Xbox Restructuring and Gaming Division Changes?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=225604b6962030411e2cbac558a8bd0b2be1887e52ddbb340e7084d5e2b5d943",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Unveils 6,000-Employee AI Deployment Organization",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=221793984bab98e751f179d925c5b6871967f7bc0d89260d95d3dc967c0354da",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Mixed market",
-      "headline": "The 41-Day Dividend Trap That Quietly Erodes SPY Returns Every Quarter",
+      "confidence": 40,
+      "reason": "Market update",
+      "headline": "ETF Zoo: Mid-Year Check-In  the AI Trade That Won\u2019t Quit",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea7e21c9ce32d61b40dd064fea4410c02fecea5a13007503f5375fbc326aa508",
+      "url": "https://finnhub.io/api/news?id=ce7bdfec88fa410304ba1f123ac18afef5df6e93d7f4966608da019e4c5d9f13",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "ETF Zoo: Mid-Year Check-In  the AI Trade That Won\u2019t Quit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce7bdfec88fa410304ba1f123ac18afef5df6e93d7f4966608da019e4c5d9f13",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SPYI\u2019s 0.68% Fee Could Cost You Thousands Over 20 Years\u2014Here\u2019s Why",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=97971bc0640c02831a023dd754acdd1a33cf1be47b82ec9371671169c5c03413",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Asset Class Scoreboard: June 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=231f494ae8dc6f08ddb33cf6c3940d06585bc9238faedd7ccf08bdde6703ab83",
+          "used_by_ai": true
+        },
         {
           "headline": "The 41-Day Dividend Trap That Quietly Erodes SPY Returns Every Quarter",
           "source": "Yahoo",
@@ -235,33 +265,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "\u201cDiversification Means Always Having to Say You\u2019re Sorry\"",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=336f2c3eedb239401e2761d95f29e83a2ff60158dad950ff42731799cbf28cf9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stocks Soaring, Gas Falling: Inside the July 4th Economy Everyone\u2019s Arguing About",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8fab879500724562d4c4260adc2f77cfb870aa70bc9effcaef7c25a9a28d86d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Chair Warsh Just Said the One Thing About Inflation Every Investor Wanted to Hear",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=477c0944d8116e312f0b9e53854a17efc4daf4a1a606a0060a6694424ebee310",
-          "used_by_ai": true
-        },
-        {
-          "headline": "As Go The Peace Talks, So Goes The Economy",
+          "headline": "Employment Report: 57K Jobs Added In June, Lower Than Expected",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b10e838d1040da632b342550147a9bcbda284f4cdda5477ab27788254092783d",
+          "url": "https://finnhub.io/api/news?id=b08b27043a43b53d42b49b0073c76c99c551318381bb2576572967ca6ff91b33",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     }
   ]
