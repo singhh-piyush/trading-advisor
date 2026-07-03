@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T09:58:43Z",
+  "updated_at": "2026-07-03T12:15:33Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,132 +12,11 @@
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "New investment",
-      "headline": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ab101debd1cf3080b8bca5208a0eda6cb0d6c86b49213321f572064ebf43cce",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ab101debd1cf3080b8bca5208a0eda6cb0d6c86b49213321f572064ebf43cce",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Commits $2.5 Billion to New AI Deployment Business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=558d0a579f60185722002e2b427f8f0c9cd4f505a26da507355d1e244e6a2357",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Kyndryl (KD) Stock Trades Up, Here Is Why",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44e424d47b0581c8b42151ead6398c7f48228c45fad1eaf0ecff370a7cedd3e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meta Wants In on the Cloud. Is Amazon Stock Still a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58b15272319f6ff1bc70492ed59291a23db1185492573db0e5c7a615343ab7c4",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Stock drop",
-      "headline": "Tesla beat the Street and was still punished. Here's why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=136a90d5cd27f65c3c61d3df3edd6fcac620bf2175ba93050c38a061c6706664",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla beat the Street and was still punished. Here's why",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=136a90d5cd27f65c3c61d3df3edd6fcac620bf2175ba93050c38a061c6706664",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Burry Called a Bubble Days Ago and Now AI & EV Stocks Are Already Cracking",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=22ade7feb33b116aea60a686a97fca4f87951e7e577e8a90473c42995337f0e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Did Tesla\u2019s Stock Drop 7% Despite a Record Delivery Quarter?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=779052920937d427c2dda80d20e663621016aeb0097e505a3f99f9243b132484",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Stock rally",
-      "headline": "ETW: Decent For Income, But Likely To Underperform Over The Long Term",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a664584e5b6adf36e0eaa214a5dafa0688eff43291c95b5f263e62c564f7c44f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "ETW: Decent For Income, But Likely To Underperform Over The Long Term",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a664584e5b6adf36e0eaa214a5dafa0688eff43291c95b5f263e62c564f7c44f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7d35fb6d52b448608276aff6836de687a5ea6c5a78e96ece5eec45acd5edbfe",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba99dab84837e44d71b0c99fc646f2d0d40097c60a6459b64df4f5d7f3f12750",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Apple Stock Rallied Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=050e6da10683050edf69358e856258fcabecfdab4b48dbb6f5cf03d1dc18b3d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Chip Industry Urges US to Avoid Moves That Distort Memory Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1329885ba5e6868f4c784fb2182d2dcf656da5e83402e3f071f4a2f505c1b0cf",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Positive mentions",
+      "confidence": 65,
+      "reason": "Chipmaker boom",
       "headline": "Intel, Marvell Technology, and AMD Stocks Trade Down, What You Need To Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a4cf91ef76ead6d5eacf45d3266cd702f156e27fb75947c7b63ea49fdc46596a",
@@ -179,44 +58,131 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentions",
-      "headline": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Buy signal",
+      "headline": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fb2d8cf3c192eac66914c5ef4b58d505961e513a2063f13f38ab8e45d0a3159",
+      "url": "https://finnhub.io/api/news?id=8672db719454b9e9dceb42dcc875325376da479a7bd644de40df3597d049c69b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
+          "headline": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4fb2d8cf3c192eac66914c5ef4b58d505961e513a2063f13f38ab8e45d0a3159",
+          "url": "https://finnhub.io/api/news?id=8672db719454b9e9dceb42dcc875325376da479a7bd644de40df3597d049c69b",
           "used_by_ai": true
         },
         {
-          "headline": "The 2027 COLA Calculation Has Officially Started -- Here's What to Watch This Summer",
+          "headline": "Jim Cramer on Apple: \u201cWe Need to See the Quarter and Hear What They Say\u201d",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02644f522a67001f12bb5761c2a9a7e316151faca91ab36bd66d86d6b609b194",
+          "url": "https://finnhub.io/api/news?id=f0c1c76460d5eb52b24a90588c073849ef52e2b8b3d67f79a3b490ec78762cc8",
           "used_by_ai": true
         },
         {
-          "headline": "The Stock Market Is Flashing a Clear Warning to Investors: Here's What History Says Could Happen in 2026 and Beyond",
+          "headline": "This Week In AI Chips - Blockchain Meets Stocks With Onchain Tokenization Trends",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f16d141523deb3889eb75cbd27896fe73ec300ad15cce6f6823e627103b04f7f",
+          "url": "https://finnhub.io/api/news?id=921923678e349f755dc283f59737135198f9286edc0a35506a384ecc66f7859e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Just Made a Controversial Move. Is the Stock One to Avoid or Is Now the Time to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0db005e01ffcb81be23b35707ae036c846645d4cea1ce2ef64dab22ce5cee5a4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "ETW: Decent For Income, But Likely To Underperform Over The Long Term",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a664584e5b6adf36e0eaa214a5dafa0688eff43291c95b5f263e62c564f7c44f",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "Strong Q2 deliveries",
+      "headline": "Taiwan new vehicle sales jump 25% in June",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af41fc6375f4645f3f04785b1859b0bc2d21356aafc6a13f68758a1c36b699fb",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Taiwan new vehicle sales jump 25% in June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af41fc6375f4645f3f04785b1859b0bc2d21356aafc6a13f68758a1c36b699fb",
           "used_by_ai": true
         },
         {
-          "headline": "Prediction: This Unstoppable Vanguard ETF Will Beat the S&P 500 in the Second Half of 2026",
+          "headline": "Latest News In Electric Vehicles - Liquid Cooling Boosts Future Charging Technology Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a9221bf1513422595fcb934bd734c0b5e6c4bfde050b1ffbd529df07a84d417",
+          "url": "https://finnhub.io/api/news?id=d329bcb85dd6bb0ee991281de53d06172eba168c11ec4012fd9cb84bce0444e6",
           "used_by_ai": true
         },
         {
-          "headline": "Alphabet Joined the Dow and Became a Top Holding in Berkshire Hathaway's Portfolio. But This Stock Could Be an Even Better Buy.",
+          "headline": "1 Incredible Autonomous Vehicle Stock to Buy Instead of Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed006ccd5191e33afa1631a97a400d15495f62ac89fd020d5b6cf4579e10d68c",
+          "url": "https://finnhub.io/api/news?id=badd7d86c8ba750defed0134be77aaf6b2e068220dc3377b9c979dcd5022a20e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla\u2019s strong Q2 deliveries lift Chinese supplier shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bffb83153f884fa582c16d2722ea261510cf708496321aeab886885fab4d8fd8",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI spending spree",
+      "headline": "National Grid (LSE:NG) Is Putting $1.75 Billion Into U.S. Data Center Power",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa3aaa3261a8cbe623ac2d77c6cfa27521f806b21347b8e5263dd237d7b9de12",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "National Grid (LSE:NG) Is Putting $1.75 Billion Into U.S. Data Center Power",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aa3aaa3261a8cbe623ac2d77c6cfa27521f806b21347b8e5263dd237d7b9de12",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI spending spree is making the Fed's job harder",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29791696a9d5543fbcfaef19048db67b9060e16880eff7014bf2084e31bef25e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Governance & Risk Platforms Lead Growth in Agentic AI Security Sector with Highest Predicted CAGR",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6444c5e003b7e97bac2eaf417c58068d5fc89e0a0d468cb2423c87cc9c765743",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Says Alphabet Is \u201cGetting Very Little Credit for YouTube, Google Cloud, or Even Search\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=307d12f7d487df8bacedbbac1e40138583c8aad8e520a7cf502a2c91388c2b4b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer on Amazon: \u201cWe Need to See a Bountiful Return, or the Declines Will Continue\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d5c27cab3068d6418897ae318f082f24da0e4788c06c5096957aefa665383807",
           "used_by_ai": true
         }
       ],
@@ -225,16 +191,74 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mentioned with other stocks",
+      "headline": "If You'd Invested $10,000 in Walmart Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d5f5831f14bd9e715491d157fc8ce87ee24255276fde941df1b9ffb84d02e3d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "If You'd Invested $10,000 in Walmart Stock 10 Years Ago, Here's How Much You'd Have Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d5f5831f14bd9e715491d157fc8ce87ee24255276fde941df1b9ffb84d02e3d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Palantir's Business Is Booming. So Why Has the Stock Dropped by More Than a Third?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb9d2dd7f2ab91212021a6a1df3cd153c0ee6bedbe2e23fa2561f88570cba39b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet and Ferrari Both Turned $1,000 Into Over $10,000 in a Decade but Diverged Sharply This Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee89dc919bf9536c0e3699a86a27f087dfc279df3c570d83bfc4d6969bf004d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy the Invesco QQQ ETF After the Recent Nasdaq Sell-Off? History Offers a Crystal-Clear Answer.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8ac775fb66880f202fa4d737a4846bdf65caf3b22b7ee950d22c89dbbfec0e53",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market news",
-      "headline": "Rates Spark: Resumed Steepening Impulse",
+      "reason": "Market trends",
+      "headline": "W. R. Berkley: Capital Appreciation Potential From Its Baby Bonds",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a941b7294bf72c3e9de4a993a3f996f3627eb6982a025fa65b12ba4337bdd523",
+      "url": "https://finnhub.io/api/news?id=23856ff9cf42c3a78437b74ea5584b3e07df3a262841902ca20506847173f085",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "W. R. Berkley: Capital Appreciation Potential From Its Baby Bonds",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=23856ff9cf42c3a78437b74ea5584b3e07df3a262841902ca20506847173f085",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Two 7%+-Yielding And Discounted CEFs For Retirement Income",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=99bf10ee91f9980bf4c1b379c8067d7cd3cf97b414df509a1d046231e68bb7a1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Manufacturing Trends Vary As North American And East Asian Growth Spurts Contrast With ASEAN Slowdown",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b2ea6abea6c341613f70597ac9b6b71936d849133d804f062c0fc70abc3157a9",
+          "used_by_ai": true
+        },
         {
           "headline": "Rates Spark: Resumed Steepening Impulse",
           "source": "SeekingAlpha",
@@ -246,23 +270,10 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=46c9ed058bc32758adaf7c57cbaff74f9a6aa08a79d99d9dddccb3e1d7c4f913",
           "used_by_ai": true
-        },
-        {
-          "headline": "Jobs Disappoint, Market Gives Two Cheers",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f2f3b8038d4905a93d02f678c335b1e6a95810f4b0f47de883ac589becec71d8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ETF Zoo: Mid-Year Check-In  the AI Trade That Won\u2019t Quit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce7bdfec88fa410304ba1f123ac18afef5df6e93d7f4966608da019e4c5d9f13",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 1
+        "SeekingAlpha": 5
       }
     }
   ]
