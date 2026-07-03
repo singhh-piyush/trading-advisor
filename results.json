@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T16:23:56Z",
+  "updated_at": "2026-07-03T17:56:46Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
     {
@@ -52,11 +52,58 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Buy signals",
+      "headline": "Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f29bf872ce4e799318dc82aba51e8c24832d308a23477a31b577e35fd3d81aaf",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f29bf872ce4e799318dc82aba51e8c24832d308a23477a31b577e35fd3d81aaf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1e77ae6d16db0778c3aa2ffd7918767843d868b99bf29819e4b1a71a40e0770",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Nvidia Must Be More Like Apple to Remain World\u2019s Most Valuable Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=254f8c2e56b7355600f9bd363556fc41dea862bd839c83f462ed805372736709",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Could SpaceX Really Disrupt the Telecoms?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af15efc67c3613124eb9b7949c66dc6ddde30fddbed72461dbea4904b5b07836",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Meta's Capex Is Paying Off, But The Market Doesn't Care",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8f02de7ec1b48d4b07b6b7d20b808aef59ef16629c5e92a07c5571ebee9541d1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI adoption firm launch",
+      "confidence": 60,
+      "reason": "AI adoption",
       "headline": "Microsoft Launches AI Adoption Firm",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=05fb4744f8bced2409f792e4ef10f2179e7be80a71eefb619a712e9306bbdef9",
@@ -66,12 +113,6 @@
           "headline": "Microsoft Launches AI Adoption Firm",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=05fb4744f8bced2409f792e4ef10f2179e7be80a71eefb619a712e9306bbdef9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Rimini Street (RMNI) Partners With One New Zealand, Here\u2019s What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff3248cba63f184947605427a3fc8176c49f5d96dc0020b677713e955bd960f4",
           "used_by_ai": true
         },
         {
@@ -91,6 +132,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8675ba8d5e33fe10a981c398f31845e48e9bfddc4bda8b1ae6ab98d658a7fc07",
           "used_by_ai": false
+        },
+        {
+          "headline": "Rimini Street (RMNI) Partners With One New Zealand, Here\u2019s What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff3248cba63f184947605427a3fc8176c49f5d96dc0020b677713e955bd960f4",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -99,10 +146,10 @@
     },
     {
       "ticker": "AMD",
-      "company": "AMD",
+      "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI-fueled growth",
+      "confidence": 50,
+      "reason": "AI growth",
       "headline": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b73324c860a9625c851d8c9a4c87acdf637ea173fbc52526267e11dde2dd3ec0",
@@ -146,96 +193,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Labor market concerns",
-      "headline": "Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To Multi-Year Lows",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6d97087c96cba8b4e55f4d297f2cf9205adffc441b7fb3e64d4d6478d0ca9ab7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To Multi-Year Lows",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6d97087c96cba8b4e55f4d297f2cf9205adffc441b7fb3e64d4d6478d0ca9ab7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Actually Drove IWD Over The Past Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=212cdda394a57b83dcdd719089139c3712e79699d97e29218735326ee955d9dd",
-          "used_by_ai": false
-        },
-        {
-          "headline": "EWY's Dip Looks Familiar, But Is It A Trap?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17c32f37a359486e2e84c88f1238ff44d68f6951a64b5c2a1bb21b635d625893",
-          "used_by_ai": false
-        },
-        {
-          "headline": "July Market Digest",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9e30788fb8be3601a9a2c068be1781c3c9b859a2ff8659a745d4646c352cb2e1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Wage Growth As A Leading Inflation Indicator",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=375394a66749e6a374352455b321b15e4c3fbe46db03d7c727613406ba5d4725",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Investor attention",
-      "headline": "Could SpaceX Really Disrupt the Telecoms?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af15efc67c3613124eb9b7949c66dc6ddde30fddbed72461dbea4904b5b07836",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Could SpaceX Really Disrupt the Telecoms?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af15efc67c3613124eb9b7949c66dc6ddde30fddbed72461dbea4904b5b07836",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1e77ae6d16db0778c3aa2ffd7918767843d868b99bf29819e4b1a71a40e0770",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Nvidia Must Be More Like Apple to Remain World\u2019s Most Valuable Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=254f8c2e56b7355600f9bd363556fc41dea862bd839c83f462ed805372736709",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Contracted Revenue Backlog Microsoft Stock Bears Keep Missing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d82836e689998c1552b03c316b7237740bcfb99c8ab7cb889f1231fffc7254f6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market digest",
+      "reason": "Market trends",
       "headline": "What Actually Drove IWD Over The Past Year",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=212cdda394a57b83dcdd719089139c3712e79699d97e29218735326ee955d9dd",
@@ -254,22 +214,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "July Market Digest",
+          "headline": "DISV Is A Well-Built International Small-Cap Value ETF, But Better Alternatives Exist",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9e30788fb8be3601a9a2c068be1781c3c9b859a2ff8659a745d4646c352cb2e1",
+          "url": "https://finnhub.io/api/news?id=8c6cbe8f3d358cc80ac043e354382061ef12688fbc4de8ee062224884ca0924e",
           "used_by_ai": true
         },
         {
-          "headline": "Wage Growth As A Leading Inflation Indicator",
+          "headline": "Midyear Economic Check-In: A World Diverging",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=375394a66749e6a374352455b321b15e4c3fbe46db03d7c727613406ba5d4725",
+          "url": "https://finnhub.io/api/news?id=6f8e0415c02fe526a4fbbc38595c762f29e6d347f95a2522b7e327fe0d96062e",
           "used_by_ai": true
         },
         {
-          "headline": "Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To Multi-Year Lows",
+          "headline": "The Week The AI Trade Broke, And Why The Data Says 'Rotation,' Not 'Recession'",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6d97087c96cba8b4e55f4d297f2cf9205adffc441b7fb3e64d4d6478d0ca9ab7",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=438995bf00eab0b0fcb567f4f2ce2aed3d56cf43e61dfa628cce21cdf66f1564",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
