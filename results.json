@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T21:06:18Z",
+  "updated_at": "2026-07-03T22:33:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,97 @@
   "sample": false,
   "items": [
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "New AI company launch",
+      "headline": "Microsoft (MSFT) Launches $2.5 Billion Frontier Company For Enterprise AI Adoption",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5942dd09e71f79eaa4c7bf7456eb16cd9589fdd0de6fb3afd439c95b66322e7e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft (MSFT) Launches $2.5 Billion Frontier Company For Enterprise AI Adoption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5942dd09e71f79eaa4c7bf7456eb16cd9589fdd0de6fb3afd439c95b66322e7e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Had Its Worst Month in More Than 25 Years. Should Investors Buy the Crash?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3743cf1acaa7ca830b4f8d4561eaa80d9f7f1592d3933fd8e2c1fcd1c8fe45e6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Veteran Tech Analyst: The Market Has Wrongly Left Software for Dead in the AI Rotation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed3df89e212a9c6edbe4cec930c117ad23991b5a5eb2272c25060130f6ae32b1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Microsoft to Announce Fresh Layoffs Impacting Thousands as AI Investment Surge Reshapes Workforce: Report (UPDATED)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f2459600109e0cbaf8075fb8825e2fbd959399483cb58fbb5080d830583a4800",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Potential to overtake Nvidia",
+      "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42caf97ca442208dddaca6df1716d1774e29504f50d3c7ffa3c93e2594115927",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Tech ETF Is Quietly Outperforming QQQ in 2026 -- Is There Still Time to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9dd7c87cfb178b328fd1ef0da84675b911e4ee7330821c4f1f41eee234b0a682",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Nasdaq 100 Stocks to Research Further",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47b38ede09683f60c6412e4fe196383507b39e54ac0a2552edb25b8b0c07a048",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Saylor makes a bold claim about MSTR and it involves Apple and Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b41cc617c57f9866283c51b5fb7330358df92c29d6ee20fbd717ed9cbcef36ad",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Valuation and growth",
+      "confidence": 60,
+      "reason": "Valuation and growth potential",
       "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e747eda1ce757109ad3627b6fcac3db5afaf34274031044a18d2038aefc534f",
@@ -41,33 +127,40 @@
           "used_by_ai": true
         },
         {
+          "headline": "EXCLUSIVE: Top 12 Most-Searched Tickers For First Half of 2026 - Where Do Micron, Nvidia, Tesla, SanDisk Rank?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=95bd0aed9e1327cb69d59e47e42ec3818b7bc9cc25c6edefae42fd5463b710f0",
+          "used_by_ai": true
+        },
+        {
           "headline": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b73324c860a9625c851d8c9a4c87acdf637ea173fbc52526267e11dde2dd3ec0",
           "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom Has Barely Moved in 2026. Should You Switch to AMD or Intel Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c4a154246b6d5585ad8ad9c85f360bdef74215aaf35104ab1f3e7d3b1d6d718",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 65,
-      "reason": "Delivery growth",
-      "headline": "Worried About Tesla's 7% Slump Post Solid Q2 Deliveries? Grab These ETFs",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "7% slump post Q2 deliveries",
+      "headline": "Elon Musk's X Money \u2014 New Details On Bank Killer Super App",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1f3b349ccd2ac8776e61eaad56d3b6fb192662b5013cd1d2efeff26c79c6d94",
+      "url": "https://finnhub.io/api/news?id=798b28b3d0fd2d47df85456bebc641caf9d71747d5bb2beb06efd5413d7312f3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Elon Musk's X Money \u2014 New Details On Bank Killer Super App",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=798b28b3d0fd2d47df85456bebc641caf9d71747d5bb2beb06efd5413d7312f3",
+          "used_by_ai": true
+        },
         {
           "headline": "Worried About Tesla's 7% Slump Post Solid Q2 Deliveries? Grab These ETFs",
           "source": "Yahoo",
@@ -85,12 +178,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=00d56d2adb28053a34ed7947cccdfd2d217ae29f5fb55bf528721dec8997833a",
           "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Has Mojo Back, As Tesla Deliveries Skyrocket",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f924e2a7af2e44a933dc8ee6c472494a8fabd767d6016f899777d3f9f39595cb",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -100,100 +187,42 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI trend",
-      "headline": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mentioned in various articles",
+      "headline": "Dividend ETFs vs. Bond ETFs: Which Is the Better Investment in 2026?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e0f26b9deda69b525c629fca5e4b703cf852d0f9f3f12b7123de6168ef9f4af",
+      "url": "https://finnhub.io/api/news?id=5b668e7e285dbae0c9afecd0a1bdd541c48e8f7d636d805250c41628719ad536",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
+          "headline": "Dividend ETFs vs. Bond ETFs: Which Is the Better Investment in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e0f26b9deda69b525c629fca5e4b703cf852d0f9f3f12b7123de6168ef9f4af",
+          "url": "https://finnhub.io/api/news?id=5b668e7e285dbae0c9afecd0a1bdd541c48e8f7d636d805250c41628719ad536",
           "used_by_ai": true
         },
         {
-          "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
+          "headline": "Better EV Stock: Rivian vs. Lucid",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e747eda1ce757109ad3627b6fcac3db5afaf34274031044a18d2038aefc534f",
+          "url": "https://finnhub.io/api/news?id=6b7ba4af43f28c3c393d2ff22c35a5060335ed9aa23a177739958572916c27cd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is This $17.5 Billion Nuclear Stock Your Ticket to Future Riches?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=345938db9c2f093a2124e4183a86adca4093421f6f27d76f1b648f9845c1cb74",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Reasons You Should Buy Carnival Stock in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=91d1a8570fef05767e6944018d278508e9d17cad12bb7d00620907d2ac431248",
           "used_by_ai": true
         },
         {
           "headline": "Saylor makes a bold claim about MSTR and it involves Apple and Nvidia",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b41cc617c57f9866283c51b5fb7330358df92c29d6ee20fbd717ed9cbcef36ad",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: This Oil Stock Will Beat the S&P 500 in the Second Half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d868ee102df33d2874d34707e17e20b0f6d96f31ac984ce648fabdb55fe1714",
-          "used_by_ai": false
-        },
-        {
-          "headline": "All Eyes Are on Social Security's Financial Woes. But Medicare Is in Trouble, Too.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe8351a049285ad6ae66b676e94bae5fbf5f1ac45b46903dfd5d906bc3541219",
-          "used_by_ai": false
-        },
-        {
-          "headline": "3 Things I Wish I Knew About Retirement Savings When I Started Working",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c85047fa21af7ae2e1c5776051a10966d9e28ea31ec6f5dbf60311b975fe4b36",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Travelers Is Quietly Trading Near a Record High While Tech Grabs the Headlines. Can the Rally Last?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a892bec681e9b2f1601f634c31dcc469c7f3070a1e84dbae2bdc44094fdc050",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 7
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "AI trend",
-      "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42caf97ca442208dddaca6df1716d1774e29504f50d3c7ffa3c93e2594115927",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42caf97ca442208dddaca6df1716d1774e29504f50d3c7ffa3c93e2594115927",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Tech ETF Is Quietly Outperforming QQQ in 2026 -- Is There Still Time to Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dd7c87cfb178b328fd1ef0da84675b911e4ee7330821c4f1f41eee234b0a682",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Saylor makes a bold claim about MSTR and it involves Apple and Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b41cc617c57f9866283c51b5fb7330358df92c29d6ee20fbd717ed9cbcef36ad",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Nasdaq 100 Stocks to Research Further",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47b38ede09683f60c6412e4fe196383507b39e54ac0a2552edb25b8b0c07a048",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Exuberance Warning Hits Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=389030a6d73e897c6a80de298cdd5eef70b2d717ca0b0fd7098c2a235a56afee",
           "used_by_ai": true
         }
       ],
@@ -202,56 +231,22 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI investment",
-      "headline": "Veteran Tech Analyst: The Market Has Wrongly Left Software for Dead in the AI Rotation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed3df89e212a9c6edbe4cec930c117ad23991b5a5eb2272c25060130f6ae32b1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Veteran Tech Analyst: The Market Has Wrongly Left Software for Dead in the AI Rotation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed3df89e212a9c6edbe4cec930c117ad23991b5a5eb2272c25060130f6ae32b1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft to Announce Fresh Layoffs Impacting Thousands as AI Investment Surge Reshapes Workforce: Report (UPDATED)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2459600109e0cbaf8075fb8825e2fbd959399483cb58fbb5080d830583a4800",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Core Artificial Intelligence (AI) Market Leaders to Buy with $1,000 Right Now and Hold for the Next 20 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dae891707159843fd05836a455bb3e8dbf27059e0fad77a6347226115191f8a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Early Snowflake Investor Nails a 50% Rebound That May Only Be Warming Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5fbb1be6469f9120cb1ae4b3c1f1290b56561dd7b2dd28a148c0b9d4f777e8ee",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market trends",
-      "headline": "Trump Accounts Auto-Buy SPYM on July 4. Here\u2019s the ETF Nobody\u2019s Heard Of",
+      "confidence": 30,
+      "reason": "Mentioned in various articles",
+      "headline": "JEPI Investors Missed 13.21% in Gains While Paying Hidden Taxes on \u2018Monthly\u2019 Income",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88afddf70175b10969c8ab3c5830da4fbc24bb63d34655a7ec48611a7a7b834c",
+      "url": "https://finnhub.io/api/news?id=7518729f1adf69badad70e6d9bc1b3ab1aa0bd4179e837ae5a67316a0b3116c9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "JEPI Investors Missed 13.21% in Gains While Paying Hidden Taxes on \u2018Monthly\u2019 Income",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7518729f1adf69badad70e6d9bc1b3ab1aa0bd4179e837ae5a67316a0b3116c9",
+          "used_by_ai": true
+        },
         {
           "headline": "Trump Accounts Auto-Buy SPYM on July 4. Here\u2019s the ETF Nobody\u2019s Heard Of",
           "source": "Yahoo",
@@ -269,23 +264,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=17c32f37a359486e2e84c88f1238ff44d68f6951a64b5c2a1bb21b635d625893",
           "used_by_ai": true
-        },
-        {
-          "headline": "DISV Is A Well-Built International Small-Cap Value ETF, But Better Alternatives Exist",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8c6cbe8f3d358cc80ac043e354382061ef12688fbc4de8ee062224884ca0924e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Midyear Economic Check-In: A World Diverging",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6f8e0415c02fe526a4fbbc38595c762f29e6d347f95a2522b7e327fe0d96062e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "Yahoo": 4
       }
     }
   ]
