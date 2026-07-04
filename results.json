@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T16:01:36Z",
+  "updated_at": "2026-07-04T17:34:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,56 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI alliance",
+      "headline": "Why Did Nebius Stock Jump 20% in June?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a8735bfe092f5c0e1bc048a1e410abe2dc3f137c4f8365fd5e89ec20a8e0d07",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Did Nebius Stock Jump 20% in June?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a8735bfe092f5c0e1bc048a1e410abe2dc3f137c4f8365fd5e89ec20a8e0d07",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Coinbase Has Over 100% Upside as Cost Cuts and Volume Recovery Drive The Stock Higher",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3dec2165d2092ba6a046d8fb7cc237f0169bc331d2470f14c052246ec432db5e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Green Thumb Stock Oversold? The Case for 100% Upside.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85d89358cb95ca1f13d418c3970a71e0989dc7a9c6e9e9187811ff5551b90590",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A New Stablecoin Is Taking Aim at Circle's USDC. Here's What Investors Need to Know.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7e540a5b75f3de88115b966aeed7cde57307f3af6d0168808e4898d944c9078",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Palantir doubles down on national security with Nvidia AI alliance",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=137f950a215d4c4db756b5742a161fc6f5a90c3cb0cdb17bd14c4534d976dc5d",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "Robotaxi expansion",
       "headline": "Here\u2019s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
       "source": "Yahoo",
@@ -29,154 +75,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "Tesla (TSLA) Expands Robotaxi Service To Miami With Cybercabs On Public Roads",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=388a6f4c2ba40cb7ce2505683c1a627a72e7d6f8e237d847d1b201dfabca4ba6",
-          "used_by_ai": true
-        },
-        {
           "headline": "Meta\u2019s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=311c0b26643667338cf237cdb943203a4556eb34b17d1d6c795b70c9f04b2917",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something \u0243etter'",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4f5cd28768aa6f03d7487befb9b8d1c23a5cc4796d5c44bb122895f05778e9a1",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=51a1b3cf2b9e30ec33860780c943f1ac9a616e8e6eca8db258d4cc92fc883e7c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI developments",
-      "headline": "Is NVIDIA Corporation (NVDA) The Best Robotics Stock to Buy According to Short Sellers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=44470e468766e97ad222b455616f317d7d560768cce1b03be7bdcb13528060be",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Is NVIDIA Corporation (NVDA) The Best Robotics Stock to Buy According to Short Sellers?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44470e468766e97ad222b455616f317d7d560768cce1b03be7bdcb13528060be",
           "used_by_ai": true
         },
         {
-          "headline": "Is Amazon.com, Inc.\u00a0(AMZN) One of the Best AI and Technology Stocks to Buy Now?",
+          "headline": "Tesla (TSLA) Expands Robotaxi Service To Miami With Cybercabs On Public Roads",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7fb9ff81d9114c33ec41f20767cab6358e7f5c70b935d17269c2a2e6d791317",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Netflix Vs. Walt Disney: Netflix Prints Cold Hard Cash While Disney Bleeds to Fund Parks and Linear Cable Remnants",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fa0aaeb3131897dd7d4c317128e0efab46d4298cdc0785a66f1c66ada41492b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "$750 Billion AI Spending Wave: Should You Buy These 3 AI Infrastructure Stocks?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eeb8eedeb778679846aee311ee4889590aac1de3e973e5abeba2ed93f19ba160",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here's the Precise Timeline of When SpaceX Insiders Can Dump Their Shares on Retail Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ddef51ed7e66def8bbc774f01d33dbf5318255185da1229772e1b69548100bee",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Long-term investment",
-      "headline": "Meta (META) Launches Meta Compute To Sell AI Power Beyond Advertising",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=045060a3f1b3e513cc6bf642673d87a587c3ebcb0fb1faac485a7fed5d9588a8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Meta (META) Launches Meta Compute To Sell AI Power Beyond Advertising",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=045060a3f1b3e513cc6bf642673d87a587c3ebcb0fb1faac485a7fed5d9588a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here is Why Microsoft (MSFT) is One of the Best NASDAQ Stocks to Invest In For Long Term",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=536ade0e9bc5cd964d2ec547b025e3791bd01dbbbc4b580df9aaaea4e0114d02",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Corp (NASDAQ:MSFT) Fits the Affordable Growth Screen",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0d2e1587128de29c21ce25cf5f862c44c2db5813fc7f22653227c37b9d9befad",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Valuation increase",
-      "headline": "Why Vanguard\u2019s $143 Billion Tech ETF Outpaced QQQ While Charging Half the Fee",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a83fc0b4047e7d10de4a325f4f16507f883a539f154bafb1f87bd008da98a1c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Vanguard\u2019s $143 Billion Tech ETF Outpaced QQQ While Charging Half the Fee",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a83fc0b4047e7d10de4a325f4f16507f883a539f154bafb1f87bd008da98a1c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Volatility: History Says This 1 Investing Move Is More Important Than Ever Before",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=620c1cdbcacfe9c14433e121eaab380394dbf39e6dd534138fe486f6b430a1da",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why FNGU\u2019s 0.95% Fee Is Only Half the Hidden Cost",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6f642e44a1f2c8d8c0481f166e7dc36a190dcb4ce1f8e028ebe121e99f79997",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Western Digital (WDC) Stock Falls As Apple CXMT Talk Adds Memory Pressure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f1c9a5eea05a4f5908aeb6d36f4457e45898a5bb3a93702291a2a36266be6155",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
+          "url": "https://finnhub.io/api/news?id=388a6f4c2ba40cb7ce2505683c1a627a72e7d6f8e237d847d1b201dfabca4ba6",
           "used_by_ai": true
         }
       ],
@@ -189,12 +108,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
+      "reason": "Buying opportunity",
+      "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e747eda1ce757109ad3627b6fcac3db5afaf34274031044a18d2038aefc534f",
+      "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
+          "used_by_ai": true
+        },
         {
           "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
           "source": "Yahoo",
@@ -212,36 +137,115 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ab4ad90a547e1d498cfb6ba7f31ffbe61633c5fcaadf247faf07bbb123d8a74d",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI and tech",
+      "headline": "It Quietly Exited Bitcoin Mining Last Year \u2014 Now This AI Supplier To Meta Is Chasing A $30 Billion Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=204734aaccabaabe0fa55c7547a75d20a3288f05120c61b2486b74ca51916ad4",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "EXCLUSIVE: Top 12 Most-Searched Tickers For First Half of 2026 - Where Do Micron, Nvidia, Tesla, SanDisk Rank?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=95bd0aed9e1327cb69d59e47e42ec3818b7bc9cc25c6edefae42fd5463b710f0",
+          "headline": "It Quietly Exited Bitcoin Mining Last Year \u2014 Now This AI Supplier To Meta Is Chasing A $30 Billion Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=204734aaccabaabe0fa55c7547a75d20a3288f05120c61b2486b74ca51916ad4",
           "used_by_ai": true
         },
         {
-          "headline": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
+          "headline": "Prediction: SPHQ Will Be the Smartest Buy of 2026. Here's Why.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b73324c860a9625c851d8c9a4c87acdf637ea173fbc52526267e11dde2dd3ec0",
+          "url": "https://finnhub.io/api/news?id=979debaeb16a5e09ca3f66ec6d6efd542488e1ef9ff750d38c521d4f7c78d1f8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Explains Why He Thinks Meta Has \u201cMore Room to Run\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd740139ae41a3d30f59a20fdc5212ddba6f796d36c5ebf558fca6bbb6548ef9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta (META) Launches Meta Compute To Sell AI Power Beyond Advertising",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=045060a3f1b3e513cc6bf642673d87a587c3ebcb0fb1faac485a7fed5d9588a8",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Deputy scandal",
+      "headline": "Tennessee deputy spent seized drug money on Apple gear for his family \u2014 now he owes $339K in pension clawbacks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdb7ac50030ebbfb7222b39c5e9d2c24dd18690847f5a8c95794b7eb0d42602e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tennessee deputy spent seized drug money on Apple gear for his family \u2014 now he owes $339K in pension clawbacks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bdb7ac50030ebbfb7222b39c5e9d2c24dd18690847f5a8c95794b7eb0d42602e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Evercore ISI Maintains Outperform Rating on Apple (AAPL) Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f87045cfaa66ba9349c354eac3c3a755dad5c6de5403746a8f89da0fc91d9fc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT): One of the Best AI and Technology Stocks to Buy Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db0180fb4b616e9121e0cef388806e0c1158686407143a6c2b19805d0c6f4539",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Week Ahead: Oil Hints At A Paradigm Shift",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=840cf4c4b248a268fb56ef7d1b5a446690efab5b6af1a96de06409dd422450bf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Vanguard\u2019s $143 Billion Tech ETF Outpaced QQQ While Charging Half the Fee",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a83fc0b4047e7d10de4a325f4f16507f883a539f154bafb1f87bd008da98a1c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market commentary",
-      "headline": "Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "Market concerns",
+      "headline": "The 1-Minute Market Report, July 4, 2026",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3d658c068dc57896be90bc333a0daa77faa9c1b1ec8a00a5d459019861eea029",
+      "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The 1-Minute Market Report, July 4, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
+          "used_by_ai": true
+        },
         {
           "headline": "Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake",
           "source": "SeekingAlpha",
@@ -264,12 +268,6 @@
           "headline": "Financial Independence Day: How Many Reach $1 Million?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=ebdae752944b4c0bdc3f930ef4c371754e15293798ddb3b45efebc0d13a5ca01",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Is Kevin Warsh's Fed Now",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fe964807f86ff66d5a2ebd0882ca9f0981f87d1a0a051566d2deb00496b49bbf",
           "used_by_ai": true
         }
       ],
