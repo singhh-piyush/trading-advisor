@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T22:33:11Z",
+  "updated_at": "2026-07-04T00:03:51Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,7 +15,7 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 80,
       "reason": "New AI company launch",
       "headline": "Microsoft (MSFT) Launches $2.5 Billion Frontier Company For Enterprise AI Adoption",
       "source": "Yahoo",
@@ -52,56 +52,10 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Potential to overtake Nvidia",
-      "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42caf97ca442208dddaca6df1716d1774e29504f50d3c7ffa3c93e2594115927",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Tech ETF Is Quietly Outperforming QQQ in 2026 -- Is There Still Time to Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dd7c87cfb178b328fd1ef0da84675b911e4ee7330821c4f1f41eee234b0a682",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Nasdaq 100 Stocks to Research Further",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47b38ede09683f60c6412e4fe196383507b39e54ac0a2552edb25b8b0c07a048",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Saylor makes a bold claim about MSTR and it involves Apple and Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b41cc617c57f9866283c51b5fb7330358df92c29d6ee20fbd717ed9cbcef36ad",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 80,
       "reason": "Valuation and growth potential",
       "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
       "source": "Yahoo",
@@ -145,10 +99,56 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Potential to overtake Nvidia",
+      "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42caf97ca442208dddaca6df1716d1774e29504f50d3c7ffa3c93e2594115927",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Tech ETF Is Quietly Outperforming QQQ in 2026 -- Is There Still Time to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9dd7c87cfb178b328fd1ef0da84675b911e4ee7330821c4f1f41eee234b0a682",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Saylor makes a bold claim about MSTR and it involves Apple and Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b41cc617c57f9866283c51b5fb7330358df92c29d6ee20fbd717ed9cbcef36ad",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Nasdaq 100 Stocks to Research Further",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47b38ede09683f60c6412e4fe196383507b39e54ac0a2552edb25b8b0c07a048",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "7% slump post Q2 deliveries",
       "headline": "Elon Musk's X Money \u2014 New Details On Bank Killer Super App",
       "source": "Yahoo",
@@ -234,7 +234,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
+      "confidence": 20,
       "reason": "Mentioned in various articles",
       "headline": "JEPI Investors Missed 13.21% in Gains While Paying Hidden Taxes on \u2018Monthly\u2019 Income",
       "source": "Yahoo",
