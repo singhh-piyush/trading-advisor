@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T21:30:26Z",
+  "updated_at": "2026-07-04T22:57:38Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,68 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "New sales lead",
+      "headline": "Nvidia (NVDA) Backs Verkada And Brings In A Microsoft Veteran To Lead Sales",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b13333875bf3e3c3e8afeeb55b8817d089b3c8c1ba6f5e7c5078a19b4c5e059a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia (NVDA) Backs Verkada And Brings In A Microsoft Veteran To Lead Sales",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b13333875bf3e3c3e8afeeb55b8817d089b3c8c1ba6f5e7c5078a19b4c5e059a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Reason to Buy This Wide-Moat Stock Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0539236130317e8b6547f9d9a7fd231adf88bf89c310fe19f0aa23cdedb4f5b8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d05fbd40ebe87af4c8bd4a10009299600a7badf0d830da3d9ed3b5505bbe756",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4fb9e8d988ac3a1cfa898c573bdc10f2a2d4cb639a727fd00b131973be2083ec",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2e461e76687029a28fce74efa8f01cef93e6e28dc58bb0274dd8179d96a9f360",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "Plans 10M foldables",
-      "headline": "Apple (AAPL) Plans 10 Million Foldables And An iPhone Ultra Push",
+      "reason": "New iPhone plans",
+      "headline": "Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2e6a69ed9ab74774e5de0599c2ea2ee2c23466dd3cb7790cbc082b566c30faa",
+      "url": "https://finnhub.io/api/news?id=50621df6190846e393895ff98d11006a4b215bbe4450b79d0bd0975cf8c3c9d8",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=50621df6190846e393895ff98d11006a4b215bbe4450b79d0bd0975cf8c3c9d8",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple (AAPL) Plans 10 Million Foldables And An iPhone Ultra Push",
           "source": "Yahoo",
@@ -45,98 +97,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=52d5d92e05d65b0972de927cef6c58a4e32799a0ed7eae0f300985aa0a02300a",
           "used_by_ai": false
-        },
-        {
-          "headline": "Apple's 2027 hardware refresh sends Wall Street a warning",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15941266946d0ba97d4b3ec2bb8b06264c855ac26dd1f3b8ec5bf1441a2067d8",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "High-yield dividend",
-      "headline": "Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b6cf839133d9cb7e29727f81c9acb1b820dda9e620e961d24baae8a32740f62b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6cf839133d9cb7e29727f81c9acb1b820dda9e620e961d24baae8a32740f62b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69542191f9f298aec15d372200408687117964240e51adfd6890bd910096a5ce",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Rocket Lab Stock Skyrocketed Last Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7f969f4c0712cc063695fa491fc6511aa2a2cc400e6af2372a25b0c3a9fe1d1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: Micron Technology Stock Will Hit at Least $2,000 in 1 Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b3fb953fed1a2d2651f88bcae13e0ab8c57989ea975878a3057e2f54f34e6f3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Robotaxi developments",
-      "headline": "Here\u2019s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6f82f48a1bb0ffaa0c303056dc57cc411ecd996a7aabf17fd9e55d92104166a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Here\u2019s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6f82f48a1bb0ffaa0c303056dc57cc411ecd996a7aabf17fd9e55d92104166a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=869359d116d6a72aa6d0796282b513e21ee2fd653a09c3a75a625b4597d2d131",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why the Current Selloff in Big Tech Stocks Is a Springboard for a New Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=885da339b6356fe84851c4a8a2369b8bd618c49b628f2cd0fdb02040f82e4a26",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta\u2019s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=311c0b26643667338cf237cdb943203a4556eb34b17d1d6c795b70c9f04b2917",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something \u0243etter'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f5cd28768aa6f03d7487befb9b8d1c23a5cc4796d5c44bb122895f05778e9a1",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -149,11 +109,23 @@
       "direction": "up",
       "confidence": 60,
       "reason": "Buying opportunity",
-      "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
+      "headline": "Why July Could Be a Big Month for AMD Stock Investors",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
+      "url": "https://finnhub.io/api/news?id=b07473a196580869157d9d639bd5c276d2c4b52538fca0eb81a3f1849639e008",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Why July Could Be a Big Month for AMD Stock Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b07473a196580869157d9d639bd5c276d2c4b52538fca0eb81a3f1849639e008",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d437b7acf5bb75bc7655b1032de97f652a2c73e8024abcff79a68416e17916",
+          "used_by_ai": true
+        },
         {
           "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
           "source": "Yahoo",
@@ -161,28 +133,62 @@
           "used_by_ai": true
         },
         {
-          "headline": "Up 140% YTD, Three Catalysts Will Take AMD to New Highs In 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab4ad90a547e1d498cfb6ba7f31ffbe61633c5fcaadf247faf07bbb123d8a74d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67d437b7acf5bb75bc7655b1032de97f652a2c73e8024abcff79a68416e17916",
-          "used_by_ai": false
-        },
-        {
           "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0e747eda1ce757109ad3627b6fcac3db5afaf34274031044a18d2038aefc534f",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1f17ebe29ee33f8cd7a29acfb3e7d155288cfde37722b490e4681101fc03771e",
-          "used_by_ai": false
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Robotaxi developments",
+      "headline": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=869359d116d6a72aa6d0796282b513e21ee2fd653a09c3a75a625b4597d2d131",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=869359d116d6a72aa6d0796282b513e21ee2fd653a09c3a75a625b4597d2d131",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Here\u2019s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6f82f48a1bb0ffaa0c303056dc57cc411ecd996a7aabf17fd9e55d92104166a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why the Current Selloff in Big Tech Stocks Is a Springboard for a New Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=885da339b6356fe84851c4a8a2369b8bd618c49b628f2cd0fdb02040f82e4a26",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta\u2019s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=311c0b26643667338cf237cdb943203a4556eb34b17d1d6c795b70c9f04b2917",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something \u0243etter'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f5cd28768aa6f03d7487befb9b8d1c23a5cc4796d5c44bb122895f05778e9a1",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -193,8 +199,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Strong buy",
+      "confidence": 40,
+      "reason": "Arm buy",
       "headline": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3491ab125f792d968c93907aa22d7fec7237474cfc75a6c64f26bd8aff58268a",
@@ -210,30 +216,30 @@
           "headline": "1 Unstoppable Stock to Buy Before It Joins Google, Apple, Microsoft, and Nvidia in the $3 Trillion Club",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=31aea5b0e0cac6fae0bbf9191f956c11a39818e897d65d9f597d58a33b3b5623",
-          "used_by_ai": false
-        },
-        {
-          "headline": "It Quietly Exited Bitcoin Mining Last Year \u2014 Now This AI Supplier To Meta Is Chasing A $30 Billion Valuation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=204734aaccabaabe0fa55c7547a75d20a3288f05120c61b2486b74ca51916ad4",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 2
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "New rally",
-      "headline": "Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market report",
+      "headline": "The 1-Minute Market Report, July 4, 2026",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3d658c068dc57896be90bc333a0daa77faa9c1b1ec8a00a5d459019861eea029",
+      "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The 1-Minute Market Report, July 4, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
+          "used_by_ai": true
+        },
         {
           "headline": "Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake",
           "source": "SeekingAlpha",
@@ -241,28 +247,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "The 1-Minute Market Report, July 4, 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
-          "used_by_ai": false
-        },
-        {
           "headline": "The Hopium Around The AI Narrative Is Fading",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=2b9520f0f8f1cfb20e3ddeb06ee207852650759a54fb693446627415af2e830a",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Weekly Commentary: Our Semiquincentennial Gilded Age",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=bfc17136e91424f8e980df09a2399474e69e5f74d3836245d636e24c7599ae1b",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Financial Independence Day: How Many Reach $1 Million?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=ebdae752944b4c0bdc3f930ef4c371754e15293798ddb3b45efebc0d13a5ca01",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
