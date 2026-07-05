@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T20:59:48Z",
+  "updated_at": "2026-07-05T22:09:28Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,57 +12,11 @@
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Analyst prediction",
-      "headline": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11fe92703a6597c628a114a5176373a805f929a77c49082a3a69f9a6e90677a5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11fe92703a6597c628a114a5176373a805f929a77c49082a3a69f9a6e90677a5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9e31d6507c644c6a6a2fcdc1ab22ecad151db7b5ceca54125be0f018dbc13d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Smart Stocks to Buy Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19f4d8126c94e49251ab127ffe4f52432473ec57f2f0cbb6e70addc66dc1d105",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77a9163df4440cda3829b1cd0235d7e383fa1e4b94ca2739fc1d2a5302f12f9d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The AI Boom Runs on Debt. Global Regulators Want to Shut Off the Tap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a62d957405222d17e009d3e35875e6ebc9b0295a29210189f0571da7bc7e1101",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI industry growth",
+      "confidence": 80,
+      "reason": "AI industry story",
       "headline": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=828e1a6e4de2b41c811dd28001a681fae315bade14aff7f0ea8000139f870d2b",
@@ -104,10 +58,56 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 75,
+      "reason": "AI opportunities",
+      "headline": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77a9163df4440cda3829b1cd0235d7e383fa1e4b94ca2739fc1d2a5302f12f9d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77a9163df4440cda3829b1cd0235d7e383fa1e4b94ca2739fc1d2a5302f12f9d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=11fe92703a6597c628a114a5176373a805f929a77c49082a3a69f9a6e90677a5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9e31d6507c644c6a6a2fcdc1ab22ecad151db7b5ceca54125be0f018dbc13d6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Smart Stocks to Buy Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=19f4d8126c94e49251ab127ffe4f52432473ec57f2f0cbb6e70addc66dc1d105",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI Boom Runs on Debt. Global Regulators Want to Shut Off the Tap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a62d957405222d17e009d3e35875e6ebc9b0295a29210189f0571da7bc7e1101",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "AI and EV growth",
       "headline": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
       "source": "Yahoo",
@@ -147,8 +147,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth and competition",
+      "confidence": 70,
+      "reason": "AI growth story",
       "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
@@ -187,7 +187,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 65,
       "reason": "Market focus",
       "headline": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
       "source": "Yahoo",
@@ -233,8 +233,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Market volatility",
+      "confidence": 60,
+      "reason": "Liquidity drain",
       "headline": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a400ec21265bec4199d9f1356d47572d0984bd178fadfdfa3cee057640c4b6ff",
@@ -253,6 +253,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "JCE: Strong Total Returns With An Attractive Discount",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bd61e034eff9672a4778bed609952f03b336ca5a4b12070b61cdd2a88f6aeab4",
+          "used_by_ai": true
+        },
+        {
           "headline": "S&P500: Beware The Bull Flag (Technical Analysis)",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0d3f5cce74bf8142d86553ddd31a959a2dc9181f9f72d649893d3dbdc0ff03f3",
@@ -262,12 +268,6 @@
           "headline": "A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=77991d004265b9faa8337a7b1db8bb9c7a3d6cee24ea66b45857055f63db361c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sparks From The Warsh Fed",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=47203a5b79d4633fdeabb048b7db0560379431b1de55320dada6bed819a29496",
           "used_by_ai": true
         }
       ],
