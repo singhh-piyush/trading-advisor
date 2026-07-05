@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T19:50:21Z",
+  "updated_at": "2026-07-05T20:59:48Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,62 +12,22 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI earnings surge",
-      "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
+      "reason": "Analyst prediction",
+      "headline": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
+      "url": "https://finnhub.io/api/news?id=11fe92703a6597c628a114a5176373a805f929a77c49082a3a69f9a6e90677a5",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why e.l.f. Beauty Stock Jumped 32% in June",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=413f401183c018c0c87f3d5acb4fd7f99164829fbc451ca519e4a2545776f17c",
-          "used_by_ai": true
-        },
         {
           "headline": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=11fe92703a6597c628a114a5176373a805f929a77c49082a3a69f9a6e90677a5",
           "used_by_ai": true
         },
-        {
-          "headline": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5b4bd32f1ac573c71e1718675dd3e555a51d99da7dc78f39c8c677c6a3f58fa5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63942f889f5e1b1d38ea776e0deb5c3c9c1efecea3e905d6d204cb63eee9ced7",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Buy on 52-week low",
-      "headline": "Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f9e31d6507c644c6a6a2fcdc1ab22ecad151db7b5ceca54125be0f018dbc13d6",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors",
           "source": "Yahoo",
@@ -81,27 +41,85 @@
           "used_by_ai": true
         },
         {
+          "headline": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77a9163df4440cda3829b1cd0235d7e383fa1e4b94ca2739fc1d2a5302f12f9d",
+          "used_by_ai": false
+        },
+        {
           "headline": "The AI Boom Runs on Debt. Global Regulators Want to Shut Off the Tap",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a62d957405222d17e009d3e35875e6ebc9b0295a29210189f0571da7bc7e1101",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI industry growth",
+      "headline": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=828e1a6e4de2b41c811dd28001a681fae315bade14aff7f0ea8000139f870d2b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=828e1a6e4de2b41c811dd28001a681fae315bade14aff7f0ea8000139f870d2b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6708d5bd02a7e6db41d2f981c42f680ee1d423e846b9aca9f01f44b36b0d2b21",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's surprising product revival tells deeper AI industry story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2602a393bfd56ff76c797624e474f83818ea2beed25d2a1fd197994bdb21f800",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What a $1,000 Investment in a SpaceX Could Be Worth in 5 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce646142f28837689e9e72522a744e42e9155b5324f3557ddf2f95d1a342915c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "MercadoLibre and Walmart Are Both Down This Year. Which Stock Should Investors Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a0c01fbcb75725b573698fa3aaa7a31ab6a02aad656197708613baedd9431335",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 60,
-      "reason": "Mixed EV news",
-      "headline": "$4.1 Billion Deal Shows Why Ferrari and Tesla Are Ditching Copper for a Substitute",
+      "reason": "AI and EV growth",
+      "headline": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f12c10bd1a1e748b4db4a6c994f43aa86dec30dec888d1af556af10ad8a0507",
+      "url": "https://finnhub.io/api/news?id=5b4bd32f1ac573c71e1718675dd3e555a51d99da7dc78f39c8c677c6a3f58fa5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b4bd32f1ac573c71e1718675dd3e555a51d99da7dc78f39c8c677c6a3f58fa5",
+          "used_by_ai": true
+        },
         {
           "headline": "$4.1 Billion Deal Shows Why Ferrari and Tesla Are Ditching Copper for a Substitute",
           "source": "Yahoo",
@@ -119,12 +137,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=202185f92517a03f4d8f5c92db963bbe5a49a4dd08235ef87c4ab30739314063",
           "used_by_ai": true
-        },
-        {
-          "headline": "California vs. Elon Musk: Tesla Snubbed as New EV Incentives Boost Rivian, Lucid",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef663bc7af44fee73cba0a59d1b292b8c704941bf2d429316d26a6b8e89d56c4",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -136,12 +148,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI growth story",
-      "headline": "Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?",
+      "reason": "AI growth and competition",
+      "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4cdbe11b13277114dc23b5d540c7aa78b8f052b1f31e3977168af5ff1d6c1591",
+      "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
+          "used_by_ai": true
+        },
         {
           "headline": "Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?",
           "source": "Yahoo",
@@ -155,14 +173,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "Is AMD Stock a Buy Before July 22?",
+          "headline": "Micron Risks Falling Out of the Trillion-Dollar Club. AMD Stock Has a Clear Path to Joining.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c87f4484f59f6dec668ba70bed63bfdce150ce3ddc9d09e04ee573c1618c4e2",
+          "url": "https://finnhub.io/api/news?id=5fb4964dbb533d1d34d954081d415937f23476582322f8e11ae0b7d47c9135ba",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4
       }
     },
     {
@@ -170,12 +188,18 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "No-brainer stock",
-      "headline": "Here's Why Intel Stock Soared Last Month",
+      "reason": "Market focus",
+      "headline": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2bae4b13512ff344e8c29ef467ff5b050e78ded76ba6e2b1edf9564a2c7159c",
+      "url": "https://finnhub.io/api/news?id=d9eabb226c37b3c859b49810d5f1bc5e29df9cd8c2d5c6596c2d9f849a30a5c5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d9eabb226c37b3c859b49810d5f1bc5e29df9cd8c2d5c6596c2d9f849a30a5c5",
+          "used_by_ai": true
+        },
         {
           "headline": "Here's Why Intel Stock Soared Last Month",
           "source": "Yahoo",
@@ -202,24 +226,36 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Liquidity drain",
-      "headline": "Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
+      "confidence": 40,
+      "reason": "Market volatility",
+      "headline": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb3c049ba154c596b399c758bd146b34160d1d3503fb02e493e73a28cfa26171",
+      "url": "https://finnhub.io/api/news?id=a400ec21265bec4199d9f1356d47572d0984bd178fadfdfa3cee057640c4b6ff",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a400ec21265bec4199d9f1356d47572d0984bd178fadfdfa3cee057640c4b6ff",
+          "used_by_ai": true
+        },
         {
           "headline": "Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=eb3c049ba154c596b399c758bd146b34160d1d3503fb02e493e73a28cfa26171",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P500: Beware The Bull Flag (Technical Analysis)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0d3f5cce74bf8142d86553ddd31a959a2dc9181f9f72d649893d3dbdc0ff03f3",
           "used_by_ai": true
         },
         {
@@ -233,23 +269,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=47203a5b79d4633fdeabb048b7db0560379431b1de55320dada6bed819a29496",
           "used_by_ai": true
-        },
-        {
-          "headline": "The Millionaire Boom Is Real - But So Is The Market Trap",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ff5715be45cdc0bfbe1947d7c1a3c128adcc04ba5050275048a871ec0c627c1f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Buy These 2 Durable Income Hedges Against The AI Sell-Off",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=da4e27bc322b2a01344d47b32dbeb18ac50845254701a31dabba8cd06b1c7707",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 4
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     }
   ]
