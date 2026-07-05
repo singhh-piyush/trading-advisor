@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T11:54:03Z",
+  "updated_at": "2026-07-05T13:39:03Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,147 @@
     "AMD",
     "SPY"
   ],
-  "count": 8,
+  "count": 7,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Surging sales",
+      "headline": "Nvidia Supplier Hon Hai Reports Surging Sales on Solid AI Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1757e92863383ad19078e8353348d646cd1c4ceab40374c180f237cdd24894e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia Supplier Hon Hai Reports Surging Sales on Solid AI Demand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d1757e92863383ad19078e8353348d646cd1c4ceab40374c180f237cdd24894e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Where Will Solana Be in 20 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a6202388f087291e5524913d110e66145d6894644eb6aa009f017a5b6651b39b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why CoreWeave Stock Plummeted This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a06afbdb361708f162603905ba75ac5b924e8d602e4bf172db67dddac9a546c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Dutch Bros Stock Just Hit a 52-Week High. 3 Reasons Why It's Still a Great Buy in July.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eaec5cd1ab77f1a48487fc6d1b6fc564a256cec3b5341aaf73cfd2212befe315",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Down 13% in 1 Month, Is Amazon a Buy, or Is the Worst Still to Come?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54c56f69a455b7ac6394a8acf9f48741a67a97bee461acb777a4ea3fd8d91fd5",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "Beats NVDA returns",
+      "headline": "AMD Beats NVDA in 1H26 Returns. Here\u2019s What's Next for 2H26.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b3538364024153874362e0b6c7339344ede360a3ad850f634caba5313268e57",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD Beats NVDA in 1H26 Returns. Here\u2019s What's Next for 2H26.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b3538364024153874362e0b6c7339344ede360a3ad850f634caba5313268e57",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is AMD Stock a Buy Before July 22?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c87f4484f59f6dec668ba70bed63bfdce150ce3ddc9d09e04ee573c1618c4e2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why July Could Be a Big Month for AMD Stock Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b07473a196580869157d9d639bd5c276d2c4b52538fca0eb81a3f1849639e008",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d437b7acf5bb75bc7655b1032de97f652a2c73e8024abcff79a68416e17916",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Stock stumbled",
+      "headline": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=117910544e259fdf1ef4a162741c79985c70fd679bd1044c3d49f089a54e6881",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=117910544e259fdf1ef4a162741c79985c70fd679bd1044c3d49f089a54e6881",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0b4b5920db97241f95c77890bcd0ce1521ed4cf9d8d926831f6eb4a2b11d6eb",
+          "used_by_ai": false
+        },
+        {
+          "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood buys $38.1 million of tumbling megacap stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6a2476f300789cf1c764bef056cb89b5b09b95dbc9a8663f9eb3ccf1acb3b8b",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Potential IPO gain",
+      "confidence": 50,
+      "reason": "OpenAI IPO",
       "headline": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d94bc61ade03ff57624bdaca59b961082038eeb398deb7f57b70084654824cd0",
@@ -29,12 +161,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia (NVDA) Backs Verkada And Brings In A Microsoft Veteran To Lead Sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b13333875bf3e3c3e8afeeb55b8817d089b3c8c1ba6f5e7c5078a19b4c5e059a",
-          "used_by_ai": true
-        },
-        {
           "headline": "2 Dividend Growth Stocks The Market Is Dismissing, But I'm Buying Aggressively",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=65dba66d2ba35a93cb5dcdf6b121ec36dcaddaf320fe612cdfe9873b49b33dc7",
@@ -42,160 +168,16 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
+        "Yahoo": 1,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Negative investor sentiment",
-      "headline": "Why Robinhood Stock Dropped 11% in the first half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d76b1584df8dc785e8b5f6988612c93a78ac0163582348530838136ede0bb6e2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Robinhood Stock Dropped 11% in the first half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d76b1584df8dc785e8b5f6988612c93a78ac0163582348530838136ede0bb6e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Dividend Stocks That Could Be Easy Wealth Builders",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93578d95a8142bfcd7e8fa3176c1a6517ff843a4d92a82e2a67e7c1b825a06df",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8182075ffec00989e7ba4f639cb1fe3877bd641f7876d6828d9379c562869b0e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95d7a5512eca648a010abff3676b4cb2028483fd47adc51bcd67e28f30b99672",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: Netflix Stock Is Going to Soar After July 16",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04c08185c569e0678cc3a623451985cb4f76658d1915ccf65cd483ed077908ea",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 6
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Investor bet against",
-      "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cathie Wood buys $38.1 million of tumbling megacap stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6a2476f300789cf1c764bef056cb89b5b09b95dbc9a8663f9eb3ccf1acb3b8b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=117910544e259fdf1ef4a162741c79985c70fd679bd1044c3d49f089a54e6881",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=869359d116d6a72aa6d0796282b513e21ee2fd653a09c3a75a625b4597d2d131",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Here\u2019s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6f82f48a1bb0ffaa0c303056dc57cc411ecd996a7aabf17fd9e55d92104166a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Positive investor sentiment",
-      "headline": "Is AMD Stock a Buy Before July 22?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c87f4484f59f6dec668ba70bed63bfdce150ce3ddc9d09e04ee573c1618c4e2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Is AMD Stock a Buy Before July 22?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c87f4484f59f6dec668ba70bed63bfdce150ce3ddc9d09e04ee573c1618c4e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why July Could Be a Big Month for AMD Stock Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b07473a196580869157d9d639bd5c276d2c4b52538fca0eb81a3f1849639e008",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Beats NVDA in 1H26 Returns. Here\u2019s What's Next for 2H26.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b3538364024153874362e0b6c7339344ede360a3ad850f634caba5313268e57",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67d437b7acf5bb75bc7655b1032de97f652a2c73e8024abcff79a68416e17916",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "New product plans",
+      "confidence": 45,
+      "reason": "New iPhones",
       "headline": "Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=50621df6190846e393895ff98d11006a4b215bbe4450b79d0bd0975cf8c3c9d8",
@@ -208,155 +190,46 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple (AAPL) Plans 10 Million Foldables And An iPhone Ultra Push",
+          "headline": "Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the \"Magnificent Seven\" Stocks in July?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2e6a69ed9ab74774e5de0599c2ea2ee2c23466dd3cb7790cbc082b566c30faa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Can't Thrive Without This Stock (Hint: It's Not Nvidia)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=244e85f433fd90adb7443b4bc9c98945cfe2c8df23946dce51dbd4b6fe7f79d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett's Berkshire Hathaway Owns $41 Billion of Alphabet Stock: Here Are 3 Possible Reasons Why",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40634b645076774e7b8d95e5e8c2a6cb59753eb35f66a35dc7f85f40e8b84dae",
+          "url": "https://finnhub.io/api/news?id=c220cc5b5c6f02cbfe400c950d11954630c6aa8e643aff89e0c43ec1f5adff5a",
           "used_by_ai": false
         },
         {
-          "headline": "DGRO vs. VIG: Which Dividend-Growth ETF Compounds Your Income Faster?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=52d5d92e05d65b0972de927cef6c58a4e32799a0ed7eae0f300985aa0a02300a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Positive news from CEO",
-      "headline": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95d7a5512eca648a010abff3676b4cb2028483fd47adc51bcd67e28f30b99672",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95d7a5512eca648a010abff3676b4cb2028483fd47adc51bcd67e28f30b99672",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Robinhood Stock Dropped 11% in the first half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d76b1584df8dc785e8b5f6988612c93a78ac0163582348530838136ede0bb6e2",
+          "headline": "Mid-Year 2026 Market Outlook: Oil, Gold, And Copper",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=904db13d0633662ed71f952f6f828927be7107114dc2db69df58b0be0a212c89",
           "used_by_ai": false
         },
         {
-          "headline": "3 Dividend Stocks That Could Be Easy Wealth Builders",
+          "headline": "Nvidia Supplier Hon Hai Reports Surging Sales on Solid AI Demand",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93578d95a8142bfcd7e8fa3176c1a6517ff843a4d92a82e2a67e7c1b825a06df",
+          "url": "https://finnhub.io/api/news?id=d1757e92863383ad19078e8353348d646cd1c4ceab40374c180f237cdd24894e",
           "used_by_ai": false
         },
         {
-          "headline": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8182075ffec00989e7ba4f639cb1fe3877bd641f7876d6828d9379c562869b0e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: Netflix Stock Is Going to Soar After July 16",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04c08185c569e0678cc3a623451985cb4f76658d1915ccf65cd483ed077908ea",
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e1484bac8e16dbda455fb97bb4007cad530b3e13d3bdbd81aa57edd4b424aa5f",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Positive outlook",
-      "headline": "Cathie Wood buys $38.1 million of tumbling megacap stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b6a2476f300789cf1c764bef056cb89b5b09b95dbc9a8663f9eb3ccf1acb3b8b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cathie Wood buys $38.1 million of tumbling megacap stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6a2476f300789cf1c764bef056cb89b5b09b95dbc9a8663f9eb3ccf1acb3b8b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here\u2019s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6f82f48a1bb0ffaa0c303056dc57cc411ecd996a7aabf17fd9e55d92104166a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=117910544e259fdf1ef4a162741c79985c70fd679bd1044c3d49f089a54e6881",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=869359d116d6a72aa6d0796282b513e21ee2fd653a09c3a75a625b4597d2d131",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Bullish market outlook",
-      "headline": "The Millionaire Boom Is Real - But So Is The Market Trap",
+      "confidence": 40,
+      "reason": "Bull market",
+      "headline": "This Bull Market Should Charge Into 2027",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ff5715be45cdc0bfbe1947d7c1a3c128adcc04ba5050275048a871ec0c627c1f",
+      "url": "https://finnhub.io/api/news?id=65ff0a65638cbefae4c720962864ccc3a8462488e73575000042bdee28aebe22",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "The Millionaire Boom Is Real - But So Is The Market Trap",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ff5715be45cdc0bfbe1947d7c1a3c128adcc04ba5050275048a871ec0c627c1f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Buy These 2 Durable Income Hedges Against The AI Sell-Off",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=da4e27bc322b2a01344d47b32dbeb18ac50845254701a31dabba8cd06b1c7707",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Mag 7 Stocks: Risk Or Opportunity In The Making?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=74679567367a2e49618ffbdfbf7ef5444418d4d1138f4817c6f909ba2045ddab",
-          "used_by_ai": true
-        },
         {
           "headline": "This Bull Market Should Charge Into 2027",
           "source": "SeekingAlpha",
@@ -364,14 +237,78 @@
           "used_by_ai": true
         },
         {
-          "headline": "The 1-Minute Market Report, July 4, 2026",
+          "headline": "Sparks From The Warsh Fed",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=47203a5b79d4633fdeabb048b7db0560379431b1de55320dada6bed819a29496",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Millionaire Boom Is Real - But So Is The Market Trap",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ff5715be45cdc0bfbe1947d7c1a3c128adcc04ba5050275048a871ec0c627c1f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Buy These 2 Durable Income Hedges Against The AI Sell-Off",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=da4e27bc322b2a01344d47b32dbeb18ac50845254701a31dabba8cd06b1c7707",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mag 7 Stocks: Risk Or Opportunity In The Making?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=74679567367a2e49618ffbdfbf7ef5444418d4d1138f4817c6f909ba2045ddab",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Buying opportunity",
+      "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is AMD Stock a Buy Before July 22?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c87f4484f59f6dec668ba70bed63bfdce150ce3ddc9d09e04ee573c1618c4e2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why July Could Be a Big Month for AMD Stock Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b07473a196580869157d9d639bd5c276d2c4b52538fca0eb81a3f1849639e008",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD Beats NVDA in 1H26 Returns. Here\u2019s What's Next for 2H26.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b3538364024153874362e0b6c7339344ede360a3ad850f634caba5313268e57",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d437b7acf5bb75bc7655b1032de97f652a2c73e8024abcff79a68416e17916",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     }
   ]
