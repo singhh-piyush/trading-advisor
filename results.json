@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:55:05Z",
+  "updated_at": "2026-07-07T21:24:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,96 +8,160 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Multiple AI mentions",
-      "headline": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=1c6e56e01538f2129725a1a2245a56483aab3fa381ee0e06751530a6743d1d38",
+      "confidence": 70,
+      "reason": "Traders bet on rally",
+      "headline": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1c6e56e01538f2129725a1a2245a56483aab3fa381ee0e06751530a6743d1d38",
+          "headline": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html",
           "used_by_ai": true
         },
         {
-          "headline": "Most active stocks in Tuesday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5df0afbf999a19d7c833bf6e681db4eb9a871138469ce1c44a9ad0f6ff66e543",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Ford Vs. Tesla: 2 American Icons With Upside, Which to Buy",
+          "headline": "Semtech, Power Integrations, Amkor, Entegris, and Kulicke and Soffa Stocks Trade Down, What You Need To Know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e3c8d7a00ab1bca69620b0974af08f10d2138683d1a9fac69debce08a935476",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=0411c41b342896910d2b5473c2fda5c71024ddd2da5e7cbaddf15ba9784c3ee7",
+          "used_by_ai": false
         },
         {
-          "headline": "Wall Street Just Called SpaceX the \u2018Apex of Civilizational Ambition\u2019 and Slapped an $800 Target on It",
+          "headline": "DeepSeek's chip effort inevitable amid AI race, market expert says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42d1c9edcdac5b3c00e98f8c32ed053e2cf0e4e933e090b05822fcd190f0891d",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=7d8b4414b12761f5570ffacd12b9b3a3b333370bc74221196e3abcbb5030f921",
+          "used_by_ai": false
         },
         {
-          "headline": "The Best Memory Stock to Buy in July Isn't Micron or Sandisk. It Is This Trillion-Dollar Giant",
+          "headline": "Jensen Huang\u2019s Worst Nightmare is Becoming a Reality",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63507242b74da9e20b541ca01ce1f37b3387500e91339cf3b9373ce7a0deef68",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=0391c60fc9b10073fd4da2ca6eae15d99d78e972d173fdb39330f52dabfb6fc3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "FormFactor, Penguin Solutions, Western Digital, Applied Materials, and KLA Corporation Shares Plummet, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82b4168b412b3ebbeb69995fb7daefd3f85e88b7b6893233c19887ac6795a0c1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why ASML Stock Dropped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=557f6993551dcf445d31c65ab3c1f96d2a6dcbb7903127982bfc324bca655a60",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 2,
-        "Yahoo": 3
+        "CNBC": 1,
+        "Yahoo": 5
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI and merger news",
-      "headline": "Tesla's Self-Driving Story Faces New Test",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Chip sector struggles",
+      "headline": "Semtech, Power Integrations, Amkor, Entegris, and Kulicke and Soffa Stocks Trade Down, What You Need To Know",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20aff6b280e1f80a7c0adbc321de63d35867301ea4cc66e4d4cbd9b6360ca7da",
+      "url": "https://finnhub.io/api/news?id=0411c41b342896910d2b5473c2fda5c71024ddd2da5e7cbaddf15ba9784c3ee7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla's Self-Driving Story Faces New Test",
+          "headline": "Semtech, Power Integrations, Amkor, Entegris, and Kulicke and Soffa Stocks Trade Down, What You Need To Know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20aff6b280e1f80a7c0adbc321de63d35867301ea4cc66e4d4cbd9b6360ca7da",
+          "url": "https://finnhub.io/api/news?id=0411c41b342896910d2b5473c2fda5c71024ddd2da5e7cbaddf15ba9784c3ee7",
           "used_by_ai": true
         },
         {
-          "headline": "JPMorgan on SpaceX-Tesla merger: strategically sound but overly complex",
+          "headline": "DeepSeek's chip effort inevitable amid AI race, market expert says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c42e5951035823c506d3c83e6c559b9c165b98eca018242bf5a03aab5a3de9d6",
+          "url": "https://finnhub.io/api/news?id=7d8b4414b12761f5570ffacd12b9b3a3b333370bc74221196e3abcbb5030f921",
           "used_by_ai": true
         },
         {
-          "headline": "Elon Musk and Tesla announce serious AI changes for workers",
+          "headline": "Jensen Huang\u2019s Worst Nightmare is Becoming a Reality",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e91f26f2bf3f74e83509025b4fe8c54ff59b0de5339962a5bb1354ecbb8096ba",
+          "url": "https://finnhub.io/api/news?id=0391c60fc9b10073fd4da2ca6eae15d99d78e972d173fdb39330f52dabfb6fc3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "FormFactor, Penguin Solutions, Western Digital, Applied Materials, and KLA Corporation Shares Plummet, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82b4168b412b3ebbeb69995fb7daefd3f85e88b7b6893233c19887ac6795a0c1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why ASML Stock Dropped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=557f6993551dcf445d31c65ab3c1f96d2a6dcbb7903127982bfc324bca655a60",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Chip sector struggles",
+      "headline": "Chip Stocks Just Flashed a Warning Even Wall Street\u2019s Bulls Can\u2019t Ignore",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8167ee2619a1ca9060d98bc5c7ee9a7ded588bbabf1d5d4157dab3f01d5638f5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Chip Stocks Just Flashed a Warning Even Wall Street\u2019s Bulls Can\u2019t Ignore",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8167ee2619a1ca9060d98bc5c7ee9a7ded588bbabf1d5d4157dab3f01d5638f5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia and AMD Face China Chip Pressure",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4fa733f32f6f34bfcc5c228c7fdf903f109972bf9d3f0d1a3e308423bdffb9c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Perplexity says it plans to use Nvidia's new CPU",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9cd4613feaad06402ce05c857e20be64abfe6e73aaa6c9a23665594c11d506bd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Update: Chip Stocks Weigh on Equities Intraday; Oil Rises on Hormuz Tensions",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=43424fdf0726b3eb8a69490b7443df2a3649fe0a74bcc7779c0f5205f2498b46",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel, Micron, SpaceX, GE Vernova, Caterpillar, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef11a5a3b4817e14114eb078498a838374c625f3c645224655ea99208a1d38c4",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI strategy and game development",
+      "confidence": 60,
+      "reason": "AI investments and cost savings",
       "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=8b4af97dddd3317a50c1206ecb3fecd7ad2f983ec27a7e1c72a78c4e14a73ff1",
@@ -110,121 +174,74 @@
           "used_by_ai": true
         },
         {
-          "headline": "The implications of Amazon's $25B bond sale, and Microsoft's evolving AI model strategy",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/07/the-implications-of-amazons-25b-bond-sale-and-microsofts-evolving-ai-model-strategy.html",
+          "headline": "Microsoft\u2019s $37 Billion AI Number Is Staggering",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3db37faf7e30f7cb92631d69b8a300ef42f1d8091e37efddd898298824641c55",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft dashes game developer dreams",
+          "headline": "MSFT Stock Jumps 2% \u2014 Microsoft Looks To Save Cost By Reportedly Swapping OpenAI, Anthropic Models For In-House AI",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8923e4ed81563fc520c322aedea9ee55dca2663987674e889e3d81fd75f8501",
+          "url": "https://finnhub.io/api/news?id=fa674cac943326a6219140ea0446fb5676531cd9506e69ba354d8f2646a08bdb",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft edges higher as in-house AI push takes aim at copilot costs",
+          "headline": "SailPoint and the Rise of AI Agents in Identity Security: What's Ahead?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=611bc0476a37eee5999ba0b70f34570fb79a076f7c35ca55bd2e3575f6e552a8",
+          "url": "https://finnhub.io/api/news?id=98ff1ffea9102ddbbfe0f61bbf0dcadec2134a53a84005cfd7cb660a2e2884ca",
           "used_by_ai": true
         },
         {
-          "headline": "Down Nearly 12% in June, This \"Magnificent Seven\" Stock Is a No-Brainer Buy Right Now",
+          "headline": "Anthropic Is Closing the Doors To Chinese Engineers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e141c4a52c50c2ed867a4a6bfb04103a30fbcb4d280dd3019de98aa7396d5e3",
+          "url": "https://finnhub.io/api/news?id=4a1e0749f6911761a1d1577f5d46bd6f15e8579a75fd3027387e29ccbf689cca",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
-        "CNBC": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Semiconductor and AI trends",
-      "headline": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63a68481b50cc7f305350ff10526f63c70ff893f72d3053327dfc7fd6f330541",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63a68481b50cc7f305350ff10526f63c70ff893f72d3053327dfc7fd6f330541",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Up 102% in 2026, This Chip ETF Mysteriously Avoids Taiwan Semiconductor",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a6d51cee1bc5bb45e5cabbace9260cd7aaa3e4371b07621deddb09794b040b5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bank of America Analyst: AI Is Becoming \u201cDeeply Embedded in Enterprise Workflows\u201d as AI Spending Could Reach $1.5 Trillion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb42abb2825e504bbced62961c50e49158ea87b4f0af6ba52d532b55f2398efe",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia and AMD Face Fresh China Threat as AI Buyers Shift to Local Chips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54d8fc731986f7153026e9b3daf15b3a99d16b5abab06c781b1294238e08c5a9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cerebras Drops 19% in a Month: Buy, Sell or Hold the CBRS Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=631fa33227b9bfeddd02b720690a5ad5c58abf597d2e2e1a850f3d602e6c26b2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "down",
+      "direction": "neutral",
       "confidence": 50,
-      "reason": "App Store growth slows",
-      "headline": "Ondo Unveils Perps DEX With Tokenized Stocks as Collateral",
+      "reason": "IPO and supply chain news",
+      "headline": "Luxshare Raises $3.1 Billion in Hong Kong's Biggest IPO of the Year",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=27f77f4a08dc051d7170c53fdb26be05dc6c2f9553be25a214c97dbd8db78928",
+      "url": "https://finnhub.io/api/news?id=aefbb75fd13c35f61128fa8291bba4f6461c4b4e6c845ebb0a031e388d421e43",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Ondo Unveils Perps DEX With Tokenized Stocks as Collateral",
+          "headline": "Luxshare Raises $3.1 Billion in Hong Kong's Biggest IPO of the Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27f77f4a08dc051d7170c53fdb26be05dc6c2f9553be25a214c97dbd8db78928",
+          "url": "https://finnhub.io/api/news?id=aefbb75fd13c35f61128fa8291bba4f6461c4b4e6c845ebb0a031e388d421e43",
           "used_by_ai": true
         },
         {
-          "headline": "Up 14.81% in a Year, COWZ Proves You Don\u2019t Need Apple",
+          "headline": "Ondo launches the first platform to trade U.S. stock perps with tokenized shares as collateral",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1b7226c7470e60c539936503cc839a5c021284725a64aaa897459350b6d3523",
+          "url": "https://finnhub.io/api/news?id=4b781f263aa59e10685841f0ce521acc7bd6f7aecbd5dcfdf91734246bf80021",
           "used_by_ai": true
         },
         {
-          "headline": "Apple App Store growth slows in June quarter, UBS analysis shows",
+          "headline": "Micron Vs. Apple: Why MU Is Still The Better Buy Between These Tech Giants",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b818dfa6f3628ab8b358650bdb2d16ce15f0c65a24cf02b8ce46538a6fa263b",
+          "url": "https://finnhub.io/api/news?id=847c400d071011f3b81f696139d90343975e82a2b641cac4ed91767748550cda",
           "used_by_ai": true
         },
         {
-          "headline": "Why I Can\u2019t Stop Buying Apple Before July 30th",
+          "headline": "Memory Chip Crunch Deepens as SEMI Warns Washington",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c9e66001ddf8172e71f9308123eb9d36360f4ac42b55a38841f1c8c2b92a06c",
+          "url": "https://finnhub.io/api/news?id=111b104b858aa9a6dd6ac88e3d585f4d097d3c42be9c19b43ae48c0e7dd0bf50",
           "used_by_ai": true
         },
         {
-          "headline": "Samsung Falls Despite Huge Profit Surge",
+          "headline": "QQQ, Meet IQQ. BlackRock Is Launching a Cheaper Nasdaq-100 ETF.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2591a4b0f18f5451f17a5ea56f1708e87df87231b5baef155736008ef4603ddd",
+          "url": "https://finnhub.io/api/news?id=1d8e66efb2485ec6da147c32c168d828dbca0278501e868a441d719d320306a7",
           "used_by_ai": true
         }
       ],
@@ -233,16 +250,62 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "S&P 500 trends and predictions",
-      "headline": "Yardeni: AI is the real deal, not a bubble; targets S&P 500 at 8,250 by year-end",
+      "reason": "Potential SpaceX merger",
+      "headline": "Veteran Bank Revamps Tesla Stock Price Target on Potential SpaceX Merger",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a3869e4c2ce76820f1337b9ba985513358166c88c898185b18d0988d01e8a66",
+      "url": "https://finnhub.io/api/news?id=fd55b33d009ff946a7bc3f5311a4cdf4a1b9900499091b17aec0acc8f30a8f5e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Veteran Bank Revamps Tesla Stock Price Target on Potential SpaceX Merger",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd55b33d009ff946a7bc3f5311a4cdf4a1b9900499091b17aec0acc8f30a8f5e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stocks making big moves yesterday: Boeing, Lincoln Financial Group, Dell, NN, and Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc65378774a3606baca642f6f68fb83de31c0b9c74d36d2c5471b19036863b86",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Binance Expands bStocks After $193 Million Debut, but Warning Signs Emerge",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de911d428f0bd553df417921484f4c2216a9a86868176168fe09e26ac86df569",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jason Calacanis Calls Sundar Pichai 'an Amazing American,' Thanks Trump for Backing High-Skilled Immigration",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=531cdefaf9d182767deea557f4196876079a76b54d63f0f1b335eb01c9e9d3a5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Leverage and market concerns",
+      "headline": "Goldman\u2019s Top Strategist Sees a Dangerous Amount of Leverage Piling Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b1402624b0e68b32590fcf56ac583f063a81fd53c664c2abd692fe33408befc",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Goldman\u2019s Top Strategist Sees a Dangerous Amount of Leverage Piling Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b1402624b0e68b32590fcf56ac583f063a81fd53c664c2abd692fe33408befc",
+          "used_by_ai": true
+        },
         {
           "headline": "Yardeni: AI is the real deal, not a bubble; targets S&P 500 at 8,250 by year-end",
           "source": "Yahoo",
@@ -250,34 +313,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "July Is the S&P 500's Best Month: These 5 Tech Stocks Beat the Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a82e9fefca420a06e59ae2ddfbf8fec55ef2f6a8b75ed4ecf70cb94fd5b64ba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Regression To Trend: S&P Composite 207% Above Trend In June",
+          "headline": "JEPI: Huge 8% Yield For When The Market Stops Soaring",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6d49622e3b2dc9a100e44701e8b3b7ad15cdd5a178f65f2f46f3824a553b1068",
+          "url": "https://finnhub.io/api/news?id=b205012810c70db028f39d46b1ab8387f85937cd0b7a331283d9702609170c93",
           "used_by_ai": true
         },
         {
-          "headline": "Samsung Selloff Sends Warning To US Investors; Amazon Enters AI Debt Binge",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=569b1253d52b138448798a16bfdc34eb7de8f4d867e592000ca718829053e09d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq Dominates Again, Falling After Samsung's Blockbuster Estimates",
+          "headline": "Wall Street Lunch: We Are In A Bubble",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7e060eb12c6fd43aaec8f4d0bf87b4e3c6a274166a7322ebf65d8e119354993d",
+          "url": "https://finnhub.io/api/news?id=62506e0cac1af87a188f2c3186c6f161e9e4c9009daf93e3c74172783c2130ae",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
-        "SeekingAlpha": 2,
-        "Benzinga": 1
+        "SeekingAlpha": 2
       }
     }
   ]
