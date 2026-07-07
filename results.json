@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T15:26:58Z",
+  "updated_at": "2026-07-07T17:33:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,225 +8,127 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI costs rising",
+      "headline": "SoFi Survived the Short Sellers. Has the Stock Finally Bottomed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ff8d6790ae269a7601bdc20614d1ea1ff96dc9fea40ead832ea047681033414",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SoFi Survived the Short Sellers. Has the Stock Finally Bottomed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ff8d6790ae269a7601bdc20614d1ea1ff96dc9fea40ead832ea047681033414",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Top Midday Stories: Amazon Seeking at Least $25 Billion From US Bond Sale; Fiserv Explores Sale of STAR Debit Network",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f1ee1f2e8c1fd17d1633be73a2c1668c06c85cf4fbafeaf8fcc4f8d5c6c0829f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon Readies $25 Billion Bond With AI Costs Rising",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=02b99b1b3c3bb6aeccac32efbb3694730e8feecd56e3b0b762690d56f132cf7c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Prediction for AMD Stock Over the Next 5 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ed90d9c2133d48063877fd6822ffac050a3cdef9ba3c5ed829334953d572eb4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mastercard Vs. Paypal: The Argument Over Which Undervalued Fintech To Buy Has a Clear Cut Answer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c40c241e13f51417e42637251021c2203671c9698342ddc83b62ccb0f05b6501",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "RBC raises price target",
-      "headline": "RBC raises Tesla price target on potential SpaceX deal speculation (TSLA)",
+      "confidence": 50,
+      "reason": "Growth potential",
+      "headline": "Tesla\u2019s $500 Billion Question: Can Growth Justify the Valuation?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5781e0e0b7c666d3929040c7fd465de36b03dddc4aa19e792465704d2fd91a6",
+      "url": "https://finnhub.io/api/news?id=aad210a0bed141368a11cc79a48aa6c239c9123ab3690953e7bfeb007517f8bf",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "RBC raises Tesla price target on potential SpaceX deal speculation (TSLA)",
+          "headline": "Tesla\u2019s $500 Billion Question: Can Growth Justify the Valuation?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5781e0e0b7c666d3929040c7fd465de36b03dddc4aa19e792465704d2fd91a6",
+          "url": "https://finnhub.io/api/news?id=aad210a0bed141368a11cc79a48aa6c239c9123ab3690953e7bfeb007517f8bf",
           "used_by_ai": true
         },
         {
-          "headline": "Why Analysts Prefer SpaceX to Tesla Stock",
+          "headline": "Rivian Craters 14% on 75M Share Offering, Lucid Falls 9% as EV Rally Reverses",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e03eed3050817031881e48855569f7bef5ef16a388cb8bc964b7709426379ee9",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ff36510754a1eefd3fc4fd7ad16ff8ec36a23181e91e1a6f80cdb2c6f007164e",
+          "used_by_ai": true
         },
         {
-          "headline": "Does ARKW's History Reward Buying This Dip?",
+          "headline": "Forget EVs \u2014 Tesla\u2019s Biggest Growth Engine Is Hiding in Plain Sight",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27436cd19e1e70417efad4cb495980e0b408529aaf29da7c3d827e6fb670dcf7",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=e1d531d499b8e069cb61b4faa282627e2fb7931ae6d3a2951650b8c8ae3179cd",
+          "used_by_ai": true
         },
         {
-          "headline": "Rivian's Good Day Came With a Price Tag",
+          "headline": "Ondo Perps Pushes Tokenized Stocks Into 20x Leveraged Trading",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29410c4f3fa85579af01f31e21429d97fecab0753bdbd071cff154a93362930c",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=73ccaa1aea8b60a1623f370194eeb74a92408f31d59ee001cfc58e47318648a7",
+          "used_by_ai": true
         },
         {
-          "headline": "How Time Re-Prices Tesla Stock For Patient Investors",
+          "headline": "SpaceX to join the Nasdaq 100: How Wall Street feels about the Elon Musk story",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=288abc74f62e9c8c817335a338ea73010257e7842abb4463f541da166bcf43e5",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=d68847c484d4e4f02da44c0a056b32c2820ff99a6c6242482b0596081fd20ed7",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Benefits from supply shortage",
-      "headline": "How Apple Can Actually Benefit From the Memory Supply Shortage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=491c846be553fc0b485e73c77d3af623c636d38c9b2101ec61a35aed98f63802",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "How Apple Can Actually Benefit From the Memory Supply Shortage",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=491c846be553fc0b485e73c77d3af623c636d38c9b2101ec61a35aed98f63802",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq Slides As Samsung Tumbles On Earnings; Micron, Sandisk Lose Big (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0add1b096141ec74b3d6cd8f42c09bb8ff6335d4e57ffb6497dbd39245915f1b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Unimicron Seeks $1.4 Billion After 700% AI Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=78d84d969920502afe2b3152895b1d7854110ba3128075b5cffc076517d597b5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Leverage Shares by Themes Expands Tech Offering with Six New Single-Stock Leveraged ETFs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=090103e8dadbe01c63d89eb42acc8df89c3af33730b11b9e5ece83ded50f5617",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Joins the Nasdaq-100. What the Fast-Track Addition Means for the Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=52eb9e37013df18123c3d5a428e6313a510fe02ab60dd7ef04a0deb87aa6227e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Lags chip rally",
-      "headline": "Nvidia Lags Chip Rally on Rack Delay Worries",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92b505dac5aea9718e3ecba73ab65ed4ca52492ff2cdfbfb101d6a279958ecd5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia Lags Chip Rally on Rack Delay Worries",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92b505dac5aea9718e3ecba73ab65ed4ca52492ff2cdfbfb101d6a279958ecd5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can Micron Technology Become the New Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0f3f83296df884fae64921e14a4e3d70ba4cf6f8dbf7be455952adc0920bf97",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Here's What Wall Street Must See Before Palantir Stock Can Rally Again",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79e42225ada4e56d07ea72fa20fb9179c12c9552ef3b8a9bcc7bfa2d32c92018",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMD Surges on Fresh Tailwinds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a7a4664d5015639a72c296b72c04b12832b2590fcf63d7aeefa72e51f8fec78",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
+      "direction": "down",
       "confidence": 50,
-      "reason": "Gains from Nvidia dependence",
-      "headline": "AMD Stock Rises as Self-Driving Startup Cuts Nvidia Dependence",
+      "reason": "Chip selloff",
+      "headline": "Micron, Chip Stocks Fall Despite Samsung Profit Surge",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3aa453ba9d94b1214efc71cdee8ba8c6d9e917eb20bb7d5706f5840624d3a1f4",
+      "url": "https://finnhub.io/api/news?id=94c5409fcc47bd647a1e52086a47606bbd89fa74b7b794682f23ae9d02515747",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD Stock Rises as Self-Driving Startup Cuts Nvidia Dependence",
+          "headline": "Micron, Chip Stocks Fall Despite Samsung Profit Surge",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aa453ba9d94b1214efc71cdee8ba8c6d9e917eb20bb7d5706f5840624d3a1f4",
+          "url": "https://finnhub.io/api/news?id=94c5409fcc47bd647a1e52086a47606bbd89fa74b7b794682f23ae9d02515747",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Surges on Fresh Tailwinds",
+          "headline": "Intel, Micron, SpaceX, Rivian, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a7a4664d5015639a72c296b72c04b12832b2590fcf63d7aeefa72e51f8fec78",
+          "url": "https://finnhub.io/api/news?id=e2334506189b80ac56fdbf4fc23f9e6b5aefc2a67f12f9de9d68a7c07a40d132",
           "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Lags Chip Rally on Rack Delay Worries",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92b505dac5aea9718e3ecba73ab65ed4ca52492ff2cdfbfb101d6a279958ecd5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Update: Tech Stock Decline, Oil Price Increase Dampen US Equity Futures Pre-Bell",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2c319bbbc8e3b1a563879d34b591d087f4e2206a20aa53e78918dae2961aa6e",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Compared to SpaceX",
-      "headline": "Why Analysts Prefer SpaceX to Tesla Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e03eed3050817031881e48855569f7bef5ef16a388cb8bc964b7709426379ee9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Analysts Prefer SpaceX to Tesla Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e03eed3050817031881e48855569f7bef5ef16a388cb8bc964b7709426379ee9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Does ARKW's History Reward Buying This Dip?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27436cd19e1e70417efad4cb495980e0b408529aaf29da7c3d827e6fb670dcf7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Time Re-Prices Tesla Stock For Patient Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=288abc74f62e9c8c817335a338ea73010257e7842abb4463f541da166bcf43e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "RBC raises Tesla price target on potential SpaceX deal speculation (TSLA)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5781e0e0b7c666d3929040c7fd465de36b03dddc4aa19e792465704d2fd91a6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rivian's Good Day Came With a Price Tag",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29410c4f3fa85579af01f31e21429d97fecab0753bdbd071cff154a93362930c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 2
       }
     },
     {
@@ -234,46 +136,93 @@
       "company": "Microsoft",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "AI trade implications",
-      "headline": "Is CrowdStrike\u2019s 55% Surge Just The Beginning For This AI Defense Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ed66668e750693877639561006d536f1d2d6759b8e9878d3d091314a67f219a",
+      "reason": "Xbox jobs cut",
+      "headline": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f0578604b4b223814d5382b120a6dc923346e4b5687f135f6a13a4c4c79f2846",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Is CrowdStrike\u2019s 55% Surge Just The Beginning For This AI Defense Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ed66668e750693877639561006d536f1d2d6759b8e9878d3d091314a67f219a",
+          "headline": "What's going on in today's session: dow jones movers",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=f0578604b4b223814d5382b120a6dc923346e4b5687f135f6a13a4c4c79f2846",
           "used_by_ai": true
         },
         {
-          "headline": "Who will be the AI trade's real winners: The makers vs. the takers?",
+          "headline": "Proof That China Is Stealing US AI",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ec7b95ad2ef099405fd0152281258b73ce1244a48634d3542451af08cbea5b8",
+          "url": "https://finnhub.io/api/news?id=01d48e6f1892ca7932994507d7363f50dea693305176c8257aa58ad5ad9388ae",
           "used_by_ai": true
         },
         {
-          "headline": "Trump Banned the Hottest AI Company for 3 Weeks. It May Have Handed Them a \u2018Trillion-Dollar\u2019 Marketing Gift",
+          "headline": "Microsoft (MSFT) Cuts Xbox Jobs, Is The AI Upside Already Priced In?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f69c25cb29033a47ea72d01901ba0c89ef5f66b5ff039bedcc27fec1a853aec",
+          "url": "https://finnhub.io/api/news?id=561db5e6cbe2ee358477efbc9ba7070bf312616b0b403e1b22815d5a764d7619",
           "used_by_ai": true
         },
         {
-          "headline": "Big tech\u2019s lofty climate goals wrecked by energy-hungry AI",
+          "headline": "Meta Vs. Microsoft: Which Underpriced Mag 7 Titan Is a No Brainer?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6a99b99e8fa6f6d419543a44ed642a65c7ea59a66edd603a99c5cd9bd926119",
+          "url": "https://finnhub.io/api/news?id=fbb29e1956fc47f3a22618248852d3eb2d76d9cf1d6e9fab26d4424cc281a0e0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "ChartMill": 1,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Chip sector outlook",
+      "headline": "US Chief Design Officer Joe Gebbia breaks down the website creation for Trump Accounts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52072fe9fdb7e2e4be427c122b6c24dd3824b18b9fcef9a235e79f9919652c8f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "US Chief Design Officer Joe Gebbia breaks down the website creation for Trump Accounts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=52072fe9fdb7e2e4be427c122b6c24dd3824b18b9fcef9a235e79f9919652c8f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3fbe4618440689acf8046b8f81174c591a69e42853069a14c5dc8f0f1ede0e9e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel's $500 Billion Question: Where Are Foundry Proof Points?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d196ba711e29af4a83ba95bc66de16fa0014d2f35b7c6d3ba2f3e7cec7c25e39",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Nasdaq Slides As Samsung Tumbles On Earnings; Micron, Sandisk Lose Big (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0add1b096141ec74b3d6cd8f42c09bb8ff6335d4e57ffb6497dbd39245915f1b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Unimicron Seeks $1.4 Billion After 700% AI Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=78d84d969920502afe2b3152895b1d7854110ba3128075b5cffc076517d597b5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
+      "confidence": 20,
       "reason": "Market caution",
       "headline": "Exchange-Traded Funds Lower, Equity Futures Mixed Amid Caution Over Chip Sector Outlook",
       "source": "Yahoo",
@@ -287,26 +236,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "Playing It Safe With $1.7 Million in Cash and Bonds Is Costing This Retiree $39,000 a Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4246e346bf068640ce71c12dab656caf3631371bf8f41cbac5b81902da9c3109",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Your Biggest Fund May Be A Bad Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f45e0dc2648250f7be7a05b95855c8fe050f65056cdbdacde4516d0a937c71c",
+          "headline": "Trade Deficit Expands Over 40% In May",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=08ee1be2af5e5f35c8c1053672d7614c35da75f3dc36cc0f14ce9b5a9e2f9276",
           "used_by_ai": true
         },
         {
           "headline": "Breadth Holds Positive as Small Caps Press Resistance",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=f7c9183511f8d188f403381fe98e413e1ee6778b0516c97efe558c5f1662ff08",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rotation Is Over, Now Brace For Impact",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a0f21da4795b2946abc098c73d4777f64e43ee4e6d8761f32bf0c3334f0b66f7",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 1,
+        "SeekingAlpha": 2,
         "ChartMill": 1
       }
     }
