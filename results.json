@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T03:27:09Z",
+  "updated_at": "2026-07-08T06:13:38Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,30 +8,92 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 10,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI warning",
-      "headline": "McCormick Is Shifting From the Spice Rack to the Refrigerator With This $45 Billion Deal",
+      "confidence": 80,
+      "reason": "Extended chip deal",
+      "headline": "Broadcom extends Apple chip deal through 2031",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2f439d225d5106ca96fa20ae2248bda27b303496a21937175ad7c1cc5b33827",
+      "url": "https://finnhub.io/api/news?id=bdd12ad4299b439802ddf13d8fd29c5904cfcc971120c3ad271f75be3c3a4219",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "McCormick Is Shifting From the Spice Rack to the Refrigerator With This $45 Billion Deal",
+          "headline": "Broadcom extends Apple chip deal through 2031",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2f439d225d5106ca96fa20ae2248bda27b303496a21937175ad7c1cc5b33827",
+          "url": "https://finnhub.io/api/news?id=bdd12ad4299b439802ddf13d8fd29c5904cfcc971120c3ad271f75be3c3a4219",
           "used_by_ai": true
         },
         {
-          "headline": "Oracle Stock Plummeted by 25% in the First Half of 2026, and This Dire AI Warning Might Be Why",
+          "headline": "How New Marine and Aviation Updates At Garmin (GRMN) Have Changed Its Investment Story",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80268fe12003b0a15257665f4bba1e034332ec99617f44a692cce7d523643c9a",
+          "url": "https://finnhub.io/api/news?id=0690fa77b5f8196385b52d7d121dadc8d3f398e55f3ab2004261d789b4e582b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Foldable iPhone May Not Hit Store Shelves Until Months After iPhone 18 Launch, Says Ming-Chi Kuo: Apple Analyst Predicts Strong Demand, Limited Supply",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a54ef0a3fad9021e2f1031abfea56e62e77366d3d7c2b80baf0ee5628a3b87ad",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Foldable iPhone demand",
+      "headline": "Foldable iPhone May Not Hit Store Shelves Until Months After iPhone 18 Launch, Says Ming-Chi Kuo: Apple Analyst Predicts Strong Demand, Limited Supply",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a54ef0a3fad9021e2f1031abfea56e62e77366d3d7c2b80baf0ee5628a3b87ad",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Foldable iPhone May Not Hit Store Shelves Until Months After iPhone 18 Launch, Says Ming-Chi Kuo: Apple Analyst Predicts Strong Demand, Limited Supply",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a54ef0a3fad9021e2f1031abfea56e62e77366d3d7c2b80baf0ee5628a3b87ad",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How New Marine and Aviation Updates At Garmin (GRMN) Have Changed Its Investment Story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0690fa77b5f8196385b52d7d121dadc8d3f398e55f3ab2004261d789b4e582b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom extends Apple chip deal through 2031",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bdd12ad4299b439802ddf13d8fd29c5904cfcc971120c3ad271f75be3c3a4219",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Potential merger",
+      "headline": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks \u2018Coherent On Paper\u2019 \u2014 But China Approval Risks Loom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e965bd86492dca9f2e38342674ba85f276eda148089be23b2153fe3c502a90c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks \u2018Coherent On Paper\u2019 \u2014 But China Approval Risks Loom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6e965bd86492dca9f2e38342674ba85f276eda148089be23b2153fe3c502a90c",
           "used_by_ai": true
         },
         {
@@ -41,16 +103,160 @@
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Borrowed $25 Billion and Is Buying Up AI Companies. Here's What That Means for Every Tech Stock in Your Portfolio.",
+          "headline": "ARKK ETF Is A Sharper Bet Than Its Name Suggests",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=888104f9b8d3d75b98e58b92e69bdce55ca4500f8087b0e07b2e90532cc50113",
+          "url": "https://finnhub.io/api/news?id=8f6060a6f5583f390bcb298ace5dd46e4a090cae5d84c96e59def3095b63d117",
           "used_by_ai": true
         },
         {
-          "headline": "Why Rivian Stock Plunged Today",
+          "headline": "Tesla's new SUV could be its smartest profit play yet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=050a033c39975ffba410863b4dd414df16d131c91d1ed4420ad197849dab2244",
+          "url": "https://finnhub.io/api/news?id=e8c85407dc8126b7b5354543a5a22d56f6e97ee12a554394a12a35c5eceecc81",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla (TSLA) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9c60459334a47971096dd8aa2ec8032f881cde3fc5189bdd6f751eeb7132bb9a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "New SUV",
+      "headline": "Tesla's new SUV could be its smartest profit play yet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8c85407dc8126b7b5354543a5a22d56f6e97ee12a554394a12a35c5eceecc81",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla's new SUV could be its smartest profit play yet",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8c85407dc8126b7b5354543a5a22d56f6e97ee12a554394a12a35c5eceecc81",
           "used_by_ai": true
+        },
+        {
+          "headline": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks \u2018Coherent On Paper\u2019 \u2014 But China Approval Risks Loom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6e965bd86492dca9f2e38342674ba85f276eda148089be23b2153fe3c502a90c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Trading Frenzy Sends Tokenized Equity Volume to Record $3.86B",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9cf17d3657af82e67fdd11cf7702770c2c4f7eaa32f48e9c35cd17c49815cb51",
+          "used_by_ai": false
+        },
+        {
+          "headline": "ARKK ETF Is A Sharper Bet Than Its Name Suggests",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f6060a6f5583f390bcb298ace5dd46e4a090cae5d84c96e59def3095b63d117",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla (TSLA) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9c60459334a47971096dd8aa2ec8032f881cde3fc5189bdd6f751eeb7132bb9a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Mentioned in multiple articles",
+      "headline": "The S&P 500 Returned 10% in the First Half of 2026. This Is Good News for What History Says Is Coming Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf47f8acf87b0934cd67a0d71b1b77693f5d1b37f6d75947f3fa65131850aae0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The S&P 500 Returned 10% in the First Half of 2026. This Is Good News for What History Says Is Coming Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf47f8acf87b0934cd67a0d71b1b77693f5d1b37f6d75947f3fa65131850aae0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy SpaceX Stock Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e5379f88d6de244122caee0898ea404f8f2b1e02b8db52d51511f518a9c5602",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Netflix Stock Lost 17% in June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=86810b20984d5728a737276b22588e4a7f7a1d0d632cf82212223a41e1d135fe",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Meta Platforms Finished Down 11% in June",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d15b1e9deb0c99bbe612802035d9b72ea3eed1e8e250bea91988cb20885f398c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Vertex Is Buying Crinetics for $10 Billion. Here's What Investors Need to Know.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b41fefdad013a03f064cf0678a488c23051e8ccf264f74d11beba5bc943475a2",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Stock tanked",
+      "headline": "Why Advanced Micro Devices Stock Tanked on Tuesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82e8d79d1f1f1053f2d4c53a07ba1e088efc518212749646bdc4525ffaea3464",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Advanced Micro Devices Stock Tanked on Tuesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82e8d79d1f1f1053f2d4c53a07ba1e088efc518212749646bdc4525ffaea3464",
+          "used_by_ai": true
+        },
+        {
+          "headline": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=164858cd6ac91be1761a488b26a2906f4c30d909f210f251eb499205489c2fbf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=df29493a6c12aaa6d81f9f8f1a22d4b9c332dc57cf4c44ce28ea46db5e81f80f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "RBC Capital Raises PT on Rackspace Technology (RXT), Here\u2019s Why",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15b761b2ce077e80f42c3f2904a234829bc5f18c0cfc6ec5ab99c76929e04215",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Goldman Sachs resets AMD stock price target for the rest of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b7453a092b942febeb9cf76bb539c1b7fabd6662919f3a1c4878b1b68a48cc7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,7 +268,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Korean chip rebound",
+      "reason": "Rebound and target raise",
       "headline": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=df29493a6c12aaa6d81f9f8f1a22d4b9c332dc57cf4c44ce28ea46db5e81f80f",
@@ -72,12 +278,6 @@
           "headline": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=df29493a6c12aaa6d81f9f8f1a22d4b9c332dc57cf4c44ce28ea46db5e81f80f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Advanced Micro Devices Stock Tanked on Tuesday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82e8d79d1f1f1053f2d4c53a07ba1e088efc518212749646bdc4525ffaea3464",
           "used_by_ai": true
         },
         {
@@ -93,10 +293,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD CEO Lisa Su Once Said She Fell in Love With Chips Thanks to an Accidental Part-Time Job: 'Careers Are Very Much by Chance'",
+          "headline": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0907661940095cad08f773cd4f6765821b0cecc1b8de89f417425b84bd5e0e0",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=164858cd6ac91be1761a488b26a2906f4c30d909f210f251eb499205489c2fbf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Advanced Micro Devices Stock Tanked on Tuesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82e8d79d1f1f1053f2d4c53a07ba1e088efc518212749646bdc4525ffaea3464",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -108,12 +314,18 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Shares soaring",
-      "headline": "GoDaddy, Freshworks, and HubSpot Shares Are Soaring, What You Need To Know",
+      "reason": "Mentioned in multiple articles",
+      "headline": "Why Today\u2019s Dividend Yield May Be The Least Important Number In Your Portfolio",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b97a87b013dcf3b0801de4e92e61507bdc4b71e051741528049a86290ca6cd5a",
+      "url": "https://finnhub.io/api/news?id=3338083717c31a886d69c53f654e11ae81121c1abaa95173349cc0339aa4e389",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Why Today\u2019s Dividend Yield May Be The Least Important Number In Your Portfolio",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3338083717c31a886d69c53f654e11ae81121c1abaa95173349cc0339aa4e389",
+          "used_by_ai": true
+        },
         {
           "headline": "GoDaddy, Freshworks, and HubSpot Shares Are Soaring, What You Need To Know",
           "source": "Yahoo",
@@ -137,12 +349,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6d7763d49d7983d479d25985ef8009f548ec48491de81eb9a7f7002f1c4b01f6",
           "used_by_ai": true
-        },
-        {
-          "headline": "Atlassian and Intuit Shares Skyrocket, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19fdb239deb65acd4430414ceaa80ef86a2964e1ae039abe4ed0deb60ffec404",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -150,37 +356,44 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Dips more than market",
-      "headline": "ARKK ETF Is A Sharper Bet Than Its Name Suggests",
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Market rally",
+      "headline": "Nasdaq, S&P 500 Futures Climb Ahead Of Fed Minutes, Shrugging Off Iran Concerns: FCEL, TE, NVTS, MU Stocks In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f6060a6f5583f390bcb298ace5dd46e4a090cae5d84c96e59def3095b63d117",
+      "url": "https://finnhub.io/api/news?id=3138cffcc8f08b641f040955ee44a71618061de904e6bc295a6d3e89374ff2ff",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "ARKK ETF Is A Sharper Bet Than Its Name Suggests",
+          "headline": "Nasdaq, S&P 500 Futures Climb Ahead Of Fed Minutes, Shrugging Off Iran Concerns: FCEL, TE, NVTS, MU Stocks In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f6060a6f5583f390bcb298ace5dd46e4a090cae5d84c96e59def3095b63d117",
+          "url": "https://finnhub.io/api/news?id=3138cffcc8f08b641f040955ee44a71618061de904e6bc295a6d3e89374ff2ff",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla (TSLA) Dips More Than Broader Market: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c60459334a47971096dd8aa2ec8032f881cde3fc5189bdd6f751eeb7132bb9a",
+          "headline": "If I Could Only Buy Two High-Yield Stocks In July 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aa0f72d6f3146599c6ff700231bf03a17633b7df953e08ce82b6424189bbd44f",
           "used_by_ai": true
         },
         {
-          "headline": "When It Comes to Analyst Ratings, Tesla Stock Is No SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8845222191e30130444038be0f0eac597a91f8c511af988c35a792a5fd5ee7a",
+          "headline": "Stock Dispersion Jumps As The Equity Rally Broadens",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=16711703a6afed3cd368a9f2fe393075fcb28899806c9baebb41b489fe05115b",
           "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq Slides Nearly 2% As Higher Treasury Yields, Soaring Oil Prices Pressure Tech And Chip Stocks \u2014 META, AMZN, SPCX, MSFT In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=91110ecb4755a50a4fb3fa5710970f84243bbc7a2925d85a234d1d0979444b20",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 2,
+        "SeekingAlpha": 2
       }
     },
     {
@@ -201,72 +414,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "John West: Perfect Market Timing Is Still a Losing Bet",
+          "headline": "Nasdaq, S&P 500 Futures Climb Ahead Of Fed Minutes, Shrugging Off Iran Concerns: FCEL, TE, NVTS, MU Stocks In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d94ef092cd01b0d7d1e1f3a365288e6337090bf513aba2a7f72282746a1bb7ef",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=3138cffcc8f08b641f040955ee44a71618061de904e6bc295a6d3e89374ff2ff",
+          "used_by_ai": false
         },
         {
-          "headline": "Trump Just Made An Obscure Pentagon Office Bigger Than The Marine Corps. Here Are 5 Stocks For This $1.5 Trillion Defense Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e292394066d96c9040cff8d68dffe382695f99c0569ac54d834b8cfd969a02a8",
-          "used_by_ai": true
+          "headline": "If I Could Only Buy Two High-Yield Stocks In July 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aa0f72d6f3146599c6ff700231bf03a17633b7df953e08ce82b6424189bbd44f",
+          "used_by_ai": false
         },
         {
-          "headline": "Is the AI Bubble Really About to Burst? What the Dot-Com Crash Tells Us About Your Money in 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9f29649a38f9014385198bc1824d02efba2950bd57a8f990ff37142491b1c31d",
-          "used_by_ai": true
+          "headline": "Stock Dispersion Jumps As The Equity Rally Broadens",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=16711703a6afed3cd368a9f2fe393075fcb28899806c9baebb41b489fe05115b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Samsung out-earns",
-      "headline": "Dell Stock's Secret: It Gets Paid Before It Pays Its Bills",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a62f0cc9977bccbc7c0854612c99a5f39f2bf5bb2d7ba811bb9596f5285a3d3c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dell Stock's Secret: It Gets Paid Before It Pays Its Bills",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a62f0cc9977bccbc7c0854612c99a5f39f2bf5bb2d7ba811bb9596f5285a3d3c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Micron Outweighs Meta 2-to-1 in the Nasdaq 100, Even Though Meta Is Way Bigger",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2f90b518dad5fa183faf9089a07ad6e7ee4af05123729b76942c7b2630e0eb8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Luxshare Raises $3.1 Billion in Hong Kong's Biggest IPO of the Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aefbb75fd13c35f61128fa8291bba4f6461c4b4e6c845ebb0a031e388d421e43",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Samsung Just Out-Earned Apple and Nvidia, and the Stock Tanked 7%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7065959b960837b6e303f9f56cd0ec586e9db6f28e6aa6cd7bd91063963d644",
-          "used_by_ai": true
-        },
-        {
-          "headline": "HSBC Just Issued Wall Street\u2019s Boldest Call on Intel Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dd7cba8276c6660c45fa8eecf43ed871d658074e41bd80d7979a1138a5036a1",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 2,
+        "SeekingAlpha": 2
       }
     }
   ]
