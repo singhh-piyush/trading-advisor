@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T03:17:00Z",
+  "updated_at": "2026-07-09T07:05:51Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,20 +12,66 @@
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Record Emmy nominations",
-      "headline": "Apple scores record 89 Emmy Award nominations, with top category nods for celebrated comedies Widow\u2019s Bay, Shrinking, and Margo\u2019s Got Money Troubles, and global hit dramas Pluribus, Slow Horses, and Your Friends & Neighbors",
+      "confidence": 70,
+      "reason": "Analyst calls NVDA 'enhanced buy'",
+      "headline": "NVDA Stock Ready For A Comeback? Why This Analyst Now Calls Nvidia An \u2018Enhanced Buy\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e25aa53bb4e4b4ec91e6156b533261be0f7248dacc3159481c913e5bf3dfa17",
+      "url": "https://finnhub.io/api/news?id=d674a2040e7db2cafadc74d1767cb7c7c6b2ee6828e6610565d6eb9890a4d685",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple scores record 89 Emmy Award nominations, with top category nods for celebrated comedies Widow\u2019s Bay, Shrinking, and Margo\u2019s Got Money Troubles, and global hit dramas Pluribus, Slow Horses, and Your Friends & Neighbors",
+          "headline": "NVDA Stock Ready For A Comeback? Why This Analyst Now Calls Nvidia An \u2018Enhanced Buy\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e25aa53bb4e4b4ec91e6156b533261be0f7248dacc3159481c913e5bf3dfa17",
+          "url": "https://finnhub.io/api/news?id=d674a2040e7db2cafadc74d1767cb7c7c6b2ee6828e6610565d6eb9890a4d685",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Here's When Elon Musk Can Sell His Billions of SpaceX Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d983214bfa4ff6642be6bcbd6f822b2adee15fe73df2e2714ad285b602b73618",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Micron Raised Its Guidance on Surging Memory Prices. Here's What It Means for the Stock.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a1fdef37e528401059fbbda0a9327cb26aa5e09b969d409eb056a208199d079",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bitcoin's Most Prominent Holder Is Selling Some. Should You?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e508c5be2f404293798faf20ea685fc193f3fd7cfeabaa14ed47e3a051c8e77",
+          "used_by_ai": false
+        },
+        {
+          "headline": "VYMI vs. VIGI: Which International Dividend ETF Is Better?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f8d8b4ea3e7560b0cf70c0852d9bb07a31beb385a7c0d28cddb47a023646a8d",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Broadcom gets $30 billion Apple boost",
+      "headline": "Broadcom gets $30 billion Apple boost as valuation debate grows",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23d0adc1b7945d800db23ce5b558564c2968ab995555cedbc5a222a19f4cc061",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Broadcom gets $30 billion Apple boost as valuation debate grows",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=23d0adc1b7945d800db23ce5b558564c2968ab995555cedbc5a222a19f4cc061",
           "used_by_ai": true
         },
         {
@@ -35,22 +81,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "Why Broadcom Stock Rose Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d62459cddedcc0d1b3f1331809a91309ce75306217c276ceeae47d0d3c2d24ce",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple scores record 89 Emmy Award nominations, with top category nods for celebrated comedies Widow\u2019s Bay, Shrinking, and Margo\u2019s Got Money Troubles, and global hit dramas Pluribus, Slow Horses, and Your Friends & Neighbors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e25aa53bb4e4b4ec91e6156b533261be0f7248dacc3159481c913e5bf3dfa17",
+          "used_by_ai": false
+        },
+        {
           "headline": "Trump Announced His AI Action Plan Declaring  \u2018America Is Going to Win\u2019 \u2014 The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2c776b7eee458c582d1eee03425487752c81f1288f90894bc6de7ea949b45d62",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple (AAPL) Secures Largest Ever US Chip Deal With Broadcom For $30 Billion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bfc7f99a0f5407b018b7abbbea1ed57d970bdbedc013649f071fd89a934588a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices \u2014 TSLA, NVDA, BE, AAPL, WBD  In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c74e8f0211ea4220db73f846015c9534c0a956ddd5a3db4b83aef0ed7345f41",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -58,64 +104,57 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth hopes",
-      "headline": "Dow Jones Futures, Oil Prices Rise Amid Iran News; Nvidia, Valero, Dell, SpaceX In Focus",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Rivian threat to Model Y",
+      "headline": "Tesla\u2019s Model Y just got a sharper Rivian threat",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a6920a50699fc277243fb3db865114d9c39980f5d9c0db3a78e350101c08aed",
+      "url": "https://finnhub.io/api/news?id=b907399b0545713ebf1dc1a584a2e7aea3894c1d8508733949764c0d6dcb129b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Dow Jones Futures, Oil Prices Rise Amid Iran News; Nvidia, Valero, Dell, SpaceX In Focus",
+          "headline": "Tesla\u2019s Model Y just got a sharper Rivian threat",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a6920a50699fc277243fb3db865114d9c39980f5d9c0db3a78e350101c08aed",
+          "url": "https://finnhub.io/api/news?id=b907399b0545713ebf1dc1a584a2e7aea3894c1d8508733949764c0d6dcb129b",
           "used_by_ai": true
         },
         {
-          "headline": "Why Kingsoft Cloud Holdings Stock Jumped Today",
+          "headline": "Elon Musk Says Optimus, AI Will Enable 'Excellent' Healthcare\u2014Cathie Wood Sees $50 Billion AI Compute Need",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=825aecd12ae7f6df60472f02fae41f1eecda7a447bee85d37ccadfbca82bc2a8",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=aa913f4f56704597dbc2fdaa7bd26b22bce6248d65ae96161db02bdd8f49f6a8",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Broadcom Stock Fell 15% in June",
+          "headline": "SPCX Stock Records 3-Day Slide: Elon Musk Admits Anthropic\u2019s Fable Is 'Definitely Better' Than Grok 4.5",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aab5ab031621d3b9e4e00214e06bd51ddfd93231b48ba89d0dd8ffbd21d7210",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=2d74bb2b4950187a8413372df74b76a15157c2c3bff0958c9600ea08cd31f633",
+          "used_by_ai": false
         },
         {
-          "headline": "2 Fast-Growing Pharmaceutical Stocks to Buy Now",
+          "headline": "Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices \u2014 TSLA, NVDA, BE, AAPL, WBD  In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69f5b1271559deaac456457fd86796529813269ee230961a08b70f458add660c",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=7c74e8f0211ea4220db73f846015c9534c0a956ddd5a3db4b83aef0ed7345f41",
+          "used_by_ai": false
         },
         {
-          "headline": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
+          "headline": "Elon Musk\u2019s AI jobs prediction gets harsh reality check",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bbb38537c01d8be774edc057405a3b07ac23398707f31c59814c3e28df11e818",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Few bright spots in Wednesday's tough market \u2014 why Nvidia stock is one of them",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/08/few-bright-spots-in-wednesdays-tough-market-why-nvidia-stock-is-one-of-them.html",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d880cb0b602368fa9113b441949ceed9a16e386882164892ccfb8b6692af0f6b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5,
-        "CNBC": 1
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "US-Iran tensions ease",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "US-Iran tensions, Fed inflation worries",
       "headline": "Dow, Nasdaq, S&P 500 Futures Climb Amid US-Iran Tensions, Fed Inflation Worries: WULF, CMPS, ANET, PENG Stocks In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b759586fea2db0da6ceaf5b670e1ff6b555de37304940500a69c2cf819262356",
@@ -125,12 +164,6 @@
           "headline": "Dow, Nasdaq, S&P 500 Futures Climb Amid US-Iran Tensions, Fed Inflation Worries: WULF, CMPS, ANET, PENG Stocks In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b759586fea2db0da6ceaf5b670e1ff6b555de37304940500a69c2cf819262356",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oil rises after US launches fresh strikes against Iran - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
           "used_by_ai": true
         },
         {
@@ -146,47 +179,41 @@
           "used_by_ai": true
         },
         {
-          "headline": "US military is conducting fresh strikes on Iran - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTQwUnZhbGt0S2NCc3VqWUt2TnJ5Y2FZNmNUeDZBU0doUDlVMHlwc3F1ZDMwMVlIVjB6eXkwM3pqTUdPU01oNHEyaF9XZUhMeXEtcFNNNVczcHAtcF84OF85SDFuRVVWdjNld2RvR0swYTJtUGhiSk9iTFM4N1hxNHhTSXc1MjRHUjRHWHJVb3Y0ZWNwQ1ZqWWhWTExsbTA?oc=5",
-          "used_by_ai": true
-        },
-        {
           "headline": "The 9,500 S&P 500 Dream Is Dead",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5fdb02d83888b0d63e816ac7ed142a4645842c6dabad97d13580e555206c10c2",
           "used_by_ai": true
         },
         {
-          "headline": "Indian benchmarks log biggest one-day loss in three months as oil prices soar - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJfQWZSNnQ3bXp6ZTRMbWlwU3NRendZSmxUX0lkRF9fWk5GRm41TVpxSW5qOHVwWmF6NEctNGN6LVNkZlhmV1hQaUFzVTMwajByOWY0X3ZPSG03VGRYSUhNUGVVcldiXzJIYy1wdlVCUHBoaEQ5UkhBVGpEQlJINWFXZVA2NWgtY2dFbzJDVEVrRmszYmJzMndGSnFZc3pBcEVRTU5vdFRWNGlOYlE?oc=5",
-          "used_by_ai": true
-        },
-        {
           "headline": "This ETF Promises to Protect Your Portfolio with High-Quality Stocks, But Its Chart Is Waving a Yellow Flag",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cfac3df01088968bba278cd3ae179330d219402122c5abfd1b4342761a49dedf",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
-        "Reuters": 5,
+        "Reuters": 2,
         "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth hopes",
-      "headline": "AMD to Report Fiscal Second Quarter 2026 Financial Results",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Cathie Wood sells AMD stock",
+      "headline": "Cathie Wood Sold $8 Million of AMD Stock in a Single Day",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a44eb10728deca704bb119bba823d92abac79737cb3b19e4a7e623d77e742ef",
+      "url": "https://finnhub.io/api/news?id=62e53a8cd68b5d663e48352a7fa15545eca2757ae73a18b98b440da81c737555",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Cathie Wood Sold $8 Million of AMD Stock in a Single Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=62e53a8cd68b5d663e48352a7fa15545eca2757ae73a18b98b440da81c737555",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD to Report Fiscal Second Quarter 2026 Financial Results",
           "source": "Yahoo",
@@ -210,12 +237,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0d2ee7452c15b4cf7dddc81ce8c2d2f355f1e8558dd8e6ce2e26bd75a66c5f8c",
           "used_by_ai": true
-        },
-        {
-          "headline": "Cerebras Stock: Wafer-Scale AI Offers Big Potential, Big Risks?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=55952ee59a2760c6544a312750406a8393252e8d33042d2bf83c1809e83b8de2",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -223,56 +244,22 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Rivian competition",
-      "headline": "Tesla\u2019s Model Y just got a sharper Rivian threat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b907399b0545713ebf1dc1a584a2e7aea3894c1d8508733949764c0d6dcb129b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla\u2019s Model Y just got a sharper Rivian threat",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b907399b0545713ebf1dc1a584a2e7aea3894c1d8508733949764c0d6dcb129b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk\u2019s AI jobs prediction gets harsh reality check",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d880cb0b602368fa9113b441949ceed9a16e386882164892ccfb8b6692af0f6b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ARKK's Dip History Comes With A Warning",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=affa1ecdc2099cfda0ceffe7618cc24d3eaec5bb72a1d9a47f9494853ded6ae2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top Research Reports for Tesla, Bank of America & Merck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cad5ed53bd8a2b4b54d307f8fa766bc06c0d53359b5fdc9884250cb3c2debfec",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed market trends",
-      "headline": "Commvault (CVLT) Stock Has Cheap Cash Flow But Expensive Earnings",
+      "confidence": 30,
+      "reason": "Trump buys MSFT stock",
+      "headline": "The Case For Buying Smaller Dividends That Grow Faster",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ce52910ab733a55573d5d3e278dc90032845c772c2b94da949bace1ee1db922",
+      "url": "https://finnhub.io/api/news?id=3d852d8e32a79f75a1edee40b96b8722f59a65a19453849ad4e440bf4c3ebdfa",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Case For Buying Smaller Dividends That Grow Faster",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3d852d8e32a79f75a1edee40b96b8722f59a65a19453849ad4e440bf4c3ebdfa",
+          "used_by_ai": true
+        },
         {
           "headline": "Commvault (CVLT) Stock Has Cheap Cash Flow But Expensive Earnings",
           "source": "Yahoo",
@@ -295,12 +282,6 @@
           "headline": "Microsoft (MSFT) Dips More Than Broader Market: What You Should Know",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d56b376662c12c7eacedad4ede54ad96ddb8ea991ef8f8df389645ffa7c74ffc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Best Stocks to Buy Now in July: CEG for Value, Growth, and 70% Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a2216b12f7661993c22d8922e6155e8a58c29c3038185ad5993275a19022e6c",
           "used_by_ai": true
         }
       ],
