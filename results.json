@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T22:02:34Z",
+  "updated_at": "2026-07-10T23:28:33Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,26 +12,90 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Expands market reach",
-      "headline": "Nvidia Vera CPU Expands Market Reach",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Trade secret theft lawsuit",
+      "headline": "Apple is suing OpenAI over alleged trade secret theft",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=172c0e9a42650d1eb43a9f2eeef65c0d4b871875248a58e5687404ffcbc031f4",
+      "url": "https://finnhub.io/api/news?id=63cccfc1ca7b45b07aa5c805ca81092a752cc88765a0aea521b877bd88708ce0",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia Vera CPU Expands Market Reach",
+          "headline": "Apple is suing OpenAI over alleged trade secret theft",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=172c0e9a42650d1eb43a9f2eeef65c0d4b871875248a58e5687404ffcbc031f4",
+          "url": "https://finnhub.io/api/news?id=63cccfc1ca7b45b07aa5c805ca81092a752cc88765a0aea521b877bd88708ce0",
           "used_by_ai": true
         },
         {
-          "headline": "AI cash flow is booming for chipmakers & plummeting for Big Tech: Charts of the Day",
+          "headline": "Apple sues OpenAI over alleged trade secret theft",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de53554ea57ac0d12f382046916d0f30cefe256eb3174c3202707cb6f7c55942",
+          "url": "https://finnhub.io/api/news?id=eeafb7654c9eb03ed90d684337695055792fb667ee1c0a9553ea954c3bf75c79",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple is suing OpenAI for theft of trade secrets. Here's what we know.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bcadbae7bba61e404957fd5677d0e705d983f441f66c00a650aef63784c5b8df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Micron Jumps as Chip Sentiment Improves",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce5e589df091de9ab317869c85aa46ca11fa392b059989671bd2621a30712e07",
+          "used_by_ai": true
+        },
+        {
+          "headline": "PC shipments fall as AI demand spikes memory prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e9271afcfb31b361bc252438f441f381c235b3325a538850018625a6d0c04b64",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI demand and earnings",
+      "headline": "Why Figma Stock Lost 52% in the First Half of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02c9903de21b996be37853c952f5d86550170700c67aee99b7146e94fee57372",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Figma Stock Lost 52% in the First Half of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=02c9903de21b996be37853c952f5d86550170700c67aee99b7146e94fee57372",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Is Meta (META) Stock Soaring Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e36a7042a5906b164a5fb6ad1790a9053ad1be49ce6f2bc8414b2791b8d39b1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Big Earnings Due As Market Sets Up; Nvidia, Micron, Sandisk, Robinhood, SpaceX In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=804458c656317444f84af53785a1dbd2bf7d3b9c05cf9e59e3bdc22d5c6c27f9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SK Hynix Stock Spikes 13% in U.S. Trading Debut",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f04368e87ec11437680a6e9c227e12b755864b6f59ecbca2e4cf95709d8f913f",
           "used_by_ai": true
         },
         {
@@ -39,70 +103,42 @@
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Ionis Pharmaceuticals Drops Another 9% as Bad News Piles Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9604213b42f7aaf1d99a512e44898a5460795c6fe001db0655b9872a4f7dc48b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Sandisk Stock Popped Again Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9257babff8bf39e4e60f80921c9ade304bee991303a2891323c3619e2b33a305",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 5,
         "Reuters": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI spending surges",
-      "headline": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0db9c1a0b7b67a22fb07cd721239c5468781fb049d725c5afe131d4489603eda",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0db9c1a0b7b67a22fb07cd721239c5468781fb049d725c5afe131d4489603eda",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Adobe Stock's Cash Generation Changes The AI Debate",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41dd0aaecb7956437894ea7d005684ed3a8262e3b79356a10db3f308930dc709",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft (MSFT) Stock Looks Cheap On Earnings While Cash Flow Drives Debate",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a873a464c00e91efd3481ca932b7866236129e9d730a6afed74ebb3a22ecae84",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Deliveries skyrocket",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Robotaxi ban and valuation concerns",
+      "headline": "Subversive Capital files 'Ex-Elon' ETFs with the SEC that strip Tesla and SpaceX from the S&P 500 and Nasdaq-100",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a",
+      "url": "https://finnhub.io/api/news?id=099a0e2e428eb4303d67aafadaba2efdb278c342e6b8e0ee491fe9b155d62992",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Subversive Capital files 'Ex-Elon' ETFs with the SEC that strip Tesla and SpaceX from the S&P 500 and Nasdaq-100",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=099a0e2e428eb4303d67aafadaba2efdb278c342e6b8e0ee491fe9b155d62992",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Faces Possible Robotaxi Ban In New Jersey, But It Gains Market Share In China",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cc032f5ffb4aafa25affd172aced5e5ff8cf5a900929680c6b7bd45eae668237",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Is Waiting For Godot",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5ca40276d6af52c60b991d1320f3edd54b58781f727983cf442ef660e360fea",
+          "used_by_ai": true
+        },
         {
           "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
           "source": "Yahoo",
@@ -114,105 +150,45 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1dc8a43244b008a9221c599dd2cc2627500941535ec4e9f3fbb7760c7b1157e5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stay informed about the most active stocks in the S&P500 index on Friday's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ab4e34b3c9fc5b75adbcf3e7cbd40cb4e8f31cd28cbad3dd3dba4ac3cbd786bc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Has Mojo Back, As Tesla Quarterly Deliveries Skyrocket",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76a18ed0e231962375ca8e48e1b9ac8463a6ff371a468d660df747bbd21a139e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
+        "Yahoo": 5
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Stocks rise",
-      "headline": "How To Invest In Stocks Using History \u2014 And Unique Analysis From Bill O'Neil",
+      "confidence": 30,
+      "reason": "Earnings picks and oversight",
+      "headline": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a003972ff0b4e0b29dcc8c08fdbbc7fa83708ee5681d11d552606221fd88402c",
+      "url": "https://finnhub.io/api/news?id=315cee5d906f20a8ebe04b9077af0e4d913761325438b913d799a2e7525898ac",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "How To Invest In Stocks Using History \u2014 And Unique Analysis From Bill O'Neil",
+          "headline": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a003972ff0b4e0b29dcc8c08fdbbc7fa83708ee5681d11d552606221fd88402c",
+          "url": "https://finnhub.io/api/news?id=315cee5d906f20a8ebe04b9077af0e4d913761325438b913d799a2e7525898ac",
           "used_by_ai": true
         },
         {
-          "headline": "How SK Hynix picked the 'perfect time' to list in the US",
+          "headline": "UK Brings Amazon Web Services Under Direct Financial Oversight",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9a5aeb7f8d48747feaf89eae981b1a29683b4f9676c61c6a13dcb772947bdb9",
+          "url": "https://finnhub.io/api/news?id=26813ca244642699e3d1ba5870a9ca0e184166bae2da52c1e4af0985013f0f04",
           "used_by_ai": true
         },
         {
-          "headline": "Top dow jones movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=da214c6fd8d23b4dd37c80c7d483172cf970e4a98b72e72eb896b08e27b9522a",
+          "headline": "Starbucks tries something it failed at before",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=18f5c5a5d3b891805572b06e89a0a9c696e94264714cc031c8590acceca6883c",
           "used_by_ai": true
         },
         {
-          "headline": "SK Hynix Shares Jump 14% in Nasdaq Debut",
+          "headline": "IBM's Quantum Upside Meets Valuation Risk",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9a2d223dd3802da55c055b9728674ac49337fcf2fb51088db0a8e36e998b13b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Investing.com\u2019s stocks of the week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c47bca3c6a214a71c20f5d31f4637a84debbd548b14f24cbd30ef46345ca6bf8",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Chipmaker upside",
-      "headline": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why I Can\u2019t Stop Buying This \u201cBoring\u201d Chipmaker With Game Changing Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae1bcb9d3aa9113a0e03f1c1c64d39fffaf182adf1e6b3237dd637a39e1b5881",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire Tech CEO: Our $25 Billion Backlog Shows \u201cThe Demand Is Booked\u201d as \u201cWe\u2019ve Never Seen a Buildout Like This Since the Great Wall of China\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d3fb25ff51dda9215f53e19df9621c4b902e206c24c55e3aaff01f9751d9aba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How OpenAI\u2019s New GPT 5.6 Measures Up to SpaceX, Google, Anthropic",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=694bd043040d5c0815efad87a975a7b16c4d762f9c3509d411b0a0bd80fa335f",
+          "url": "https://finnhub.io/api/news?id=7316371f1e8923e326083e8099da11dd4c9cf1c3f0403ec1f82738a5d3668a6d",
           "used_by_ai": true
         }
       ],
@@ -224,13 +200,25 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Valuations reasonable",
-      "headline": "He Claimed Social Security at 62 Against His Advisor\u2019s Advice. At 78, His $900,000 Portfolio Says It Was the Right Call.",
+      "confidence": 20,
+      "reason": "Earnings season and valuations",
+      "headline": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut \u2014 META, SKHVY, CRCL, BA, DAL In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=277d17d5dcd91c458c5227f49c6368cc9b355deca112f8741d0bd37f3286c9d3",
+      "url": "https://finnhub.io/api/news?id=97ea92c177eaf9fedb06167ad16c79cbf12288396962e04e0cc992df664e0f1b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut \u2014 META, SKHVY, CRCL, BA, DAL In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=97ea92c177eaf9fedb06167ad16c79cbf12288396962e04e0cc992df664e0f1b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "FMTM: Top-Performing Momentum ETF Might Come With Steep Valuation Risk",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=98badbb74753193fd977256e4b48af832e7d46fb2f94b6b54438265f13eb7017",
+          "used_by_ai": true
+        },
         {
           "headline": "He Claimed Social Security at 62 Against His Advisor\u2019s Advice. At 78, His $900,000 Portfolio Says It Was the Right Call.",
           "source": "Yahoo",
@@ -242,29 +230,39 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ef30403e71f078b51c5e6261fb794f529b9f4bd1acdeaf5f42b9a24cb5c4667a",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Nvidia competition",
+      "headline": "What's Going On With Nvidia Stock Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09b9d76297a57f198651c5e76b58fd186ce8f20706912668ba7f3c7d95cb0b92",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "'A Four-Way Phone Call Involving The United States, Iran, Pakistan And Qatar Is Expected To Take Place' - Al Arabiya",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5cd165bf9bcd9643108c89f51b232b686e7a9e7cad863bab2d41de3a0dca4b36",
+          "headline": "What's Going On With Nvidia Stock Friday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=09b9d76297a57f198651c5e76b58fd186ce8f20706912668ba7f3c7d95cb0b92",
           "used_by_ai": true
         },
         {
-          "headline": "Time to Buy Wide Moat & HALO ETFs?",
+          "headline": "Nvidia Vera CPU Expands Market Reach",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=080cd8824e2ac6bfc436c39ae635b7a22c6262718c00060c94b52dab7751251c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Defined Outcome ETF (GMAR) Hits New 52-Week High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c25115bb0f5b3d02c1fe6f4c38c838b3509fd56f24a6d954364570934d759ad4",
+          "url": "https://finnhub.io/api/news?id=172c0e9a42650d1eb43a9f2eeef65c0d4b871875248a58e5687404ffcbc031f4",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
+        "Yahoo": 2
       }
     }
   ]
