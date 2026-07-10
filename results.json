@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T20:49:17Z",
+  "updated_at": "2026-07-10T22:02:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -44,13 +44,13 @@
           "headline": "Ionis Pharmaceuticals Drops Another 9% as Bad News Piles Up",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9604213b42f7aaf1d99a512e44898a5460795c6fe001db0655b9872a4f7dc48b",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Why Sandisk Stock Popped Again Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9257babff8bf39e4e60f80921c9ade304bee991303a2891323c3619e2b33a305",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -59,98 +59,11 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Valuation concerns",
-      "headline": "Gary Black Says Tesla's Valuation Is So 'Stretched' That Most Institutional Investors Won't Touch the Stock\u2014 and FSD Isn't Helping",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1dc8a43244b008a9221c599dd2cc2627500941535ec4e9f3fbb7760c7b1157e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Gary Black Says Tesla's Valuation Is So 'Stretched' That Most Institutional Investors Won't Touch the Stock\u2014 and FSD Isn't Helping",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1dc8a43244b008a9221c599dd2cc2627500941535ec4e9f3fbb7760c7b1157e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk SEC settlement raises 'red flags,' judge says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f149aa67c6f010fa2107351497945ee220095bb9d179c48de9b9659e8fda20d4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Has Mojo Back, As Tesla Quarterly Deliveries Skyrocket",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76a18ed0e231962375ca8e48e1b9ac8463a6ff371a468d660df747bbd21a139e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stay informed about the most active stocks in the S&P500 index on Friday's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ab4e34b3c9fc5b75adbcf3e7cbd40cb4e8f31cd28cbad3dd3dba4ac3cbd786bc",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Chip demand",
-      "headline": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why I Can\u2019t Stop Buying This \u201cBoring\u201d Chipmaker With Game Changing Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae1bcb9d3aa9113a0e03f1c1c64d39fffaf182adf1e6b3237dd637a39e1b5881",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire Tech CEO: Our $25 Billion Backlog Shows \u201cThe Demand Is Booked\u201d as \u201cWe\u2019ve Never Seen a Buildout Like This Since the Great Wall of China\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d3fb25ff51dda9215f53e19df9621c4b902e206c24c55e3aaff01f9751d9aba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How OpenAI\u2019s New GPT 5.6 Measures Up to SpaceX, Google, Anthropic",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=694bd043040d5c0815efad87a975a7b16c4d762f9c3509d411b0a0bd80fa335f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Cheap on earnings",
+      "confidence": 70,
+      "reason": "AI spending surges",
       "headline": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0db9c1a0b7b67a22fb07cd721239c5468781fb049d725c5afe131d4489603eda",
@@ -180,11 +93,52 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Deliveries skyrocket",
+      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Gary Black Says Tesla's Valuation Is So 'Stretched' That Most Institutional Investors Won't Touch the Stock\u2014 and FSD Isn't Helping",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1dc8a43244b008a9221c599dd2cc2627500941535ec4e9f3fbb7760c7b1157e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stay informed about the most active stocks in the S&P500 index on Friday's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ab4e34b3c9fc5b75adbcf3e7cbd40cb4e8f31cd28cbad3dd3dba4ac3cbd786bc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Has Mojo Back, As Tesla Quarterly Deliveries Skyrocket",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=76a18ed0e231962375ca8e48e1b9ac8463a6ff371a468d660df747bbd21a139e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Stock performance",
+      "confidence": 60,
+      "reason": "Stocks rise",
       "headline": "How To Invest In Stocks Using History \u2014 And Unique Analysis From Bill O'Neil",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a003972ff0b4e0b29dcc8c08fdbbc7fa83708ee5681d11d552606221fd88402c",
@@ -227,22 +181,56 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Earnings season",
-      "headline": "Stocks rise as investors await the start of earnings season \u2014 here's what to expect",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/stocks-rise-as-investors-await-the-start-of-earnings-what-to-expect.html",
+      "confidence": 60,
+      "reason": "Chipmaker upside",
+      "headline": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Stocks rise as investors await the start of earnings season \u2014 here's what to expect",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/10/stocks-rise-as-investors-await-the-start-of-earnings-what-to-expect.html",
+          "headline": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
           "used_by_ai": true
         },
+        {
+          "headline": "Why I Can\u2019t Stop Buying This \u201cBoring\u201d Chipmaker With Game Changing Upside",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae1bcb9d3aa9113a0e03f1c1c64d39fffaf182adf1e6b3237dd637a39e1b5881",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Billionaire Tech CEO: Our $25 Billion Backlog Shows \u201cThe Demand Is Booked\u201d as \u201cWe\u2019ve Never Seen a Buildout Like This Since the Great Wall of China\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d3fb25ff51dda9215f53e19df9621c4b902e206c24c55e3aaff01f9751d9aba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How OpenAI\u2019s New GPT 5.6 Measures Up to SpaceX, Google, Anthropic",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=694bd043040d5c0815efad87a975a7b16c4d762f9c3509d411b0a0bd80fa335f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Valuations reasonable",
+      "headline": "He Claimed Social Security at 62 Against His Advisor\u2019s Advice. At 78, His $900,000 Portfolio Says It Was the Right Call.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=277d17d5dcd91c458c5227f49c6368cc9b355deca112f8741d0bd37f3286c9d3",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "He Claimed Social Security at 62 Against His Advisor\u2019s Advice. At 78, His $900,000 Portfolio Says It Was the Right Call.",
           "source": "Yahoo",
@@ -275,7 +263,6 @@
         }
       ],
       "source_breakdown": {
-        "CNBC": 1,
         "Yahoo": 4,
         "Benzinga": 1
       }
