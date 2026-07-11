@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T10:14:24Z",
+  "updated_at": "2026-07-11T11:30:01Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -82,6 +82,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Powerlaw: Discount To NAV - Check, What Now?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e8c989e1bc4bf5e70cf6dc9d868e828205b1c509127df8d18667e56ff3e75f61",
+          "used_by_ai": false
+        },
+        {
           "headline": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3e7a0fb29498951d43f2bc910061c4b53c5dc20312919f4323541cf66672eb57",
@@ -98,12 +104,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dcb593345a3263afa8af86f8af181c45c01e323ee7a7ab95b8a506d100eff312",
           "used_by_ai": false
-        },
-        {
-          "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -112,51 +112,10 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Market resilience",
-      "headline": "Growth Broadens As Markets Look Beyond Geopolitics",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1cf1a2ea73264dfd682db257f5db60e65a59a4b28710a2cd43f5c9251d5df6d5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Growth Broadens As Markets Look Beyond Geopolitics",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1cf1a2ea73264dfd682db257f5db60e65a59a4b28710a2cd43f5c9251d5df6d5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut \u2014 META, SKHVY, CRCL, BA, DAL In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=97ea92c177eaf9fedb06167ad16c79cbf12288396962e04e0cc992df664e0f1b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Commentary: Currency Pegs And Carry Trades",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e1c2a898eaf8d7e2425a1b1c78729a9f2803861bd5c1c4c1fb7f4e35adfe74ae",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Sobriety, Thy Name Is Bond Market",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e0570e1d8770225fd2a5987515aef256e24465ab0b1fa46c4be48dbc1858e76e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 30,
+      "confidence": 40,
       "reason": "Trade secret theft",
       "headline": "Apple sues OpenAI alleging trade secret theft",
       "source": "Yahoo",
@@ -176,6 +135,12 @@
           "used_by_ai": false
         },
         {
+          "headline": "Powerlaw: Discount To NAV - Check, What Now?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e8c989e1bc4bf5e70cf6dc9d868e828205b1c509127df8d18667e56ff3e75f61",
+          "used_by_ai": false
+        },
+        {
           "headline": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3e7a0fb29498951d43f2bc910061c4b53c5dc20312919f4323541cf66672eb57",
@@ -186,12 +151,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dcb593345a3263afa8af86f8af181c45c01e323ee7a7ab95b8a506d100eff312",
           "used_by_ai": false
-        },
-        {
-          "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -200,45 +159,55 @@
       }
     },
     {
-      "ticker": "SPY",
+      "ticker": "XLE",
       "company": "",
-      "direction": "down",
-      "confidence": 20,
-      "reason": "Geopolitical tensions",
-      "headline": "Trump says US, Iran agree to continue talks but ceasefire over - Reuters",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Oil price increase",
+      "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
-      "on_watchlist": true,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
+      "on_watchlist": false,
       "articles": [
-        {
-          "headline": "Trump says US, Iran agree to continue talks but ceasefire over - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump says missiles aimed at Iran if Tehran targets US president - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzc3RWxTLVZuRllmY19VQ244ZjcxcjY2TVRNWnh1WkI1ck5qUkFyMzBZNTZTYUZqbTVRSmc4V3BqMl9zY21GdnJmSGU0OTNRd0Q4ekxDMnlGQ0I1UEJScFZhUGZoZ1A1aEdZTWRYZ0FGazJ3aXpJd2Zad044SzhMWXFETXRmQnBvTnMxSjhzdXVjZnp1YmRkNWJlVWdqWWdFdnRKeHlrOFQtdjZqRk9mMFhMbFFHUQ?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
-          "used_by_ai": true
-        },
         {
           "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Resilient economy",
+      "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
+          "used_by_ai": true
         },
         {
-          "headline": "US issues fresh Iran-related sanctions as conflict flares - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3VkRHJQX280dm52aTMzUkNlOHJKNVNFQ2g2d19JWVc4dkVCMzBiSUhyR01LaTJkalhNQnMybnNrTk9QVWZwSng1TXZGalh6QnVsekV5bVVKN3kwcE02X19TT2ZuZzFfeHQ4RDlHSG84eHFjaEsxRUtlSDlVanpfb2lSVE0zVnhVZlpWd0JuR1VEeU9BQ2stcVpmMll5SjcxUWdTWVk1cmIzUQ?oc=5",
+          "headline": "Stocks rise as investors await the start of earnings season \u2014 here's what to expect",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/10/stocks-rise-as-investors-await-the-start-of-earnings-what-to-expect.html",
           "used_by_ai": true
+        },
+        {
+          "headline": "Why I Prioritize My HSA Over My IRA For Maximum Tax Alpha",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ccff67c9c87a90d991f3e72478f240657980d0ad5a8cee0ce558c1fa19ee6557",
+          "used_by_ai": false
         },
         {
           "headline": "Weekly Commentary: Currency Pegs And Carry Trades",
@@ -257,18 +226,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=1cf1a2ea73264dfd682db257f5db60e65a59a4b28710a2cd43f5c9251d5df6d5",
           "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut \u2014 META, SKHVY, CRCL, BA, DAL In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=97ea92c177eaf9fedb06167ad16c79cbf12288396962e04e0cc992df664e0f1b",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Reuters": 5,
-        "SeekingAlpha": 3,
-        "Yahoo": 1
+        "SeekingAlpha": 5,
+        "CNBC": 1
       }
     }
   ]
