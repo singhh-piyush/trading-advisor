@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T04:20:00Z",
+  "updated_at": "2026-07-11T06:35:20Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Trade secret theft lawsuit",
       "headline": "Apple sues OpenAI alleging trade secret theft",
       "source": "Yahoo",
@@ -35,10 +35,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple Sues OpenAI and Former Employees, Alleging Theft of Trade Secrets\u2014and a Laptop",
+          "headline": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15ccdcc3b99d45ac3d9404c171f8982b7e9a0b849a02a2b163eadee575fd0cf4",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=3e7a0fb29498951d43f2bc910061c4b53c5dc20312919f4323541cf66672eb57",
+          "used_by_ai": false
         },
         {
           "headline": "Has Meta ever had a stock split? What sets this \u2018Mag 7\u2019 stock apart",
@@ -59,111 +59,50 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI chip production",
-      "headline": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20a3c958fad602ac7c2b06e25fd2b55f3100fc239920bf5a6b933e8b40906a03",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20a3c958fad602ac7c2b06e25fd2b55f3100fc239920bf5a6b933e8b40906a03",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a0ace11c0d707ffab1e368db98888bae9df91e84c2cb38bedfc46e0da5f4c154",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Palantir CEO: \u201cSomething Has Gone Completely Wrong\u201d With OpenAI and Anthropic",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c593a993f92d4dd6fd5b627f73eed5c5c82a82b2cc7e54c6e20c6d5b332b5ac7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Private Credit Is Coming to 401(k) Plans. These Are the Alternative Asset Managers Set to Cash In.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc247e5b74d9d0587d4de3713ff47b30a17c0657ceb3f9846c8ce3b7afa74366",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "NHTSA issue",
-      "headline": "Waymo, Tesla must fix a dangerous issue with their robotaxis, NHTSA says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c27335fb9e32ca6e7983326d5ccae28b26b26d9918f4b2f76b5eab75bcc0e93",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Waymo, Tesla must fix a dangerous issue with their robotaxis, NHTSA says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c27335fb9e32ca6e7983326d5ccae28b26b26d9918f4b2f76b5eab75bcc0e93",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Reportedly Pushes Staff Toward Grok 4.5 As AI Spending Cap Takes Effect",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08e22d6f3f7845a161f7007cf37d2f875ab87f12389ba81ef7ab5e5a4d21883f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Review & Preview: Why the Dow Snapped Its Streak",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab164ff31d4f9d89e1c443d3e39334fef65da91ff8363b74e8dd9ab739f301ff",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
       "confidence": 40,
-      "reason": "Chip sentiment improves",
-      "headline": "Why Is Meta (META) Stock Soaring Today",
+      "reason": "Upside potential",
+      "headline": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
+      "url": "https://finnhub.io/api/news?id=3e7a0fb29498951d43f2bc910061c4b53c5dc20312919f4323541cf66672eb57",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Is Meta (META) Stock Soaring Today",
+          "headline": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
+          "url": "https://finnhub.io/api/news?id=3e7a0fb29498951d43f2bc910061c4b53c5dc20312919f4323541cf66672eb57",
           "used_by_ai": true
         },
         {
-          "headline": "Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184%",
+          "headline": "Has Meta ever had a stock split? What sets this \u2018Mag 7\u2019 stock apart",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e36a7042a5906b164a5fb6ad1790a9053ad1be49ce6f2bc8414b2791b8d39b1",
+          "url": "https://finnhub.io/api/news?id=dcb593345a3263afa8af86f8af181c45c01e323ee7a7ab95b8a506d100eff312",
           "used_by_ai": true
         },
         {
-          "headline": "Micron Jumps as Chip Sentiment Improves",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce5e589df091de9ab317869c85aa46ca11fa392b059989671bd2621a30712e07",
+          "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
           "used_by_ai": true
+        },
+        {
+          "headline": "Apple sues OpenAI alleging trade secret theft",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7e6bcc9052f3ff0ecf6e6f239cf1a710bf185b416d345b9e85bc9e25582f14b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple accuses OpenAI, and former design star Jony Ive\u2019s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f4050095c786028c7b641e7aabba525ef0cf18f797230a3a59f30603e29f21e",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -171,12 +110,18 @@
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "Market snapshot",
-      "headline": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut \u2014 META, SKHVY, CRCL, BA, DAL In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=97ea92c177eaf9fedb06167ad16c79cbf12288396962e04e0cc992df664e0f1b",
+      "reason": "Market growth",
+      "headline": "Growth Broadens As Markets Look Beyond Geopolitics",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1cf1a2ea73264dfd682db257f5db60e65a59a4b28710a2cd43f5c9251d5df6d5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Growth Broadens As Markets Look Beyond Geopolitics",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1cf1a2ea73264dfd682db257f5db60e65a59a4b28710a2cd43f5c9251d5df6d5",
+          "used_by_ai": true
+        },
         {
           "headline": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut \u2014 META, SKHVY, CRCL, BA, DAL In Focus",
           "source": "Yahoo",
@@ -194,57 +139,155 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=a761cdfbf02f59d9b121bf66033ac6f17c0014dfec0ac7e3978754349226eecd",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions and comparisons",
+      "headline": "Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fe210b41c4a6cb78fb2618c87ec36265d5686ef64a899b3da6f03eeb8c03dd9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0fe210b41c4a6cb78fb2618c87ec36265d5686ef64a899b3da6f03eeb8c03dd9",
+          "used_by_ai": true
         },
         {
-          "headline": "Global Markets: Fundamentals Have The Floor",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=05b4f18a8d53f33bea101f17fcb1f71d7b63b1bfdefca24bcba13781b7fcd60d",
+          "headline": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d5068a29639b2df45d012230e90029611f5c68956d489092926bed27b1270dfb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Bloom Energy the Next Nvidia?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=31d0b0a717138092065127e557b2381faa2048e33ace097ef1a64270fe316cb2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "XRP Price Outlook: Where This Crypto Could Stand in 3 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae6db492f2238662d9ee64bddf7d14054fbb151d388075f751d0f0b1b371e0de",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US makes it easier to export Nvidia AI chips and military equipment to the UAE - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "Yahoo": 4,
+        "Reuters": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions",
+      "headline": "Tesla Reportedly Pushes Staff Toward Grok 4.5 As AI Spending Cap Takes Effect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08e22d6f3f7845a161f7007cf37d2f875ab87f12389ba81ef7ab5e5a4d21883f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Reportedly Pushes Staff Toward Grok 4.5 As AI Spending Cap Takes Effect",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08e22d6f3f7845a161f7007cf37d2f875ab87f12389ba81ef7ab5e5a4d21883f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Review & Preview: Why the Dow Snapped Its Streak",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab164ff31d4f9d89e1c443d3e39334fef65da91ff8363b74e8dd9ab739f301ff",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Tech investors reevaluate AI",
-      "headline": "Arista Networks (ANET) Could Be 2% Undervalued Following Its AI Switching Push",
+      "confidence": 20,
+      "reason": "Mentions",
+      "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af2603cc91dd55de72adb15028eb08b224dc109488772fba45adcf9ac16b3df9",
+      "url": "https://finnhub.io/api/news?id=9ecc1292200f120a172a4924ba44bdad6574332247b515ff3d034e8be9a7bd97",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ecc1292200f120a172a4924ba44bdad6574332247b515ff3d034e8be9a7bd97",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Both Institutional And Retail Traders Are Eyeing Single Stock Futures",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0926925309eabdc7a2fe2f09a3c244a1aa61bdf2f19ffe8cf0ecb9137cd72a30",
+          "used_by_ai": true
+        },
         {
           "headline": "Arista Networks (ANET) Could Be 2% Undervalued Following Its AI Switching Push",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=af2603cc91dd55de72adb15028eb08b224dc109488772fba45adcf9ac16b3df9",
           "used_by_ai": true
-        },
-        {
-          "headline": "Why tech investors are reevaluating AI investments",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ba89412307c4a01b1d3cbea6e43ad2a1285fbd9e537bd3755b3bcaf939760fb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I\u2019d Put $25,000 in These 2 ETFs Before the Next Earnings Season",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d95999397a9caa8140264e20b365915e5ffcc39c51e31f29631fa6a91bc88eb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ecc1292200f120a172a4924ba44bdad6574332247b515ff3d034e8be9a7bd97",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions and comparisons",
+      "headline": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement \u2013 Has The Bull Case Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90968530f6da7c25ee8c183c6ac704f424a7db66e26a6b68e7630888a6678bf0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement \u2013 Has The Bull Case Changed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90968530f6da7c25ee8c183c6ac704f424a7db66e26a6b68e7630888a6678bf0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rackspace Technology Cuts 2026 Outlook as $250M Stock Sale Fuels AI Push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5e31641a741bb837b81d6befa835e7bbc7f763aceed74bb64478b240cc2d7aa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Is Meta (META) Stock Soaring Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
       }
     }
   ]
