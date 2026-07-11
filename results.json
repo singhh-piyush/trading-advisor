@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T14:22:18Z",
+  "updated_at": "2026-07-11T15:30:41Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "NVIDIA",
       "direction": "up",
       "confidence": 80,
-      "reason": "Growth stock prediction",
+      "reason": "Growth prediction",
       "headline": "Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math That Shows How",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f632a88d737f60460ccaed1844863b7213a0f60205588692422a55e9dc0eb7cf",
@@ -35,6 +35,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "American Express Reports Earnings on July 24. Here's Why Card-Fee Growth Matters More Than Spending This Quarter.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8a825bba473c028326c630d21f77135f1e689272f658310b05622dbfb6c0779a",
+          "used_by_ai": true
+        },
+        {
           "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581",
@@ -45,12 +51,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1c3c0c58ed5ec3da43292f9b03b5f539afc7641968f2783b8a96745920d8d62d",
           "used_by_ai": true
-        },
-        {
-          "headline": "American Express Reports Earnings on July 24. Here's Why Card-Fee Growth Matters More Than Spending This Quarter.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a825bba473c028326c630d21f77135f1e689272f658310b05622dbfb6c0779a",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,7 +62,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "EV opportunity",
+      "reason": "EV growth",
       "headline": "Legacy Automakers GM and Ford Present a Contrarian EV Opportunity as Single-Digit P/Es Clash with Double-Digit Earnings Growth",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=03c41c618fafbdba70193bf7651922e1bf2b478560faf23b42fd47181b46b32b",
@@ -110,7 +110,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI boom",
+      "reason": "AI growth",
       "headline": "Volatility Isn\u2019t the Risk You Should Fear \u2014 These Are",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=505b1cf88f9b6b817483c68f62ec48330c62c902fce5eef2592209a03ff95ff7",
@@ -151,7 +151,7 @@
       "company": "Apple",
       "direction": "down",
       "confidence": 60,
-      "reason": "Memory supply concerns",
+      "reason": "Memory supply issues",
       "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
@@ -193,10 +193,44 @@
       }
     },
     {
+      "ticker": "XLE",
+      "company": "",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Oil price jump",
+      "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
+      "on_watchlist": false,
+      "articles": [
+        {
+          "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Iran oil stuck at sea surges as China's teapots turn to rival Middle East supplies, traders say - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWxpczA5UVItb3hGWndrQnBSdU1yckMyQWV0WDQ2ZzhLb3BBcmF5NU9oYmdmbW1MOWFtU2p5MmlqQnYtUWxISDZUNjRMTjVYdmtSdmJFVERuNUczVU9VSlRBUzA2OEZRV0FmV0g2RzBNbzhENTMwV3o2WkJscWxRLXFOaXdzaDVkQmxjdlJ6eDB3RzNHaXQ1bE1vX0tzM2xYWFprZGdRODk3ajgyWjVmUmtPSGQwSEt1dWhXdGNxU2FFYnEta2NYeVZ2V08?oc=5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 3
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "Stock plummet",
       "headline": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
       "source": "Yahoo",
@@ -233,38 +267,10 @@
       }
     },
     {
-      "ticker": "XLE",
-      "company": "",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Oil price jump",
-      "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
-      "on_watchlist": false,
-      "articles": [
-        {
-          "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 2
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Market outlook",
       "headline": "The S&P 500 Isn\u2019t What You Think It Is Anymore \u2014 Here\u2019s the Uncomfortable Truth",
       "source": "Yahoo",
