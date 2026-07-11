@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T22:22:55Z",
+  "updated_at": "2026-07-11T23:26:56Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Joined Nasdaq-100",
+      "reason": "Nvidia joins Nasdaq-100",
       "headline": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=25fe5bf811c1a4d7381a60938007aeba76361c6ad6e0307209280bb783fc0cb8",
@@ -29,21 +29,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8308b86b1c11803a7d84a3f0719e527a416b8fd3d2c5b841c3b5ccde8dd6b84b",
-          "used_by_ai": true
-        },
-        {
           "headline": "5 Top AI Stocks Investors Own on Robinhood",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6bc7b94ebc36aeee0f82edd39dc6a4b49c29dc47f5003250f5ba74843961f5ef",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e41de26520c34dc052e5a7a509b7b115fd84d186f82e3754c0852dacf4494df",
           "used_by_ai": true
         },
         {
@@ -51,6 +39,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f0cd72579578342a3b822663dc7c762ec7496fa7e0b373a8e0f449a2256a310e",
           "used_by_ai": true
+        },
+        {
+          "headline": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8308b86b1c11803a7d84a3f0719e527a416b8fd3d2c5b841c3b5ccde8dd6b84b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e41de26520c34dc052e5a7a509b7b115fd84d186f82e3754c0852dacf4494df",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -58,22 +58,109 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 70,
-      "reason": "Predicted growth",
-      "headline": "The New Villian in Tech",
+      "reason": "Nvidia near buy point",
+      "headline": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8347c0c2f3263839eec857c3e793556b4d3cf8678d08e76187d9e2a524877f88",
+      "url": "https://finnhub.io/api/news?id=f0cd72579578342a3b822663dc7c762ec7496fa7e0b373a8e0f449a2256a310e",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The New Villian in Tech",
+          "headline": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8347c0c2f3263839eec857c3e793556b4d3cf8678d08e76187d9e2a524877f88",
+          "url": "https://finnhub.io/api/news?id=f0cd72579578342a3b822663dc7c762ec7496fa7e0b373a8e0f449a2256a310e",
           "used_by_ai": true
         },
+        {
+          "headline": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=25fe5bf811c1a4d7381a60938007aeba76361c6ad6e0307209280bb783fc0cb8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8308b86b1c11803a7d84a3f0719e527a416b8fd3d2c5b841c3b5ccde8dd6b84b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "5 Top AI Stocks Investors Own on Robinhood",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6bc7b94ebc36aeee0f82edd39dc6a4b49c29dc47f5003250f5ba74843961f5ef",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e41de26520c34dc052e5a7a509b7b115fd84d186f82e3754c0852dacf4494df",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AMD stock up 160%",
+      "headline": "AMD Stock Is Up 160% in 2026 and Analysts Still Love It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41c20e79cee3746bd7ac1d0ce3e0bf0eee18c2e259a3cdcbd9ea2ce72a56d125",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD Stock Is Up 160% in 2026 and Analysts Still Love It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=41c20e79cee3746bd7ac1d0ce3e0bf0eee18c2e259a3cdcbd9ea2ce72a56d125",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
+          "used_by_ai": false
+        },
+        {
+          "headline": "5-star analyst sends AMD stock investors a warning",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Stock is Finally Soaring, and Rare Chart Pattern Points to More Upside",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=328a9d2fc24f19598820abb1157a69125fd7e57e0ed72f28f336a7d8ab5221ad",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood-led ARK Invest Buys Coinbase, Trails Only SpaceX Among Friday's Top Buys",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab7f824b4a60713d700d448380767dcc2735d4fd0314647216c2bc08ad5ac5ff",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Apple may solve AI worry",
+      "headline": "Prediction: Apple Will Be Worth $5 Trillion (or More) by the End of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef9f081cf0e5b1135573a533e3215467945d1fdf17599e3fc71cc5efd885cb11",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Prediction: Apple Will Be Worth $5 Trillion (or More) by the End of 2026",
           "source": "Yahoo",
@@ -87,62 +174,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "The New Villian in Tech",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8347c0c2f3263839eec857c3e793556b4d3cf8678d08e76187d9e2a524877f88",
+          "used_by_ai": false
+        },
+        {
           "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Stock growth",
-      "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
-          "used_by_ai": true
-        },
-        {
-          "headline": "5-star analyst sends AMD stock investors a warning",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cathie Wood-led ARK Invest Buys Coinbase, Trails Only SpaceX Among Friday's Top Buys",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab7f824b4a60713d700d448380767dcc2735d4fd0314647216c2bc08ad5ac5ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Is Up 160% in 2026 and Analysts Still Love It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41c20e79cee3746bd7ac1d0ce3e0bf0eee18c2e259a3cdcbd9ea2ce72a56d125",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dd0fe8895564174dc33583433b9adaafc2aae29c689f77d09e8083f48db859d5",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -153,8 +200,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI application",
+      "confidence": 50,
+      "reason": "Tesla fulfills promise",
       "headline": "NVIDA Vs. Tesla: Tesla Jumps as It Finally Fulfills Decade-Old Promise So Buy Nvidia Instead",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0cb7ffd6a6f0c85e168272d883b4f7638056a6d6d8dab40b06d736c5e562f9ea",
@@ -167,28 +214,28 @@
           "used_by_ai": true
         },
         {
-          "headline": "Musk\u2019s Net Worth Down $407 Billion From Trillion-Plus High as SpaceX Stock Dives",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b1c80cf6992aee992d37bd0156e51fc4133dde644136b7ea5c0e6b365a97486c",
-          "used_by_ai": true
-        },
-        {
           "headline": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=557daa58cd2c75b3c26ba24912ea00a68d3b48a19ece3a794bc676189e7aa8db",
           "used_by_ai": true
         },
         {
+          "headline": "Musk\u2019s Net Worth Down $407 Billion From Trillion-Plus High as SpaceX Stock Dives",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b1c80cf6992aee992d37bd0156e51fc4133dde644136b7ea5c0e6b365a97486c",
+          "used_by_ai": false
+        },
+        {
           "headline": "Legacy Automakers GM and Ford Present a Contrarian EV Opportunity as Single-Digit P/Es Clash with Double-Digit Earnings Growth",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=03c41c618fafbdba70193bf7651922e1bf2b478560faf23b42fd47181b46b32b",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=e9d318d66f62d3c86ce5841f23671f039e55c587de404635ee66732b2af9f778",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -202,7 +249,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Dividend growth",
+      "reason": "Microsoft dividend growth",
       "headline": "Chevron May Have Unlocked a Powerful New Growth Engine",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=93027eb5221e66f3d856d583275775cbd878e858deddbfd16b28619db0ba8757",
@@ -242,7 +289,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market trends",
+      "reason": "Market news",
       "headline": "This Covered Call ETF Just Proved Double Digit Income Doesn\u2019t Mean NAV Bleed",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=284846f3014129b4c775c2bb8e05045e918d7eaa8f7b4541546b819fb4150de9",
@@ -289,7 +336,7 @@
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "Oil price increase",
+      "reason": "Oil prices rise",
       "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
