@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:30:41Z",
+  "updated_at": "2026-07-11T16:58:10Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,49 +8,378 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 16,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Growth prediction",
-      "headline": "Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math That Shows How",
+      "reason": "Broadcom deal",
+      "headline": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f632a88d737f60460ccaed1844863b7213a0f60205588692422a55e9dc0eb7cf",
+      "url": "https://finnhub.io/api/news?id=a9f05420e2fa73b268e35c04de55cc1ebaf68080c294a9477707f1663b3fb2a6",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math That Shows How",
+          "headline": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f632a88d737f60460ccaed1844863b7213a0f60205588692422a55e9dc0eb7cf",
+          "url": "https://finnhub.io/api/news?id=a9f05420e2fa73b268e35c04de55cc1ebaf68080c294a9477707f1663b3fb2a6",
           "used_by_ai": true
         },
         {
-          "headline": "AT&T Yields 5.3% and Trades Near a 52-Week Low. Is the SpaceX Threat Really Worth That Discount?",
+          "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d627ac86e3f7ddedcd09049c5820e6c8f58387c7ceecd4c93e2da98cedb5b36b",
+          "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f3a319c80206de4400aa8fd4dd9db95e9773f570faed0819c1ca4c889abfb99a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom Just Gave Investors Another $30 Billion Reason to Buy the Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf6fe256dd67d923b9c7aa603be5d42037b381bb79ee9310aa9c887dc3e56fe5",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Trade secret theft",
+      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "source": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
           "used_by_ai": true
         },
         {
-          "headline": "American Express Reports Earnings on July 24. Here's Why Card-Fee Growth Matters More Than Spending This Quarter.",
+          "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a825bba473c028326c630d21f77135f1e689272f658310b05622dbfb6c0779a",
+          "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f3a319c80206de4400aa8fd4dd9db95e9773f570faed0819c1ca4c889abfb99a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom Just Gave Investors Another $30 Billion Reason to Buy the Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf6fe256dd67d923b9c7aa603be5d42037b381bb79ee9310aa9c887dc3e56fe5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9f05420e2fa73b268e35c04de55cc1ebaf68080c294a9477707f1663b3fb2a6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "US Top News and Analysis": 1,
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Chip stocks",
+      "headline": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3a319c80206de4400aa8fd4dd9db95e9773f570faed0819c1ca4c889abfb99a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f3a319c80206de4400aa8fd4dd9db95e9773f570faed0819c1ca4c889abfb99a",
           "used_by_ai": true
         },
         {
-          "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+          "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581",
+          "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom Just Gave Investors Another $30 Billion Reason to Buy the Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf6fe256dd67d923b9c7aa603be5d42037b381bb79ee9310aa9c887dc3e56fe5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9f05420e2fa73b268e35c04de55cc1ebaf68080c294a9477707f1663b3fb2a6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Broadcom investment",
+      "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
           "used_by_ai": true
         },
         {
-          "headline": "Jim Cramer Was Left Perplexed By NVIDIA Corp. (NVDA)\u2019s Shares",
+          "headline": "Broadcom Just Gave Investors Another $30 Billion Reason to Buy the Stock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c3c0c58ed5ec3da43292f9b03b5f539afc7641968f2783b8a96745920d8d62d",
+          "url": "https://finnhub.io/api/news?id=cf6fe256dd67d923b9c7aa603be5d42037b381bb79ee9310aa9c887dc3e56fe5",
           "used_by_ai": true
+        },
+        {
+          "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f3a319c80206de4400aa8fd4dd9db95e9773f570faed0819c1ca4c889abfb99a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9f05420e2fa73b268e35c04de55cc1ebaf68080c294a9477707f1663b3fb2a6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Nuclear energy",
+      "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c51243b4f9e1a6c909d6eb79eca3ac2b567766c58e936619d3709b80b7a3b319",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c51243b4f9e1a6c909d6eb79eca3ac2b567766c58e936619d3709b80b7a3b319",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73a1fbe176de380a6a419a32d43b664cfe6d04a76508a97585eede9dda212da0",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Amazon\u2019s $2 Trillion Empire Faces a Critical Turning Point",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4474edc9e45ae8e5b9a88f7a6071a608e94f439077d4ad2e3b968974dd941553",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=218dc71da354793137d1a209b97e475840b45bedb7ab3e9fe53a63b1fdd290e6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b930c4146e3d6d2808e1f5ba98f545ac35b497f62dba56211dfd347428508ade",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Price prediction",
+      "headline": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73a1fbe176de380a6a419a32d43b664cfe6d04a76508a97585eede9dda212da0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73a1fbe176de380a6a419a32d43b664cfe6d04a76508a97585eede9dda212da0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c51243b4f9e1a6c909d6eb79eca3ac2b567766c58e936619d3709b80b7a3b319",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Amazon\u2019s $2 Trillion Empire Faces a Critical Turning Point",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4474edc9e45ae8e5b9a88f7a6071a608e94f439077d4ad2e3b968974dd941553",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=218dc71da354793137d1a209b97e475840b45bedb7ab3e9fe53a63b1fdd290e6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b930c4146e3d6d2808e1f5ba98f545ac35b497f62dba56211dfd347428508ade",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Cathie Wood investment",
+      "headline": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=218dc71da354793137d1a209b97e475840b45bedb7ab3e9fe53a63b1fdd290e6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=218dc71da354793137d1a209b97e475840b45bedb7ab3e9fe53a63b1fdd290e6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c51243b4f9e1a6c909d6eb79eca3ac2b567766c58e936619d3709b80b7a3b319",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73a1fbe176de380a6a419a32d43b664cfe6d04a76508a97585eede9dda212da0",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Amazon\u2019s $2 Trillion Empire Faces a Critical Turning Point",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4474edc9e45ae8e5b9a88f7a6071a608e94f439077d4ad2e3b968974dd941553",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b930c4146e3d6d2808e1f5ba98f545ac35b497f62dba56211dfd347428508ade",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "SpaceX investment",
+      "headline": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b930c4146e3d6d2808e1f5ba98f545ac35b497f62dba56211dfd347428508ade",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b930c4146e3d6d2808e1f5ba98f545ac35b497f62dba56211dfd347428508ade",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c51243b4f9e1a6c909d6eb79eca3ac2b567766c58e936619d3709b80b7a3b319",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73a1fbe176de380a6a419a32d43b664cfe6d04a76508a97585eede9dda212da0",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Amazon\u2019s $2 Trillion Empire Faces a Critical Turning Point",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4474edc9e45ae8e5b9a88f7a6071a608e94f439077d4ad2e3b968974dd941553",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=218dc71da354793137d1a209b97e475840b45bedb7ab3e9fe53a63b1fdd290e6",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -61,8 +390,56 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "EV growth",
+      "confidence": 50,
+      "reason": "AI application",
+      "headline": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=557daa58cd2c75b3c26ba24912ea00a68d3b48a19ece3a794bc676189e7aa8db",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=557daa58cd2c75b3c26ba24912ea00a68d3b48a19ece3a794bc676189e7aa8db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Legacy Automakers GM and Ford Present a Contrarian EV Opportunity as Single-Digit P/Es Clash with Double-Digit Earnings Growth",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=03c41c618fafbdba70193bf7651922e1bf2b478560faf23b42fd47181b46b32b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Powerlaw: Discount To NAV - Check, What Now?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e8c989e1bc4bf5e70cf6dc9d868e828205b1c509127df8d18667e56ff3e75f61",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a17b953939fee94ebb529b8d790c9c85eecfcf544265f70fa0a978d109cca0ee",
+          "used_by_ai": false
+        },
+        {
+          "headline": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d5068a29639b2df45d012230e90029611f5c68956d489092926bed27b1270dfb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 1,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "EV opportunity",
       "headline": "Legacy Automakers GM and Ford Present a Contrarian EV Opportunity as Single-Digit P/Es Clash with Double-Digit Earnings Growth",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=03c41c618fafbdba70193bf7651922e1bf2b478560faf23b42fd47181b46b32b",
@@ -75,117 +452,76 @@
           "used_by_ai": true
         },
         {
+          "headline": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=557daa58cd2c75b3c26ba24912ea00a68d3b48a19ece3a794bc676189e7aa8db",
+          "used_by_ai": false
+        },
+        {
           "headline": "Powerlaw: Discount To NAV - Check, What Now?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e8c989e1bc4bf5e70cf6dc9d868e828205b1c509127df8d18667e56ff3e75f61",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a17b953939fee94ebb529b8d790c9c85eecfcf544265f70fa0a978d109cca0ee",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d5068a29639b2df45d012230e90029611f5c68956d489092926bed27b1270dfb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e7a0fb29498951d43f2bc910061c4b53c5dc20312919f4323541cf66672eb57",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
-        "SeekingAlpha": 1,
-        "Yahoo": 3
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth",
-      "headline": "Volatility Isn\u2019t the Risk You Should Fear \u2014 These Are",
+      "confidence": 50,
+      "reason": "Retirement offer",
+      "headline": "Microsoft's retirement offer is a wake-up call for workers",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=505b1cf88f9b6b817483c68f62ec48330c62c902fce5eef2592209a03ff95ff7",
+      "url": "https://finnhub.io/api/news?id=f7c70ec4d157057f3533ded33de4ca95f9ea069005b01138e23b4adaef0c1895",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Microsoft's retirement offer is a wake-up call for workers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7c70ec4d157057f3533ded33de4ca95f9ea069005b01138e23b4adaef0c1895",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Today\u2019s Small Dividend Could Become Tomorrow\u2019s Retirement Engine",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d9a73da5b10d2eaee3d12ac4534c19ad1480045183ba30d11bd68f651d9a30b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581",
+          "used_by_ai": false
+        },
         {
           "headline": "Volatility Isn\u2019t the Risk You Should Fear \u2014 These Are",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=505b1cf88f9b6b817483c68f62ec48330c62c902fce5eef2592209a03ff95ff7",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Phenomenal Artificial Intelligence (AI) Stocks to Buy Before They Report Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4970d5243ea535d346277e4b1128cc6951e2f57ccddea25b0a620a1e609755f4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "My Updated 2026 Market Outlook: Keeping The S&P 500 Target, But Changing Sector Leaders",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f3168b2462fa2902ffcdd38ca1f0c791c640521257d5504968539eae74afde5d",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Memory supply issues",
-      "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI Is Consuming the World\u2019s Memory Supply \u2014 Will Apple Pay the Price?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=929635695aed89c710ebbb81465a36eb805b4b97e52db130252b2d1cedf796d3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5664fe0a527b4fa358070ea01899ca24d4fc9aa0e90a49111ba631852018c2b6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3a319c80206de4400aa8fd4dd9db95e9773f570faed0819c1ca4c889abfb99a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom Just Gave Investors Another $30 Billion Reason to Buy the Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf6fe256dd67d923b9c7aa603be5d42037b381bb79ee9310aa9c887dc3e56fe5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9f05420e2fa73b268e35c04de55cc1ebaf68080c294a9477707f1663b3fb2a6",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -193,37 +529,95 @@
       }
     },
     {
-      "ticker": "XLE",
-      "company": "",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Oil price jump",
-      "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
-      "on_watchlist": false,
+      "confidence": 50,
+      "reason": "AI chip stocks",
+      "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581",
+      "on_watchlist": true,
       "articles": [
         {
-          "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
+          "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581",
           "used_by_ai": true
         },
         {
-          "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
-          "used_by_ai": true
+          "headline": "Why Today\u2019s Small Dividend Could Become Tomorrow\u2019s Retirement Engine",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d9a73da5b10d2eaee3d12ac4534c19ad1480045183ba30d11bd68f651d9a30b",
+          "used_by_ai": false
         },
         {
-          "headline": "Iran oil stuck at sea surges as China's teapots turn to rival Middle East supplies, traders say - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWxpczA5UVItb3hGWndrQnBSdU1yckMyQWV0WDQ2ZzhLb3BBcmF5NU9oYmdmbW1MOWFtU2p5MmlqQnYtUWxISDZUNjRMTjVYdmtSdmJFVERuNUczVU9VSlRBUzA2OEZRV0FmV0g2RzBNbzhENTMwV3o2WkJscWxRLXFOaXdzaDVkQmxjdlJ6eDB3RzNHaXQ1bE1vX0tzM2xYWFprZGdRODk3ajgyWjVmUmtPSGQwSEt1dWhXdGNxU2FFYnEta2NYeVZ2V08?oc=5",
-          "used_by_ai": true
+          "headline": "Microsoft's retirement offer is a wake-up call for workers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7c70ec4d157057f3533ded33de4ca95f9ea069005b01138e23b4adaef0c1895",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Volatility Isn\u2019t the Risk You Should Fear \u2014 These Are",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=505b1cf88f9b6b817483c68f62ec48330c62c902fce5eef2592209a03ff95ff7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Reuters": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Big Tech investment",
+      "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Today\u2019s Small Dividend Could Become Tomorrow\u2019s Retirement Engine",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d9a73da5b10d2eaee3d12ac4534c19ad1480045183ba30d11bd68f651d9a30b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Microsoft's retirement offer is a wake-up call for workers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7c70ec4d157057f3533ded33de4ca95f9ea069005b01138e23b4adaef0c1895",
+          "used_by_ai": false
+        },
+        {
+          "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Volatility Isn\u2019t the Risk You Should Fear \u2014 These Are",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=505b1cf88f9b6b817483c68f62ec48330c62c902fce5eef2592209a03ff95ff7",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
@@ -247,8 +641,36 @@
           "headline": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement \u2013 Has The Bull Case Changed?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=90968530f6da7c25ee8c183c6ac704f424a7db66e26a6b68e7630888a6678bf0",
-          "used_by_ai": true
+          "used_by_ai": false
         },
+        {
+          "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ecc1292200f120a172a4924ba44bdad6574332247b515ff3d034e8be9a7bd97",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Rackspace Technology Cuts 2026 Outlook as $250M Stock Sale Fuels AI Push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5e31641a741bb837b81d6befa835e7bbc7f763aceed74bb64478b240cc2d7aa",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Better buy",
+      "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ecc1292200f120a172a4924ba44bdad6574332247b515ff3d034e8be9a7bd97",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
@@ -256,10 +678,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd0fe8895564174dc33583433b9adaafc2aae29c689f77d09e8083f48db859d5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement \u2013 Has The Bull Case Changed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90968530f6da7c25ee8c183c6ac704f424a7db66e26a6b68e7630888a6678bf0",
+          "used_by_ai": false
+        },
+        {
           "headline": "Rackspace Technology Cuts 2026 Outlook as $250M Stock Sale Fuels AI Push",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f5e31641a741bb837b81d6befa835e7bbc7f763aceed74bb64478b240cc2d7aa",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -271,12 +705,24 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market outlook",
-      "headline": "The S&P 500 Isn\u2019t What You Think It Is Anymore \u2014 Here\u2019s the Uncomfortable Truth",
+      "reason": "Market news",
+      "headline": "This Covered Call ETF Just Proved Double Digit Income Doesn\u2019t Mean NAV Bleed",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14e0cf088c97e30f1f53742675f39f9fdbfff59d23cc2d2c9bf82c9ef404d965",
+      "url": "https://finnhub.io/api/news?id=284846f3014129b4c775c2bb8e05045e918d7eaa8f7b4541546b819fb4150de9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "This Covered Call ETF Just Proved Double Digit Income Doesn\u2019t Mean NAV Bleed",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=284846f3014129b4c775c2bb8e05045e918d7eaa8f7b4541546b819fb4150de9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Retirement Budget Most People Build Is Backward",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=768cdf3917b80b9ef071b8c49e6ae5b85e81838d202d4edb8389c64b2806f2a8",
+          "used_by_ai": true
+        },
         {
           "headline": "The S&P 500 Isn\u2019t What You Think It Is Anymore \u2014 Here\u2019s the Uncomfortable Truth",
           "source": "Yahoo",
@@ -294,17 +740,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=99688fac97aed6c502daea56ad7068dc5f875f874aa5aeb6209ad73e8f782855",
           "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Indicators: Consumer Spending Continues To Blow Its Stack",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e6b81340c60a7f92a3060c1e5c29ab20492c386f0cdf36d52cf7f8eb06f8dc6a",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     }
   ]
