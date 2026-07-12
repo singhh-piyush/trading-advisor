@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T20:48:25Z",
+  "updated_at": "2026-07-12T21:50:25Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -55,8 +55,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Positive AI investment articles",
+      "confidence": 55,
+      "reason": "Positive AI stock articles",
       "headline": "Big Tech Is Pouring Billions Into AI, and the Stock Market Wants to See the Payoff\u2014Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9721db2d6fcd4d4dab5a1715d45c546bee3188f6d9ca7ff30565a5f3eef4a506",
@@ -95,8 +95,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Positive AI investment articles",
+      "confidence": 50,
+      "reason": "Positive AI and chip articles",
       "headline": "3 AI Infrastructure Stocks That Could Double by 2027",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0ffbaa6944d7bd941dc5792a13ea6178ef4d61e74e183a52246f9a1c8f4f767c",
@@ -142,7 +142,7 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 45,
       "reason": "Analyst skepticism",
       "headline": "Tesla merger with SpaceX won't save investors, top analyst says",
       "source": "Yahoo",
@@ -173,53 +173,6 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Market pessimism",
-      "headline": "S&P500: Set Up For Disappointment, And Earnings Won't Help",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5c22193e9b870dd16f30a294ab56cacdd7871e408ef13c4723317c47d8591a16",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "S&P500: Set Up For Disappointment, And Earnings Won't Help",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5c22193e9b870dd16f30a294ab56cacdd7871e408ef13c4723317c47d8591a16",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b46c5a62a8cbc9a93b1a4de5616e808f4eda3969b1196d31ba14950fce87fef3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Maximum Social Security Check Is $5,108 a Month. Here\u2019s How Much Invested It Takes to Match It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29bdb7b20b9edfe56f55d1675c35d3da97a5d2d97a88b9c56c07567e4f3b3ffa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5ef22ac348ec27c0c8987dd4682194492bd52506923944e9b4792fdc728f9ae7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Credit Market Is Sending A Warning On AI Stocks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6df4c4348be525cd04f2e9ee26e0b6933f588beea10a9265e5b8e5b5ede86c7a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
@@ -244,6 +197,53 @@
         }
       ],
       "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Market warning signs",
+      "headline": "S&P500: Set Up For Disappointment, And Earnings Won't Help",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c22193e9b870dd16f30a294ab56cacdd7871e408ef13c4723317c47d8591a16",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "S&P500: Set Up For Disappointment, And Earnings Won't Help",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5c22193e9b870dd16f30a294ab56cacdd7871e408ef13c4723317c47d8591a16",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Maximum Social Security Check Is $5,108 a Month. Here\u2019s How Much Invested It Takes to Match It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29bdb7b20b9edfe56f55d1675c35d3da97a5d2d97a88b9c56c07567e4f3b3ffa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5ef22ac348ec27c0c8987dd4682194492bd52506923944e9b4792fdc728f9ae7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Credit Market Is Sending A Warning On AI Stocks",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6df4c4348be525cd04f2e9ee26e0b6933f588beea10a9265e5b8e5b5ede86c7a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b46c5a62a8cbc9a93b1a4de5616e808f4eda3969b1196d31ba14950fce87fef3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
         "Yahoo": 2
       }
     }
