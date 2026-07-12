@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T15:33:20Z",
+  "updated_at": "2026-07-12T16:58:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,48 +8,176 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Chip dominance",
-      "headline": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "Safety questions",
+      "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a088615026c7f514cbc366aa3b32dc740e38cdd24590a9936afc32825fe96a8b",
+      "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance",
+          "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a088615026c7f514cbc366aa3b32dc740e38cdd24590a9936afc32825fe96a8b",
+          "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
           "used_by_ai": true
         },
         {
-          "headline": "The U.S. Economy Is Addicted to AI Spending. What Happens If It Slows?",
+          "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42347fc4a08cbf6ed992fccadbe1d016c00002de3763040e41bafed0d68ce640",
+          "url": "https://finnhub.io/api/news?id=b2b585953cf5f24d03407aaf81534713617f1258e31d6710d08f62a9e6b9838f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla And The Emperor's New Clothes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mixed signals",
+      "headline": "Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7836bdd0c24dc9572de1f8d8e535bf65e1fdf5ef3ad05f4101cf47c06881e053",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7836bdd0c24dc9572de1f8d8e535bf65e1fdf5ef3ad05f4101cf47c06881e053",
           "used_by_ai": true
         },
         {
-          "headline": "Broadcom vs. Marvell: A Valuation Showdown for the Custom AI Chip Trade",
+          "headline": "Why This Could Be the Worst Time to Buy SpaceX Stock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=715966ceafb004c670bf0276a33dcee2643b98c2a8154491859796518f5a49a8",
+          "url": "https://finnhub.io/api/news?id=166c6362b997c77249c373445050756e1f2c7d3b51deb244592ab8d65fa278d9",
           "used_by_ai": true
         },
         {
-          "headline": "This 8-Word Statement From Fed Chair Kevin Warsh and the FOMC Is a Potential Game Changer for Wall Street",
+          "headline": "1 Top Vanguard ETF to Buy Before the Next Market Crash",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ccdf5ef5a3f6d8dab1b82d749e8ef1103ecccfcf8a661b03bbe82bb3df417ede",
+          "url": "https://finnhub.io/api/news?id=359f031b249add01e21e4d391cd35af419cebcdf52468f2ddfadf4ba5be8a76d",
           "used_by_ai": true
         },
         {
-          "headline": "Many Investors Are Still Treating Gilead Sciences Like a Has-Been HIV Stock. 4 Drug Launches This Year Could Prove Them Wrong.",
+          "headline": "A Stock Market Correction Could Be Coming. Here's 1 Move All Investors Should Make Right Now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3025ddb2315ad436973d69f7d2db5fb33b836836dd518e233c2710081814e73",
+          "url": "https://finnhub.io/api/news?id=271e0e704429effc32d9114873ddc5424519f1779dfd9ce6fe0bcda895a72090",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If I Could Tell Every Investor 1 Thing About the Next 12 Months in the Stock Market, It's This",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=706b4cb61dc1c7c685c6f8ff9163d5a54324eab8d97830dc66d6017c438a774c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Upside potential",
+      "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2b585953cf5f24d03407aaf81534713617f1258e31d6710d08f62a9e6b9838f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla And The Emperor's New Clothes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Investor interest",
+      "headline": "Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw\u2019s Holdings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=236273daa35d7ef98a13cd17e79b7377b269315081454775395123fc9680ee37",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw\u2019s Holdings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=236273daa35d7ef98a13cd17e79b7377b269315081454775395123fc9680ee37",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1deaf95b6458a19e10fd239a7270bdfa11e20e748915d129a029746d92f675f3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The U.S. Added 441K New Millionaires Last Year. That's More Than 1,200 Every Day. It Now Accounts for Over 40% of the World's Millionaires",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b5be419f101ee3780b24eb1d8b59f9a77aaad973fae919c5637f768a21e9bde",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6f74e61a75f09ee81e74ecad0c6a734f48515bd375e3f1f8161d55807835e91b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Says Tesla Robot Will Be \u2018Biggest Product of All Time\u2019 \u2014 \u2018Nothing Will Even Be Close\u2019 but China Is Toughest Rival, \u2018No Two Ways About It\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d3d96561007c7023d4f21481637dade318300d6cea24733f9442c55a0ad05026",
           "used_by_ai": false
         }
       ],
@@ -61,13 +189,31 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI partnership",
-      "headline": "Haleon (HLN) Partners with Microsoft (MSFT) to Advance Digital and AI Capabilities",
+      "confidence": 20,
+      "reason": "Partnership and trends",
+      "headline": "Should You Buy Microsoft Corporation (MSFT)\u2019s Shares?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d98248dec5f78a1c97cde52d56404a51fdce3da25ce9c8f4089087295d31963",
+      "url": "https://finnhub.io/api/news?id=ca99acb04444f5fabb903161ff2de930554c3a579026aeb68acc766d2841eda0",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Should You Buy Microsoft Corporation (MSFT)\u2019s Shares?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca99acb04444f5fabb903161ff2de930554c3a579026aeb68acc766d2841eda0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing Stock to Buy Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c07e375c7956a7be8cb8a51586b6b3d9c576a95dd1c411f17fd8bbcaeaf5cb5a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The U.S. Economy Is Addicted to AI Spending. What Happens If It Slows?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42347fc4a08cbf6ed992fccadbe1d016c00002de3763040e41bafed0d68ce640",
+          "used_by_ai": true
+        },
         {
           "headline": "Haleon (HLN) Partners with Microsoft (MSFT) to Advance Digital and AI Capabilities",
           "source": "Yahoo",
@@ -75,116 +221,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Could SpaceX's Starmind Make Amazon's, Microsoft's, and Google's Cloud Businesses Obsolete? Here's What Investors Need to Know.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1570fbdc8a4d0171688a51f4b43e12fc53495826c894fb6f79fcf65439b8af55",
-          "used_by_ai": true
-        },
-        {
           "headline": "Could SpaceX Become the Next $3 Trillion Company?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c91f48bfbf27ba9c07b2f729468590f23b9ce785ed236a688c4e4746af4310fe",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How To Invest Your First $250,000",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f850f3450d5aab7c1f601974915d30108f5c4e70fc1e7f287afea66b50d909d1",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Safety questions",
-      "headline": "Tesla And The Emperor's New Clothes",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla And The Emperor's New Clothes",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NVIDA Vs. Tesla: Tesla Jumps as It Finally Fulfills Decade-Old Promise So Buy Nvidia Instead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0cb7ffd6a6f0c85e168272d883b4f7638056a6d6d8dab40b06d736c5e562f9ea",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Musk\u2019s Net Worth Down $407 Billion From Trillion-Plus High as SpaceX Stock Dives",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b1c80cf6992aee992d37bd0156e51fc4133dde644136b7ea5c0e6b365a97486c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 3,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Chip deal",
-      "headline": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1deaf95b6458a19e10fd239a7270bdfa11e20e748915d129a029746d92f675f3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1deaf95b6458a19e10fd239a7270bdfa11e20e748915d129a029746d92f675f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f74e61a75f09ee81e74ecad0c6a734f48515bd375e3f1f8161d55807835e91b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The New Villian in Tech",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8347c0c2f3263839eec857c3e793556b4d3cf8678d08e76187d9e2a524877f88",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom Lands $30 Billion Chip Deal With Apple. Why It\u2019s a Win-Win for AAPL and AVGO.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02d1d5a47f52f75d305c2000af9da91729591aa1d7aed97e0f7c09cc8ba58903",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The U.S. Added 441K New Millionaires Last Year. That's More Than 1,200 Every Day. It Now Accounts for Over 40% of the World's Millionaires",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b5be419f101ee3780b24eb1d8b59f9a77aaad973fae919c5637f768a21e9bde",
           "used_by_ai": false
         }
       ],
@@ -196,25 +235,13 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Competition",
-      "headline": "Daniel Newman Says Meta Isn't Replacing Nvidia or AMD With In-House AI Chips: 'It is Augmenting\u2026'",
+      "confidence": 20,
+      "reason": "Warning from analyst",
+      "headline": "5-star analyst sends AMD stock investors a warning",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87077c82c63a7e1df662e78c5926dfc3038909b320c69b20459cbdc422a7a4a4",
+      "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Daniel Newman Says Meta Isn't Replacing Nvidia or AMD With In-House AI Chips: 'It is Augmenting\u2026'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87077c82c63a7e1df662e78c5926dfc3038909b320c69b20459cbdc422a7a4a4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
-          "used_by_ai": true
-        },
         {
           "headline": "5-star analyst sends AMD stock investors a warning",
           "source": "Yahoo",
@@ -222,14 +249,32 @@
           "used_by_ai": true
         },
         {
+          "headline": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a088615026c7f514cbc366aa3b32dc740e38cdd24590a9936afc32825fe96a8b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Daniel Newman Says Meta Isn't Replacing Nvidia or AMD With In-House AI Chips: 'It is Augmenting\u2026'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87077c82c63a7e1df662e78c5926dfc3038909b320c69b20459cbdc422a7a4a4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
+          "used_by_ai": false
+        },
+        {
           "headline": "Nvidia Stock is Finally Soaring, and Rare Chart Pattern Points to More Upside",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=328a9d2fc24f19598820abb1157a69125fd7e57e0ed72f28f336a7d8ab5221ad",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "Benzinga": 1
       }
     },
@@ -237,17 +282,29 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market warning",
-      "headline": "The Maximum Social Security Check Is $5,108 a Month. Here\u2019s How Much Invested It Takes to Match It.",
+      "confidence": 10,
+      "reason": "Market trends",
+      "headline": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29bdb7b20b9edfe56f55d1675c35d3da97a5d2d97a88b9c56c07567e4f3b3ffa",
+      "url": "https://finnhub.io/api/news?id=b46c5a62a8cbc9a93b1a4de5616e808f4eda3969b1196d31ba14950fce87fef3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b46c5a62a8cbc9a93b1a4de5616e808f4eda3969b1196d31ba14950fce87fef3",
+          "used_by_ai": true
+        },
         {
           "headline": "The Maximum Social Security Check Is $5,108 a Month. Here\u2019s How Much Invested It Takes to Match It.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=29bdb7b20b9edfe56f55d1675c35d3da97a5d2d97a88b9c56c07567e4f3b3ffa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5ef22ac348ec27c0c8987dd4682194492bd52506923944e9b4792fdc728f9ae7",
           "used_by_ai": true
         },
         {
@@ -257,20 +314,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "The Truce Is Loose",
+          "headline": "How To Invest Your First $250,000",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=19630f0799150d45eaaa3076c8dbceb9924d6fc61e508c4c4df1d970e60690b0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Big Bank Earnings Kick Off Earnings Season",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bd7731afc0c65620672a740ce68064b788d9f39aca759dfcc98550afbf14a64e",
+          "url": "https://finnhub.io/api/news?id=f850f3450d5aab7c1f601974915d30108f5c4e70fc1e7f287afea66b50d909d1",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
+        "Yahoo": 2,
         "SeekingAlpha": 3
       }
     }
