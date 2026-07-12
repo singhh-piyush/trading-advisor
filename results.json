@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T16:58:21Z",
+  "updated_at": "2026-07-12T18:03:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,56 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Safety questions",
-      "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2b585953cf5f24d03407aaf81534713617f1258e31d6710d08f62a9e6b9838f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla And The Emperor's New Clothes",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "neutral",
       "confidence": 20,
-      "reason": "Mixed signals",
+      "reason": "Mentions of NVDA",
       "headline": "Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7836bdd0c24dc9572de1f8d8e535bf65e1fdf5ef3ad05f4101cf47c06881e053",
@@ -99,57 +58,22 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "Upside potential",
-      "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "2 Beaten-Down Stocks With Massive Upside Potential",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2b585953cf5f24d03407aaf81534713617f1258e31d6710d08f62a9e6b9838f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla And The Emperor's New Clothes",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 20,
-      "reason": "Investor interest",
-      "headline": "Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw\u2019s Holdings",
+      "reason": "Mentions of AAPL",
+      "headline": "Elon Musk Says Tesla Robot Will Be \u2018Biggest Product of All Time\u2019 \u2014 \u2018Nothing Will Even Be Close\u2019 but China Is Toughest Rival, \u2018No Two Ways About It\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=236273daa35d7ef98a13cd17e79b7377b269315081454775395123fc9680ee37",
+      "url": "https://finnhub.io/api/news?id=d3d96561007c7023d4f21481637dade318300d6cea24733f9442c55a0ad05026",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Elon Musk Says Tesla Robot Will Be \u2018Biggest Product of All Time\u2019 \u2014 \u2018Nothing Will Even Be Close\u2019 but China Is Toughest Rival, \u2018No Two Ways About It\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d3d96561007c7023d4f21481637dade318300d6cea24733f9442c55a0ad05026",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw\u2019s Holdings",
           "source": "Yahoo",
@@ -167,30 +91,53 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2b5be419f101ee3780b24eb1d8b59f9a77aaad973fae919c5637f768a21e9bde",
           "used_by_ai": true
-        },
-        {
-          "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f74e61a75f09ee81e74ecad0c6a734f48515bd375e3f1f8161d55807835e91b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Says Tesla Robot Will Be \u2018Biggest Product of All Time\u2019 \u2014 \u2018Nothing Will Even Be Close\u2019 but China Is Toughest Rival, \u2018No Two Ways About It\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3d96561007c7023d4f21481637dade318300d6cea24733f9442c55a0ad05026",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of TSLA",
+      "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2b585953cf5f24d03407aaf81534713617f1258e31d6710d08f62a9e6b9838f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2b585953cf5f24d03407aaf81534713617f1258e31d6710d08f62a9e6b9838f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla And The Emperor's New Clothes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8d34d17e0835fd08c7ff0d02de334e1124ee3242c7821d82a39e376868ae432a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e17284c54aa25245411ec46204ec6e511f3d7549415b85d601e34d19be937c63",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 20,
-      "reason": "Partnership and trends",
+      "reason": "Mentions of MSFT",
       "headline": "Should You Buy Microsoft Corporation (MSFT)\u2019s Shares?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ca99acb04444f5fabb903161ff2de930554c3a579026aeb68acc766d2841eda0",
@@ -224,7 +171,7 @@
           "headline": "Could SpaceX Become the Next $3 Trillion Company?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c91f48bfbf27ba9c07b2f729468590f23b9ce785ed236a688c4e4746af4310fe",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -234,48 +181,41 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "down",
+      "direction": "neutral",
       "confidence": 20,
-      "reason": "Warning from analyst",
-      "headline": "5-star analyst sends AMD stock investors a warning",
+      "reason": "Mentions of AMD",
+      "headline": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
+      "url": "https://finnhub.io/api/news?id=a088615026c7f514cbc366aa3b32dc740e38cdd24590a9936afc32825fe96a8b",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "5-star analyst sends AMD stock investors a warning",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
-          "used_by_ai": true
-        },
         {
           "headline": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a088615026c7f514cbc366aa3b32dc740e38cdd24590a9936afc32825fe96a8b",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Daniel Newman Says Meta Isn't Replacing Nvidia or AMD With In-House AI Chips: 'It is Augmenting\u2026'",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=87077c82c63a7e1df662e78c5926dfc3038909b320c69b20459cbdc422a7a4a4",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "Nvidia Stock is Finally Soaring, and Rare Chart Pattern Points to More Upside",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=328a9d2fc24f19598820abb1157a69125fd7e57e0ed72f28f336a7d8ab5221ad",
-          "used_by_ai": false
+          "headline": "5-star analyst sends AMD stock investors a warning",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
+        "Yahoo": 4
       }
     },
     {
@@ -283,7 +223,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 10,
-      "reason": "Market trends",
+      "reason": "Mentions of market",
       "headline": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b46c5a62a8cbc9a93b1a4de5616e808f4eda3969b1196d31ba14950fce87fef3",
