@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T22:57:39Z",
+  "updated_at": "2026-07-13T23:58:17Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -52,56 +52,10 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Positive sales",
-      "headline": "Apple\u2019s iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55b8188f8871da0e50e844ecfb4653e2a737637fa08cca99bf16351a18af2149",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple\u2019s iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=55b8188f8871da0e50e844ecfb4653e2a737637fa08cca99bf16351a18af2149",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple and Google Likely to Strengthen AI Ties Following OpenAI Lawsuit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb0a466f79737f83099f6c7676c3d701ba4098643a158cbc6412920d8ae72aed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cboe Global Markets to Launch Extended Hours for Single-Stock Options. Here's Why It Wins When Volatility Spikes.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=289fb8697c3ac45a5beb34b7809ca939a9929cf4f0822150e164ce6be4d58a97",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Google Wants 'Near Real-Time' Wildfire Updates. The new Satellites They Just Launched Could Help Save Billions of Dollars Annually",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7080445c5b93ce06ca7923b2b33f87cd28723f693637455fd8f1d519e236693",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Smart Money Is Quietly Swapping VGT for Its Nearly Identical, Cheaper Twin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e593dd696dcd7b9826538bf8c5a08b3a678b954fe0520a0d25ae48ef63a558ef",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 80,
       "reason": "Strong quarter expected",
       "headline": "AMD Seen Posting Strong Quarter",
       "source": "Yahoo",
@@ -144,16 +98,68 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Positive sales",
+      "headline": "Cboe Global Markets to Launch Extended Hours for Single-Stock Options. Here's Why It Wins When Volatility Spikes.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=289fb8697c3ac45a5beb34b7809ca939a9929cf4f0822150e164ce6be4d58a97",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cboe Global Markets to Launch Extended Hours for Single-Stock Options. Here's Why It Wins When Volatility Spikes.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=289fb8697c3ac45a5beb34b7809ca939a9929cf4f0822150e164ce6be4d58a97",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple\u2019s iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=55b8188f8871da0e50e844ecfb4653e2a737637fa08cca99bf16351a18af2149",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple and Google Likely to Strengthen AI Ties Following OpenAI Lawsuit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb0a466f79737f83099f6c7676c3d701ba4098643a158cbc6412920d8ae72aed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google Wants 'Near Real-Time' Wildfire Updates. The new Satellites They Just Launched Could Help Save Billions of Dollars Annually",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b7080445c5b93ce06ca7923b2b33f87cd28723f693637455fd8f1d519e236693",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Smart Money Is Quietly Swapping VGT for Its Nearly Identical, Cheaper Twin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e593dd696dcd7b9826538bf8c5a08b3a678b954fe0520a0d25ae48ef63a558ef",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
       "confidence": 60,
       "reason": "EV rebate",
-      "headline": "California's New EV Rebate Makes Tesla the Winner",
+      "headline": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f7a20d0d562403611ad9aea1572b7945c7e9f7b341f63d186030ef454d5507a0",
+      "url": "https://finnhub.io/api/news?id=eedbe4bf3c9d87fcd8ad7fbf39f98fa2ff4bd6664d05839e8712069f01f27731",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eedbe4bf3c9d87fcd8ad7fbf39f98fa2ff4bd6664d05839e8712069f01f27731",
+          "used_by_ai": true
+        },
         {
           "headline": "California's New EV Rebate Makes Tesla the Winner",
           "source": "Yahoo",
@@ -165,12 +171,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=67e32860d457aaad4963dc10d62fd7d2082d49a421b794e7cfc0076f91e62479",
           "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eedbe4bf3c9d87fcd8ad7fbf39f98fa2ff4bd6664d05839e8712069f01f27731",
-          "used_by_ai": false
         },
         {
           "headline": "Apple Sat Out the AI Arms Race. It\u2019s the Only Magnificent 7 Stock Near All-Time Highs.",
@@ -189,62 +189,43 @@
       "direction": "down",
       "confidence": 50,
       "reason": "Market tensions",
-      "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+      "headline": "The Hidden Price Of A High Yield",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3244660422b70d80c1daeb8686bab9990340a02b0c1ade0ba9e411a74c564c09",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "UK's FTSE 100 flat as energy gains counter mining losses amid US-Iran flare-up - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONV9YYXpONTBaSkVUYjBPdUhqYmRVMTJ1Y3lnaVI2eVN4TElWVVM3dWJTVENqT1MyVVZGUkRYTEdVZnYwdklDYnRxNHZPaGpzdzdyTlZFcmstZ0J6dU9PR0Q1R21aYWNlLURuMTlfSHF6eVZTOXRsMDAtX0k5WmNTaVhjazlLUU1CZDlSOGJJek12ZG9PdHZtbE12YjhyalR4?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "European shares edge lower amid renewed US-Iran tensions - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2NNZnVVOGcySHZsNTZmbktYVlYzbTlxTU5tNHFDSWtqV19rT0dWeUdBaktuOU1FQl9wNkdHZmQ3QWpsX3ZmVktaa1dwZzJqQ1lHNi1ncFpic0UwTzhSUzgzdGdONXV0Vm9fMWQ5SEpIZ2FDZ0VycVlfMmc0ZGVRR2VIYWJjVDVPT1c4UnNGZndTcFE3UmctMy1QeWs?oc=5",
-          "used_by_ai": true
-        },
         {
           "headline": "The Hidden Price Of A High Yield",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3244660422b70d80c1daeb8686bab9990340a02b0c1ade0ba9e411a74c564c09",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "The \u2018Boring\u2019 Dividend ETF Everyone Ignored Just Crushed the S&P 500 This Year",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=47afd28511653d992c92d5e3d9a90abbc3ec7526ce1e4f8c705998ee26fd46be",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "JEPI Is Falling While the S&P 500 Soars. Is That Fat 8% Yield Actually a Trap?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=698f19407400276cdd405a2e968dcdddd4a102eddfb3cd0a4846dfe21cc0a933",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Visa\u2019s $700 Billion Payments Empire Faces New Disruption Risks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3ec6d694f22027a6d627339beb560a010b594515fd1a7049ca35a4322e250a94",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "When The Market Dropped, XLU ETF Held Its Ground",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8e3eb0edb27a16d187041a3bf6e6d8ad77a606988a9d5ca23e7a89ba73ca2ebb",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 3,
         "Yahoo": 5
       }
     },
