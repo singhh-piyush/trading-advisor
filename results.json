@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T20:38:38Z",
+  "updated_at": "2026-07-13T21:56:23Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "Price target hike",
       "headline": "Apple Gets Stunning Price Target Hike from Citi Ahead of Phone 18",
       "source": "Yahoo",
@@ -61,8 +61,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 70,
-      "reason": "Citi warning",
+      "confidence": 60,
+      "reason": "Citi has stark message",
       "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
@@ -101,7 +101,7 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Strong quarter expected",
       "headline": "AMD Seen Posting Strong Quarter",
       "source": "Yahoo",
@@ -144,10 +144,50 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI investors buy HBM",
+      "headline": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad05a47ef83e1268953774bf1c23fe26145ddcb6f76b067e9aea758338d103f7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad05a47ef83e1268953774bf1c23fe26145ddcb6f76b067e9aea758338d103f7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Citi Has a Stark Message for Nvidia Stock Fans",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e47f9d600300fd872551dcba2ded3243f223ffebefbfc7b71f52bf6da532141",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f4eb5206f2995f5dbb86c5e90d43f9a2baab3e3e596b5c77cf0175092f8b0b50",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "California EV rebate",
       "headline": "California's New EV Rebate Makes Tesla the Winner",
       "source": "Yahoo",
@@ -184,11 +224,65 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Iran tensions",
+      "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Back To Square One: Strait Of Hormuz Closes Again",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c09556302beffa7d7bad133e79fc7dc6e2890563ae40e854fc170dedf987b2d5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The \u2018Boring\u2019 Dividend ETF Everyone Ignored Just Crushed the S&P 500 This Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47afd28511653d992c92d5e3d9a90abbc3ec7526ce1e4f8c705998ee26fd46be",
+          "used_by_ai": false
+        },
+        {
+          "headline": "JEPI Is Falling While the S&P 500 Soars. Is That Fat 8% Yield Actually a Trap?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=698f19407400276cdd405a2e968dcdddd4a102eddfb3cd0a4846dfe21cc0a933",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Visa\u2019s $700 Billion Payments Empire Faces New Disruption Risks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ec6d694f22027a6d627339beb560a010b594515fd1a7049ca35a4322e250a94",
+          "used_by_ai": false
+        },
+        {
+          "headline": "When The Market Dropped, XLU ETF Held Its Ground",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e3eb0edb27a16d187041a3bf6e6d8ad77a606988a9d5ca23e7a89ba73ca2ebb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 1,
+        "SeekingAlpha": 1,
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Historical trend",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Stocks did something new",
       "headline": "Nvidia, Amazon, and Microsoft Stocks Just Did Something for the First Time in at Least 5 Years. Here's What History Says Will Happen Next",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3a9054a950c410e249837c914b1ed52d5d45aed64efbc14a9558fc7d5d18598d",
@@ -216,52 +310,6 @@
       "source_breakdown": {
         "Yahoo": 2,
         "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Dividend ETF outperforms",
-      "headline": "The \u2018Boring\u2019 Dividend ETF Everyone Ignored Just Crushed the S&P 500 This Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=47afd28511653d992c92d5e3d9a90abbc3ec7526ce1e4f8c705998ee26fd46be",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The \u2018Boring\u2019 Dividend ETF Everyone Ignored Just Crushed the S&P 500 This Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47afd28511653d992c92d5e3d9a90abbc3ec7526ce1e4f8c705998ee26fd46be",
-          "used_by_ai": true
-        },
-        {
-          "headline": "JEPI Is Falling While the S&P 500 Soars. Is That Fat 8% Yield Actually a Trap?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=698f19407400276cdd405a2e968dcdddd4a102eddfb3cd0a4846dfe21cc0a933",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Visa\u2019s $700 Billion Payments Empire Faces New Disruption Risks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ec6d694f22027a6d627339beb560a010b594515fd1a7049ca35a4322e250a94",
-          "used_by_ai": false
-        },
-        {
-          "headline": "When The Market Dropped, XLU ETF Held Its Ground",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e3eb0edb27a16d187041a3bf6e6d8ad77a606988a9d5ca23e7a89ba73ca2ebb",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ae510df02490782a7a2dc97a60bfa11780ec385654ef1fc7f553894fa8fedc9",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     }
   ]
