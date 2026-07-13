@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T06:18:54Z",
+  "updated_at": "2026-07-13T09:53:53Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,120 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Cathie Wood doubles down",
+      "headline": "Cathie Wood Is Doubling Down on This AI Stock During the Sell-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f42f73606f300ad73aaee123a4ba346d3ab0b92cbf68a0022d48b011715dbae",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cathie Wood Is Doubling Down on This AI Stock During the Sell-Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f42f73606f300ad73aaee123a4ba346d3ab0b92cbf68a0022d48b011715dbae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "History Says It's Time to Buy SpaceX Stock Before It's Too Late",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0938eedb4d30b88e4fa525cc71a30a5c0b7866e548b0361006c304210c305061",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Avoid This Hidden Risk of Index Funds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=185d441fa444a1a4262b355ac3b431b2a252cfa920ec603ca574942e4edd5d3f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "My Top 3 Software Stocks to Buy on the Dip",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f1316fbadc9f2acc509274d26c87c9e3e3204169634ffb966680de5d74f10b4",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Safe earnings play",
+      "headline": "MSFT Stock Holds Up Amid US-Iran Geopolitical Jitters: Retail Calls It \u2018Safest Earnings Play\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e061c39b09d9467857efe95a151ab3ee86749e0db61d823791a9b05e1f528aeb",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "MSFT Stock Holds Up Amid US-Iran Geopolitical Jitters: Retail Calls It \u2018Safest Earnings Play\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e061c39b09d9467857efe95a151ab3ee86749e0db61d823791a9b05e1f528aeb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d13a4af46ed5a26267b384ac7ed46eaca603b7464f913812117e32194f584142",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "New plan to fight rivals",
+      "headline": "TSLA Stock Slips Overnight: Tesla Has A New Plan To Fight BYD And Chinese Rivals \u2014 And It Starts With Its Best-Selling SUV",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0614a61d2de9f89528afe37478b7e3387ca0b8f546055d192fa1c6bddea3d9f9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "TSLA Stock Slips Overnight: Tesla Has A New Plan To Fight BYD And Chinese Rivals \u2014 And It Starts With Its Best-Selling SUV",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0614a61d2de9f89528afe37478b7e3387ca0b8f546055d192fa1c6bddea3d9f9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dfcdd1da05fcf80a525090371fe9b636d1dbf2424b10178650a7048c6b9b8b47",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The U.S. Is Considering Removing Steering Wheels From Cars. Tesla Is the Reason Why.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ecdfa62a065c26e6afa766576826f74e96a51aba0ffccb17c3b338696232ceb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "QQQM: Beware The Rising AI Competition",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=874cc4826e6655d4465f495982f7cea4671511fbb79f798fccdb8bb8099b3a8c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Beats market expectations",
+      "confidence": 60,
+      "reason": "TSMC revenue jumps",
       "headline": "TSMC Q2 revenue jumps 36% from a year earlier, beating market expectations",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=62817613e9842943e5c337da7750d5add3662e5a1eafcbd1dc7affa497d9098a",
@@ -61,13 +170,19 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Potential gain",
-      "headline": "Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?",
+      "confidence": 50,
+      "reason": "Nvidia delay",
+      "headline": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cd991655d4cdeaa4a578b841f964bf00d3d1d0fe2f441922829c044b64ee7a4",
+      "url": "https://finnhub.io/api/news?id=f303054dd86537d48f358bbadda705c7eac9e7507bec15005c7eff5007a2ff10",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f303054dd86537d48f358bbadda705c7eac9e7507bec15005c7eff5007a2ff10",
+          "used_by_ai": true
+        },
         {
           "headline": "Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?",
           "source": "Yahoo",
@@ -81,20 +196,20 @@
           "used_by_ai": true
         },
         {
+          "headline": "Nvidia Stock Is Losing to the Market in 2026. Time to Walk Away or Double Down?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6686122da6e997d407187e3c17d719217334eb7ceb6847077c1ed285683b739e",
+          "used_by_ai": true
+        },
+        {
           "headline": "Rackspace Technology Inc (RXT) Q2 2026 Earnings Call Highlights: Strategic Shift Towards AI ...",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=55fa66d5524cdb06937e9612df9aaa9c6486872318fb05dee05f9f35d013a907",
           "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Stock Is Losing to the Market in 2026. Time to Walk Away or Double Down?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6686122da6e997d407187e3c17d719217334eb7ceb6847077c1ed285683b739e",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -102,16 +217,64 @@
       "company": "",
       "direction": "down",
       "confidence": 50,
-      "reason": "Market uncertainty",
-      "headline": "Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dacd024657c409a5c498848e3ea460855a813613f3eaad4a724b245c2221a6c4",
+      "reason": "Geopolitical tensions",
+      "headline": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rupee hits one-month low as renewed Mideast conflict lifts oil prices - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXR4ZWZsd09NWExoakQ5aEpDdmdhNk5SVVNlQ1A3TmhtaXFFQnM3LTRSSzhSaFJxSHoxUWlVbFF5UTRzYnh2RG1qNEFWZTNHMzNFNTRuYlFUUHJiRldvakh4dEN6RU9FNXZkMlMtSW8tTGtPNW5sRXBYbVFRTWJOWDRRa2RxaVNuZFlBXzNtdVUxUFBMejZjOXNMTEVGUzRFWXEtYnltN2xEZ3I4aU9McnRnRTNDQQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Indian shares fall as oil jumps on renewed escalation in the Middle East - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONEQxNWtFdV9JXzY0RnUtVXhxNGE5RHlOMW1CRHhrQlBfTjNkck1qR0ZOUzg1ZXVfalNiVlUwczRaR2pWeXBkRlJwdzBtX25vSHJzdDNKT0FiOUJXMld0WTJucHZHN0xqSW1fSDlIY0kyUG5XMDJMV0RibTNkX3VYeHhxSllqNW5XWW5wNWI1eWItd21ELWZncFV0M1dhOTQ5cjBTaFhtREhvbnZab3Nvd1VQNUQxUko4dE84?oc=5",
+          "used_by_ai": true
+        },
         {
           "headline": "Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dacd024657c409a5c498848e3ea460855a813613f3eaad4a724b245c2221a6c4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Shares skid as Gulf conflict sends oil surging - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2QwU3pIcHNXVlZZZW1SUXpNSVlUYlRILUdqUmJBODg5ZDh0Q3d4U21VZkdHZGhmZDlnNFFxYWZ1Y1AwTTJ1bTBZVlQ5ZFpSSngtMTdzNzljNExjWk15WE11MDBScXMwTmJkcG9NM2lEMjM3Z1E5ODNPWWljYnVxUko5T21tZ055eHhtMnh0bDZNZw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil jumps over 3% as fresh military strikes threaten Hormuz shipments - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Reviewing Recent Picks: Winners, Laggards, And Lessons From SpaceX, Meta, Micron, Bloom, And Credo",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cef930682d80ba7bb3f56f5bc5f16115e38dd8f2278f941ba6ba5f3e59a93234",
           "used_by_ai": true
         },
         {
@@ -121,136 +284,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b46c5a62a8cbc9a93b1a4de5616e808f4eda3969b1196d31ba14950fce87fef3",
+          "headline": "Gulf bourses subdued as US and Iran exchange strikes - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1pXOXRCNmZyZWlJV04zUzZFZmtwSG01b1IwN3VENmRyaTRoOThIR3hHbmJVTWNpU1NVTVNtRUMzTmNWXzg1WGdfeEFnZUNEQ3BUdUwyTVdickl6aFdqRzRUOHJ2VXA4Wk9oazhIdnFoczZwa2Jld1hPOEZIRlprYk9SWndKdEU3Z3RTSWhSZWF5MnZYRzNxWVEtRUlpakhU?oc=5",
           "used_by_ai": true
         },
         {
-          "headline": "The Maximum Social Security Check Is $5,108 a Month. Here\u2019s How Much Invested It Takes to Match It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29bdb7b20b9edfe56f55d1675c35d3da97a5d2d97a88b9c56c07567e4f3b3ffa",
+          "headline": "SLYV Is A Diversified Way To Capitalize On Increasing Market Participation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a74a2206322e04573ae6b24ea3a76ba024c113031d4c18aaf62893a4d8f1f0b7",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed news",
-      "headline": "Avoid This Hidden Risk of Index Funds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=185d441fa444a1a4262b355ac3b431b2a252cfa920ec603ca574942e4edd5d3f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Avoid This Hidden Risk of Index Funds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=185d441fa444a1a4262b355ac3b431b2a252cfa920ec603ca574942e4edd5d3f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "My Top 3 Software Stocks to Buy on the Dip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f1316fbadc9f2acc509274d26c87c9e3e3204169634ffb966680de5d74f10b4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f303054dd86537d48f358bbadda705c7eac9e7507bec15005c7eff5007a2ff10",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is The Oil Crisis Over? Or Is It Just Beginning?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68dad5acbed46a89d1bc0370c7cae777f6885a336b816a8ef3761f2df27d855f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Stock Is Losing to the Market in 2026. Time to Walk Away or Double Down?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6686122da6e997d407187e3c17d719217334eb7ceb6847077c1ed285683b739e",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed news",
-      "headline": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dfcdd1da05fcf80a525090371fe9b636d1dbf2424b10178650a7048c6b9b8b47",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dfcdd1da05fcf80a525090371fe9b636d1dbf2424b10178650a7048c6b9b8b47",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The U.S. Is Considering Removing Steering Wheels From Cars. Tesla Is the Reason Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ecdfa62a065c26e6afa766576826f74e96a51aba0ffccb17c3b338696232ceb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is the AI Bubble About to Burst?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed1822e367fe5cc1ca1b0c9e54d974ef6ae6923fe6e33d20ab21e9ac795c37b5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla merger with SpaceX won't save investors, top analyst says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c55c30a0dd63c1d197bddf107a310bb416f9f45db3f5d6f2d36533ae104bbd2",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Limited news",
-      "headline": "I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d13a4af46ed5a26267b384ac7ed46eaca603b7464f913812117e32194f584142",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d13a4af46ed5a26267b384ac7ed46eaca603b7464f913812117e32194f584142",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Reviewing Recent Picks: Winners, Laggards, And Lessons From SpaceX, Meta, Micron, Bloom, And Credo",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cef930682d80ba7bb3f56f5bc5f16115e38dd8f2278f941ba6ba5f3e59a93234",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
+        "Reuters": 8,
         "Yahoo": 1,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 3
       }
     }
   ]
