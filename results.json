@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T16:44:55Z",
+  "updated_at": "2026-07-14T18:02:53Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,88 @@
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
       "confidence": 80,
-      "reason": "Downgraded to sell",
-      "headline": "Apple Stock Downgraded To Sell. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ec8a5143c0adc8a56340bda09201f5af8070e0e5ea1f3cb379d7552ef75a1c1",
+      "reason": "Soft inflation data",
+      "headline": "S&P 500 and Nasdaq rise as soft inflation data, bank earnings buoy sentiment - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "S&P 500 and Nasdaq rise as soft inflation data, bank earnings buoy sentiment - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Dow Rises Amid Surprise CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=34081a6601a97210f594df6f34bec82b71a053a49e7704aa71e26b9a8aad5039",
+          "used_by_ai": true
+        },
+        {
+          "headline": "June CPI Was Deflationary",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c6da6939c055f3922bf28b1c031a27c847ac321f1e6a5d0a98456d087cf0efe2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "CPI Headline Inflation Drops To 3.5% To Help Move Stocks Higher",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8d42538716cd23e8b05500bf891154ca9a8f4084a0e36fb87200b49bf3e4f667",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Ahead of Warsh Testimony",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=70e2e0e616806d2abf1c8f4fd4d661e66507b2d725a921a684bd36e2b5e4a11d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SPYI vs. JEPI: Which Monthly \u2018Paycheck\u2019 ETF Actually Wins When the Market Gets Ugly?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b85f9fa1e34cba58b5c88aa747c1d1466c808e9ed06a46d9d1d30e6c89c56fe",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 1,
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "New iPhone models",
+      "headline": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=cabe65425881223e34efd5bb71098208aeb614bd56b2e75936131543a3ffbdda",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Top dow jones movers in Tuesday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=cabe65425881223e34efd5bb71098208aeb614bd56b2e75936131543a3ffbdda",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple (AAPL) Plans At Least 5 New iPhone Models Through Early 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a02fe33af2eb10e9ae6735f0825ca378fbc619d0100b060f96f3f288d2875d7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "IBM, Goldman Sachs, SK Hynix, Micron, AMD, Apple, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f61a94464a694de7ff39e9d9539738b692e155b597a056dcbf1cdda87ce22960",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Stock Downgraded To Sell. Here's Why.",
           "source": "Yahoo",
@@ -29,39 +101,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple, IBM downgraded: Wall Street's top analyst calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dabea42d44b757b3059eccf57dfdc1f7204f893df8aba72ca3dc34d260329a10",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple (AAPL) Plans At Least 5 New iPhone Models Through Early 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a02fe33af2eb10e9ae6735f0825ca378fbc619d0100b060f96f3f288d2875d7",
-          "used_by_ai": false
-        },
-        {
           "headline": "IBM stock plummets more than 25% on Q2 earnings warning",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4c1f809c9f1fda00bc8f0c1d6ff5f9f2efe1c17a5a9d5509b67436864af4b735",
           "used_by_ai": false
-        },
-        {
-          "headline": "IBM, Goldman Sachs, SK Hynix, Micron, AMD, Apple, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f61a94464a694de7ff39e9d9539738b692e155b597a056dcbf1cdda87ce22960",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "ChartMill": 1,
+        "Yahoo": 4
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 50,
       "reason": "China comeback",
       "headline": "Nvidia\u2019s China Comeback Finally Begins \u2014 But Here\u2019s Why Investors Should Keep Expectations in Check",
       "source": "Yahoo",
@@ -75,39 +130,33 @@
           "used_by_ai": true
         },
         {
-          "headline": "NVIDIA (NVDA): One of the Best Monopoly Stocks to Buy According to Hedge Funds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a0b0f251bbab383483ec679bf52ad20d96999cca29800ef06885101f1ccd6322",
-          "used_by_ai": true
-        },
-        {
           "headline": "Top Midday Stories: June CPI Falls More Than Expected; IBM Shares Drop After Company Provides Update on Q2 Earnings 'Shortfall'",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a5c32c616d3a0e66cd8befa0019a4c24b39fccb15837c351016c35902cb2b3fc",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Had You Bought This Magnificent Vanguard ETF at the Start of January, You'd Be Crushing the S&P 500 in 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e5a61e6ffebee55bdc445be27163ffe73c12de148b17a2d7dc2dcea7783b8011",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Elon Musk Thinks SpaceX\u2019s Value Could Outgrow Earth Itself",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5e709e0c808b1b22139e3c7530804495a9d30b909110993adaf992e3989eec49",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 50,
       "reason": "Strong deliveries",
       "headline": "What If the Car Is No Longer the Point For Tesla Stock?",
       "source": "Yahoo",
@@ -133,27 +182,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "The Top Is In For Micron",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ec1488bc362a923666f87731e161bf162de87203573916504b45b28b69761a6b",
+          "used_by_ai": true
+        },
+        {
           "headline": "Hyperliquid HIP-3 Volume Nears 50% as Onchain Stock Trading Accelerates",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=84083cad7f7b2382e0c9f12740a310607c093ddc4070a3933888370ca2703b17",
           "used_by_ai": true
-        },
-        {
-          "headline": "The Massive Reason to Buy Tesla Before July 22 Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf2ad885d51de630f260d3635529d13fce2eeddfc333590f307f892e88e4dd87",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 40,
       "reason": "Azure deployments",
       "headline": "Origin Digital Joins Anthropic's Claude Partner Network",
       "source": "Yahoo",
@@ -182,7 +232,7 @@
           "headline": "Palantir Stock's Profitability Challenges the Market's Slowdown Fears.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dc6169a081fb48fdd83d3d03784519c0cbf900b22aaafc14520c91b5e45606a2",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -190,75 +240,22 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Softer inflation",
-      "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall St rises on cooler inflation data, big bank earnings - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SPYI vs. JEPI: Which Monthly \u2018Paycheck\u2019 ETF Actually Wins When the Market Gets Ugly?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b85f9fa1e34cba58b5c88aa747c1d1466c808e9ed06a46d9d1d30e6c89c56fe",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Dow Rises Amid Surprise CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=34081a6601a97210f594df6f34bec82b71a053a49e7704aa71e26b9a8aad5039",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Ahead of Warsh Testimony",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=70e2e0e616806d2abf1c8f4fd4d661e66507b2d725a921a684bd36e2b5e4a11d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VOE Is At A Record. Is It Time To Act?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3bfa93a8c688142cbd61290ebc473376f7afd8b462ef3e9169548a3e5dbe5581",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Which Hot Funds Have Staying Power?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ddd501d0bea40ce609fcae9aecdcc1b2a25e8d455191da6afeca3fb87631922",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 2,
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 40,
-      "reason": "Risk lingers",
-      "headline": "Micron Stock Looks Transformed. One Number Shows The Old Risk Lingers.",
+      "reason": "Chip stocks strong",
+      "headline": "These Chip Stocks Are Staying Strong In A Choppy Market",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e8e151eb788b277fd0d0bec07ce45d5c076c2190f97c5b20f6e9b7bab4fa9ee",
+      "url": "https://finnhub.io/api/news?id=e88c0de77eb345336535019bed685162da3dac01963d5158d3295c674cf6477e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "These Chip Stocks Are Staying Strong In A Choppy Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e88c0de77eb345336535019bed685162da3dac01963d5158d3295c674cf6477e",
+          "used_by_ai": true
+        },
         {
           "headline": "Micron Stock Looks Transformed. One Number Shows The Old Risk Lingers.",
           "source": "Yahoo",
@@ -270,10 +267,16 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2b0f8245b31f9fbced3286d335a7db6d417a6b620bff9622d5e5b87f54739392",
           "used_by_ai": true
+        },
+        {
+          "headline": "IBM, Goldman Sachs, SK Hynix, Micron, AMD, Apple, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f61a94464a694de7ff39e9d9539738b692e155b597a056dcbf1cdda87ce22960",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2
+        "Yahoo": 4
       }
     }
   ]
