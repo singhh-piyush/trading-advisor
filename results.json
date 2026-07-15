@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T12:14:47Z",
+  "updated_at": "2026-07-15T14:19:19Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,168 +8,48 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 7,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 80,
-      "reason": "Lost 50% of Asian AI clients",
-      "headline": "NVIDIA Drops 50% of Asian AI Chip Clients in China Crackdown",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce5d3816af7dcb17f30c5f5b8c906f49a202cbb39ea1e460ca1220eca8b974d2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "NVIDIA Drops 50% of Asian AI Chip Clients in China Crackdown",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce5d3816af7dcb17f30c5f5b8c906f49a202cbb39ea1e460ca1220eca8b974d2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2971ee87257a610317413e2ff05934d0668968f3cd984c94d8afb6107542ccc",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Here's How Many Shares of Costco Stock You'd Need for $1,000 in Yearly Dividends",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8efefafc260dbb31c8c3ed211e2632a1020d3884674510a6dbb1365a75772db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Warren Buffett's Hand-Picked Successor, Greg Abel, Revamped Berkshire Hathaway's Portfolio. Should You Buy the Only Berkshire Dividend Stock Left That Yields Over 6%?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d3e07386caaaa270124a397d117f6fbf883f3fe69a91ef3e0d12926a49bc141",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Expanding AI leadership",
-      "headline": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2971ee87257a610317413e2ff05934d0668968f3cd984c94d8afb6107542ccc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2971ee87257a610317413e2ff05934d0668968f3cd984c94d8afb6107542ccc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NVIDIA Drops 50% of Asian AI Chip Clients in China Crackdown",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce5d3816af7dcb17f30c5f5b8c906f49a202cbb39ea1e460ca1220eca8b974d2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Here's How Many Shares of Costco Stock You'd Need for $1,000 in Yearly Dividends",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8efefafc260dbb31c8c3ed211e2632a1020d3884674510a6dbb1365a75772db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Warren Buffett's Hand-Picked Successor, Greg Abel, Revamped Berkshire Hathaway's Portfolio. Should You Buy the Only Berkshire Dividend Stock Left That Yields Over 6%?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d3e07386caaaa270124a397d117f6fbf883f3fe69a91ef3e0d12926a49bc141",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 70,
-      "reason": "BYD has already lapped Tesla",
-      "headline": "BYD Has Already Lapped Tesla \u2014 Now It Says Toyota Is Next And US Market Doesn't Matter",
+      "confidence": 40,
+      "reason": "Negative EV sentiment",
+      "headline": "Ford Should Stop Selling EVs",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8dc9307a627f1cc5631a71e5f8ab207fd745329808c3fef32501b40a9147fbcc",
+      "url": "https://finnhub.io/api/news?id=02f35ec2e3b0a858d1d9f08c2a6fc088c934f50eb9d2fd3afe9a834847f83722",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "BYD Has Already Lapped Tesla \u2014 Now It Says Toyota Is Next And US Market Doesn't Matter",
+          "headline": "Ford Should Stop Selling EVs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8dc9307a627f1cc5631a71e5f8ab207fd745329808c3fef32501b40a9147fbcc",
+          "url": "https://finnhub.io/api/news?id=02f35ec2e3b0a858d1d9f08c2a6fc088c934f50eb9d2fd3afe9a834847f83722",
           "used_by_ai": true
         },
         {
-          "headline": "Nasdaq, S&P 500 Futures Rise, Wall Street Eyes PPI After CPI Surprise: Why PYPL, ORCL, ASML, NOK, LCID, TSLA Are In Focus",
+          "headline": "This Week In Electric Vehicles - Global Market Shifts Shape Future Growth and Strategies",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de03098f53382b8837d97e5ef7aa2850cfac187215d009da57ca8e1c7dfabc3a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36bf2a015a05063d52492b44ef56867abf585a493c2d4d3aff7ea2dcdd817b99",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Started H200 AI chip shipments",
-      "headline": "Nvidia Starts H200 AI Chip Shipments to China as US Approves Limited Exports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c62a57b64473d2ac15a53adacb7a130b3e7770c1f0bf36df0227c7466479307",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia Starts H200 AI Chip Shipments to China as US Approves Limited Exports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c62a57b64473d2ac15a53adacb7a130b3e7770c1f0bf36df0227c7466479307",
+          "url": "https://finnhub.io/api/news?id=e897a8c36837f69cec9d902737dcfe7d219b1a11d83ad650b7a1c9cecf9afc72",
           "used_by_ai": true
         },
         {
-          "headline": "NVIDIA Drops 50% of Asian AI Chip Clients in China Crackdown",
+          "headline": "Tesla Stock Is in the Calm Before the Storm",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce5d3816af7dcb17f30c5f5b8c906f49a202cbb39ea1e460ca1220eca8b974d2",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=64affd346224a63d482721d5b59ea2f88eee0bc8e7db4d043c8eae7b1de1584b",
+          "used_by_ai": true
         },
         {
-          "headline": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure",
+          "headline": "If a Stock Market Crash Is Coming, 100 Years of History Says This Is the Best Move Investors Can Make",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2971ee87257a610317413e2ff05934d0668968f3cd984c94d8afb6107542ccc",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=2b84aefd8908820cc98e9d56127a8d69f2a54b28ef46947aa4f794a3d3f681d2",
+          "used_by_ai": true
         },
         {
-          "headline": "Here's How Many Shares of Costco Stock You'd Need for $1,000 in Yearly Dividends",
+          "headline": "PayPal co-founder and Affirm CEO details his 'very high bar' for M&A",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8efefafc260dbb31c8c3ed211e2632a1020d3884674510a6dbb1365a75772db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Warren Buffett's Hand-Picked Successor, Greg Abel, Revamped Berkshire Hathaway's Portfolio. Should You Buy the Only Berkshire Dividend Stock Left That Yields Over 6%?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d3e07386caaaa270124a397d117f6fbf883f3fe69a91ef3e0d12926a49bc141",
+          "url": "https://finnhub.io/api/news?id=edfe3f13342094c3f50efdbb4ac9e49008bd82ea95f5e5c2e1ef487ea13757dd",
           "used_by_ai": false
         }
       ],
@@ -178,84 +58,90 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Three reasons to buy",
-      "headline": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Mixed analyst views",
+      "headline": "Connectbase and InterGlobix Announce Oracle's Dr. Sanjay Basu and NVIDIA's Pete Coticchia to Headline The Connected World LIVE! 2026 with Opening Keynote and Executive Fireside Chat",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36bf2a015a05063d52492b44ef56867abf585a493c2d4d3aff7ea2dcdd817b99",
+      "url": "https://finnhub.io/api/news?id=6cc2be239f9a20e92778bf73d22e1a229dfe364342a21ac5ce158f17676ba610",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
+          "headline": "Connectbase and InterGlobix Announce Oracle's Dr. Sanjay Basu and NVIDIA's Pete Coticchia to Headline The Connected World LIVE! 2026 with Opening Keynote and Executive Fireside Chat",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36bf2a015a05063d52492b44ef56867abf585a493c2d4d3aff7ea2dcdd817b99",
+          "url": "https://finnhub.io/api/news?id=6cc2be239f9a20e92778bf73d22e1a229dfe364342a21ac5ce158f17676ba610",
           "used_by_ai": true
         },
         {
-          "headline": "Nasdaq, S&P 500 Futures Rise, Wall Street Eyes PPI After CPI Surprise: Why PYPL, ORCL, ASML, NOK, LCID, TSLA Are In Focus",
+          "headline": "SpaceX\u2019s $800 Price Target Value\u2019s The Company Over $10 Trillion \u2014 Should It Spark Bubble Worries?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de03098f53382b8837d97e5ef7aa2850cfac187215d009da57ca8e1c7dfabc3a",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ff01ef3465a81790d10dec403d775358f7657475383403a71c14132158e3c815",
+          "used_by_ai": true
         },
         {
-          "headline": "BYD Has Already Lapped Tesla \u2014 Now It Says Toyota Is Next And US Market Doesn't Matter",
+          "headline": "One chart reveals why investors are concerned about earnings from Microsoft, Amazon, and other hyperscalers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8dc9307a627f1cc5631a71e5f8ab207fd745329808c3fef32501b40a9147fbcc",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ea4afa192b967d14cfa4e83043438229efad14194f4627cf83bffd0547c0cd49",
+          "used_by_ai": true
         },
         {
-          "headline": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
+          "headline": "Oracle Cratered Again. Shares Might Be a Triple If These Analysts Are Right.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757",
+          "url": "https://finnhub.io/api/news?id=593f863e8cc48716b78f3f55dd1b5f74b83d9cad2a78e35c4826a6b3e15914c7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If You're Worried About a Market Crash, Here's the 1 Thing You Shouldn't Do, According to History.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=660d7f768d0ab4e646a902a14a200a9b827fc7e17fe4ddce82fb7be09bf00926",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "SpaceX planning rival smartphone",
-      "headline": "Is SpaceX Planning to Make a Smartphone to Rival the iPhone?",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Positive China news",
+      "headline": "Apple Intelligence approved in China with Alibaba Qwen AI model",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c43ced8dbf7eb512a8732da661ff468f599076819b66953480c544a347e7122b",
+      "url": "https://finnhub.io/api/news?id=e26de3a3915584417f7cbffd640011335287b416c558886d6b9a564827ec03ba",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Is SpaceX Planning to Make a Smartphone to Rival the iPhone?",
+          "headline": "Apple Intelligence approved in China with Alibaba Qwen AI model",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c43ced8dbf7eb512a8732da661ff468f599076819b66953480c544a347e7122b",
+          "url": "https://finnhub.io/api/news?id=e26de3a3915584417f7cbffd640011335287b416c558886d6b9a564827ec03ba",
           "used_by_ai": true
         },
         {
-          "headline": "TappAlpha Expands Growth + Income ETF Platform with TMGN, Bringing Tax-Efficient Income to the Cboe Magnificent 10 Index",
+          "headline": "Update: US Equity Futures Higher Pre-Bell Amid Inflation Data, Middle East Tensions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6f464e4b9f72e663d0a7e6ba064587394afd222e567aab5d8858ffd98c4eaab",
+          "url": "https://finnhub.io/api/news?id=480ecd1efdac3a227829eb7883cc5a86f40c88e0b34b3e5bcfe8c909920a0c06",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Xsolla Releases New Industry Report Highlighting the Shift Toward Direct-to-Consumer Models as the New Baseline for Monetization",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c21c30659cbdce8365e640936aece1de2d41cd6b37c84f1d5a8d676bb8185cf7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "PayPal Soars 19% on a Reported $53B Stripe-Advent Takeover Offer: What It Means for Visa, Mastercard, and American Express",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e18fbe9ddfb0e2940000726173b795492ff13465648c72e80e81ca1f509694cd",
           "used_by_ai": false
         },
         {
-          "headline": "AI Is Reshaping a Trillion-Dollar Wall Street Catalyst, and It Has Terrifying Implications for the 2nd-Priciest Stock Market in History",
+          "headline": "Hazeltree: A Tale of Two Stories Defined the First Half of 2026 for Global Hedge Funds",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c6e46103f3b24a18c3aeb056b3204ae212ff5d2516d8162635e54a6786e472e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "BABA Stock Just Shot Up Pre-Market \u2013 What's The Apple Connection?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56ec17fba17decc4d61015664723e513e41000c4772e819be02015f8a3c650b1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "JPMorgan\u2019s \u2018Aggressive Buy\u2019 Stock Pick Is Paying Off, Yet Insiders Aren\u2019t Convinced",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7963ffe51581e79afb678872cbdf04c6228e4f72c95b56c03d743abb4d7b5d76",
+          "url": "https://finnhub.io/api/news?id=c95228c967fb40b20f8ded0bc8c1a667a3075aef9bbd6c4bdd5665f32be4dbe4",
           "used_by_ai": false
         }
       ],
@@ -267,128 +153,161 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Morgan Stanley drops bombshell",
-      "headline": "Morgan Stanley Drops a $50 Billion Bombshell \u2014 Can Big Tech Still Afford to Build the AI Factories of the Future?",
+      "confidence": 20,
+      "reason": "Partnership news",
+      "headline": "Oracle Leads Japan Secure Cloud Talks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f86efe740c396067971dd51aedb8cf5f9cd1e907f21351f81093885cf04becd",
+      "url": "https://finnhub.io/api/news?id=c84435dd86c5ab94b3d374d69a76b6c60ee9c0062c3b9bd9f5a8b6bcac0f45dc",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Morgan Stanley Drops a $50 Billion Bombshell \u2014 Can Big Tech Still Afford to Build the AI Factories of the Future?",
+          "headline": "Oracle Leads Japan Secure Cloud Talks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f86efe740c396067971dd51aedb8cf5f9cd1e907f21351f81093885cf04becd",
+          "url": "https://finnhub.io/api/news?id=c84435dd86c5ab94b3d374d69a76b6c60ee9c0062c3b9bd9f5a8b6bcac0f45dc",
           "used_by_ai": true
         },
         {
-          "headline": "Oracle shares gain after report it leads race for Japanese government cloud contract (ORCL)",
+          "headline": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3296c27bab0371ceadd548de123fc52e9c0f0f77beacd653861adf3417ca61b5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-Bell Wednesday; ASML Holding, Nebius Group to Open Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bfe641e02233afdc2283766c66d27d1c969c83f02311e029b7fc95727b68da2b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Money Is Suddenly Rotating Into Financial Stocks. Here's What's Driving It -- and Whether the Move Lasts.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d549a47f757336001583aaa3a0183f8f144bda6fa3ca6239e90aac5f9bda0f7",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Stocks gain on softer inflation",
-      "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
+          "url": "https://finnhub.io/api/news?id=5a4ddf6067bf804ed951b67bdc4805e4b17c595e0d804f99db99714af623312b",
           "used_by_ai": true
         },
         {
-          "headline": "Zacks Investment Ideas feature highlights: QQQ, SPY, SanDisk, Micron and Dell",
+          "headline": "MSFT Sees Fresh Price Target Cuts Days Before Quarterly Report \u2013 Citi Sees Strong Q4 But Expects Higher Capex Spend In Q1",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fdfec679027d8447aeb7495acc3b1fc411c514385f0a68ab0b680eb9992342f2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Outlook For S&P 500 Dividends In July 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1b7e68c73fb9a1a152b2c7ba752352dde55e9405395400e8e06b6c65de879383",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SA Quant Top 10 For H2 2026: Greater Upside, Higher EPS Growth And Lower PEG",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=96c710a09789dbed73a6feed5eb7c1fd944cf289957251ac5a7d087894cd053b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tradeweb Exchange-Traded Funds Update - June 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6e4ac237d3be1a31c9094d7056e9d5023a58b1ab342da0bd8df742366d8d06b8",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=6dd0d7b6b6d7f70b87436f6ecc63923c90e5062582da233c8b821964eadbdfc5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Nvidia starts H200 AI chip shipments",
-      "headline": "Nvidia Starts H200 AI Chip Shipments to China as US Approves Limited Exports",
+      "confidence": 20,
+      "reason": "AI demand rally",
+      "headline": "How Marvell Turned AI Demand Into A 200% Rally",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c62a57b64473d2ac15a53adacb7a130b3e7770c1f0bf36df0227c7466479307",
+      "url": "https://finnhub.io/api/news?id=c568319602d7121bf19a7187c31aac6720169f8bb14eb30ef3a71c92898dd216",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia Starts H200 AI Chip Shipments to China as US Approves Limited Exports",
+          "headline": "How Marvell Turned AI Demand Into A 200% Rally",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c62a57b64473d2ac15a53adacb7a130b3e7770c1f0bf36df0227c7466479307",
+          "url": "https://finnhub.io/api/news?id=c568319602d7121bf19a7187c31aac6720169f8bb14eb30ef3a71c92898dd216",
           "used_by_ai": true
         },
         {
-          "headline": "Canadian startup that raised US$75 billion wants to show chip companies can build in Canada",
+          "headline": "Here\u2019s the Clear Reason to Buy Intel Before Its July 23 Earnings Report",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2e3b042f69404b91971f3bc623ccc083738889fc0c1c89c9668f373647be524",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=93087175be0c5544fd8c0c3f7b5aac850c3f41f82d0b135c44cfc194b30f4aa0",
+          "used_by_ai": true
         },
         {
-          "headline": "How Meta Platforms (META) Is Strengthening Its AI Infrastructure With Custom Chips and Massive Computing Expansion",
+          "headline": "Direxion Launches SKHL, 2X Daily Exposure to SK hynix",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8760f78b10af80132859a0f13b60299f797fc64f43686efd2f476c681776a232",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=6f1f7d956668750bec9a966cda9dcbc598b27fcbf15b562bbf99470eeb76764d",
+          "used_by_ai": true
         },
         {
-          "headline": "Wall Street Says This Artificial Intelligence (AI) Stock Is Overvalued. Here's Why I Disagree",
+          "headline": "Cathie Wood\u2019s ARK Invest Doubles Down On Circle In Two Funds At Once, Trims Robinhood Again",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41dc98cd066c6eaadba36b24d5a6547365d2721b7ffe951db6923b38f734e6ab",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=7261fdcea836521dd54612b9a79cb64804288a5cafdf4f71904d00d08574006d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TappAlpha Expands Growth + Income ETF Platform with TMGN, Bringing Tax-Efficient Income to the Cboe Magnificent 10 Index",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6f464e4b9f72e663d0a7e6ba064587394afd222e567aab5d8858ffd98c4eaab",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Bull market gains",
+      "headline": "The U.S. Added 441,000 Millionaires Last Year, While the Typical American Got 20% Poorer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c693bdd174aac5d7a1849a498400b0626bd4dc0bc0510e525af78551defbf287",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The U.S. Added 441,000 Millionaires Last Year, While the Typical American Got 20% Poorer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c693bdd174aac5d7a1849a498400b0626bd4dc0bc0510e525af78551defbf287",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Inflation Has Peaked Again, Paving The Way For More Bull Market Gains",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4978324ba4b0f093a9594e0f3b767d9b89abc9aaa7937e15ed0eb906ad951b38",
+          "used_by_ai": true
+        },
+        {
+          "headline": "June CPI Inflation: Expected Relief, Monetary Tightening, And Gold Investing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6ae895549d86dfc217f013dc6470243e4e6b246e931accf4103186ac19b22a7e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, S&P 500 Futures Rise, Wall Street Eyes PPI After CPI Surprise: Why PYPL, ORCL, ASML, NOK, LCID, TSLA Are In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de03098f53382b8837d97e5ef7aa2850cfac187215d009da57ca8e1c7dfabc3a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Bubble Burst - The IBM Warning Supports The Major Concerns",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4f739e9ffc5265c5cac41e772e6e1c6a36b8d463c5ba5df4abf24f1ba0c9ac97",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "XLE",
+      "company": "",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Oil price rise",
+      "headline": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+      "on_watchlist": false,
+      "articles": [
+        {
+          "headline": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US drivers may soon see pump prices climb back up to $4 - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemxQN0hyMEV1NENLS1FXU3BWb1hwZ050UjFtcmhwSW9hUk16VGNVRmd4MmMxUVV5VlB1eUtMUy0tOWdSRGxRb1FfVWtmeTNBVHNFUkR4aEl1R1c2cVV1eDZHVkc2OS1hVDJtSndXOXVOeVU0bUFlM0FtOW5nWVZOd1EyNjk5VEpPVWNyS1JERDRRTmJIcEctUjNMV1YxQkY5Z0REeVNn?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 3
       }
     }
   ]
