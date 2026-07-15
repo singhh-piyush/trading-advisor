@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T06:21:06Z",
+  "updated_at": "2026-07-15T08:42:14Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,57 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Multiple AI-related headlines",
+      "headline": "Missed Out On The SpaceX IPO? Buy These Industrial Giants Instead.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9dacc99c72dbd5b5ed9b88280736807036856068da9a96982c38afe5683d1c6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Missed Out On The SpaceX IPO? Buy These Industrial Giants Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9dacc99c72dbd5b5ed9b88280736807036856068da9a96982c38afe5683d1c6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Rocket Lab Stock Jumped 46% in the First Half of 2026 and Why It Could Rocket Even Higher",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=19aa34c4846dd9cf6120c3b1a3bcd7a553225cd48eda48a0b951c45bd689dcad",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nokia defines the next era of radio with the industry\u2019s first AI-native RAN platform",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b8090c44e3323be5b2c298ac25654725cfcfb9dcfc082b71edc7be9b9444bf5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street Says This Artificial Intelligence (AI) Stock Is Overvalued. Here's Why I Disagree",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=41dc98cd066c6eaadba36b24d5a6547365d2721b7ffe951db6923b38f734e6ab",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=36bf2a015a05063d52492b44ef56867abf585a493c2d4d3aff7ea2dcdd817b99",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Strategic partner agreement",
+      "confidence": 70,
+      "reason": "AI and retail innovation",
       "headline": "Hanshow Signs Strategic Partner Agreement with Microsoft to Accelerate Smart Retail Innovation",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=989e7e22f179a14befa930a07b6bbe6418e68c436409a770ccb543bec921301e",
@@ -52,97 +98,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "Chip rebound",
-      "headline": "Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If History Is Any Guide, This Is What Happens Next.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=374894c00d3fc6b16b0e4773498fe86203e44b2feab86325fe82dbb1d86e5739",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If History Is Any Guide, This Is What Happens Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=374894c00d3fc6b16b0e4773498fe86203e44b2feab86325fe82dbb1d86e5739",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Beaten-Down GLP-1 Stocks to Buy on the Dip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e10351931a4a1c177167f4c15a4844e8f09661f69d548c6055c6fdc8c5f88e63",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SK Hynix, Samsung Shares Soar Amid Chip Rebound; Samsung Denies US Listing Plans",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c5c71f4c1c2fd7229eeb6434d93b6db8c12020e928975bee3fe93c7e17361bc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Goldman Sachs Says the Crowd Is Wrong on This Beaten-Down Medical Robotics Giant",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65f1de0268847a44b2b2719d2a7d1721b333a013f7a8113c3d24c04902953c21",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Lawsuit with OpenAI",
-      "headline": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Amid Apple Lawsuit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=296f966d8b58dcfcebe1405fffaab9bd48c2e5110ccdd790ed7bcc6f321f9d9e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Wide Is The Field Of Play For Netflix Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d96f5ccf122089607c29dd581436729e8ea8d0e3b28ed8304053bb81dd53eb7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OpenAI pushes back on Apple trade secret lawsuit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca8ff2a9f33294a8ef9105ff92108cdd3ba4bba32df7d7e3bd5f5dd2e5177365",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Lawsuit Threatens OpenAI's Hardware Push as 400+ Ex-Apple Staff Join",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbebcc784aee438519cc3d6fb367c675f0d015f7128b4d74ddf4413040d2c2fd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Merger speculation",
+      "confidence": 60,
+      "reason": "Potential merger and stock climb",
       "headline": "Tesla (TSLA) Stock Looks Expensive Following Its 81% Five Year Gain",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1adcd8bc915f93786bf5b29d11900b405db01f6197a7525847e755f5022c063a",
@@ -165,29 +125,29 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8c41606f69309ca21b1ced715df76eb0092eb5f706ac487f0203fdf0c50b35d5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56416ce86f4c5186a06eba5d22fbf12970526e33a144dbbceef74fdf73cdf0f4",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings expectations",
-      "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
+      "confidence": 60,
+      "reason": "Earnings and stock surge",
+      "headline": "FOMO Is Driving Options Prices Higher. How to Use It to Your Advantage.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
+      "url": "https://finnhub.io/api/news?id=a83f7118343393e36c2ac5440480206e5a32f921aa7ea920a9c57c7c0a88d39e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "FOMO Is Driving Options Prices Higher. How to Use It to Your Advantage.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a83f7118343393e36c2ac5440480206e5a32f921aa7ea920a9c57c7c0a88d39e",
+          "used_by_ai": true
+        },
         {
           "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
           "source": "Yahoo",
@@ -205,17 +165,51 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9b3522e61ad38221821c6fbdaba2dbead0865f994a650f05b8c6c35e9de00306",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Lawsuit and competition",
+      "headline": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears",
+          "headline": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db5e1c4081f07f8ee22631ff7af9a205b3686cfa9a5e1e44bf79d1438311ddff",
+          "url": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757",
           "used_by_ai": true
         },
         {
-          "headline": "NVIDIA Stock Amplifies Your Market Ride",
+          "headline": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Amid Apple Lawsuit",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9b47454e2f4b422ef0c7b3db3922a225773a452820bf31d7cebd679e4e5dfcb",
+          "url": "https://finnhub.io/api/news?id=296f966d8b58dcfcebe1405fffaab9bd48c2e5110ccdd790ed7bcc6f321f9d9e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca8ff2a9f33294a8ef9105ff92108cdd3ba4bba32df7d7e3bd5f5dd2e5177365",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Lawsuit Threatens OpenAI's Hardware Push as 400+ Ex-Apple Staff Join",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbebcc784aee438519cc3d6fb367c675f0d015f7128b4d74ddf4413040d2c2fd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Wide Is The Field Of Play For Netflix Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d96f5ccf122089607c29dd581436729e8ea8d0e3b28ed8304053bb81dd53eb7",
           "used_by_ai": false
         }
       ],
@@ -227,13 +221,19 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 45,
-      "reason": "Cooling inflation",
-      "headline": "Dow, S&P 500, Nasdaq Futures Edge Higher On Cooling Inflation Signs, Strong Big Bank Earnings: IBM, APLD, SKYH, NBIS in Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0b44c2d2e40265f62628368b2ec9f87308a6ca0863526de0d5a91c3a7037f6b",
+      "confidence": 40,
+      "reason": "Cooling inflation signs",
+      "headline": "Tradeweb Exchange-Traded Funds Update - June 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6e4ac237d3be1a31c9094d7056e9d5023a58b1ab342da0bd8df742366d8d06b8",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tradeweb Exchange-Traded Funds Update - June 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6e4ac237d3be1a31c9094d7056e9d5023a58b1ab342da0bd8df742366d8d06b8",
+          "used_by_ai": true
+        },
         {
           "headline": "Dow, S&P 500, Nasdaq Futures Edge Higher On Cooling Inflation Signs, Strong Big Bank Earnings: IBM, APLD, SKYH, NBIS in Focus",
           "source": "Yahoo",
@@ -241,9 +241,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "How Much SanDisk (SNDK) Are You Really Betting On?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc27995d54859f87a7e309f206f635c754d511ca8a8f1698a2fbcefcdcd67f20",
+          "headline": "Global Goods Trade Falls For Second Month In June As Boost From Inventory Building Fades",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fe3915e506edf11fd877ab72c29a3ffe68acd592320a77b5acbbc337595d4cc4",
           "used_by_ai": true
         },
         {
@@ -253,21 +253,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Mountain, Cliff, Or Ocean",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=de0271055862870880028bcab07d2ea6fd950f10d4444747f7a99498e0928167",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gasoline Plunged In June And Lots Of Month-To-Month CPI Squiggles Happened To Drop Simultaneously, But That Won't Last",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2a70084d1ccd21364adef3f18290e1d0af600503c0b9624248dbd2a34995b770",
-          "used_by_ai": true
+          "headline": "How Much SanDisk (SNDK) Are You Really Betting On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc27995d54859f87a7e309f206f635c754d511ca8a8f1698a2fbcefcdcd67f20",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 3
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
