@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T20:32:59Z",
+  "updated_at": "2026-07-15T22:00:25Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
@@ -32,19 +32,59 @@
           "headline": "Why Sandisk Stock Dropped Again Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dec1b2826c83f5b47f1617dee9dc4c3f3992e2372f6014bab7d34b9cdd70e7b8",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Prediction: This Will Be Nvidia's Stock Price by 2028",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=29f795082dec7a35b68d245692152ef9db9eb32a0dcc14e9cd840a908d280860",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Investing $1,000 in SpaceX: Could It Deliver Life-Changing Returns?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=433d232b7e6cc3fb526573a2aa6c9e1ad2549806f9ab17c5e7d0e0c1b58ae924",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Investing in SpaceX",
+      "headline": "Investing $1,000 in SpaceX: Could It Deliver Life-Changing Returns?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=433d232b7e6cc3fb526573a2aa6c9e1ad2549806f9ab17c5e7d0e0c1b58ae924",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Investing $1,000 in SpaceX: Could It Deliver Life-Changing Returns?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=433d232b7e6cc3fb526573a2aa6c9e1ad2549806f9ab17c5e7d0e0c1b58ae924",
           "used_by_ai": true
+        },
+        {
+          "headline": "IonQ: This Quantum Computing Pioneer Is a No-Brainer Buy (NYSE: IONQ)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc8f4a5b4df41edc05313a2525cc4a30d0979f632c1c17e63ce170bdb5253b26",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Sandisk Stock Dropped Again Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dec1b2826c83f5b47f1617dee9dc4c3f3992e2372f6014bab7d34b9cdd70e7b8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Prediction: This Will Be Nvidia's Stock Price by 2028",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29f795082dec7a35b68d245692152ef9db9eb32a0dcc14e9cd840a908d280860",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -55,19 +95,13 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 55,
-      "reason": "AI breakthrough in China",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "confidence": 50,
+      "reason": "China breakthrough on AI",
+      "headline": "Apple Is Up 20% in 2026. What Will It Take for AAPL Stock to Hit $350?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0a5385b3d686719bb8cf38c26362b65cd84b767feccf18df30680187884acf3",
+      "url": "https://finnhub.io/api/news?id=0d54a759762010027016fe1fd017621119a1a5e8ffb4db17f4928364da1dc44d",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a0a5385b3d686719bb8cf38c26362b65cd84b767feccf18df30680187884acf3",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple Is Up 20% in 2026. What Will It Take for AAPL Stock to Hit $350?",
           "source": "Yahoo",
@@ -75,34 +109,40 @@
           "used_by_ai": true
         },
         {
+          "headline": "Apple's China breakthrough on AI provides another tailwind for its stock",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/15/apples-china-breakthrough-provides-another-tailwind-for-its-stock.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a0a5385b3d686719bb8cf38c26362b65cd84b767feccf18df30680187884acf3",
+          "used_by_ai": false
+        },
+        {
           "headline": "What's going on in today's session: dow jones movers",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=6750508196e401c3e7147c7d16e101bbbf6a7f4a57e20206b50542adf6290ea5",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Which S&P500 stocks are moving on Wednesday?",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=d213a7bc45e61de090c471914ad23104be342b21d7fdfd1d103000c412ff81b2",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Alibaba Stock Is Jumping -- Apple Picks Qwen AI for China iPhones",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=15d556f3793859cec0ff94da64cc293873bbd4686e35b26305699f5e45fe3e64",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple's China breakthrough on AI provides another tailwind for its stock",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/15/apples-china-breakthrough-provides-another-tailwind-for-its-stock.html",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
-        "ChartMill": 2,
-        "CNBC": 1
+        "CNBC": 1,
+        "ChartMill": 2
       }
     },
     {
@@ -110,7 +150,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI demand overhaul",
+      "reason": "Overhauls security business",
       "headline": "Market Chatter: Microsoft Overhauls Security Business to Capture AI Demand",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c27634b490d529ed7d459fe438c7edbd6f96b95f39d287fa968e282928a3b388",
@@ -138,7 +178,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI hidden weapon",
+      "reason": "Hidden AI weapon",
       "headline": "AMD\u2019s hidden AI weapon may finally be exposed",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=35b932564913d52b1b99252a466036d7f98d6975416d22e4d3a46806592fc820",
@@ -184,18 +224,12 @@
       "company": "Tesla",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mixed earnings expectations",
-      "headline": "Liberty All-Star\u00ae Equity Fund June 2026 Monthly Update",
+      "reason": "Partners with Paper Transport",
+      "headline": "Tesla, Paper Transport partner on electric semi evaluation in Chicago",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f352dfd1cd7f9488bfb4925ca880cfd934e9049c458baa00d8d326da135828b8",
+      "url": "https://finnhub.io/api/news?id=b1bc4922f23221dfa09ea82400aef5413c05d4370eaca3b4151edb7411f3f63a",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Liberty All-Star\u00ae Equity Fund June 2026 Monthly Update",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f352dfd1cd7f9488bfb4925ca880cfd934e9049c458baa00d8d326da135828b8",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla, Paper Transport partner on electric semi evaluation in Chicago",
           "source": "Yahoo",
@@ -215,14 +249,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "Wells Fargo Raised Its Tesla Stock Target, but Still Sees a 67% Drop",
+          "headline": "Liberty All-Star\u00ae Equity Fund June 2026 Monthly Update",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d7a69efc2505253a364aa45c1927573c2cd471d6631df6539a54b26c8eb47b0",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f352dfd1cd7f9488bfb4925ca880cfd934e9049c458baa00d8d326da135828b8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "New Magnificent 10 ETF Targets Nvidia, Microsoft and AI Leaders With Daily Income Strategy",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=af9bddaa918fc2c2bd327c7a58ac2d1b4fe6e458ba4a0890e7f6fab974c54863",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     },
     {
@@ -230,7 +271,7 @@
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "Cheapest S&P 500 ETF",
+      "reason": "S&P 500 prediction",
       "headline": "The Cheapest S&P 500 ETF Was Just Picked for Trump Accounts and $30 Billion Followed",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f35e0848819b6d28bc47e866f1d5cddaa862e72d65d7e258e7cf0dc33f44ee2a",
@@ -255,21 +296,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "IBB ETF Holds Fewer Bets Than You Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a706d9b34a32e9ee4e72c8bb0e5c93ecc188bc198255ecbd232c037a410bf5d7",
+          "headline": "Predicting S&P 500 At 6,300 - 6,500 By Year End",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f71345d7b3b4192a9b3045418b974b3c61c92d2322b1af44ad2674a9ebe3b633",
           "used_by_ai": true
         },
         {
-          "headline": "1999 Vs. 2026: The U.S. Economy Then And Now",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=66781aad45c5ee9547ba5d7f5f2a1f51fc27efda67b75812c0e280d358a36df3",
+          "headline": "U.S. Aviation Sector Asks Congress For Another $20B To Complete Air Traffic Control Modernization Effort",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=abc8fca2d0be1c8d32a908b82cd20b88ecfdf4549d1459bbacb36b18ec491684",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 3,
+        "SeekingAlpha": 1,
+        "Benzinga": 1
       }
     }
   ]
