@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T00:50:07Z",
+  "updated_at": "2026-07-15T03:57:31Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,64 +12,11 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "AI stocks rebound",
-      "headline": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=767d2ade90ef611607c1a4bca821949c13486a341ca98a855029fee95d289c7e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=767d2ade90ef611607c1a4bca821949c13486a341ca98a855029fee95d289c7e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Robinhood Just Launched a New Blockchain. Here's Why Investors Should Care.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d88976853bfb7953af5a96a07e2d16a9c3f45cf6ddf4a7fb0b2bba12dba4cd08",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=61a06fbd3812d07766b7dc13c5d65bc0e7d7437d1e4deb29e2c3aa8520186b21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Broadcom Stock Ticked Higher on Tuesday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66414e686f8839b4987357c7da44237b54356ffcc7ba0001fb0228733828497b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56416ce86f4c5186a06eba5d22fbf12970526e33a144dbbceef74fdf73cdf0f4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cybersecurity stocks surge thanks to IBM, and Nvidia climbs on more good China news",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-surge-thanks-to-ibm-and-nvidia-climbs-on-more-good-china-news.html",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5,
-        "CNBC": 1
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Target hikes and quarterly results",
+      "confidence": 80,
+      "reason": "Best quarter in two years",
       "headline": "Tesla Stock Rises After Wave of Wall Street Target Hikes",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c09f18a61443782ee66e3beb34924eaf6a89c773ce95891c920cd1a76c3135dc",
@@ -88,10 +35,16 @@
           "used_by_ai": true
         },
         {
+          "headline": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=56416ce86f4c5186a06eba5d22fbf12970526e33a144dbbceef74fdf73cdf0f4",
+          "used_by_ai": false
+        },
+        {
           "headline": "Stock Market Today, July 14: Lucid Group Plunges but Denies Reports About Bankruptcy Filing",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7418cb633cdeb442555f2590786ca9583ea0d3c585b60959b40ea4277ef85e56",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Zipline Accelerates U.S. Growth with 13X Marketplace Expansion, New Leadership Hires, and Launches in Austin and Cleveland",
@@ -101,15 +54,159 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Stock surges on earnings expectations",
+      "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aaa21ad6025ceb0c63c2dac620f2a4e6e607c0b4fec52223a83cdf55ccb58357",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Real Risk Inside Broadcom Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9b3522e61ad38221821c6fbdaba2dbead0865f994a650f05b8c6c35e9de00306",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA Stock Amplifies Your Market Ride",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e9b47454e2f4b422ef0c7b3db3922a225773a452820bf31d7cebd679e4e5dfcb",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db5e1c4081f07f8ee22631ff7af9a205b3686cfa9a5e1e44bf79d1438311ddff",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Chip stocks rebound",
+      "headline": "Micron stock jumps as investors look beyond GPUs in AI chip trade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c951b1c5472590bd91fb15d5e0e525eaaf10f103f84db68e3897e7d55b5b4ab6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Micron stock jumps as investors look beyond GPUs in AI chip trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c951b1c5472590bd91fb15d5e0e525eaaf10f103f84db68e3897e7d55b5b4ab6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db5e1c4081f07f8ee22631ff7af9a205b3686cfa9a5e1e44bf79d1438311ddff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why IBM Stock Crashed Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2e2a61a3998ad5a3b9522c6f86b72b6b1a7e6ee0d2073a018db043f99450626f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is SpaceX Stock a Millionaire Maker? There Are 2 Things That Will Define That Answer.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fe99aa1666dee4f1b868cbd71050bb042fd764069b50f5249110238e9b69fff9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Salesforce Stock Slumped on Tuesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38b9fd406e2631ed571e7e9ac4b3e5b0610f442c446c9684241e0d8c8001f0d2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Palo Alto Networks Stock Zoomed Almost 7% Higher Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9d66bdbd37058679e18108ebc9a38db6cca9752eb0858446ca4ac6219f1f0ea1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 6
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Job cuts announced",
+      "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ec4863f896797a3b2984477088acbdf124df393cc5bdd24dcb4ef2965d8e42b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=835f534489de7bc431b9d3c840a4b06d2d023cc2eefabe5add495629baa1bbed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon.com, Inc. (AMZN) Aims to Raise $25 billion from Bond Sale",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=331150188873b4fb3d8b614b352d6a5ee0b98a88b187181daa663318d336e36d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What You Actually Pay To Join The AAPL Run",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afb28a5a32a2d76ccabc107b0e02c172d80a03688d5d990a8bfdd173d47d01a3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Lawsuit and OpenAI issues",
+      "confidence": 50,
+      "reason": "Lawsuit threats",
       "headline": "How Wide Is The Field Of Play For Netflix Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2d96f5ccf122089607c29dd581436729e8ea8d0e3b28ed8304053bb81dd53eb7",
@@ -151,112 +248,32 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Earnings expectations and chip rebound",
-      "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aaa21ad6025ceb0c63c2dac620f2a4e6e607c0b4fec52223a83cdf55ccb58357",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Real Risk Inside Broadcom Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b3522e61ad38221821c6fbdaba2dbead0865f994a650f05b8c6c35e9de00306",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NVIDIA Stock Amplifies Your Market Ride",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9b47454e2f4b422ef0c7b3db3922a225773a452820bf31d7cebd679e4e5dfcb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db5e1c4081f07f8ee22631ff7af9a205b3686cfa9a5e1e44bf79d1438311ddff",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Job cuts and market decline",
-      "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ec4863f896797a3b2984477088acbdf124df393cc5bdd24dcb4ef2965d8e42b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=835f534489de7bc431b9d3c840a4b06d2d023cc2eefabe5add495629baa1bbed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon.com, Inc. (AMZN) Aims to Raise $25 billion from Bond Sale",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=331150188873b4fb3d8b614b352d6a5ee0b98a88b187181daa663318d336e36d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What You Actually Pay To Join The AAPL Run",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afb28a5a32a2d76ccabc107b0e02c172d80a03688d5d990a8bfdd173d47d01a3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Inflation data and market trends",
-      "headline": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data \u2014 NVDA, GS, SKHY, VZ, LCID In Focus",
+      "confidence": 40,
+      "reason": "Softer inflation data",
+      "headline": "How Much SanDisk (SNDK) Are You Really Betting On?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef8364d199cd9e8d251393935fdc9813d4c930c6b0dc3d187319a78ca22a7e48",
+      "url": "https://finnhub.io/api/news?id=dc27995d54859f87a7e309f206f635c754d511ca8a8f1698a2fbcefcdcd67f20",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Much SanDisk (SNDK) Are You Really Betting On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc27995d54859f87a7e309f206f635c754d511ca8a8f1698a2fbcefcdcd67f20",
+          "used_by_ai": true
+        },
         {
           "headline": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data \u2014 NVDA, GS, SKHY, VZ, LCID In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ef8364d199cd9e8d251393935fdc9813d4c930c6b0dc3d187319a78ca22a7e48",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
           "used_by_ai": true
         },
         {
@@ -266,28 +283,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Consumer Price Index: Inflation At 3.5% In June",
+          "headline": "NFIB Small Business Survey: Optimism Picks Up In June",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9aa430ee214b7012757c47b5ae022168311c904c7853b3c427bd894385829841",
+          "url": "https://finnhub.io/api/news?id=a20192a855efb0f027a248821352ba6c8b160766f5c286966f7f1bd91d682911",
           "used_by_ai": true
         },
         {
-          "headline": "7 Numbers Behind The General Misery For Consumers",
+          "headline": "PBJ: Food And Beverage Stocks Are Cheap But Come With A Hidden Quality Cost",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f0ef048e72d78edf2bdcc5dfaf128cd0820dbcb73757f4b96a2b7ddfd7a1ed65",
-          "used_by_ai": true
-        },
-        {
-          "headline": "June CPI Shakes Up 2026 Rate Hike Odds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e2b94ce70505e2699a8b7f3dc8bc96573ca87a5e5730f4c967f0435d7f28685",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=76c1dd9aa19b36f003c49df95fe8f595e283ba12f45f4444f1092c16a5535fbf",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
