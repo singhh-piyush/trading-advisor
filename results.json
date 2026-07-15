@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T14:19:19Z",
+  "updated_at": "2026-07-15T16:01:22Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Negative EV sentiment",
+      "confidence": 60,
+      "reason": "Negative EV outlook",
       "headline": "Ford Should Stop Selling EVs",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=02f35ec2e3b0a858d1d9f08c2a6fc088c934f50eb9d2fd3afe9a834847f83722",
@@ -59,10 +59,10 @@
     },
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Mixed analyst views",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI demand growth",
       "headline": "Connectbase and InterGlobix Announce Oracle's Dr. Sanjay Basu and NVIDIA's Pete Coticchia to Headline The Connected World LIVE! 2026 with Opening Keynote and Executive Fireside Chat",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6cc2be239f9a20e92778bf73d22e1a229dfe364342a21ac5ce158f17676ba610",
@@ -96,7 +96,7 @@
           "headline": "If You're Worried About a Market Crash, Here's the 1 Thing You Shouldn't Do, According to History.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=660d7f768d0ab4e646a902a14a200a9b827fc7e17fe4ddce82fb7be09bf00926",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -107,8 +107,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 20,
-      "reason": "Positive China news",
+      "confidence": 40,
+      "reason": "China approval",
       "headline": "Apple Intelligence approved in China with Alibaba Qwen AI model",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e26de3a3915584417f7cbffd640011335287b416c558886d6b9a564827ec03ba",
@@ -133,15 +133,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "PayPal Soars 19% on a Reported $53B Stripe-Advent Takeover Offer: What It Means for Visa, Mastercard, and American Express",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e18fbe9ddfb0e2940000726173b795492ff13465648c72e80e81ca1f509694cd",
-          "used_by_ai": false
-        },
-        {
           "headline": "Hazeltree: A Tale of Two Stories Defined the First Half of 2026 for Global Hedge Funds",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c95228c967fb40b20f8ded0bc8c1a667a3075aef9bbd6c4bdd5665f32be4dbe4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "PayPal Soars 19% on a Reported $53B Stripe-Advent Takeover Offer: What It Means for Visa, Mastercard, and American Express",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e18fbe9ddfb0e2940000726173b795492ff13465648c72e80e81ca1f509694cd",
           "used_by_ai": false
         }
       ],
@@ -153,8 +153,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Partnership news",
+      "confidence": 30,
+      "reason": "Mixed analyst views",
       "headline": "Oracle Leads Japan Secure Cloud Talks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c84435dd86c5ab94b3d374d69a76b6c60ee9c0062c3b9bd9f5a8b6bcac0f45dc",
@@ -187,8 +187,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 20,
-      "reason": "AI demand rally",
+      "confidence": 30,
+      "reason": "AI growth",
       "headline": "How Marvell Turned AI Demand Into A 200% Rally",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c568319602d7121bf19a7187c31aac6720169f8bb14eb30ef3a71c92898dd216",
@@ -232,82 +232,41 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "down",
       "confidence": 20,
-      "reason": "Bull market gains",
-      "headline": "The U.S. Added 441,000 Millionaires Last Year, While the Typical American Got 20% Poorer",
+      "reason": "Market crash concerns",
+      "headline": "Stock Market Today: Dow Rises On Surprise Inflation Data; ASML Jumps On Earnings Report (Live Coverage)",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c693bdd174aac5d7a1849a498400b0626bd4dc0bc0510e525af78551defbf287",
+      "url": "https://finnhub.io/api/news?id=0d0624a838561883cccbce2049c90946462af750bb8835a9588f37dbafa0c70e",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The U.S. Added 441,000 Millionaires Last Year, While the Typical American Got 20% Poorer",
+          "headline": "Stock Market Today: Dow Rises On Surprise Inflation Data; ASML Jumps On Earnings Report (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c693bdd174aac5d7a1849a498400b0626bd4dc0bc0510e525af78551defbf287",
+          "url": "https://finnhub.io/api/news?id=0d0624a838561883cccbce2049c90946462af750bb8835a9588f37dbafa0c70e",
           "used_by_ai": true
         },
         {
-          "headline": "Inflation Has Peaked Again, Paving The Way For More Bull Market Gains",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4978324ba4b0f093a9594e0f3b767d9b89abc9aaa7937e15ed0eb906ad951b38",
-          "used_by_ai": true
-        },
-        {
-          "headline": "June CPI Inflation: Expected Relief, Monetary Tightening, And Gold Investing",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6ae895549d86dfc217f013dc6470243e4e6b246e931accf4103186ac19b22a7e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq, S&P 500 Futures Rise, Wall Street Eyes PPI After CPI Surprise: Why PYPL, ORCL, ASML, NOK, LCID, TSLA Are In Focus",
+          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday Amid Economic Reports",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de03098f53382b8837d97e5ef7aa2850cfac187215d009da57ca8e1c7dfabc3a",
+          "url": "https://finnhub.io/api/news?id=e84d927720a51cda0f5647a9b81ded49e0fe6c19ff9fdd33530698e4b583f60b",
           "used_by_ai": true
         },
         {
-          "headline": "AI Bubble Burst - The IBM Warning Supports The Major Concerns",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4f739e9ffc5265c5cac41e772e6e1c6a36b8d463c5ba5df4abf24f1ba0c9ac97",
+          "headline": "Is XLF's New High A Quiet Warning?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f05a84acabdd156a921e664d45ae68a0293eaca82149541753b10bf28bac5de0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Traders Bet There's An 88% Chance The S&P 500 Will Plunge Soon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0bc5ed63fe3d79dc6ab264642fb4a22c2dfaa53709c73ec23b9a529064e16802",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "XLE",
-      "company": "",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "Oil price rise",
-      "headline": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
-      "on_watchlist": false,
-      "articles": [
-        {
-          "headline": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US drivers may soon see pump prices climb back up to $4 - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemxQN0hyMEV1NENLS1FXU3BWb1hwZ050UjFtcmhwSW9hUk16VGNVRmd4MmMxUVV5VlB1eUtMUy0tOWdSRGxRb1FfVWtmeTNBVHNFUkR4aEl1R1c2cVV1eDZHVkc2OS1hVDJtSndXOXVOeVU0bUFlM0FtOW5nWVZOd1EyNjk5VEpPVWNyS1JERDRRTmJIcEctUjNMV1YxQkY5Z0REeVNn?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 3
+        "Yahoo": 4
       }
     }
   ]
