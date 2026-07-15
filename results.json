@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T23:24:49Z",
+  "updated_at": "2026-07-15T00:50:07Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,64 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI stocks rebound",
+      "headline": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=767d2ade90ef611607c1a4bca821949c13486a341ca98a855029fee95d289c7e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=767d2ade90ef611607c1a4bca821949c13486a341ca98a855029fee95d289c7e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Robinhood Just Launched a New Blockchain. Here's Why Investors Should Care.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d88976853bfb7953af5a96a07e2d16a9c3f45cf6ddf4a7fb0b2bba12dba4cd08",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=61a06fbd3812d07766b7dc13c5d65bc0e7d7437d1e4deb29e2c3aa8520186b21",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Broadcom Stock Ticked Higher on Tuesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66414e686f8839b4987357c7da44237b54356ffcc7ba0001fb0228733828497b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=56416ce86f4c5186a06eba5d22fbf12970526e33a144dbbceef74fdf73cdf0f4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cybersecurity stocks surge thanks to IBM, and Nvidia climbs on more good China news",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-surge-thanks-to-ibm-and-nvidia-climbs-on-more-good-china-news.html",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5,
+        "CNBC": 1
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Target hikes",
+      "confidence": 70,
+      "reason": "Target hikes and quarterly results",
       "headline": "Tesla Stock Rises After Wave of Wall Street Target Hikes",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c09f18a61443782ee66e3beb34924eaf6a89c773ce95891c920cd1a76c3135dc",
@@ -29,21 +82,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "Elon Musk's Tesla Posts Best Quarter in Two Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67eb43609e4ea8e7a7f6037e1f278f41e1c23fdfc87a691c3d7e0b5aab022b6c",
+          "used_by_ai": true
+        },
+        {
           "headline": "Stock Market Today, July 14: Lucid Group Plunges but Denies Reports About Bankruptcy Filing",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7418cb633cdeb442555f2590786ca9583ea0d3c585b60959b40ea4277ef85e56",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Zipline Accelerates U.S. Growth with 13X Marketplace Expansion, New Leadership Hires, and Launches in Austin and Cleveland",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bb1b5131b3b67b1ac837e8397338659ff0f4c3f3062e2f45325f2897c1bbccd7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Jim Cramer Shares Morgan Stanley\u2019s View Of Space Exploration Technologies Corp. (SPCX)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f86baf65ed6859916b0c3c7c197628eb7348cdeb34810bb800d97277248733a8",
           "used_by_ai": false
         }
       ],
@@ -52,108 +105,28 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Earnings expectations",
-      "headline": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aaa21ad6025ceb0c63c2dac620f2a4e6e607c0b4fec52223a83cdf55ccb58357",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aaa21ad6025ceb0c63c2dac620f2a4e6e607c0b4fec52223a83cdf55ccb58357",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Real Risk Inside Broadcom Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b3522e61ad38221821c6fbdaba2dbead0865f994a650f05b8c6c35e9de00306",
-          "used_by_ai": false
-        },
-        {
-          "headline": "NVIDIA Stock Amplifies Your Market Ride",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9b47454e2f4b422ef0c7b3db3922a225773a452820bf31d7cebd679e4e5dfcb",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db5e1c4081f07f8ee22631ff7af9a205b3686cfa9a5e1e44bf79d1438311ddff",
-          "used_by_ai": false
-        },
-        {
-          "headline": "QCOM: A Cash Gusher At A Marked-Down Price",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6ce3f173c1cd43955b15427087e671de690ce34f427bea2b5084df9278b0085",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "China deal",
-      "headline": "China plans to let top AI firms buy limited NVIDIA Corporation (NVDA) H200 chips, the Information reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e4cfda1bfbbfd42db97a1fe7f5385ec28158ac1c47cc422ebdf07abfa196809",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "China plans to let top AI firms buy limited NVIDIA Corporation (NVDA) H200 chips, the Information reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e4cfda1bfbbfd42db97a1fe7f5385ec28158ac1c47cc422ebdf07abfa196809",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia (NVDA) Stock Trades Up, Here Is Why",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c73b90b63a733c6ab712fcdd3e3cdc24850eebe9631901e92efbf619cfd101d3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data \u2014 NVDA, GS, SKHY, VZ, LCID In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef8364d199cd9e8d251393935fdc9813d4c930c6b0dc3d187319a78ca22a7e48",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why CleanSpark Stock Climbed Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9822fef2e3c0bed89b5756e1724425627cd4c2b0c1760fc0af8868abbb06dc98",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Tesla Posts Best Quarter in Two Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67eb43609e4ea8e7a7f6037e1f278f41e1c23fdfc87a691c3d7e0b5aab022b6c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
       "confidence": 60,
-      "reason": "Lawsuit threat",
-      "headline": "Apple Lawsuit Threatens OpenAI's Hardware Push as 400+ Ex-Apple Staff Join",
+      "reason": "Lawsuit and OpenAI issues",
+      "headline": "How Wide Is The Field Of Play For Netflix Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbebcc784aee438519cc3d6fb367c675f0d015f7128b4d74ddf4413040d2c2fd",
+      "url": "https://finnhub.io/api/news?id=2d96f5ccf122089607c29dd581436729e8ea8d0e3b28ed8304053bb81dd53eb7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Wide Is The Field Of Play For Netflix Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d96f5ccf122089607c29dd581436729e8ea8d0e3b28ed8304053bb81dd53eb7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca8ff2a9f33294a8ef9105ff92108cdd3ba4bba32df7d7e3bd5f5dd2e5177365",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Lawsuit Threatens OpenAI's Hardware Push as 400+ Ex-Apple Staff Join",
           "source": "Yahoo",
@@ -170,19 +143,53 @@
           "headline": "Broadcom Inc. (AVGO) Agreement a Strategic Positive for Apple, says Evercore ISI",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cdd27905e840c6fb6f917f5d10ef3539f1bec31be9f9716c5b5a23cb0b6191d3",
-          "used_by_ai": false
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Earnings expectations and chip rebound",
+      "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why FormFactor (FORM) Stock Is Trading Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d83afed1dc7684a81921ed796609d5426a1bc11d2d4e21d8dc3067a90998eb26",
+          "used_by_ai": true
         },
         {
-          "headline": "What You Actually Pay To Join The AAPL Run",
+          "headline": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afb28a5a32a2d76ccabc107b0e02c172d80a03688d5d990a8bfdd173d47d01a3",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=aaa21ad6025ceb0c63c2dac620f2a4e6e607c0b4fec52223a83cdf55ccb58357",
+          "used_by_ai": true
         },
         {
-          "headline": "OpenAI steps into the living room: Screen-free smart speaker sinks Sonos shares",
+          "headline": "The Real Risk Inside Broadcom Stock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afc310d8748f1da072bff57f0529282b287f06626359bdac4c9bf77086956e86",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=9b3522e61ad38221821c6fbdaba2dbead0865f994a650f05b8c6c35e9de00306",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NVIDIA Stock Amplifies Your Market Ride",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e9b47454e2f4b422ef0c7b3db3922a225773a452820bf31d7cebd679e4e5dfcb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db5e1c4081f07f8ee22631ff7af9a205b3686cfa9a5e1e44bf79d1438311ddff",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -193,13 +200,25 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Job cuts",
-      "headline": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs",
+      "confidence": 50,
+      "reason": "Job cuts and market decline",
+      "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=835f534489de7bc431b9d3c840a4b06d2d023cc2eefabe5add495629baa1bbed",
+      "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ec4863f896797a3b2984477088acbdf124df393cc5bdd24dcb4ef2965d8e42b",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs",
           "source": "Yahoo",
@@ -210,40 +229,52 @@
           "headline": "Amazon.com, Inc. (AMZN) Aims to Raise $25 billion from Bond Sale",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=331150188873b4fb3d8b614b352d6a5ee0b98a88b187181daa663318d336e36d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+          "headline": "What You Actually Pay To Join The AAPL Run",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74a9bf5ec2a7388aeb461eab72ae7f541af677992a41ab94e5064fe71b3941ce",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft Is Cheaper Than the S&P 500. Now Is the Perfect Time to Load Up on the Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=91176e1c219e35f084e257f2ee901f9a489822e3d92f9915a076328b73cceee3",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=afb28a5a32a2d76ccabc107b0e02c172d80a03688d5d990a8bfdd173d47d01a3",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Inflation data",
-      "headline": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+      "confidence": 50,
+      "reason": "Inflation data and market trends",
+      "headline": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data \u2014 NVDA, GS, SKHY, VZ, LCID In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef8364d199cd9e8d251393935fdc9813d4c930c6b0dc3d187319a78ca22a7e48",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data \u2014 NVDA, GS, SKHY, VZ, LCID In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef8364d199cd9e8d251393935fdc9813d4c930c6b0dc3d187319a78ca22a7e48",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ETF Share Class: Everyone\u2019s Filing but No One\u2019s Launching",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2008b6b4bd2792e2b62575f3d3cb6ad9fa88ac0383003f512836c3a07716533a",
+          "used_by_ai": true
+        },
         {
           "headline": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Consumer Price Index: Inflation At 3.5% In June",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9aa430ee214b7012757c47b5ae022168311c904c7853b3c427bd894385829841",
           "used_by_ai": true
         },
         {
@@ -257,24 +288,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1e2b94ce70505e2699a8b7f3dc8bc96573ca87a5e5730f4c967f0435d7f28685",
           "used_by_ai": true
-        },
-        {
-          "headline": "Hormuz Is Not The Most Important Strait Anymore, Bab Al-Mandab Is",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2f81e9dc6e69052749c446b8b1364ecca0fa9c305d86cacc77927f6062c4330a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ETF Share Class: Everyone\u2019s Filing but No One\u2019s Launching",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2008b6b4bd2792e2b62575f3d3cb6ad9fa88ac0383003f512836c3a07716533a",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
+        "Yahoo": 3,
         "Reuters": 1,
-        "SeekingAlpha": 2,
-        "Yahoo": 2
+        "SeekingAlpha": 2
       }
     }
   ]
