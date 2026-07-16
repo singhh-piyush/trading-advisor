@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T20:57:52Z",
+  "updated_at": "2026-07-16T22:08:42Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -63,11 +63,17 @@
       "direction": "up",
       "confidence": 70,
       "reason": "China approval",
-      "headline": "Alibaba Jumps 7.9% as Apple Intelligence Approval Revives China Tech Rally",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ede483afbb0f2986982a3bac725414d3b2512609458ce50157941d2eb47c0f5",
+      "url": "https://finnhub.io/api/news?id=fd20c02b301905a60ac4c57b7e085711227bd9c179ea378195c4b1ece6553618",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd20c02b301905a60ac4c57b7e085711227bd9c179ea378195c4b1ece6553618",
+          "used_by_ai": true
+        },
         {
           "headline": "Alibaba Jumps 7.9% as Apple Intelligence Approval Revives China Tech Rally",
           "source": "Yahoo",
@@ -91,12 +97,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c8dece4808dab267a0459661738658745d10692fb8b5fb46d24937404bd3609",
           "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd20c02b301905a60ac4c57b7e085711227bd9c179ea378195c4b1ece6553618",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -108,7 +108,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI sales push",
+      "reason": "AI sales rise",
       "headline": "Microsoft Sees Paid-Search Ad Media Buys Rise",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc9c30a186a4fe5f0dc8ace7f96aca9a6950e3415fbe3ee5a4d98549b39c34f2",
@@ -149,7 +149,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Stronger AI outlook",
+      "reason": "AI outlook strong",
       "headline": "Q1 Rundown: AMD (NASDAQ:AMD) Vs Other Processors and Graphics Chips Stocks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=996178c4bfd7a4d18912428219e3964cf8ef49ed9265b460431f2677b5156f83",
@@ -174,16 +174,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Bank of America Sees Nvidia\u2019s Next $20 Billion Business. Here\u2019s Where NVDA Stock Could Go",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3cfa18ac4b56d1885013308df6dcf127c70dfe7811db69e4ac628a6fbb42528e",
-          "used_by_ai": true
-        },
-        {
           "headline": "Why Did Micron Technology Stock Fall 8%?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=828339a13f61dfdb1a6f0fe9f10574712004810ed16e71edd90fe7ec18e0b4a6",
           "used_by_ai": true
+        },
+        {
+          "headline": "Bank of America Sees Nvidia\u2019s Next $20 Billion Business. Here\u2019s Where NVDA Stock Could Go",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3cfa18ac4b56d1885013308df6dcf127c70dfe7811db69e4ac628a6fbb42528e",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -241,7 +241,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market update",
+      "reason": "Market trends",
       "headline": "ICI\u2019s Weinberg: An Insider's View of ETF Industry Priorities",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e134a581f584ddb7932a04b38638ae8fd4677fe7fd028db70c6555baa3b5340a",
@@ -251,6 +251,12 @@
           "headline": "ICI\u2019s Weinberg: An Insider's View of ETF Industry Priorities",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e134a581f584ddb7932a04b38638ae8fd4677fe7fd028db70c6555baa3b5340a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why The U.S. Recession Has To Pass Through Asia First",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7e23978f5079c88e41f93a5e25da113cbdcead1cb5c1963fe7064195d5d1e33e",
           "used_by_ai": true
         },
         {
@@ -269,12 +275,6 @@
           "headline": "Marvell Crashed Below $200: This Wall Street Firm Thinks It Doubles From Here",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0b3a0b9484894aca0471aa20e7264160713ef0296d1832340bf2eecc9759b892",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Correlations Are Finally Breaking",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=83acb2d6eabed0f5545a0ee7af17e8b45cf791e45535140f24a5454eb5a61487",
           "used_by_ai": true
         }
       ],
