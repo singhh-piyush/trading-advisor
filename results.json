@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T16:48:36Z",
+  "updated_at": "2026-07-16T18:06:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -29,34 +29,81 @@
           "used_by_ai": true
         },
         {
+          "headline": "A 1950s Stock Checklist Just Predicted AI\u2019s Regulatory Reckoning in 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=082983acb6d885af777fc93ea2c1bf604e639e6e6d1412ed5c2e49410b35df1e",
+          "used_by_ai": true
+        },
+        {
           "headline": "Why Sandisk Stock Is Still Dropping",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=344a43ff50a24dd0084ed511799ec46ac950cce5c2e0ebd47cc4fbf033a978e1",
           "used_by_ai": true
         },
         {
-          "headline": "Micron Technology: AI Memory Demand Is Still in the Early Innings (NASDAQ: MU)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5cc8247d2b4b50d2c82a8f4c2ae5d1eda2fc38521d5908da4fdd1970b97cd7d5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A 1950s Stock Checklist Just Predicted AI\u2019s Regulatory Reckoning in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=082983acb6d885af777fc93ea2c1bf604e639e6e6d1412ed5c2e49410b35df1e",
+          "headline": "Which dow jones stocks are moving on Thursday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=df07a669a35d66fdcea2e2bf9885d28f50fee2f0d63c29f02167df814cd1ab0a",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "EV adoption concerns",
+      "headline": "EV adoption is slowly regaining traction \u2014 but affordability concerns are rising",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=062e68fde9340309870479bd7791d4a22335b22896f863b67842d540ffd93831",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "EV adoption is slowly regaining traction \u2014 but affordability concerns are rising",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=062e68fde9340309870479bd7791d4a22335b22896f863b67842d540ffd93831",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Piper cautious on SpaceX, points to near-term headwinds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5273d84c4723d840f65cb379c23446cf2cfa5a49ae8ff871d1588255d19d5fb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock's Future Comes With A Hefty Price Tag",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=031c7382d398937fbe42178989b6bfa112b47d88b0e2b818bda1f88d946777c6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla and Rivian Are Both Down 12%. Here's the Better Buy for the Second Half of 2026.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=176adfcb2bb1644f25eb414f1bcc5cd4c98c0406398db8f352e32bb5ce4a2569",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=223413811575eb55c8b12b003f310f65b3d79bd0be6b7a623eb919d538c1d5a9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Boosting Baidu and Chinese tech",
+      "confidence": 60,
+      "reason": "NVIDIA's margins",
       "headline": "NVIDIA\u2019s 75% Margins vs TSMC\u2019s Foundry Gamble: Two Paths to AI Dominance, One Winner",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e5b33a0b98c921c5e5db08bdcd42fc13c1897c1a855cbb1b503881171d5d533",
@@ -101,8 +148,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Using AI to build software",
+      "confidence": 60,
+      "reason": "AI adoption",
       "headline": "Starbucks spends $400 million a year on software \u2014 now it's using AI to build its own and cut out the middleman",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c7050738988fadcd766676c520436117d2e0b59b4fbc9a11d45427b278f95139",
@@ -138,57 +185,11 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Piper cautious on SpaceX",
-      "headline": "Piper cautious on SpaceX, points to near-term headwinds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5273d84c4723d840f65cb379c23446cf2cfa5a49ae8ff871d1588255d19d5fb",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Piper cautious on SpaceX, points to near-term headwinds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5273d84c4723d840f65cb379c23446cf2cfa5a49ae8ff871d1588255d19d5fb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock's Future Comes With A Hefty Price Tag",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=031c7382d398937fbe42178989b6bfa112b47d88b0e2b818bda1f88d946777c6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla and Rivian Are Both Down 12%. Here's the Better Buy for the Second Half of 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=176adfcb2bb1644f25eb414f1bcc5cd4c98c0406398db8f352e32bb5ce4a2569",
-          "used_by_ai": true
-        },
-        {
-          "headline": "EV adoption is slowly regaining traction \u2014 but affordability concerns are rising",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=062e68fde9340309870479bd7791d4a22335b22896f863b67842d540ffd93831",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=223413811575eb55c8b12b003f310f65b3d79bd0be6b7a623eb919d538c1d5a9",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI revolution and Intel down",
+      "confidence": 50,
+      "reason": "AI growth",
       "headline": "This Is the Next Stage of the AI Revolution \u2014 And Absolutely No One Is Talking About It",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8f58c6d25d53adfb8baa938507841719ee4716c88a6e2d508e6252fb226166b8",
@@ -226,9 +227,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 40,
-      "reason": "Market news and trends",
+      "reason": "Market volatility",
       "headline": "XYLD Versus SPY: The 28% Price Return Gap Nobody Discusses",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=56a8be6581cff86a90b948c66160cd4f25f88f86bd0e9e2177d6eef845b0f80e",
