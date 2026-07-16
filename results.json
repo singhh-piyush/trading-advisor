@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T06:42:42Z",
+  "updated_at": "2026-07-16T09:13:06Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -16,41 +16,69 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Record Q2 profit",
-      "headline": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
+      "reason": "Dividend increase",
+      "headline": "Meet the Dividend King Stock That Yields More Than Double the S&P 500 and Just Raised Its Dividend for the 64th Straight Year",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db3ca6e9881be78ffa93082dfd7081685b179f8223b75c43cf013b8f3730167c",
+      "url": "https://finnhub.io/api/news?id=a9f777c5c61385bead4b6ebf919ce2d7f3bcd379ca614ccdc2caef42eefce14a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
+          "headline": "Meet the Dividend King Stock That Yields More Than Double the S&P 500 and Just Raised Its Dividend for the 64th Straight Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db3ca6e9881be78ffa93082dfd7081685b179f8223b75c43cf013b8f3730167c",
+          "url": "https://finnhub.io/api/news?id=a9f777c5c61385bead4b6ebf919ce2d7f3bcd379ca614ccdc2caef42eefce14a",
           "used_by_ai": true
         },
         {
-          "headline": "Michael Burry Mocks Data Center 'Fantasy\u2019 In ORCL, NVDA, AMZN \u2014 But Trump Sees \u2018Big, Strong, Bold\u2019 Money Machines",
+          "headline": "SpaceX Stock Has Stumbled Since Its IPO. History Says It Could Be Up by This Much in 1 Year.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66b4974bee5ba3a4dfe499e55c8d182cbbd8e4a5d91ccda648f2958e799907d2",
+          "url": "https://finnhub.io/api/news?id=593325c2b29ebc72e5562dd5bff678d4b33d44d05f4b3fa8add8f730b583de75",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "TSMC investment",
+      "headline": "Taiwan chipmaker TSMC to invest another US$100 bn in Arizona fabs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed93cc50fc663341a5ab45ed5e98ecc18ad02e71e345b0bf77d1eb1d7222b0f5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Taiwan chipmaker TSMC to invest another US$100 bn in Arizona fabs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed93cc50fc663341a5ab45ed5e98ecc18ad02e71e345b0bf77d1eb1d7222b0f5",
           "used_by_ai": true
         },
         {
-          "headline": "30% of Cathie Wood's Portfolio Is Invested in These 5 Artificial Intelligence (AI) Stocks",
+          "headline": "Taiwan chipmaker TSMC reports record quarterly profit",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6911f752fca0e46e8ef97d1a3a760eb770e2c1f81d1771e2cd23d2478278b417",
+          "url": "https://finnhub.io/api/news?id=4d5a8e5a2c4841d25f29e98a82298bc674917968cf69a1369dadd92688278f2b",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia partners with Japan robotics firms on AI development",
+          "headline": "Prediction: Apple Will Soon Surpass Nvidia's $5 Trillion Market Cap to Become the World's Most Valuable Company. The Reason Is Hiding in Plain Sight.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1f74a00298d70ed43c0abf3224d9fe3642e9177d9c803664049cc7354611d01",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=3601919565def2bd5c1688159175a6934e5f5f41e05d53b378b61b45ccafec8d",
+          "used_by_ai": false
         },
         {
-          "headline": "Nvidia Deepens Japan Ties With Mitsubishi Heavy And Toyota \u2014 While China Access Remains A Separate Story",
+          "headline": "Apple CEO Tim Cook Just Announced Great News for Broadcom Stock Investors",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0aed666ffbb7ad531ad79f38c9f8dc1f499f94ccd499c86e3d8b893420cc6346",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e5e5a211bd29ae0e9762197e9597958cff9af2908e457059abb971bff689aecd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80e6a87b87c12ef70c24437996830a34a2eb636da02b581eeb04e54be23f908b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -61,13 +89,19 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 75,
-      "reason": "New all-time high",
-      "headline": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math.",
+      "confidence": 60,
+      "reason": "Market cap prediction",
+      "headline": "Prediction: Apple Will Soon Surpass Nvidia's $5 Trillion Market Cap to Become the World's Most Valuable Company. The Reason Is Hiding in Plain Sight.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80e6a87b87c12ef70c24437996830a34a2eb636da02b581eeb04e54be23f908b",
+      "url": "https://finnhub.io/api/news?id=3601919565def2bd5c1688159175a6934e5f5f41e05d53b378b61b45ccafec8d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Prediction: Apple Will Soon Surpass Nvidia's $5 Trillion Market Cap to Become the World's Most Valuable Company. The Reason Is Hiding in Plain Sight.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3601919565def2bd5c1688159175a6934e5f5f41e05d53b378b61b45ccafec8d",
+          "used_by_ai": true
+        },
         {
           "headline": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math.",
           "source": "Yahoo",
@@ -75,28 +109,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "AAPL Stock Tops Nasdaq\u2019s Modest Gains: Analyst Says Siri Finally Shows \u2018AI Chops\u2019 In iOS 27 Beta",
+          "headline": "Taiwan chipmaker TSMC to invest another US$100 bn in Arizona fabs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=46af189e9787b3c2636d59af4bb10ca75d5d364c08d84efc238be97b7d1bc449",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=ed93cc50fc663341a5ab45ed5e98ecc18ad02e71e345b0bf77d1eb1d7222b0f5",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Apple Stock Climbed to a New All-Time High Today",
+          "headline": "Apple CEO Tim Cook Just Announced Great News for Broadcom Stock Investors",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bbb7971f43cd4d0b3d13c43eca38d3ef3d5bb878dacff1e7edb3617956c66c6a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e5e5a211bd29ae0e9762197e9597958cff9af2908e457059abb971bff689aecd",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Did AAPL, CRWD, XYZ Stocks Hit 52-Week Highs Today?",
+          "headline": "Taiwan chipmaker TSMC reports record quarterly profit",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69afb7a574d69554ed5f6402cbca39c55ad7dd7eff2791123f34e5a0a967548b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=733f1ab2620a4a9d8266b1820df64771171398e0177f2173acfbd06fc84d4f15",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=4d5a8e5a2c4841d25f29e98a82298bc674917968cf69a1369dadd92688278f2b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -104,16 +132,56 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "SpaceX stock",
+      "headline": "SpaceX Stock Has Stumbled Since Its IPO. History Says It Could Be Up by This Much in 1 Year.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=593325c2b29ebc72e5562dd5bff678d4b33d44d05f4b3fa8add8f730b583de75",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX Stock Has Stumbled Since Its IPO. History Says It Could Be Up by This Much in 1 Year.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=593325c2b29ebc72e5562dd5bff678d4b33d44d05f4b3fa8add8f730b583de75",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meet the Dividend King Stock That Yields More Than Double the S&P 500 and Just Raised Its Dividend for the 64th Straight Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9f777c5c61385bead4b6ebf919ce2d7f3bcd379ca614ccdc2caef42eefce14a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI demand",
-      "headline": "Is the AI Infrastructure Build-Out a Bubble? Here's What the Data Actually Shows.",
+      "confidence": 40,
+      "reason": "AI investment",
+      "headline": "ORCL Stock Snaps 3-Day Losing Streak: What\u2019s Making Retail Traders \u2018Extremely Bullish\u2019?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=908898933227c3d20ade5a089b5118cceb555e870fd55749122fbd7d8d2c56e3",
+      "url": "https://finnhub.io/api/news?id=3541f6e4c29538849ce2db241a9678c1a6ca765f33b87c74f583cb37f4876028",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "ORCL Stock Snaps 3-Day Losing Streak: What\u2019s Making Retail Traders \u2018Extremely Bullish\u2019?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3541f6e4c29538849ce2db241a9678c1a6ca765f33b87c74f583cb37f4876028",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Michael Burry Mocks Data Center 'Fantasy\u2019 In ORCL, NVDA, AMZN \u2014 But Trump Sees \u2018Big, Strong, Bold\u2019 Money Machines",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66b4974bee5ba3a4dfe499e55c8d182cbbd8e4a5d91ccda648f2958e799907d2",
+          "used_by_ai": true
+        },
         {
           "headline": "Is the AI Infrastructure Build-Out a Bubble? Here's What the Data Actually Shows.",
           "source": "Yahoo",
@@ -121,34 +189,123 @@
           "used_by_ai": true
         },
         {
+          "headline": "SaaSpocalypse Part II? IBM's Preliminary Earnings Report Rattles Software",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=436cf3d1be40180ea66e27f766dda011278527a99cd622503321298764969997",
+          "used_by_ai": true
+        },
+        {
           "headline": "Microsoft (MSFT) Faces Browser Scrutiny As New York Clouds Data Center Expansion",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ff48204459a185e84e74f7a997ec267f20890e02b7ab429c1a8eb4df79e82ee6",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "AI and hyperscalers",
+      "headline": "Consumer-Discretionary Stocks Are \u2018Coiled\u2019 for a Rebound. But Which Ones?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ba43ab6c338d6cac731d156de2c8baccd75d138a535a795be70aa8222aaade3",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Warren Buffett Just Cut the Bill Gates Foundation From His Annual Donation for the First Time Since 2006. The Missing $4.5 Billion Goes to His Children's Charities.",
+          "headline": "Consumer-Discretionary Stocks Are \u2018Coiled\u2019 for a Rebound. But Which Ones?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f80e0f0393a1649bc0a86a17397f7a4d3bd7244f121af39b3d5e4ffb7490e198",
+          "url": "https://finnhub.io/api/news?id=1ba43ab6c338d6cac731d156de2c8baccd75d138a535a795be70aa8222aaade3",
           "used_by_ai": true
         },
         {
-          "headline": "Update: Market Chatter: Microsoft Overhauls Security Business to Capture AI Demand",
+          "headline": "30% of Cathie Wood's Portfolio Is Invested in These 5 Artificial Intelligence (AI) Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2852256bd191453d18c000716fde7ace1b104d5a34870d62b62b28d1305243a8",
+          "url": "https://finnhub.io/api/news?id=6911f752fca0e46e8ef97d1a3a760eb770e2c1f81d1771e2cd23d2478278b417",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Are Hyperscalers Still Magnificent?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7563d37f89a986479c06d0ef6d12521b89445ecff69793ace30c86e895b148d9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6cc32104d8ea7028527f2b66fb5715c59f10461b14f80be024068ed1588ca0d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=efc5eeb57b9833a11271ed2f34364e058d7eff7feeb1dd2160896704c19675d0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Market trends",
+      "headline": "Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=733f1ab2620a4a9d8266b1820df64771171398e0177f2173acfbd06fc84d4f15",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=733f1ab2620a4a9d8266b1820df64771171398e0177f2173acfbd06fc84d4f15",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Country Risk: Drivers, Measures And Investment Implications - The 2026 Edition",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5009b68728d87daa4e6b4e51e692ea9aef21d7cc13026d3be0c4c3737830494d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Review & Preview: Losing Momentum",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=433d645614b2082b25ac6a6438b585c65850821af0eb42f5f39d334a7833933f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AIER Everyday Price Index Down Slightly After Spring Cost Surge",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=efb811f44d64ae17133d3b2255f6a0ea04d09c3b20a15582e26b8d945b2c579c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Correlated Market Psychology: PMI And Retail Money Funds",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2dc15a09c0aa0dd218720f6794c4a67c42117608bf9b190398bfffc9d37436e0",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI potential",
+      "confidence": 20,
+      "reason": "AI and chip sell-off",
       "headline": "The Real Risk Inside Marvell Stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6cf81c72dcf4a1606fa7629a72fe1979882fa36224c84ec28131acacf2654599",
@@ -176,88 +333,6 @@
           "headline": "AMD\u2019s hidden AI weapon may finally be exposed",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=35b932564913d52b1b99252a466036d7f98d6975416d22e4d3a46806592fc820",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Market momentum",
-      "headline": "Review & Preview: Losing Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=433d645614b2082b25ac6a6438b585c65850821af0eb42f5f39d334a7833933f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Review & Preview: Losing Momentum",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=433d645614b2082b25ac6a6438b585c65850821af0eb42f5f39d334a7833933f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AIER Everyday Price Index Down Slightly After Spring Cost Surge",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=efb811f44d64ae17133d3b2255f6a0ea04d09c3b20a15582e26b8d945b2c579c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Correlated Market Psychology: PMI And Retail Money Funds",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2dc15a09c0aa0dd218720f6794c4a67c42117608bf9b190398bfffc9d37436e0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "FFLC: Active Management That Has Actually Beaten The S&P 500",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=665e28bf9bba575067329f980252c3681a64a331dc5d3fe5a0f6e012998956e2",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed views",
-      "headline": "Consumer-Discretionary Stocks Are \u2018Coiled\u2019 for a Rebound. But Which Ones?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ba43ab6c338d6cac731d156de2c8baccd75d138a535a795be70aa8222aaade3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Consumer-Discretionary Stocks Are \u2018Coiled\u2019 for a Rebound. But Which Ones?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ba43ab6c338d6cac731d156de2c8baccd75d138a535a795be70aa8222aaade3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Are Hyperscalers Still Magnificent?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7563d37f89a986479c06d0ef6d12521b89445ecff69793ace30c86e895b148d9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6cc32104d8ea7028527f2b66fb5715c59f10461b14f80be024068ed1588ca0d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efc5eeb57b9833a11271ed2f34364e058d7eff7feeb1dd2160896704c19675d0",
           "used_by_ai": true
         }
       ],
