@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T04:15:23Z",
+  "updated_at": "2026-07-16T06:42:42Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,74 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Record Q2 profit",
+      "headline": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db3ca6e9881be78ffa93082dfd7081685b179f8223b75c43cf013b8f3730167c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db3ca6e9881be78ffa93082dfd7081685b179f8223b75c43cf013b8f3730167c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Michael Burry Mocks Data Center 'Fantasy\u2019 In ORCL, NVDA, AMZN \u2014 But Trump Sees \u2018Big, Strong, Bold\u2019 Money Machines",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66b4974bee5ba3a4dfe499e55c8d182cbbd8e4a5d91ccda648f2958e799907d2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "30% of Cathie Wood's Portfolio Is Invested in These 5 Artificial Intelligence (AI) Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6911f752fca0e46e8ef97d1a3a760eb770e2c1f81d1771e2cd23d2478278b417",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia partners with Japan robotics firms on AI development",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1f74a00298d70ed43c0abf3224d9fe3642e9177d9c803664049cc7354611d01",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Deepens Japan Ties With Mitsubishi Heavy And Toyota \u2014 While China Access Remains A Separate Story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0aed666ffbb7ad531ad79f38c9f8dc1f499f94ccd499c86e3d8b893420cc6346",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 75,
       "reason": "New all-time high",
-      "headline": "Why Apple Stock Climbed to a New All-Time High Today",
+      "headline": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbb7971f43cd4d0b3d13c43eca38d3ef3d5bb878dacff1e7edb3617956c66c6a",
+      "url": "https://finnhub.io/api/news?id=80e6a87b87c12ef70c24437996830a34a2eb636da02b581eeb04e54be23f908b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80e6a87b87c12ef70c24437996830a34a2eb636da02b581eeb04e54be23f908b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AAPL Stock Tops Nasdaq\u2019s Modest Gains: Analyst Says Siri Finally Shows \u2018AI Chops\u2019 In iOS 27 Beta",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=46af189e9787b3c2636d59af4bb10ca75d5d364c08d84efc238be97b7d1bc449",
+          "used_by_ai": true
+        },
         {
           "headline": "Why Apple Stock Climbed to a New All-Time High Today",
           "source": "Yahoo",
@@ -39,69 +97,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=733f1ab2620a4a9d8266b1820df64771171398e0177f2173acfbd06fc84d4f15",
           "used_by_ai": true
-        },
-        {
-          "headline": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6cc32104d8ea7028527f2b66fb5715c59f10461b14f80be024068ed1588ca0d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "XNTK vs. QQQ: Does a 35-Stock Tech ETF Beat Just Buying the Nasdaq-100?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5206db0ef9c5fe81b1576c3f9106ddb287b8fdb456338651f8f724445c19e927",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple's China breakthrough on AI provides another tailwind for its stock",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/15/apples-china-breakthrough-provides-another-tailwind-for-its-stock.html",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5,
-        "CNBC": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Robotics and AI advancements",
-      "headline": "Japan\u2019s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6f26c905a1cdfc9b4d4ae1973ca996c3460230386e3ea38b35a6ad172bae50e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Japan\u2019s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6f26c905a1cdfc9b4d4ae1973ca996c3460230386e3ea38b35a6ad172bae50e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can CoreWeave Become a $1 Trillion Company?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a8d8848390e4874228758c2e4333fc4aa3b61dbeae068f163fdf358d79fd7206",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Phoenix Education Partners Dived by Almost 13% Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ddbf8f59ec873ea020fbd1e8dd4c81c8bd79cf660fd8d0b304bac9debb5cc42",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Johnson & Johnson a Buy After Its Latest Earnings Report?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e300002b4f43068403e89c192b53b22aa9c3919d052a002385f9017f92ad7e63",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -109,12 +108,18 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI demand and security overhaul",
-      "headline": "Microsoft (MSFT) Faces Browser Scrutiny As New York Clouds Data Center Expansion",
+      "reason": "AI demand",
+      "headline": "Is the AI Infrastructure Build-Out a Bubble? Here's What the Data Actually Shows.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff48204459a185e84e74f7a997ec267f20890e02b7ab429c1a8eb4df79e82ee6",
+      "url": "https://finnhub.io/api/news?id=908898933227c3d20ade5a089b5118cceb555e870fd55749122fbd7d8d2c56e3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Is the AI Infrastructure Build-Out a Bubble? Here's What the Data Actually Shows.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=908898933227c3d20ade5a089b5118cceb555e870fd55749122fbd7d8d2c56e3",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft (MSFT) Faces Browser Scrutiny As New York Clouds Data Center Expansion",
           "source": "Yahoo",
@@ -132,52 +137,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2852256bd191453d18c000716fde7ace1b104d5a34870d62b62b28d1305243a8",
           "used_by_ai": true
-        },
-        {
-          "headline": "Global Investments In Nuclear Fusion Surge 69% To $4.5B",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=52e6757ccb7f7c9159df8022a550edce43d7d8e6c924658bd2288b323381e29a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Battery technology advancements",
-      "headline": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efc5eeb57b9833a11271ed2f34364e058d7eff7feeb1dd2160896704c19675d0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efc5eeb57b9833a11271ed2f34364e058d7eff7feeb1dd2160896704c19675d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Discreetly Bought a $1 Billion Gas Turbine Company to Power AI. Here's What it Means for SpaceX Investors.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cba758593890482d4bd860ceed1367af03076c28d47958d78e69d8d03f61f82",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today, July 15: Lucid Spikes 29% After Dismissing Bankruptcy and Take-Private Rumors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5cf7941297886425c250a1999845c2eb94f40d39635591bae5d0064871d3516",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Battery X Metals Completes First-Generation Proprietary Battery Adaptor for Tesla Model 3 and Model Y, Marking a Significant Commercial Readiness Milestone for its Patent-Pending Lithium-Ion Battery Rebalancing Platform",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4ad7dfd17bc587679da0e6514ce615b7b1f337d7b9d20ef815123109c3b8cf97",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -188,8 +147,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI and semiconductor trends",
+      "confidence": 60,
+      "reason": "AI potential",
       "headline": "The Real Risk Inside Marvell Stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6cf81c72dcf4a1606fa7629a72fe1979882fa36224c84ec28131acacf2654599",
@@ -218,16 +177,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=35b932564913d52b1b99252a466036d7f98d6975416d22e4d3a46806592fc820",
           "used_by_ai": true
-        },
-        {
-          "headline": "Bank of America Says Long Semiconductors is the \u201cMost Crowded Trade Ever\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7796da7ad4eafba5215340b1edc234598ab20a97a9418bef5afea335583efc6",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     },
@@ -235,8 +188,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Market sentiment and trends",
+      "confidence": 50,
+      "reason": "Market momentum",
       "headline": "Review & Preview: Losing Momentum",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=433d645614b2082b25ac6a6438b585c65850821af0eb42f5f39d334a7833933f",
@@ -270,6 +223,47 @@
       "source_breakdown": {
         "Yahoo": 1,
         "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed views",
+      "headline": "Consumer-Discretionary Stocks Are \u2018Coiled\u2019 for a Rebound. But Which Ones?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ba43ab6c338d6cac731d156de2c8baccd75d138a535a795be70aa8222aaade3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Consumer-Discretionary Stocks Are \u2018Coiled\u2019 for a Rebound. But Which Ones?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ba43ab6c338d6cac731d156de2c8baccd75d138a535a795be70aa8222aaade3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Are Hyperscalers Still Magnificent?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7563d37f89a986479c06d0ef6d12521b89445ecff69793ace30c86e895b148d9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6cc32104d8ea7028527f2b66fb5715c59f10461b14f80be024068ed1588ca0d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=efc5eeb57b9833a11271ed2f34364e058d7eff7feeb1dd2160896704c19675d0",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     }
   ]
