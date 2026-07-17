@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T11:06:01Z",
+  "updated_at": "2026-07-17T12:42:46Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,94 +16,76 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Hits record high",
-      "headline": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years \u2014 HSBC Sees Another 10% Upside",
+      "reason": "HSBC upgrade",
+      "headline": "HSBC upgrades Apple to Buy, sees \"strong cycle ahead\"",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58a67189634bd33424cbcb03c864a07a6fe387417019ff67af8e2a5c162bc87f",
+      "url": "https://finnhub.io/api/news?id=345ec0957b2c88ecb532d158e247074a57558913b2d365dc7d782c6d02f493dc",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years \u2014 HSBC Sees Another 10% Upside",
+          "headline": "HSBC upgrades Apple to Buy, sees \"strong cycle ahead\"",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58a67189634bd33424cbcb03c864a07a6fe387417019ff67af8e2a5c162bc87f",
+          "url": "https://finnhub.io/api/news?id=345ec0957b2c88ecb532d158e247074a57558913b2d365dc7d782c6d02f493dc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Circle Gets Street-Low Target as Stablecoin Competition Heats Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a9c8dd2f2d82723784acd714f4869ce828aa57a0a435974405d773d25ae00c0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Friday; Netflix, SpaceX to Decline",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=101ff5a5729da23ab00c5dd33680ac8b9ff33773280dfb016fd14170c353f75b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AAPL Stock Bucks Tech Rout: Retail Calls It 'Safe Haven' Ahead Of Q3 Report This Month",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00ee74b01860c8c264d65a64fde994127852f46ef1508a65482b9bf65fea5db1",
           "used_by_ai": true
         },
         {
           "headline": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5756ecc395ca50ff8000a125e1dd72ff15eef2bb72467ccace846fb97d1650f7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Did AAPL, ATAI, UNH Stocks Jump To 52-Week Highs Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=072e3bfd616c4a91b32886e9b5950f43723730420d1b24eae7087362c56d8768",
-          "used_by_ai": false
-        },
-        {
-          "headline": "ACV: Better Than A Bond Fund, But Tech Exposure Is A Risk",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=063215899220a1a309818582feef361ca9ce4e697d3228327b54a5e61f740fa8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple (AAPL) Faces Lawmaker Push To Block CXMT Memory Chip Sourcing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a59d6ebfaa291925a9e0176702c86a6b7ea0067a2d3fcccb2b659ab4ef03082",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Partners with 3M",
-      "headline": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79c4943f3c9a0da8c7feccbe25faa34070dcaeecdc61d3c7e3e486872f24a09e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79c4943f3c9a0da8c7feccbe25faa34070dcaeecdc61d3c7e3e486872f24a09e",
           "used_by_ai": true
-        },
-        {
-          "headline": "2 AI Stocks Poised for Outperformance Over the Next 5 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82e5c85e7a09e4eb23c3b2786653713a0d30c6751a27b6754da0f65906df925a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Investment Opportunities In SMRs: The Future Of Nuclear Power",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=477b780c8227bfa6e831578e108b6fd543a3113c64a3cba15a15262435df69b5",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1
+        "Yahoo": 5
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
+      "direction": "down",
       "confidence": 70,
-      "reason": "Buy the dip",
-      "headline": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+      "reason": "Iran tensions",
+      "headline": "Latest News In Electric Vehicles - Transforming Battery Tech: Premergy's Strategic Shift and Partnerships",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff",
+      "url": "https://finnhub.io/api/news?id=d8f70a99832f4ff61c3b973d08a90074984502da5c052bf762c238abfd6b9867",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Latest News In Electric Vehicles - Transforming Battery Tech: Premergy's Strategic Shift and Partnerships",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8f70a99832f4ff61c3b973d08a90074984502da5c052bf762c238abfd6b9867",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Is Betting Big on Natural Gas. Here's What It Means for Energy Stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5066e12e2c6e7db4bd8563e39a7e5a8efa15169d5464783ffa683213e6590134",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0fd48e4043fa7f7f1742a22685e66bea447ff1000a4771c5b4faa3da7f18727",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
           "source": "Yahoo",
@@ -111,126 +93,79 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0fd48e4043fa7f7f1742a22685e66bea447ff1000a4771c5b4faa3da7f18727",
-          "used_by_ai": false
-        },
-        {
-          "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Lawmaker push",
-      "headline": "Apple (AAPL) Faces Lawmaker Push To Block CXMT Memory Chip Sourcing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a59d6ebfaa291925a9e0176702c86a6b7ea0067a2d3fcccb2b659ab4ef03082",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple (AAPL) Faces Lawmaker Push To Block CXMT Memory Chip Sourcing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a59d6ebfaa291925a9e0176702c86a6b7ea0067a2d3fcccb2b659ab4ef03082",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5756ecc395ca50ff8000a125e1dd72ff15eef2bb72467ccace846fb97d1650f7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Did AAPL, ATAI, UNH Stocks Jump To 52-Week Highs Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=072e3bfd616c4a91b32886e9b5950f43723730420d1b24eae7087362c56d8768",
-          "used_by_ai": false
-        },
-        {
-          "headline": "ACV: Better Than A Bond Fund, But Tech Exposure Is A Risk",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=063215899220a1a309818582feef361ca9ce4e697d3228327b54a5e61f740fa8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years \u2014 HSBC Sees Another 10% Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58a67189634bd33424cbcb03c864a07a6fe387417019ff67af8e2a5c162bc87f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "SpaceX funding",
-      "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
-      "on_watchlist": true,
-      "articles": [
-        {
           "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Chip stocks fall",
+      "headline": "Nvidia and AMD Investors Must Be Prepared for Aug. 4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dc933e5f2f5dba27dbfbbf6ea8fcaea8a6a099ffe8e820cd8986ed78d8ca3cf",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia and AMD Investors Must Be Prepared for Aug. 4",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7dc933e5f2f5dba27dbfbbf6ea8fcaea8a6a099ffe8e820cd8986ed78d8ca3cf",
+          "used_by_ai": true
         },
         {
-          "headline": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
+          "headline": "Latest News In AI Chips - Palomino Expands AI Market Reach with Vega Links Acquisition",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0fd48e4043fa7f7f1742a22685e66bea447ff1000a4771c5b4faa3da7f18727",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=bf50aebd41ab7145c00c0c6b72e04654e5a2e674f7ffd270c0213869055e37f2",
+          "used_by_ai": true
         },
         {
-          "headline": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+          "headline": "Chip stocks fall globally, pulling U.S. stock futures lower",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8cadbd74e2077a22e70864a65580dacc5321deb11cbc5e77c69db67e70e62af9",
+          "used_by_ai": true
         },
         {
-          "headline": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
+          "headline": "Prediction Markets Are Betting Against Rocket Lab: Here\u2019s What the Odds Say",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2",
+          "url": "https://finnhub.io/api/news?id=f6c3e32909453b02b7b3f3577b7b76ee04c5b76d40b1ae0fe598428dc7aaf767",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If You Invest $2,000 in Ares Capital Today, Here's the Dividend Income You Could See by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4091a24658c7402e16dacee4f296f2cead44aba3107c594de5e9afbb4dbef215",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Chip stocks slide",
-      "headline": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide \u2013 Retail Traders Still Buying The Memory Theme",
+      "confidence": 50,
+      "reason": "Chip stocks fall",
+      "headline": "Stock Futures Drop as Tech Selloff Gathers Pace",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efd649f1892565031144992a70c4ea7b213d325d32fcd926eca2c3f5600367f4",
+      "url": "https://finnhub.io/api/news?id=662fd3a4913fa09ad9224e5d739da8d63049bea3a3b1049e3681e7b1c38cc149",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stock Futures Drop as Tech Selloff Gathers Pace",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=662fd3a4913fa09ad9224e5d739da8d63049bea3a3b1049e3681e7b1c38cc149",
+          "used_by_ai": true
+        },
         {
           "headline": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide \u2013 Retail Traders Still Buying The Memory Theme",
           "source": "Yahoo",
@@ -238,27 +173,20 @@
           "used_by_ai": true
         },
         {
-          "headline": "Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know",
+          "headline": "2 AI Stocks Poised for Outperformance Over the Next 5 Years",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0a7f2a130a1b48f1070398e490dd5b55513e23350660c9dedad51278f945e52",
+          "url": "https://finnhub.io/api/news?id=82e5c85e7a09e4eb23c3b2786653713a0d30c6751a27b6754da0f65906df925a",
           "used_by_ai": true
         },
         {
           "headline": "Driving the Agentic AI Era: MiTAC Computing Showcases Comprehensive AI Infrastructure at WAIC",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=253e95033e279d2a373b3029715ff4ea1803aee227fc564013a3255e071a7844",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Blind Spots In The NDX Boom: When Market Concentration Meets Attention Deficit",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=20ae6b39a6b79daa473f21161f3ca9de855289a94e21093da23d81de1a281f10",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
@@ -266,39 +194,99 @@
       "company": "",
       "direction": "down",
       "confidence": 50,
-      "reason": "Market sells",
-      "headline": "Market Sells AI Trade, Scarcity Trade Still On",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fc372e7700fcc22350e24b254750e906bf0d98a9c80041a324fe83addc287a13",
+      "reason": "Market selloff",
+      "headline": "Stock Market Today: Dow Slides As Netflix Plunges On Earnings; SpaceX Slides After Canceled Flight (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d31c14342e137d7b022712ef4a553450f6d1fc2b80978a45b5b29724d330384",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stock Market Today: Dow Slides As Netflix Plunges On Earnings; SpaceX Slides After Canceled Flight (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d31c14342e137d7b022712ef4a553450f6d1fc2b80978a45b5b29724d330384",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Chip stocks fall globally, pulling U.S. stock futures lower",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8cadbd74e2077a22e70864a65580dacc5321deb11cbc5e77c69db67e70e62af9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The VIX Futures Curve Signal That Could Cut SVOL\u2019s Yield in Half",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93e066c797800debb3dc6aa540264f53b906f01ff9099de6af4ad2b868045052",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Government Spending Has Increased 89% Since 2016 To $7.2T",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d2789ce426d64648c859db3d6328acd99135ebf6c96d1809516340ecfe5b0d60",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Market Is Already Crashing - The Indexes Are Hiding It",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=921ba16a24a8d12f6430652691b125aca62e6aa8b934bac0d6b12661112b5695",
+          "used_by_ai": true
+        },
         {
           "headline": "Market Sells AI Trade, Scarcity Trade Still On",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=fc372e7700fcc22350e24b254750e906bf0d98a9c80041a324fe83addc287a13",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI trade rotation",
+      "headline": "Growing an Income Tree: From $27,000 to $66,000",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f16834b08c6c17f3fe26ebf1ea738c1f438efeb6aa48d5eb4eb3ba6a91c9cde",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=99b99cc7b0b3ca62dbdaa7477485f38bd7e20e75c3127cda3df6e866f57d56a7",
+          "headline": "Growing an Income Tree: From $27,000 to $66,000",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f16834b08c6c17f3fe26ebf1ea738c1f438efeb6aa48d5eb4eb3ba6a91c9cde",
           "used_by_ai": true
         },
         {
-          "headline": "Global Economic Outlook: July 2026 - Mid-Year Forecast Update",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=30bfa1a798a608e8d3a98141a02e5187eb90c7f88c08cd5aef55e626447971db",
+          "headline": "Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1c557e15772a37368f61898ba5de98e9932f48c9906d9fe54861604ab9f0c14b",
           "used_by_ai": true
         },
         {
-          "headline": "Market Outlook: Getting Serious In Summer Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c0c14d179d368d76b3a5bca9e957745e7ba392613a09fc7fd3b2a8b1bbaee6ce",
+          "headline": "These 2 Industrial Stocks Will Benefit From the Trillion-Dollar AI Spending Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=775f3ed3fe2cf4371f8557f9c2bb58fed7cb34dc4024ccf4d12afaf0b8605a4e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "13 Press Releases You Need to See This Week Including the returns of never-ending pasta at Olive Garden and popcorn chicken at KFC, new seat options from United Airlines, and a partnership between 3M and Microsoft.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69c2dc505577b8a1aa499122bf94a4a0730339e71e883f9c75ec48d52641f982",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4
+        "Yahoo": 4,
+        "CNBC": 1
       }
     }
   ]
