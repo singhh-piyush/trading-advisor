@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T09:26:48Z",
+  "updated_at": "2026-07-17T11:06:01Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Hits fresh record",
+      "reason": "Hits record high",
       "headline": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years \u2014 HSBC Sees Another 10% Upside",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=58a67189634bd33424cbcb03c864a07a6fe387417019ff67af8e2a5c162bc87f",
@@ -59,37 +59,78 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
       "confidence": 70,
-      "reason": "SpaceX can't afford",
-      "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
+      "reason": "Partners with 3M",
+      "headline": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
+      "url": "https://finnhub.io/api/news?id=79c4943f3c9a0da8c7feccbe25faa34070dcaeecdc61d3c7e3e486872f24a09e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79c4943f3c9a0da8c7feccbe25faa34070dcaeecdc61d3c7e3e486872f24a09e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "2 AI Stocks Poised for Outperformance Over the Next 5 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82e5c85e7a09e4eb23c3b2786653713a0d30c6751a27b6754da0f65906df925a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Investment Opportunities In SMRs: The Future Of Nuclear Power",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=477b780c8227bfa6e831578e108b6fd543a3113c64a3cba15a15262435df69b5",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Buy the dip",
+      "headline": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0fd48e4043fa7f7f1742a22685e66bea447ff1000a4771c5b4faa3da7f18727",
+          "used_by_ai": false
+        },
         {
           "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2",
           "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Today, July 16: Lucid Group Surges on CEO's Denial of Bankruptcy and Take-Private Rumors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e85ca2da37cd9c657686067feddbde60ed5dd43c11f3f7b362da13182a9641a3",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4
       }
     },
     {
@@ -140,62 +181,27 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "down",
       "confidence": 60,
-      "reason": "Market selloff",
-      "headline": "Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season: NFLX, SNDK, SPCX, MRVL Stocks In Focus",
+      "reason": "SpaceX funding",
+      "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b20feccc8e5c8902acf5c0b974ada8fbdd80f745a9b6a6ab0eb2743d35a7198",
+      "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season: NFLX, SNDK, SPCX, MRVL Stocks In Focus",
+          "headline": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b20feccc8e5c8902acf5c0b974ada8fbdd80f745a9b6a6ab0eb2743d35a7198",
+          "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
           "used_by_ai": true
         },
         {
-          "headline": "Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=99b99cc7b0b3ca62dbdaa7477485f38bd7e20e75c3127cda3df6e866f57d56a7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Global Economic Outlook: July 2026 - Mid-Year Forecast Update",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=30bfa1a798a608e8d3a98141a02e5187eb90c7f88c08cd5aef55e626447971db",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Market Outlook: Getting Serious In Summer Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c0c14d179d368d76b3a5bca9e957745e7ba392613a09fc7fd3b2a8b1bbaee6ce",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Undervalued",
-      "headline": "History Might Be Telling Us Why Nvidia Stock Is So Cheap. Should Investors Listen?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8836fd08e6c73d2620a3d1c83b37362aeb6605503115ff89b9261af5ded1dc41",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "History Might Be Telling Us Why Nvidia Stock Is So Cheap. Should Investors Listen?",
+          "headline": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8836fd08e6c73d2620a3d1c83b37362aeb6605503115ff89b9261af5ded1dc41",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f0fd48e4043fa7f7f1742a22685e66bea447ff1000a4771c5b4faa3da7f18727",
+          "used_by_ai": false
         },
         {
           "headline": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
@@ -204,39 +210,33 @@
           "used_by_ai": false
         },
         {
-          "headline": "3 Reasons SpaceX Stock Could Drop 30% by 2028",
+          "headline": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e031dddb5b751da49f4dce57cc3ba251bc083265b50e9c2ca5f3b8b4be792c92",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AST SpaceMobile: Shares Sink 17% After Pricing a $1 Billion Convertible-Note Offering, But Dilution Risk Is Smaller Than It Looks (NASDAQ:ASTS)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c9158b47504c87eacfce6805737c3c859aa8ddc3c20b73760937ffcf910a8218",
-          "used_by_ai": false
-        },
-        {
-          "headline": "3 High-Yield Dividend Stocks to Buy and Hold",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=405a05fc41aab22c382255930ba97d658555a30994d96cac9cd5312c989a4307",
+          "url": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Shares falling",
-      "headline": "Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know",
+      "confidence": 60,
+      "reason": "Chip stocks slide",
+      "headline": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide \u2013 Retail Traders Still Buying The Memory Theme",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0a7f2a130a1b48f1070398e490dd5b55513e23350660c9dedad51278f945e52",
+      "url": "https://finnhub.io/api/news?id=efd649f1892565031144992a70c4ea7b213d325d32fcd926eca2c3f5600367f4",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide \u2013 Retail Traders Still Buying The Memory Theme",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=efd649f1892565031144992a70c4ea7b213d325d32fcd926eca2c3f5600367f4",
+          "used_by_ai": true
+        },
         {
           "headline": "Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know",
           "source": "Yahoo",
@@ -254,52 +254,51 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=20ae6b39a6b79daa473f21161f3ca9de855289a94e21093da23d81de1a281f10",
           "used_by_ai": false
-        },
-        {
-          "headline": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=918c27aa2d49ccf1c6b58623c8590fe46700d6f92243de0b1554baa9233fe0d4",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Q1 Rundown: AMD (NASDAQ:AMD) Vs Other Processors and Graphics Chips Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=996178c4bfd7a4d18912428219e3964cf8ef49ed9265b460431f2677b5156f83",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Partners with 3M",
-      "headline": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79c4943f3c9a0da8c7feccbe25faa34070dcaeecdc61d3c7e3e486872f24a09e",
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Market sells",
+      "headline": "Market Sells AI Trade, Scarcity Trade Still On",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fc372e7700fcc22350e24b254750e906bf0d98a9c80041a324fe83addc287a13",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79c4943f3c9a0da8c7feccbe25faa34070dcaeecdc61d3c7e3e486872f24a09e",
+          "headline": "Market Sells AI Trade, Scarcity Trade Still On",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fc372e7700fcc22350e24b254750e906bf0d98a9c80041a324fe83addc287a13",
           "used_by_ai": true
         },
         {
-          "headline": "Investment Opportunities In SMRs: The Future Of Nuclear Power",
+          "headline": "Market Brief: Warsh Won't Bless The Cool CPI, But Bitcoin And Gold Surge Anyway",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=477b780c8227bfa6e831578e108b6fd543a3113c64a3cba15a15262435df69b5",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=99b99cc7b0b3ca62dbdaa7477485f38bd7e20e75c3127cda3df6e866f57d56a7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Global Economic Outlook: July 2026 - Mid-Year Forecast Update",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=30bfa1a798a608e8d3a98141a02e5187eb90c7f88c08cd5aef55e626447971db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Market Outlook: Getting Serious In Summer Markets",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c0c14d179d368d76b3a5bca9e957745e7ba392613a09fc7fd3b2a8b1bbaee6ce",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 4
       }
     }
   ]
