@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T16:15:10Z",
+  "updated_at": "2026-07-17T17:38:20Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,57 @@
   "sample": false,
   "items": [
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Earns upgrade",
+      "headline": "Apple set to report in-line quarter as iPhone gains share, Services tracks estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9364719876587039270ce2de51e708fc5e626ffd3aab33fced01f044895a92fd",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple set to report in-line quarter as iPhone gains share, Services tracks estimates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9364719876587039270ce2de51e708fc5e626ffd3aab33fced01f044895a92fd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple\u2019s \u2018Wait and See\u2019 AI Strategy Just Earned the Stock an Upgrade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=50df664f3e1a9de7e954dfd874704b6b3c1ed3b680b2413ae2d1d9f38bd2e186",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple reclaims world's most valuable company as Nvidia slips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a701064e3af321009247b5abe0345f2d015cb2e9e9264b551332fdf90d99bb00",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Could Become Warren Buffett\u2019s Smartest Long\u2011Term Pick Yet",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d7aa06103678f98f5182a1ce31dce196c05811ec18b91fd7b75b427c10dfd2de",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Is Losing Its Crown. Here\u2019s the Stock Taking Its Place.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0fff971757e4c97e43e0bab66e2e34d326c4e75a2ad22d2c884a22f2970c8eed",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI boom",
+      "confidence": 70,
+      "reason": "New target",
       "headline": "AMD Stock Gets New Street-High of $725 Target on AI Boom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=df27c104d7006750ff051a80716b941567e8c33acd2d275a4d36bbb46f8c25be",
@@ -52,62 +98,22 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI strategy",
-      "headline": "Apple\u2019s \u2018Wait and See\u2019 AI Strategy Just Earned the Stock an Upgrade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=50df664f3e1a9de7e954dfd874704b6b3c1ed3b680b2413ae2d1d9f38bd2e186",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple\u2019s \u2018Wait and See\u2019 AI Strategy Just Earned the Stock an Upgrade",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50df664f3e1a9de7e954dfd874704b6b3c1ed3b680b2413ae2d1d9f38bd2e186",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Is Losing Its Crown. Here\u2019s the Stock Taking Its Place.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fff971757e4c97e43e0bab66e2e34d326c4e75a2ad22d2c884a22f2970c8eed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple reclaims world's most valuable company as Nvidia slips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a701064e3af321009247b5abe0345f2d015cb2e9e9264b551332fdf90d99bb00",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom Legal Chief Sold Nearly $20 Million of Stock After Apple Partnership Boosted Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=73caf90000e470812ab831a20de48fdd6be1af0a013411724b5a2aaa793d19ba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Apple Stock Was Telling You Before Its 60% Climb",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8fc330f167c751e0c0bc4ab14bf1132c1fcd9c17c7e6f1ae437a04c8bda3df4f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "up",
+      "direction": "down",
       "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Ford (F) Price Prediction: How Much a $2,500 Investment Could Be Worth by 2031",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=063cfb17e17d7d4c92b65192c515509ae981e2bf314a4ee62dc88e3d1e2d7183",
+      "reason": "Losing crown",
+      "headline": "Top dow jones movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Top dow jones movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
+          "used_by_ai": true
+        },
         {
           "headline": "Ford (F) Price Prediction: How Much a $2,500 Investment Could Be Worth by 2031",
           "source": "Yahoo",
@@ -133,9 +139,56 @@
           "used_by_ai": true
         },
         {
-          "headline": "Bank of America Says Alphabet\u2019s Q2 Will Deliver. Here\u2019s The Price Target",
+          "headline": "Nvidia Is Losing Its Crown. Here\u2019s the Stock Taking Its Place.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0558a2b652bc53f9c551420c77c0d6a16d0c0a0d6ee04ce617f3440a4bd9638e",
+          "url": "https://finnhub.io/api/news?id=0fff971757e4c97e43e0bab66e2e34d326c4e75a2ad22d2c884a22f2970c8eed",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Mixed news",
+      "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b53343da15bd1b6651f2814f38f7a8d652455c7bf4f4fabc5fd72c02fdc62f02",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b53343da15bd1b6651f2814f38f7a8d652455c7bf4f4fabc5fd72c02fdc62f02",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Tesla Might Not Merge With SpaceX After All",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3487872e2b7a9b91c13cb8ce46029fd709f19dfaee78be81e8c10f296a044028",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Kevin O\u2019Leary Says Tesla Stock Doesn\u2019t Just Move With Earnings, It Moves With \u2018Elon\u2019s Tweets\u2019 \u2014 One Post Swings It 10%. \u2018Price You Pay For Growth\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ccd0433840510a0dcd95e904ab8a3d47b104d0be6fed60f70841aa9f874695a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Number That Could Test Tesla Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15928a46447bc141925bb29686a28131a668e79549d77c549305ba03fc5a0112",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mission aborted: Why Elon Musk canceled SpaceX's Starship launch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d5e22f52cdc7c803b1cfb0af4f6cb1d5b83c57563c862e8f2cadc3685580a9b",
           "used_by_ai": true
         }
       ],
@@ -147,13 +200,19 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "analyst upgrade",
-      "headline": "Alphabet Drops 4%, But Analyst Believes There Is Massive Upside",
+      "confidence": 40,
+      "reason": "Positive mention",
+      "headline": "Bank of America Says Alphabet\u2019s Q2 Will Deliver. Here\u2019s The Price Target",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab89943e2db6481148e8b219d993a449de0bd03e5e83eaeefb6a33f5370290b0",
+      "url": "https://finnhub.io/api/news?id=0558a2b652bc53f9c551420c77c0d6a16d0c0a0d6ee04ce617f3440a4bd9638e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Bank of America Says Alphabet\u2019s Q2 Will Deliver. Here\u2019s The Price Target",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0558a2b652bc53f9c551420c77c0d6a16d0c0a0d6ee04ce617f3440a4bd9638e",
+          "used_by_ai": true
+        },
         {
           "headline": "Alphabet Drops 4%, But Analyst Believes There Is Massive Upside",
           "source": "Yahoo",
@@ -167,106 +226,49 @@
           "used_by_ai": true
         },
         {
-          "headline": "Over 60 Analysts Say Buy Microsoft. Here\u2019s Our Price Target",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a0bebe3a842cf72df804e189126ccee2bb04676362cfcd3ed0c9d1c542b6526",
+          "headline": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "EV growth",
-      "headline": "SpaceX Aborts Starship Test Flight 13, Completes SDA Mission",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=062e0ec1b135ceab6b4098a265767d75eb8781f8181a183d501610778d8bfd0e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX Aborts Starship Test Flight 13, Completes SDA Mission",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=062e0ec1b135ceab6b4098a265767d75eb8781f8181a183d501610778d8bfd0e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 EV Stocks Worth the Risk to Buy in July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1a3d56ae85c74b8f311c42dd9b5bdda64ff9b6b47adf6356ddd5bae19fc1a078",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 Unpopular Stock That Deserves a Second Chance and 2 We Avoid",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66ee1c47e8e98d44bda9b7b15dd997478b435910176e9d91099bf86a26f40b9e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should You Buy Tesla Stock Before Earnings on July 22?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e16a42d3bdd0ef8f102b74ae1186be4784a4cea6dc2b2060aa5c65fec704968c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet's Waymo, Baidu Ahead of Competitors in Robotaxi Space, Wedbush Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b41e03ac91e662896f25aab664f64440e05caa7b46267684a932f179f74c7717",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "CNBC": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "market volatility",
-      "headline": "Stock Market Today: Nasdaq Leads Indexes Down; SpaceX Slides As Flight Canceled (Live Coverage)",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market news",
+      "headline": "SPYI Investors: Watch These 2 Macro Factors Before the Next Distribution",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43bdff8a716708433fb4dc9ca77c1f32465999080349e9d6bee352b6884763f2",
+      "url": "https://finnhub.io/api/news?id=dc6646e28e14b3fdaff43894e8f7f8bbb22af0391c056fc946d02d9e5a21b04b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SPYI Investors: Watch These 2 Macro Factors Before the Next Distribution",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc6646e28e14b3fdaff43894e8f7f8bbb22af0391c056fc946d02d9e5a21b04b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Megacap Growth ETF That\u2019s Been Beating the S&P 500 for a Decade Straight",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90ec058ff1fec99e72203dfadc12a5b56cc011af2d34773bcc327b0a36833075",
+          "used_by_ai": true
+        },
         {
           "headline": "Stock Market Today: Nasdaq Leads Indexes Down; SpaceX Slides As Flight Canceled (Live Coverage)",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=43bdff8a716708433fb4dc9ca77c1f32465999080349e9d6bee352b6884763f2",
           "used_by_ai": true
-        },
-        {
-          "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Investors Retreat From Chipmaker Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a86575a73d140d85a08224a7844a429f9899b69680c575bc2ec81986135f60a3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A $10,000 Investment in Cisco When Chuck Robbins Became CEO Is Worth This Much Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f8dd83b11dee614ef81f4c74c5e531325ca12dfaad3b3fd2bf154efcfc2443ae",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Is Kimi K3? The Chinese AI Model That Has Wall Street Talking",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=866a1acd3f77508bb0046c0641ecc49c052be46186ccb1521d18f804530be2f2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Much Of Your Portfolio Is Really CVS?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9788306605ef918ef57fbb3d01751657b46bf0d0fd30885bd07c373adad003d5",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3
       }
     }
   ]
