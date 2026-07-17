@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T20:27:16Z",
+  "updated_at": "2026-07-17T21:22:41Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -63,7 +63,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "bet on AI",
+      "reason": "cash reserves",
       "headline": "Apple Had the Cash to Buy Any of 486 S&P 500 Companies, but Tim Cook Bet $851 Billion on This Instead",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3f0dc9ad7ad61e967eba45c33404b6858a8bece0f75e7c07644afa6d72048781",
@@ -109,7 +109,7 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "loses crown",
       "headline": "Nvidia Could Lose Its Crown. Here\u2019s the Stock Taking Its Place.",
       "source": "Yahoo",
@@ -120,6 +120,40 @@
           "headline": "Nvidia Could Lose Its Crown. Here\u2019s the Stock Taking Its Place.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=226dad7cbaf6a6e0cb824afcb8ec3d6ec547f75a7590d43ae0a61eb5b271eb6e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Think Stocks Are Too Risky for Your Retirement Savings? Why Dumping Them Completely Is a Huge Mistake",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c2c18a9bfe8af01e0e64d52432c1347d5566a5775061384308a67fc70d6f969a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0ef47f9d77a6a1f4d5db6f73b7f70af36ea299b49a650704017274f1ed9abdb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "China AI model",
+      "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
           "used_by_ai": true
         },
         {
@@ -186,44 +220,10 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "China AI model",
-      "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Think Stocks Are Too Risky for Your Retirement Savings? Why Dumping Them Completely Is a Huge Mistake",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2c18a9bfe8af01e0e64d52432c1347d5566a5775061384308a67fc70d6f969a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0ef47f9d77a6a1f4d5db6f73b7f70af36ea299b49a650704017274f1ed9abdb",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "China AI model",
       "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
       "source": "Yahoo",
@@ -360,7 +360,7 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 40,
       "reason": "software rival",
       "headline": "Tesla now has a serious software rival",
