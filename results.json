@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T17:38:20Z",
+  "updated_at": "2026-07-17T19:08:03Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,48 +8,89 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
       "confidence": 80,
-      "reason": "Earns upgrade",
-      "headline": "Apple set to report in-line quarter as iPhone gains share, Services tracks estimates",
+      "reason": "China unveils AI model",
+      "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9364719876587039270ce2de51e708fc5e626ffd3aab33fced01f044895a92fd",
+      "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple set to report in-line quarter as iPhone gains share, Services tracks estimates",
+          "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9364719876587039270ce2de51e708fc5e626ffd3aab33fced01f044895a92fd",
+          "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
           "used_by_ai": true
         },
         {
-          "headline": "Apple\u2019s \u2018Wait and See\u2019 AI Strategy Just Earned the Stock an Upgrade",
+          "headline": "Global stocks plunge in AI \u2018bloodbath\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50df664f3e1a9de7e954dfd874704b6b3c1ed3b680b2413ae2d1d9f38bd2e186",
+          "url": "https://finnhub.io/api/news?id=fae9ad7fe62ccbcd3634da755939ec21d6d6ce1754274b96c15f86df5b1d5804",
           "used_by_ai": true
         },
         {
-          "headline": "Apple reclaims world's most valuable company as Nvidia slips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a701064e3af321009247b5abe0345f2d015cb2e9e9264b551332fdf90d99bb00",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Could Become Warren Buffett\u2019s Smartest Long\u2011Term Pick Yet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d7aa06103678f98f5182a1ce31dce196c05811ec18b91fd7b75b427c10dfd2de",
+          "headline": "Curious about the most active stocks on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=687ce1ff7ff154360c93f8bb7b479ccf917b2c24fa106796c2b5d96b6dacdb9d",
           "used_by_ai": false
         },
         {
-          "headline": "Nvidia Is Losing Its Crown. Here\u2019s the Stock Taking Its Place.",
+          "headline": "Robotics ETFs Will Dominate the 2030s. This 1 ETF Is Trading at a Discount",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fff971757e4c97e43e0bab66e2e34d326c4e75a2ad22d2c884a22f2970c8eed",
+          "url": "https://finnhub.io/api/news?id=3e2a88f674ca7e65380dcb7d7fc7da0960ff15860ddf852d7659964d02f21e3b",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Expensive electric trucks",
+      "headline": "America isn't buying expensive electric trucks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50fe5973d8822fb50327fcceb42296cead6e2f01a7593771a5b3d2d3147be697",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "America isn't buying expensive electric trucks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=50fe5973d8822fb50327fcceb42296cead6e2f01a7593771a5b3d2d3147be697",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Price Prediction: How Much a $10,000 Investment Could Be Worth by 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb8fcff8c27e2b52ff3a1fc71560e074d3ae9205adcfc7fccbc989eaff0767c2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Falls After Starship Launch Abort",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=351056a8a52636140023c1b9ccc3f774a9704cdd8e0a3b0e89428d226908fdcc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla rides robotaxi momentum into earnings season",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c49661e391388b13a8bf8348df51bf94f22567ecbc3d5f081edcfd0a1bd2e84",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b53343da15bd1b6651f2814f38f7a8d652455c7bf4f4fabc5fd72c02fdc62f02",
           "used_by_ai": false
         }
       ],
@@ -58,38 +99,79 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
-      "reason": "New target",
-      "headline": "AMD Stock Gets New Street-High of $725 Target on AI Boom",
+      "confidence": 60,
+      "reason": "Robotics ETFs dominate",
+      "headline": "Robotics ETFs Will Dominate the 2030s. This 1 ETF Is Trading at a Discount",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df27c104d7006750ff051a80716b941567e8c33acd2d275a4d36bbb46f8c25be",
+      "url": "https://finnhub.io/api/news?id=3e2a88f674ca7e65380dcb7d7fc7da0960ff15860ddf852d7659964d02f21e3b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD Stock Gets New Street-High of $725 Target on AI Boom",
+          "headline": "Robotics ETFs Will Dominate the 2030s. This 1 ETF Is Trading at a Discount",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df27c104d7006750ff051a80716b941567e8c33acd2d275a4d36bbb46f8c25be",
+          "url": "https://finnhub.io/api/news?id=3e2a88f674ca7e65380dcb7d7fc7da0960ff15860ddf852d7659964d02f21e3b",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Stock Is On Sale, But Is It A Bargain?",
+          "headline": "Curious about the most active stocks on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=687ce1ff7ff154360c93f8bb7b479ccf917b2c24fa106796c2b5d96b6dacdb9d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b72e0d2125dd1be9ad529ed02f79470d63a4853835483f2878382e5e740e10c",
+          "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Global stocks plunge in AI \u2018bloodbath\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fae9ad7fe62ccbcd3634da755939ec21d6d6ce1754274b96c15f86df5b1d5804",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "China unveils AI model",
+      "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=09ad4b1e525d8d351c706a3b1015f9e062df8cc4b808c67d70901eb170b7dae9",
           "used_by_ai": true
         },
         {
-          "headline": "What Intel Stock Was Signaling About The AI Data Center's Real Engine",
+          "headline": "This Wall Street Firm Just Placed a $725 Price Target on AMD Stock. Here's Why It's Wrong.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3151f4543b40bab666326b610c5b0a623ea3585fb2d42c9c96cbfe2a49ebd533",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=8233404795df35c77795bc065cf24ef4c5cc56ced4630e1064672123314539de",
+          "used_by_ai": false
         },
         {
-          "headline": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today\u2019s Market",
+          "headline": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4e29cad29ebc64824f43828c5dd6f71c34a817dcf4ca9ba71ab2acf66373ffc",
+          "url": "https://finnhub.io/api/news?id=bb696f03fa23aa6d9dfe58e46fa8e90d573ccc1c69c3028390c27477bdec501d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Will Advanced Micro (AMD) Beat Estimates Again in Its Next Earnings Report?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6dd017a5521dcde115088073e11640dbd6349c72cf19098c22f4a1855b6f6c19",
           "used_by_ai": false
         }
       ],
@@ -98,151 +180,145 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Losing crown",
-      "headline": "Top dow jones movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top dow jones movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Ford (F) Price Prediction: How Much a $2,500 Investment Could Be Worth by 2031",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=063cfb17e17d7d4c92b65192c515509ae981e2bf314a4ee62dc88e3d1e2d7183",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Alphabet Stock Dropped on Friday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d87f14046a36969e2b2550f192f2318803777a6796f3eb39d15cb02f61924b27",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can You Stomach A Real Micron Stock Crash?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d72a6b30be1745583491df2697f327d49e6a7854910d631912eae40dd3ebf0f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google\u2019s AI Budget Could Explode Even Higher as It Runs Out of Capacity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ea9ba7029cb9ce9bc1e272bc0bb64ae0b89b8852660a2325d4b545cca3496e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Is Losing Its Crown. Here\u2019s the Stock Taking Its Place.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fff971757e4c97e43e0bab66e2e34d326c4e75a2ad22d2c884a22f2970c8eed",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
       "confidence": 50,
-      "reason": "Mixed news",
-      "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+      "reason": "Antitrust settlement",
+      "headline": "Apple and DoJ discussing antitrust settlement - report",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b53343da15bd1b6651f2814f38f7a8d652455c7bf4f4fabc5fd72c02fdc62f02",
+      "url": "https://finnhub.io/api/news?id=b8723db71eb427354c4c28ce39124f78f5746242dd7c3ade44e87d862124c97d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+          "headline": "Apple and DoJ discussing antitrust settlement - report",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b53343da15bd1b6651f2814f38f7a8d652455c7bf4f4fabc5fd72c02fdc62f02",
+          "url": "https://finnhub.io/api/news?id=b8723db71eb427354c4c28ce39124f78f5746242dd7c3ade44e87d862124c97d",
           "used_by_ai": true
         },
         {
-          "headline": "Why Tesla Might Not Merge With SpaceX After All",
+          "headline": "Sector Update: Tech Stocks Mixed Friday Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3487872e2b7a9b91c13cb8ce46029fd709f19dfaee78be81e8c10f296a044028",
+          "url": "https://finnhub.io/api/news?id=c68263b553575f020511a4791751a427c9be2539394b60dc3415f6ae5de74a10",
           "used_by_ai": true
         },
         {
-          "headline": "Kevin O\u2019Leary Says Tesla Stock Doesn\u2019t Just Move With Earnings, It Moves With \u2018Elon\u2019s Tweets\u2019 \u2014 One Post Swings It 10%. \u2018Price You Pay For Growth\u2019",
+          "headline": "Apple in early settlement talks with US DOJ over antitrust case, Bloomberg News reports",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ccd0433840510a0dcd95e904ab8a3d47b104d0be6fed60f70841aa9f874695a",
+          "url": "https://finnhub.io/api/news?id=8312eed238d5c0d61c7e02e50c9ce8f13f40a89f9b04d1a073101b91e1ad9fe7",
           "used_by_ai": true
         },
         {
-          "headline": "The Number That Could Test Tesla Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15928a46447bc141925bb29686a28131a668e79549d77c549305ba03fc5a0112",
-          "used_by_ai": true
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=de08541083e863140f830218ccba6086caa27011c1ec38c5dc4b730cd52934a0",
+          "used_by_ai": false
         },
         {
-          "headline": "Mission aborted: Why Elon Musk canceled SpaceX's Starship launch",
+          "headline": "Update: US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d5e22f52cdc7c803b1cfb0af4f6cb1d5b83c57563c862e8f2cadc3685580a9b",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e31273a6c155022328bf63efa76772bccc81a97da2c473be7c5d8c4fa1a851d1",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "Positive mention",
-      "headline": "Bank of America Says Alphabet\u2019s Q2 Will Deliver. Here\u2019s The Price Target",
+      "reason": "AI infrastructure",
+      "headline": "Big Tech Is Spending Hundreds Of Billions On AI Infrastructure \u2014 IO Fund's Beth Kindig Says It's Time To Show The Payoff",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0558a2b652bc53f9c551420c77c0d6a16d0c0a0d6ee04ce617f3440a4bd9638e",
+      "url": "https://finnhub.io/api/news?id=b211e48416ab24a30325c415f1ed695147bd3a3f07feec8a2b0d417b607f8cb5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Bank of America Says Alphabet\u2019s Q2 Will Deliver. Here\u2019s The Price Target",
+          "headline": "Big Tech Is Spending Hundreds Of Billions On AI Infrastructure \u2014 IO Fund's Beth Kindig Says It's Time To Show The Payoff",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0558a2b652bc53f9c551420c77c0d6a16d0c0a0d6ee04ce617f3440a4bd9638e",
+          "url": "https://finnhub.io/api/news?id=b211e48416ab24a30325c415f1ed695147bd3a3f07feec8a2b0d417b607f8cb5",
           "used_by_ai": true
         },
         {
-          "headline": "Alphabet Drops 4%, But Analyst Believes There Is Massive Upside",
+          "headline": "Microsoft\u2019s Xbox Mistake Is a Preview of Its AI Bet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab89943e2db6481148e8b219d993a449de0bd03e5e83eaeefb6a33f5370290b0",
+          "url": "https://finnhub.io/api/news?id=5d1b0ecb39d0c9abac8c52488021c897fcb492675431752878df174878b2b07d",
           "used_by_ai": true
         },
         {
-          "headline": "Oracle is Falling Fast. Here\u2019s Why This Wall Street Firm Believes The Stock Will Triple in 12 Months",
+          "headline": "AMD: Jefferies eyes Anthropic deal as Advancing AI 2026 event nears",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf44a14cfa9753c2d2ba851256fe3e572864212383bbd7611f9dd105ea170bde",
+          "url": "https://finnhub.io/api/news?id=75b15961538886ef46da889ce31371639d6a874f9e155a0e6b550cb43b92d689",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+          "headline": "Top dow jones movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=cf957e631b08afbc352ac0c9645261668019b12720ed7857cae855b3ae4f2250",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
-        "CNBC": 1
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Robotaxi momentum",
+      "headline": "Tesla rides robotaxi momentum into earnings season",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c49661e391388b13a8bf8348df51bf94f22567ecbc3d5f081edcfd0a1bd2e84",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla rides robotaxi momentum into earnings season",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c49661e391388b13a8bf8348df51bf94f22567ecbc3d5f081edcfd0a1bd2e84",
+          "used_by_ai": true
+        },
+        {
+          "headline": "America isn't buying expensive electric trucks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=50fe5973d8822fb50327fcceb42296cead6e2f01a7593771a5b3d2d3147be697",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla (TSLA) Price Prediction: How Much a $10,000 Investment Could Be Worth by 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb8fcff8c27e2b52ff3a1fc71560e074d3ae9205adcfc7fccbc989eaff0767c2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Falls After Starship Launch Abort",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=351056a8a52636140023c1b9ccc3f774a9704cdd8e0a3b0e89428d226908fdcc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b53343da15bd1b6651f2814f38f7a8d652455c7bf4f4fabc5fd72c02fdc62f02",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 30,
-      "reason": "Market news",
+      "reason": "Market plunge",
       "headline": "SPYI Investors: Watch These 2 Macro Factors Before the Next Distribution",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dc6646e28e14b3fdaff43894e8f7f8bbb22af0391c056fc946d02d9e5a21b04b",
@@ -255,20 +331,26 @@
           "used_by_ai": true
         },
         {
+          "headline": "The Tech Shakeout: Market Extremes & Gavin Baker's Bold Call",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7dde19d0dcdeff2685da78dbfdbcd0bd336decadb904962036d7b2acafb1961f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Drops 4%, But Analyst Believes There Is Massive Upside",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab89943e2db6481148e8b219d993a449de0bd03e5e83eaeefb6a33f5370290b0",
+          "used_by_ai": true
+        },
+        {
           "headline": "The Megacap Growth ETF That\u2019s Been Beating the S&P 500 for a Decade Straight",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=90ec058ff1fec99e72203dfadc12a5b56cc011af2d34773bcc327b0a36833075",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq Leads Indexes Down; SpaceX Slides As Flight Canceled (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=43bdff8a716708433fb4dc9ca77c1f32465999080349e9d6bee352b6884763f2",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4
       }
     }
   ]
