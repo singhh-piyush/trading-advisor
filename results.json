@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T18:31:33Z",
+  "updated_at": "2026-07-18T20:03:36Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 10,
+  "count": 9,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Raised prices",
+      "reason": "Raises prices",
       "headline": "Apple raises prices on key subscription services",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b1708bad204c916ed1df997601a6126c8628f03994ca0bebc6ba765166480bb",
@@ -55,53 +55,6 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "12% rally predicted",
-      "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla face 3 major headwinds heading into earnings report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b25ff6960e1d55b24839cda3074dc98868b897c186c0e5764b4910127dc4380",
-          "used_by_ai": false
-        },
-        {
-          "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Google, Tesla, Intel To Headline Earnings Next Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=856676616f1aa74556899577c7f985b134cf726bf0bd06eec0612fd7745179ba",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
       }
     },
     {
@@ -151,57 +104,10 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Best Q2 deliveries",
-      "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla face 3 major headwinds heading into earnings report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b25ff6960e1d55b24839cda3074dc98868b897c186c0e5764b4910127dc4380",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
-          "used_by_ai": false
-        },
-        {
-          "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Google, Tesla, Intel To Headline Earnings Next Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=856676616f1aa74556899577c7f985b134cf726bf0bd06eec0612fd7745179ba",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "New Siri AI",
       "headline": "Gene Munster Says New Siri AI Makes It Feel 'Like Having a New Phone,' Ming-Chi Kuo Says Stock Rally Was Expected as Apple Stock Touches Record High",
       "source": "Yahoo",
@@ -247,17 +153,17 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Better buy than SpaceX",
-      "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+      "confidence": 70,
+      "reason": "12% rally predicted",
+      "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
+      "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+          "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
+          "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
           "used_by_ai": true
         },
         {
@@ -267,9 +173,9 @@
           "used_by_ai": false
         },
         {
-          "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
+          "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
+          "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
           "used_by_ai": false
         },
         {
@@ -291,16 +197,75 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Best Q2 deliveries",
+      "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla face 3 major headwinds heading into earnings report",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b25ff6960e1d55b24839cda3074dc98868b897c186c0e5764b4910127dc4380",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a67be0f52be83e25a9f8e99a6a3e635a1a5cb5d1ebc93424aa76d7ddb361e14",
+          "used_by_ai": false
+        },
+        {
+          "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Google, Tesla, Intel To Headline Earnings Next Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=856676616f1aa74556899577c7f985b134cf726bf0bd06eec0612fd7745179ba",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
       "confidence": 50,
-      "reason": "Space stocks",
-      "headline": "2 Space Stocks You Should Buy Before Piling Into SpaceX",
+      "reason": "SpaceX stock",
+      "headline": "3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56783cb09649941cd680d749ed0b7b66ce8b1beefa164aac86d63d4dd8a2df1c",
+      "url": "https://finnhub.io/api/news?id=f910ddae6890fb3065a08643770eaab30487e42558c3c9bf643af9bf9ce6eee7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f910ddae6890fb3065a08643770eaab30487e42558c3c9bf643af9bf9ce6eee7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Dividend ETF I'm Loading Up on Before 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a28ffa75ff079217326f80f4bf8ae08464caacbf46f12f6d4a0150fb207d3276",
+          "used_by_ai": true
+        },
         {
           "headline": "2 Space Stocks You Should Buy Before Piling Into SpaceX",
           "source": "Yahoo",
@@ -308,22 +273,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f910ddae6890fb3065a08643770eaab30487e42558c3c9bf643af9bf9ce6eee7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "1 Dividend ETF I'm Loading Up on Before 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a28ffa75ff079217326f80f4bf8ae08464caacbf46f12f6d4a0150fb207d3276",
-          "used_by_ai": false
-        },
-        {
           "headline": "Here's Why The Metals Company Stock Plunged 28.2% in the First Half of 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=372f55709649236fc306e3f465a1bf37c9286150aa7f7e77d757037cb91dbe05",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -335,12 +288,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI winners",
-      "headline": "This week's AI winners and losers",
+      "reason": "AI stock",
+      "headline": "AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14fc97be4b589d08aae0cad891298b3cd5af76652e5422bd81a943c342160633",
+      "url": "https://finnhub.io/api/news?id=593946d46655ca9eca9b19f733bd15a3cbe4da0615959d1458e2a7b76cf9e174",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=593946d46655ca9eca9b19f733bd15a3cbe4da0615959d1458e2a7b76cf9e174",
+          "used_by_ai": true
+        },
         {
           "headline": "This week's AI winners and losers",
           "source": "Yahoo",
@@ -348,28 +307,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=593946d46655ca9eca9b19f733bd15a3cbe4da0615959d1458e2a7b76cf9e174",
-          "used_by_ai": false
-        },
-        {
           "headline": "I Keep Buying Nvidia Because Bears Keep Shouting This False Narrative",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c29c9a9c0a33936523195136040400ea32b4c4810d240af75a064fd5b3be57b8",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "AMD: What I'm Watching Into The August 4 Earnings Print",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5e35addfeb8d55795153835a92616864bb1c06dd708bc901664d79062046beb9",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fbe34f0aa2f35bf1f7e128aba2404bc45a6893986609c8a8baa5cfa495ca1090",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -380,9 +333,9 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 40,
-      "reason": "AI capex question",
+      "reason": "AI capex",
       "headline": "The AI Capex Question Every QQQ Holder Should Be Asking Right Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5e006c302ce7df9632d2346d8042ef92cd33c3d30e20519babb68f2ebae04537",
@@ -398,13 +351,13 @@
           "headline": "Amazon\u2019s $25 Billion Bond Sale Created 3 More Reasons for Me to Keep Buying",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=02cb31ea4f8e7d04055803dc62e90d9c9cd6bbd34b18613bf382c86fbac07777",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Apple Avoided the AI CapEx Spending Trap \u2014 Now the Bill May Be Coming Due",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fea7306d88cbf4fcc26463f1abd156afc602766707d5bd9859212c17304fd00f",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -416,7 +369,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "ETF promises",
+      "reason": "ETF discussion",
       "headline": "There\u2019s an ETF That Promises You Can\u2019t Lose Money. What\u2019s the Catch?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=78d2962da4dfda084833bcdec57f3478f5f722baae86a963f3d1293332addca3",
@@ -432,19 +385,19 @@
           "headline": "4 Covered Call ETFs to Buy in 2026: Skip XYLD\u2019s 0.60% Fee for Cheaper Alternatives",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d890fa3fb6e71a15b87913b30783f713621d811f34e8d02852d409cfd47f913d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Buy Any Month, Always Hedged: The ETF Built for Investors Who Bail at Every Dip",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e4ed11b0c8b430d3ea95e1dca7a63f48baa686b7d326907682d99adaac0b9c9f",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=8fe77b1504407578ce8b5ed7d4c73977b80e90618e0b23b70f0790d61709c477",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
