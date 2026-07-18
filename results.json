@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T06:04:56Z",
+  "updated_at": "2026-07-18T08:19:51Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,57 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Chip production",
+      "headline": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb01a00ef7b23731c691050cc237d6570464b07f9def8cf9d5c858e58f01f67c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fb01a00ef7b23731c691050cc237d6570464b07f9def8cf9d5c858e58f01f67c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c12915b3361eaa7c44295b3b030efb071535e2f81ad0bee6ab4e7e49a03a70a9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "I Know That a Bear Market Is Coming Eventually. This Is Warren Buffett's Single Best Piece of Advice for Investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bd7647c4077bbd58c6eaceca297e4cccfd5bddac451d0cf76ddbcc708c99783b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Warren Buffett Is Disposing of His Berkshire Shares. Here's How.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a35c88dd8754aaccf239266cec09b4c2a7bc72d0ab729674cfb0289533642c5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15a8532ffc080b7df23756686405a0d94708d7c8ea04c3e94e68cc2dbb43cdf1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI model sales push",
+      "confidence": 50,
+      "reason": "AI models",
       "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
@@ -59,58 +105,11 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Analyst target reset",
-      "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Welcome To Trillionistan. Don't Get Comfortable",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ac38b3fe472923443220af27f904b19a6006f2a935fd1bb1f0ebac54427d756d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can \u2018The Odyssey\u2019 Beat the World Cup?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top analyst resets Apple stock price target ahead of earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb13d8bc7398881da4eab242e58413265f966fc19b6f1e7e82a2aa3266b1c17c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Earnings metrics",
+      "reason": "Elon Musk",
       "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
@@ -152,52 +151,6 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Tech earnings reshape",
-      "headline": "Why Sweetgreen Stock Surged Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b884352a218a2e3cc431d8b4c385f6e75f9105494e5949aed507be3cab8a06b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Sweetgreen Stock Surged Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b884352a218a2e3cc431d8b4c385f6e75f9105494e5949aed507be3cab8a06b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why StubHub Stock Plummeted by 13% This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4e2783110b2519c22b9ee93d5421e929d603aede673f89ea8bcf65abdc06624",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bitcoin Cleared $65,000 This Week. Ignore the Noise, This Is the 1 Factor That Investors Need to Watch.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c98b306ab0408f512d8162863c158d364028b7f66b0544806f916527657d3e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why ConocoPhillips Stock Flew Higher on Friday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ea830b486998c82764602c97ed9625febee276c3e2a02fb34fecfacd135aea4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
@@ -227,12 +180,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-          "used_by_ai": true
-        },
-        {
           "headline": "Long-Term Investors Should Listen Up",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ca0b84ed5a2ceae23992efe97ec560b1df56e45b0f526bf339862dab0e04ce64",
@@ -240,7 +187,54 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market wrap",
+      "headline": "A Pause And Some Jitters",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A Pause And Some Jitters",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Welcome To Trillionistan. Don't Get Comfortable",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ac38b3fe472923443220af27f904b19a6006f2a935fd1bb1f0ebac54427d756d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Can \u2018The Odyssey\u2019 Beat the World Cup?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     },
     {
