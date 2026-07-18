@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T03:55:01Z",
+  "updated_at": "2026-07-18T06:04:56Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,181 +8,143 @@
     "AMD",
     "SPY"
   ],
-  "count": 11,
+  "count": 6,
   "sample": false,
   "items": [
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI model sales push",
+      "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Adoption Without The Hype - Beyond The Infrastructure Boom",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b5cb2789bcd60c6257c3d68883002b287ddc46f14158282d6a849cef8d20c146",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c4955f803071db8cf91b53b49bbed4b00973457d2bd8613c7a725ba1d31b7d75",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Overtakes Nvidia",
-      "headline": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=679830d242b13baf6ecf56c5f43cbc66fd6bc979de8f914ced9e0191e1fb84e2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=679830d242b13baf6ecf56c5f43cbc66fd6bc979de8f914ced9e0191e1fb84e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Can \u2018The Odyssey\u2019 Beat the World Cup?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Top analyst resets Apple stock price target ahead of earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb13d8bc7398881da4eab242e58413265f966fc19b6f1e7e82a2aa3266b1c17c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses \u2014 NFLX, GE, META, AAPL, SPCX In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1753eee489edb9a9db642a22215e47a17f5c3bf0194d2b8d8d1bfc250488ab7a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Loses top spot",
-      "headline": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=679830d242b13baf6ecf56c5f43cbc66fd6bc979de8f914ced9e0191e1fb84e2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=679830d242b13baf6ecf56c5f43cbc66fd6bc979de8f914ced9e0191e1fb84e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Sweetgreen Stock Surged Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b884352a218a2e3cc431d8b4c385f6e75f9105494e5949aed507be3cab8a06b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why StubHub Stock Plummeted by 13% This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4e2783110b2519c22b9ee93d5421e929d603aede673f89ea8bcf65abdc06624",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bitcoin Cleared $65,000 This Week. Ignore the Noise, This Is the 1 Factor That Investors Need to Watch.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c98b306ab0408f512d8162863c158d364028b7f66b0544806f916527657d3e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why ConocoPhillips Stock Flew Higher on Friday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ea830b486998c82764602c97ed9625febee276c3e2a02fb34fecfacd135aea4",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
       "confidence": 50,
-      "reason": "Semiconductor rout",
-      "headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
+      "reason": "Analyst target reset",
+      "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a03786e6bf92049ecb265d9e9bfe662f01d4773cb72fb96cc8ec90a4d96b587",
+      "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a03786e6bf92049ecb265d9e9bfe662f01d4773cb72fb96cc8ec90a4d96b587",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbe34f0aa2f35bf1f7e128aba2404bc45a6893986609c8a8baa5cfa495ca1090",
-          "used_by_ai": false
-        },
-        {
-          "headline": "China\u2019s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d082ca6484806d1cdceb1be2b6a093b991b170ffcf200a6535d3fab673a043b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Long-Term Investors Should Listen Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca0b84ed5a2ceae23992efe97ec560b1df56e45b0f526bf339862dab0e04ce64",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Analyst resets target",
-      "headline": "Top analyst resets Apple stock price target ahead of earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb13d8bc7398881da4eab242e58413265f966fc19b6f1e7e82a2aa3266b1c17c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top analyst resets Apple stock price target ahead of earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb13d8bc7398881da4eab242e58413265f966fc19b6f1e7e82a2aa3266b1c17c",
-          "used_by_ai": true
-        },
         {
           "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Welcome To Trillionistan. Don't Get Comfortable",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ac38b3fe472923443220af27f904b19a6006f2a935fd1bb1f0ebac54427d756d",
+          "used_by_ai": true
         },
         {
           "headline": "Can \u2018The Odyssey\u2019 Beat the World Cup?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses \u2014 NFLX, GE, META, AAPL, SPCX In Focus",
+          "headline": "Top analyst resets Apple stock price target ahead of earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1753eee489edb9a9db642a22215e47a17f5c3bf0194d2b8d8d1bfc250488ab7a",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=cb13d8bc7398881da4eab242e58413265f966fc19b6f1e7e82a2aa3266b1c17c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Earnings metrics",
+      "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+          "used_by_ai": true
         },
         {
-          "headline": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
+          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=679830d242b13baf6ecf56c5f43cbc66fd6bc979de8f914ced9e0191e1fb84e2",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waymo wears out its welcome in major U.S. city as mayor responds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -192,9 +154,9 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Mentioned in various articles",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Tech earnings reshape",
       "headline": "Why Sweetgreen Stock Surged Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1b884352a218a2e3cc431d8b4c385f6e75f9105494e5949aed507be3cab8a06b",
@@ -223,190 +185,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6ea830b486998c82764602c97ed9625febee276c3e2a02fb34fecfacd135aea4",
           "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Earnings metrics",
-      "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Waymo wears out its welcome in major U.S. city as mayor responds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Yahoo Finance test drives Mercedes-Benz's new luxury EV, the CLA 250+",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=618dd9985fb0285582271d5c77e06da5df2d4529b8cdb751b36f35dfd9bdd7ed",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "AI infrastructure",
-      "headline": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
-          "used_by_ai": true
         },
         {
           "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4955f803071db8cf91b53b49bbed4b00973457d2bd8613c7a725ba1d31b7d75",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Did AI Just Cannibalize Microsoft\u2019s Greatest Narrative?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6b869efabcfb0620cf42a22cdd5c0446d8c0694f02f733691074d3b0a6af1a2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "US stocks sink this week, semiconductors walloped amid sell-off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5fa9601142a2573b7834619e7769b9c509757c13d784bf17048412e618517a7",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
-      "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
           "used_by_ai": true
-        },
-        {
-          "headline": "Waymo wears out its welcome in major U.S. city as mayor responds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Yahoo Finance test drives Mercedes-Benz's new luxury EV, the CLA 250+",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=618dd9985fb0285582271d5c77e06da5df2d4529b8cdb751b36f35dfd9bdd7ed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
-      "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4955f803071db8cf91b53b49bbed4b00973457d2bd8613c7a725ba1d31b7d75",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Did AI Just Cannibalize Microsoft\u2019s Greatest Narrative?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6b869efabcfb0620cf42a22cdd5c0446d8c0694f02f733691074d3b0a6af1a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US stocks sink this week, semiconductors walloped amid sell-off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5fa9601142a2573b7834619e7769b9c509757c13d784bf17048412e618517a7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -416,9 +200,9 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Semiconductor rout",
       "headline": "The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fbe34f0aa2f35bf1f7e128aba2404bc45a6893986609c8a8baa5cfa495ca1090",
@@ -437,6 +221,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a03786e6bf92049ecb265d9e9bfe662f01d4773cb72fb96cc8ec90a4d96b587",
+          "used_by_ai": true
+        },
+        {
           "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
@@ -447,12 +237,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ca0b84ed5a2ceae23992efe97ec560b1df56e45b0f526bf339862dab0e04ce64",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a03786e6bf92049ecb265d9e9bfe662f01d4773cb72fb96cc8ec90a4d96b587",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -463,8 +247,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Fees and volatility",
+      "confidence": 30,
+      "reason": "Market volatility",
       "headline": "If Volatility Stays Low, Here\u2019s What Happens to DIVO\u2019s Monthly Income",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=57d40fe7bb5c8aac6f79be0256a9f813474876b809b4a24f9b6e6987567d036e",
@@ -477,26 +261,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "SPY\u2019s 0.0945% Fee Could Cost You Thousands Over Two Decades Against Its Own Sister Fund",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88039f00b10944f6da017f684c4e71829549df453f97a6a68d60d94a18ae9800",
-          "used_by_ai": true
-        },
-        {
-          "headline": "FIW: Water Stocks Still Expensive Despite Weak Returns",
+          "headline": "A Long Way Still Ahead For The U.S.'S Disinflation Journey",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=29a683bd1bd1c20830a2bec7be22e52df3d22901c6bab1c5f61b4730465f813d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "You\u2019re Paying Twice for DIVO\u2019s Comfort: 0.56% Fees Plus Hidden Opportunity Costs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5186ed4393fef3f9c6fbccfdc8df0a016d18df2010caca13a9cce68166868887",
+          "url": "https://finnhub.io/api/news?id=2831b16780b24cc6f90a93b430e6af400d0fd5fd01eb2fea2ea304509460870b",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 1,
         "SeekingAlpha": 1
       }
     }
