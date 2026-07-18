@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T12:12:18Z",
+  "updated_at": "2026-07-18T13:56:38Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,38 +8,20 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
       "confidence": 80,
-      "reason": "CEO's lead in Japan",
-      "headline": "Warren Buffett's Top Rule for Dealing With a Stock Market Crash",
+      "reason": "Record Q2 deliveries",
+      "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff72a89b2c79aa954234a15fa22989135ce073a99d15649c16d2ca46b47bab24",
+      "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Warren Buffett's Top Rule for Dealing With a Stock Market Crash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff72a89b2c79aa954234a15fa22989135ce073a99d15649c16d2ca46b47bab24",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: SpaceX Stock Could Be Worth $5 Trillion or More If This 1 Thing Happens",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57520d180a6558b225b079fc09d9a919dff8e5f1e7139549359f87d49977199d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cacd388d69f70d2ee0afa16e82d1248f99b8eb99a7780ac2264404bc9bcba0d9",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
           "source": "Yahoo",
@@ -47,10 +29,110 @@
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Stock vs. Micron Stock: Buy One and Sell the Other, According to Certain Wall Street Analysts",
+          "headline": "Tesla Q2 Earnings Preview: The Numbers Will Beat, The Narrative May Not",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8dbc706c614626787bcaa832086c874aa96164dcfab5f2df1e6b735d4fe25411",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a9aef18dc478bcfde367b020d0f949cd2dba9aa475f8efba3841cff52bf7167",
+          "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Earnings preview",
+      "headline": "Tesla Q2 Earnings Preview: The Numbers Will Beat, The Narrative May Not",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8dbc706c614626787bcaa832086c874aa96164dcfab5f2df1e6b735d4fe25411",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Q2 Earnings Preview: The Numbers Will Beat, The Narrative May Not",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8dbc706c614626787bcaa832086c874aa96164dcfab5f2df1e6b735d4fe25411",
           "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Historical chip stock trend",
+      "headline": "History Says Buying Chip Stocks After a 20% Drawdown Has Usually Worked in This Cycle. Will It Work Again?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81198598bb83481b717791df01a36986587608426595d1eae4681df7086fead8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "History Says Buying Chip Stocks After a 20% Drawdown Has Usually Worked in This Cycle. Will It Work Again?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81198598bb83481b717791df01a36986587608426595d1eae4681df7086fead8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Dividend Stocks to Buy and Hold for the Next 5 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=780ac7fdf3a9c9ed78dcc7320c36a95944e383b60304554e278ad0d3434c1058",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Fed Chair Kevin Warsh, Welcome to Your No-Win Scenario, Courtesy of President Donald Trump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42759ffb7daf3162d65f8054213289838823ce3b768ec571ac70b940010ab967",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX's Unlucky Flight 13 Fails to Launch Starship. Can the Stock Survive Yet Another Delay?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3320ecba74d7a55caadd3ca0c75cf6407057677a143da92c778b3f3d94f7f159",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -58,92 +140,11 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Goldilocks economy",
-      "headline": "The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=833dcc3f369f729531dd890051b3bc0826299da2bfa5555c78851ec217387770",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=833dcc3f369f729531dd890051b3bc0826299da2bfa5555c78851ec217387770",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Strong Earnings And A Goldilocks Economy Backstop Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0070516899a7a7e36fd356e52f90921d4d993ca39074696b3d7089455fab5a3c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Commentary: Sloppy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a570fc35c296cca5d18789a564c94a81fd43d4db41bb887931f8c00af812ae9d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "Market wrap",
-      "headline": "A Pause And Some Jitters",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "A Pause And Some Jitters",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Welcome To Trillionistan. Don't Get Comfortable",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ac38b3fe472923443220af27f904b19a6006f2a935fd1bb1f0ebac54427d756d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can \u2018The Odyssey\u2019 Beat the World Cup?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI models",
+      "confidence": 50,
+      "reason": "AI model sales push",
       "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
@@ -159,25 +160,25 @@
           "headline": "AI Adoption Without The Hype - Beyond The Infrastructure Boom",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b5cb2789bcd60c6257c3d68883002b287ddc46f14158282d6a849cef8d20c146",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c4955f803071db8cf91b53b49bbed4b00973457d2bd8613c7a725ba1d31b7d75",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -186,42 +187,49 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Deliveries and earnings",
-      "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+      "confidence": 40,
+      "reason": "AI adoption",
+      "headline": "AI Adoption Without The Hype - Beyond The Infrastructure Boom",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b5cb2789bcd60c6257c3d68883002b287ddc46f14158282d6a849cef8d20c146",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+          "headline": "AI Adoption Without The Hype - Beyond The Infrastructure Boom",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b5cb2789bcd60c6257c3d68883002b287ddc46f14158282d6a849cef8d20c146",
           "used_by_ai": true
         },
         {
-          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
+          "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
+          "used_by_ai": false
         },
         {
-          "headline": "Waymo wears out its welcome in major U.S. city as mayor responds",
+          "headline": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
+          "used_by_ai": false
         },
         {
-          "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
+          "headline": "Nvidia Narrowly Holds Off Apple to Keep World\u2019s Most Valuable Company Title",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=b2adff5fca2e8a485e3ea702bed964726035b82c7a47e9e8cbb830762a11fc7e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c4955f803071db8cf91b53b49bbed4b00973457d2bd8613c7a725ba1d31b7d75",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
+        "SeekingAlpha": 1,
         "Yahoo": 4
       }
     },
@@ -229,25 +237,13 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 40,
       "reason": "Semiconductor rout",
-      "headline": "The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows",
+      "headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fbe34f0aa2f35bf1f7e128aba2404bc45a6893986609c8a8baa5cfa495ca1090",
+      "url": "https://finnhub.io/api/news?id=0a03786e6bf92049ecb265d9e9bfe662f01d4773cb72fb96cc8ec90a4d96b587",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbe34f0aa2f35bf1f7e128aba2404bc45a6893986609c8a8baa5cfa495ca1090",
-          "used_by_ai": true
-        },
-        {
-          "headline": "China\u2019s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d082ca6484806d1cdceb1be2b6a093b991b170ffcf200a6535d3fab673a043b",
-          "used_by_ai": true
-        },
         {
           "headline": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
           "source": "Yahoo",
@@ -255,20 +251,119 @@
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+          "headline": "The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=fbe34f0aa2f35bf1f7e128aba2404bc45a6893986609c8a8baa5cfa495ca1090",
+          "used_by_ai": false
+        },
+        {
+          "headline": "China\u2019s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d082ca6484806d1cdceb1be2b6a093b991b170ffcf200a6535d3fab673a043b",
+          "used_by_ai": false
         },
         {
           "headline": "Long-Term Investors Should Listen Up",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ca0b84ed5a2ceae23992efe97ec560b1df56e45b0f526bf339862dab0e04ce64",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market pause",
+      "headline": "A Pause And Some Jitters",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A Pause And Some Jitters",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Welcome To Trillionistan. Don't Get Comfortable",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ac38b3fe472923443220af27f904b19a6006f2a935fd1bb1f0ebac54427d756d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Can \u2018The Odyssey\u2019 Beat the World Cup?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Weekly indicators",
+      "headline": "Weekly Indicators: All Timeframes Positive Despite Increase In Oil Prices",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c283490d45a003f0345212b4813f22519548a8d972a60aed56724e847bd522cc",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Weekly Indicators: All Timeframes Positive Despite Increase In Oil Prices",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c283490d45a003f0345212b4813f22519548a8d972a60aed56724e847bd522cc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Capex Ex-Suppliers Trade: Earnings Season Is The Referee",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=811bb49528e2ffa255df1025a0fe4273d8ff7dc554b3578c06e6f62463afe5d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI Pullback: Bubble Pop Or Buy The Dip? I Say Neither",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9b333e9162648ca97098d576b30b3d5d450d24ede491e7e2a9799f342eb664df",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Amazing Chance To Double Down On The AI Market Panic",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a81cb7b8383da074cb68d345303af710af1818f9f3984fb097f2ff4282db953d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=833dcc3f369f729531dd890051b3bc0826299da2bfa5555c78851ec217387770",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 5
       }
     }
   ]
