@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T08:19:51Z",
+  "updated_at": "2026-07-18T09:56:10Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -105,52 +105,6 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Elon Musk",
-      "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Waymo wears out its welcome in major U.S. city as mayor responds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
@@ -195,7 +149,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market wrap",
+      "reason": "Market commentary",
       "headline": "A Pause And Some Jitters",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
@@ -238,32 +192,78 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Earnings and news",
+      "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Reacts to Jamie Dimon's \u2018Einstein\u2019 Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waymo wears out its welcome in major U.S. city as mayor responds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market volatility",
-      "headline": "If Volatility Stays Low, Here\u2019s What Happens to DIVO\u2019s Monthly Income",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57d40fe7bb5c8aac6f79be0256a9f813474876b809b4a24f9b6e6987567d036e",
+      "reason": "Market commentary",
+      "headline": "Weekly Commentary: Sloppy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a570fc35c296cca5d18789a564c94a81fd43d4db41bb887931f8c00af812ae9d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Weekly Commentary: Sloppy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a570fc35c296cca5d18789a564c94a81fd43d4db41bb887931f8c00af812ae9d",
+          "used_by_ai": true
+        },
         {
           "headline": "If Volatility Stays Low, Here\u2019s What Happens to DIVO\u2019s Monthly Income",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=57d40fe7bb5c8aac6f79be0256a9f813474876b809b4a24f9b6e6987567d036e",
           "used_by_ai": true
-        },
-        {
-          "headline": "A Long Way Still Ahead For The U.S.'S Disinflation Journey",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2831b16780b24cc6f90a93b430e6af400d0fd5fd01eb2fea2ea304509460870b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 1,
+        "Yahoo": 1
       }
     }
   ]
