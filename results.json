@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T14:55:17Z",
+  "updated_at": "2026-07-19T15:57:52Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 13,
+  "count": 25,
   "sample": false,
   "items": [
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 80,
       "reason": "Upgraded by HSBC",
       "headline": "5 big analyst AI moves: Apple upgraded as HSBC flags \u2019operational turning point\u2019",
       "source": "Yahoo",
@@ -58,10 +58,51 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Passed Nvidia",
+      "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "Bargain stock",
       "headline": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
       "source": "Yahoo",
@@ -101,6 +142,86 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Cut 4800 jobs",
+      "headline": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d334934a803daa1d34759a759db19f0fa331d2207d401f7111cfe5808ee6fe5e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d334934a803daa1d34759a759db19f0fa331d2207d401f7111cfe5808ee6fe5e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 High-Growth Dividend Stocks to Buy in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7756b2184fe8480d0ded46b376837b3b40ef0a48b58ef2e854c1ec613c136d49",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Million Bet For Saving the Company From Bankruptcy as He Revisits the Past",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6cddadd37ff78f147ded85aa5789f783b606ceb6dd088e275b89df6394db4ea4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "From a $38,000 Income to $84,000 Without Investing Another Dollar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fafc6aeb110fdd02064f73a91ea365091609ea30e4fb379d6dcb9508affe1c6d",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Liquidity storm",
+      "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Disinflation Meets Escalation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5e0a4ce95dbc58c5a23221974ab813850d5fa94e4d102c20f6eb0477aa149df1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Momentum Meltdown Catches Traders By Surprise",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d08df5ef3032c15ad95a84cb2b72b4867a090f28aa2aea59056fd424ec125952",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4
       }
     },
     {
@@ -200,99 +321,12 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Passed Nvidia in ETF",
-      "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+      "reason": "Dow Jones Futures",
+      "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
+      "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Job cuts and market value drop",
-      "headline": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d334934a803daa1d34759a759db19f0fa331d2207d401f7111cfe5808ee6fe5e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d334934a803daa1d34759a759db19f0fa331d2207d401f7111cfe5808ee6fe5e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 High-Growth Dividend Stocks to Buy in July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7756b2184fe8480d0ded46b376837b3b40ef0a48b58ef2e854c1ec613c136d49",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Million Bet For Saving the Company From Bankruptcy as He Revisits the Past",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6cddadd37ff78f147ded85aa5789f783b606ceb6dd088e275b89df6394db4ea4",
-          "used_by_ai": false
-        },
-        {
-          "headline": "From a $38,000 Income to $84,000 Without Investing Another Dollar",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fafc6aeb110fdd02064f73a91ea365091609ea30e4fb379d6dcb9508affe1c6d",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Earnings report",
-      "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
-          "used_by_ai": true
-        },
         {
           "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
           "source": "Yahoo",
@@ -300,46 +334,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15dfac5d2eaa7f8989ca12e6101b947882b834c38395aafc22e3aa3425f88d72",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77b436c9bb18abc3d190349190f14b630bb76728b95442d8b876702ee2da9406",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI story",
-      "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
-          "used_by_ai": true
-        },
-        {
           "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
@@ -350,10 +344,22 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
           "used_by_ai": false
+        },
+        {
+          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "SeekingAlpha": 1
       }
     },
@@ -361,8 +367,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "High-growth dividend stock",
+      "confidence": 60,
+      "reason": "High-growth dividend",
       "headline": "3 High-Growth Dividend Stocks to Buy in July",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7756b2184fe8480d0ded46b376837b3b40ef0a48b58ef2e854c1ec613c136d49",
@@ -398,43 +404,169 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Liquidity storm",
-      "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Big Tech earnings",
+      "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+          "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
           "used_by_ai": true
         },
         {
-          "headline": "Disinflation Meets Escalation",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5e0a4ce95dbc58c5a23221974ab813850d5fa94e4d102c20f6eb0477aa149df1",
+          "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
           "used_by_ai": false
         },
         {
-          "headline": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
+          "headline": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15dfac5d2eaa7f8989ca12e6101b947882b834c38395aafc22e3aa3425f88d72",
           "used_by_ai": false
         },
         {
-          "headline": "Momentum Meltdown Catches Traders By Surprise",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d08df5ef3032c15ad95a84cb2b72b4867a090f28aa2aea59056fd424ec125952",
+          "headline": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77b436c9bb18abc3d190349190f14b630bb76728b95442d8b876702ee2da9406",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Dow Jones Futures",
+      "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15dfac5d2eaa7f8989ca12e6101b947882b834c38395aafc22e3aa3425f88d72",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77b436c9bb18abc3d190349190f14b630bb76728b95442d8b876702ee2da9406",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Alibaba AI model",
+      "headline": "Alibaba\u2019s Qwen Unveils Preview of Flagship AI Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ff06c48d2689beba39fcd862376d15df6daab820e5951614d8043aacd3c91bd",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Alibaba\u2019s Qwen Unveils Preview of Flagship AI Model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ff06c48d2689beba39fcd862376d15df6daab820e5951614d8043aacd3c91bd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=59cc62c20a508cc78fe7dc7ee690b9a503b01102b587f9640caa1e3c5befc142",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Stock to Buy Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=473b058b53d9eb394c449bb1288bba0507bf76169e8269d3b41f5855303e61be",
+          "used_by_ai": false
+        },
+        {
+          "headline": "5 big analyst AI moves: Apple upgraded as HSBC flags \u2019operational turning point\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=433833a0c7f1bc614c0ee5e87dc9f9f1212f038cce9a6e6b2aae1aa3fa4baf53",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05e038cce6ef844d68163ae6628b565cfd4ddd6bd51bd8d586e47dbe577b6e52",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Income increase",
+      "headline": "From a $38,000 Income to $84,000 Without Investing Another Dollar",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fafc6aeb110fdd02064f73a91ea365091609ea30e4fb379d6dcb9508affe1c6d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "From a $38,000 Income to $84,000 Without Investing Another Dollar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fafc6aeb110fdd02064f73a91ea365091609ea30e4fb379d6dcb9508affe1c6d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d334934a803daa1d34759a759db19f0fa331d2207d401f7111cfe5808ee6fe5e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 High-Growth Dividend Stocks to Buy in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7756b2184fe8480d0ded46b376837b3b40ef0a48b58ef2e854c1ec613c136d49",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Million Bet For Saving the Company From Bankruptcy as He Revisits the Past",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6cddadd37ff78f147ded85aa5789f783b606ceb6dd088e275b89df6394db4ea4",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
@@ -442,7 +574,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Unstoppable growth stock",
+      "reason": "Unstoppable growth",
       "headline": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=77b436c9bb18abc3d190349190f14b630bb76728b95442d8b876702ee2da9406",
@@ -478,11 +610,51 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Earnings reports",
+      "headline": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15dfac5d2eaa7f8989ca12e6101b947882b834c38395aafc22e3aa3425f88d72",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15dfac5d2eaa7f8989ca12e6101b947882b834c38395aafc22e3aa3425f88d72",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77b436c9bb18abc3d190349190f14b630bb76728b95442d8b876702ee2da9406",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in various articles",
+      "reason": "TSMC vs ASML",
       "headline": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
@@ -498,25 +670,25 @@
           "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won\u2019t Implode",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -524,11 +696,277 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Warren Buffett goal",
+      "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won\u2019t Implode",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Pharma giants",
+      "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won\u2019t Implode",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Fed Chair Kevin Warsh",
+      "headline": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won\u2019t Implode",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Shipping ETF",
+      "headline": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won\u2019t Implode",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won\u2019t Implode",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI bubble",
+      "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI story",
+      "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in various articles",
+      "reason": "Disinflation",
       "headline": "Disinflation Meets Escalation",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5e0a4ce95dbc58c5a23221974ab813850d5fa94e4d102c20f6eb0477aa149df1",
@@ -541,11 +979,79 @@
           "used_by_ai": true
         },
         {
+          "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Momentum Meltdown Catches Traders By Surprise",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d08df5ef3032c15ad95a84cb2b72b4867a090f28aa2aea59056fd424ec125952",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI CapEx",
+      "headline": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
+      "on_watchlist": true,
+      "articles": [
+        {
           "headline": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
           "used_by_ai": true
         },
+        {
+          "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Disinflation Meets Escalation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5e0a4ce95dbc58c5a23221974ab813850d5fa94e4d102c20f6eb0477aa149df1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Momentum Meltdown Catches Traders By Surprise",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d08df5ef3032c15ad95a84cb2b72b4867a090f28aa2aea59056fd424ec125952",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Momentum meltdown",
+      "headline": "Momentum Meltdown Catches Traders By Surprise",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d08df5ef3032c15ad95a84cb2b72b4867a090f28aa2aea59056fd424ec125952",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Momentum Meltdown Catches Traders By Surprise",
           "source": "SeekingAlpha",
@@ -556,6 +1062,18 @@
           "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Disinflation Meets Escalation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5e0a4ce95dbc58c5a23221974ab813850d5fa94e4d102c20f6eb0477aa149df1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
           "used_by_ai": false
         }
       ],
