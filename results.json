@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:26:50Z",
+  "updated_at": "2026-07-19T19:42:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -58,47 +58,6 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Passes Nvidia",
-      "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88cf27004be5ce967ac6f8f90be0674ad538b8b286d4792b34c7765e76c5272f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
@@ -122,20 +81,55 @@
           "used_by_ai": true
         },
         {
+          "headline": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8bd227e6d0343eba3d115653de1746b42e3939c952218d6491a4447aa4681fe9",
+          "used_by_ai": true
+        },
+        {
           "headline": "Tracking Ron Baron's BAMCO Portfolio - Q1 2026 Update",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d9e8b333e8a462d43b0b84e3d28b24f605b4595d4a56df8c849f9112e8b797fe",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Passed Nvidia in ETF",
+      "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
+          "used_by_ai": true
         },
         {
-          "headline": "Big Tech earnings test tech's big rotation: What to watch this week",
+          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
+          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 2,
         "SeekingAlpha": 1
       }
     },
@@ -144,7 +138,7 @@
       "company": "Nvidia",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mixed news",
+      "reason": "Mentioned in various articles",
       "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6cf65152ab9df44a1f7ef875eaf50b47f334b5b0d9c759feb4a787f0de6dfba9",
@@ -184,7 +178,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 40,
-      "reason": "AI talent",
+      "reason": "Mentioned in positive articles",
       "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fed73052de862ab0a149e55fa3aebcb17bfaa2271b7277f4cc46b6feb725ff23",
@@ -216,9 +210,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 40,
-      "reason": "Market news",
+      "reason": "Market volatility",
       "headline": "Active Funds Can\u2019t Beat the S&P 500? This One Didn\u2019t Get the Memo",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8f2d847a5663e34a99dd74521ed37825d477b55d493874b8a969129339f75df1",
