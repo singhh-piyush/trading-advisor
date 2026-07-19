@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:52:01Z",
+  "updated_at": "2026-07-19T23:57:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,51 @@
   "sample": false,
   "items": [
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Earnings plunge predicted",
+      "headline": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf240d853bc9b17ad78e5549560a0d6764c4357fd2cf7e96c8ba6505745dbd98",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0f9e247df0a38e00157410065843753ea1f9d9dccefa641bc9eb23bf6cefaf6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Mercedes CLA 250+ is a more luxurious Model 3 \u2014 at a surprisingly good price: Review",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4936016459858fb3bd10492f0fd554276d3da4631f007c5c7464cd99a026a3ff",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI growth",
+      "reason": "AI growth potential",
       "headline": "Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's the Real Issue Behind the Stock's Decline.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9b81e0ef192098936a76d242f1265c40e027f74eea85d5de713de97626cd2ba4",
@@ -58,43 +98,44 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 55,
-      "reason": "Earnings concerns",
-      "headline": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Passed Nvidia in ETF",
+      "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf240d853bc9b17ad78e5549560a0d6764c4357fd2cf7e96c8ba6505745dbd98",
+      "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf240d853bc9b17ad78e5549560a0d6764c4357fd2cf7e96c8ba6505745dbd98",
+          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
+          "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
+          "used_by_ai": false
         },
         {
-          "headline": "The Mercedes CLA 250+ is a more luxurious Model 3 \u2014 at a surprisingly good price: Review",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4936016459858fb3bd10492f0fd554276d3da4631f007c5c7464cd99a026a3ff",
-          "used_by_ai": true
+          "headline": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8bd227e6d0343eba3d115653de1746b42e3939c952218d6491a4447aa4681fe9",
+          "used_by_ai": false
         },
         {
-          "headline": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+          "headline": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0f9e247df0a38e00157410065843753ea1f9d9dccefa641bc9eb23bf6cefaf6",
+          "url": "https://finnhub.io/api/news?id=8aadacb94d59443b40baf30216e25c7dab6dfa2c850d90e8a16449dd09e63eda",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -102,18 +143,12 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "All-time high",
-      "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+      "reason": "Hit all-time high",
+      "headline": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66",
+      "url": "https://finnhub.io/api/news?id=9b620eb1272a611f663ff7120ac487af26f4fc94cb6084eacf3d4617bbe7a3ef",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66",
-          "used_by_ai": true
-        },
         {
           "headline": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
           "source": "Yahoo",
@@ -133,6 +168,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66",
+          "used_by_ai": false
+        },
+        {
           "headline": "Warren Buffett Takes Credit for Berkshire\u2019s Alphabet Stock Buy: \u2018I Initiated It\u2019",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=308477a3a691723819d8660b03972b7bba7455ed3bce1d33e4fe11b8b47647fa",
@@ -144,69 +185,56 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Semiconductor growth",
-      "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Competitor unveiled",
+      "headline": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
+      "url": "https://finnhub.io/api/news?id=cf240d853bc9b17ad78e5549560a0d6764c4357fd2cf7e96c8ba6505745dbd98",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+          "headline": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
+          "url": "https://finnhub.io/api/news?id=cf240d853bc9b17ad78e5549560a0d6764c4357fd2cf7e96c8ba6505745dbd98",
           "used_by_ai": true
         },
         {
-          "headline": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8bd227e6d0343eba3d115653de1746b42e3939c952218d6491a4447aa4681fe9",
+          "headline": "The Mercedes CLA 250+ is a more luxurious Model 3 \u2014 at a surprisingly good price: Review",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4936016459858fb3bd10492f0fd554276d3da4631f007c5c7464cd99a026a3ff",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+          "headline": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=343e159402be46c9af9a9b92f80ec804f765e122838775b77590abc7ad5909d3",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e0f9e247df0a38e00157410065843753ea1f9d9dccefa641bc9eb23bf6cefaf6",
+          "used_by_ai": false
         },
         {
-          "headline": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+          "headline": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8aadacb94d59443b40baf30216e25c7dab6dfa2c850d90e8a16449dd09e63eda",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 45,
-      "reason": "Market volatility",
-      "headline": "Warren Buffett Looks for Value in Today\u2019s Market But Comes Up Empty: \u2018Everybody Is Preferring Gambling\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3cb1f1a43f33e39a1c2594c5a6ae015646ea8d7848ba05e58326d0dbafc2a26",
+      "confidence": 40,
+      "reason": "Liquidity storm predicted",
+      "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Warren Buffett Looks for Value in Today\u2019s Market But Comes Up Empty: \u2018Everybody Is Preferring Gambling\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3cb1f1a43f33e39a1c2594c5a6ae015646ea8d7848ba05e58326d0dbafc2a26",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Active Funds Can\u2019t Beat the S&P 500? This One Didn\u2019t Get the Memo",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f2d847a5663e34a99dd74521ed37825d477b55d493874b8a969129339f75df1",
-          "used_by_ai": true
-        },
         {
           "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
           "source": "SeekingAlpha",
@@ -214,61 +242,33 @@
           "used_by_ai": true
         },
         {
+          "headline": "Warren Buffett Looks for Value in Today\u2019s Market But Comes Up Empty: \u2018Everybody Is Preferring Gambling\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3cb1f1a43f33e39a1c2594c5a6ae015646ea8d7848ba05e58326d0dbafc2a26",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Active Funds Can\u2019t Beat the S&P 500? This One Didn\u2019t Get the Memo",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f2d847a5663e34a99dd74521ed37825d477b55d493874b8a969129339f75df1",
+          "used_by_ai": false
+        },
+        {
           "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Disinflation Meets Escalation",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5e0a4ce95dbc58c5a23221974ab813850d5fa94e4d102c20f6eb0477aa149df1",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI potential",
-      "headline": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=048fb0464ab5411597521963e065f8144dfc962b87340b753459fa815f43aa9c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=048fb0464ab5411597521963e065f8144dfc962b87340b753459fa815f43aa9c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fed73052de862ab0a149e55fa3aebcb17bfaa2271b7277f4cc46b6feb725ff23",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can Nebius Group Really 10X by 2030? The Math Says Yes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0bbf8d1172de753afcd15360c41f0cbbd3fdee7cfba2eaf416c664f891737b03",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Take a $15,000 Income Cut Today. Gain a $55,000 Raise Tomorrow.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b5d83bdc5c3a12484fdd4a9e02371636682f2c233835bf602bbe839ef3d28dd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
