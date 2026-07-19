@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T04:47:23Z",
+  "updated_at": "2026-07-19T07:26:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Raises prices on key services",
+      "reason": "Raises prices",
       "headline": "Apple raises prices on key subscription services",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b1708bad204c916ed1df997601a6126c8628f03994ca0bebc6ba765166480bb",
@@ -58,56 +58,10 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Near all-time high",
-      "headline": "The Chip Index Just Fell Into a Bear Market. Apple Is Sitting Near an All-Time High Anyway.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a303e7743d4eebb2ca0af5cbf52f1bdda4d1716befcd671686945dee5d62d7f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Chip Index Just Fell Into a Bear Market. Apple Is Sitting Near an All-Time High Anyway.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a303e7743d4eebb2ca0af5cbf52f1bdda4d1716befcd671686945dee5d62d7f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gene Munster Says New Siri AI Makes It Feel 'Like Having a New Phone,' Ming-Chi Kuo Says Stock Rally Was Expected as Apple Stock Touches Record High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dd544d081d831642701ade20c701bb3b02f9db23defc414902decff0c40a0536",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Buy, Sell, or Hold: Ken Griffin\u2019s 3 Mega-Cap Picks at Current Valuations",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2f6d23976f813566f63568d04c84fb387b8cb4cfecc96d4262484e230976bc6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple raises prices on key subscription services",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b1708bad204c916ed1df997601a6126c8628f03994ca0bebc6ba765166480bb",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The S&P 500 Is Becoming a Tech Index in Disguise \u2014 But That May Not Be the Risk Investors Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=726839ce65f26b461dc96c0721b8dd99b093b790adf2aea095efe786d190fed4",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "Improved auto business",
       "headline": "TSLY Investors Are Missing Tesla\u2019s Rally: How Option Income Strategy Costs You 30% in Upside",
       "source": "Yahoo",
@@ -150,57 +104,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Chip stocks crashed",
-      "headline": "Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's What Drove It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8976480c53bb61b7eeb24b4f38fbbc47dd07d7d311904e555cb6fca59ea82fd2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's What Drove It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8976480c53bb61b7eeb24b4f38fbbc47dd07d7d311904e555cb6fca59ea82fd2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe55413b6fd2b9f2645fae11b9a07cc361af2d7338273bc961214cdc62f890a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Stock Just Quietly Fell to $124 a Share -- and It's Still Not a Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd698b4ccde14cc2ac45be7161b4ff8a3728ca36034646e49795598a12a1491c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "South Korean stocks emerge as key gauge for global AI sentiment",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2207a839f18e2f1d8c29574ed6913618a919478bea6412439279d398db199ea3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The White House Is Renewing Its Push for a Strategic Bitcoin Reserve. Here's What That Could Mean for Bitcoin.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee1afea34199198a269cc5c9df7aa039ae9535be807a0578fc2e564bd262b308",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Fresh AI pressure",
+      "confidence": 60,
+      "reason": "AI pressure",
       "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
@@ -246,7 +154,7 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 50,
       "reason": "Core story intact",
       "headline": "Bank of America sends strong verdict on Microsoft stock",
       "source": "Yahoo",
@@ -274,6 +182,52 @@
       ],
       "source_breakdown": {
         "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "No clear impact",
+      "headline": "Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1210ceeb432d7dcb5bd45545c58960e7bffe682015768903db911222cf00d2ff",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1210ceeb432d7dcb5bd45545c58960e7bffe682015768903db911222cf00d2ff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett Donated $6 Billion in Berkshire Hathaway Shares Recently -- and Cut the Gates Foundation Off for the First Time in 20 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b35b3b283210334825dfff0c6b43a2ff793c710f00329d9a317808b993a0e7f9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54483fa9db9c2acb61ac883c71c849d96a5834c2b9f7ef8c213ced72e04c4ebe",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet's Stock Is a Must Buy Before July 22",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ed319ba3f182bb4b1a53cbb85202b812802ebd0d23f08bc266c1f6c8d6b46ba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's What Drove It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8976480c53bb61b7eeb24b4f38fbbc47dd07d7d311904e555cb6fca59ea82fd2",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
