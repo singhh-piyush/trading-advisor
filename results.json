@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:42:04Z",
+  "updated_at": "2026-07-19T20:48:19Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,49 +8,89 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI growth potential",
+      "headline": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f071a8b766f102045fad76398e7eedbe8f3b6fdd9c811577be12e60b4de9ce2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f071a8b766f102045fad76398e7eedbe8f3b6fdd9c811577be12e60b4de9ce2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Analysts Project the Oklo Stock Price Will Reach $87 in 2027 -- Is the Risk-to-Reward Scenario Worth It?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec70e86b7b3468d8808698398beec563ec41d2c5a2cfaea6f8768dcdb0e39d55",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia\u2019s latest Rubin deal points to a bigger growth market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=717e7bc14ace2f287253a0a0acb49eca9970d8878d09f77b4a94d1947128c34e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=077afc5ab31d33f86db07562b266c4615f8821a400177f4ad4be0e9b0de62746",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Hits all-time high",
-      "headline": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+      "confidence": 60,
+      "reason": "Buy signal",
+      "headline": "Is Apple Still a Buy at Its All-Time High?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a114f7c35c04f5c6c5c55398e3bba616faac3f19fa5c71293e21ad551c922d28",
+      "url": "https://finnhub.io/api/news?id=a8ddb1801359f3111a555bf33d00a4280de4a60f06927d738f7596794f694a57",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+          "headline": "Is Apple Still a Buy at Its All-Time High?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a114f7c35c04f5c6c5c55398e3bba616faac3f19fa5c71293e21ad551c922d28",
+          "url": "https://finnhub.io/api/news?id=a8ddb1801359f3111a555bf33d00a4280de4a60f06927d738f7596794f694a57",
           "used_by_ai": true
         },
         {
-          "headline": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
+          "headline": "68% of Greg Abel's Berkshire Hathaway Portfolio Is Invested in Just 5 Stocks. Here's My Favorite of the Bunch.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=048fb0464ab5411597521963e065f8144dfc962b87340b753459fa815f43aa9c",
+          "url": "https://finnhub.io/api/news?id=2d63faf3f2f2fae08bb43cf0597e725076b225d57301a30042aa722664210cb7",
           "used_by_ai": true
         },
         {
-          "headline": "Think QQQ Is Concentrated? This Nasdaq ETF Bets Even Harder on Big Tech (And It\u2019s Winning)",
+          "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51febda3deb24623f734a2ea5f7fdab99c098dc5a33f3fcbbe60361bb9b3cb87",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Worried Investors Should Buy Apple Over Amazon for the Rest of 2026",
+          "headline": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bfd37040504192c60e1823a730d35c4af4f9fd37354d16d39155c6cc51e06bf6",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=9b620eb1272a611f663ff7120ac487af26f4fc94cb6084eacf3d4617bbe7a3ef",
+          "used_by_ai": false
         },
         {
-          "headline": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
+          "headline": "Warren Buffett Takes Credit for Berkshire\u2019s Alphabet Stock Buy: \u2018I Initiated It\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=59cc62c20a508cc78fe7dc7ee690b9a503b01102b587f9640caa1e3c5befc142",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=308477a3a691723819d8660b03972b7bba7455ed3bce1d33e4fe11b8b47647fa",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -61,8 +101,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Earnings concerns",
+      "confidence": 50,
+      "reason": "Earnings uncertainty",
       "headline": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341",
@@ -75,35 +115,35 @@
           "used_by_ai": true
         },
         {
+          "headline": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0f9e247df0a38e00157410065843753ea1f9d9dccefa641bc9eb23bf6cefaf6",
+          "used_by_ai": false
+        },
+        {
           "headline": "The Mercedes CLA 250+ is a more luxurious Model 3 \u2014 at a surprisingly good price: Review",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4936016459858fb3bd10492f0fd554276d3da4631f007c5c7464cd99a026a3ff",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=8bd227e6d0343eba3d115653de1746b42e3939c952218d6491a4447aa4681fe9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tracking Ron Baron's BAMCO Portfolio - Q1 2026 Update",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d9e8b333e8a462d43b0b84e3d28b24f605b4595d4a56df8c849f9112e8b797fe",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Passed Nvidia in ETF",
+      "confidence": 50,
+      "reason": "Semiconductor growth",
       "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
@@ -134,96 +174,16 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in various articles",
-      "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cf65152ab9df44a1f7ef875eaf50b47f334b5b0d9c759feb4a787f0de6dfba9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6cf65152ab9df44a1f7ef875eaf50b47f334b5b0d9c759feb4a787f0de6dfba9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Man Who Survived 47 Days on a Raft Has a Lesson for Every Investor",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b27da4c49c641fcb42aaa3bc17baffd1c78d63b6aacc250e4135bcd712561869",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oracle Just Hit a Fresh 52-Week Low and Had Its Credit Cut Toward Junk. Has the AI-Capex Panic Overshot?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=868679b71c248572c8b429c64ac3c01020340aba3faa69927cfd8002fb7f81ca",
-          "used_by_ai": true
-        },
-        {
-          "headline": "PayPal: Is Being Bought Out What's Best for the Company Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9580f805964bea9d872763042e40357bff0278573cb2d2a1bd25f17a66196945",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Mentioned in positive articles",
-      "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fed73052de862ab0a149e55fa3aebcb17bfaa2271b7277f4cc46b6feb725ff23",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fed73052de862ab0a149e55fa3aebcb17bfaa2271b7277f4cc46b6feb725ff23",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Can Nebius Group Really 10X by 2030? The Math Says Yes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0bbf8d1172de753afcd15360c41f0cbbd3fdee7cfba2eaf416c664f891737b03",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Take a $15,000 Income Cut Today. Gain a $55,000 Raise Tomorrow.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b5d83bdc5c3a12484fdd4a9e02371636682f2c233835bf602bbe839ef3d28dd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
       "confidence": 40,
       "reason": "Market volatility",
-      "headline": "Active Funds Can\u2019t Beat the S&P 500? This One Didn\u2019t Get the Memo",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f2d847a5663e34a99dd74521ed37825d477b55d493874b8a969129339f75df1",
+      "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Active Funds Can\u2019t Beat the S&P 500? This One Didn\u2019t Get the Memo",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f2d847a5663e34a99dd74521ed37825d477b55d493874b8a969129339f75df1",
-          "used_by_ai": true
-        },
         {
           "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
           "source": "SeekingAlpha",
@@ -241,11 +201,17 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=9ac727544da900637c33474cbb4cbc64221ad95573af168559d99dd514ecbd3d",
           "used_by_ai": true
+        },
+        {
+          "headline": "Active Funds Can\u2019t Beat the S&P 500? This One Didn\u2019t Get the Memo",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f2d847a5663e34a99dd74521ed37825d477b55d493874b8a969129339f75df1",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
+        "SeekingAlpha": 3,
+        "Yahoo": 1
       }
     }
   ]
