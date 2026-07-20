@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T20:21:32Z",
+  "updated_at": "2026-07-20T21:42:42Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,201 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Tech stocks rise",
+      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f0d8ba30fc4786074e13851ffee45f997b44f959d9d000918dab8d04af09776",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f0d8ba30fc4786074e13851ffee45f997b44f959d9d000918dab8d04af09776",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0d5e5d5fdc6ad52b1255e413788ffe21f399d30d189a7bb0965dd22a18ea0eb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy ServiceNow (NOW) Before Earnings?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=445d818f1fd58777ee4351b5680c635f4151fa65881a45d35fe98ed56d9fb8e5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c840e055f0c00ff7c6fe18e90bfe2aaa58683153537fbfa5c105b51c023c996d",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "Set to beat Q3 estimates",
+      "headline": "Apple set to beat Q3 estimates as BofA sees margin dip as transitory",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e86efd636d2fbb2be11d5295c051712b01303e67320262ca2d1eae04aca49d3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple set to beat Q3 estimates as BofA sees margin dip as transitory",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e86efd636d2fbb2be11d5295c051712b01303e67320262ca2d1eae04aca49d3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Apple Stock Dropped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stay informed with the top movers within the dow jones index on Monday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=02b2e30e4b5a8015da142e1b9a1f892637cc927d311f40cc472a5668f9bca33d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9f661dd3a06a985d9b6362f4104376d48d31e98bc0691cd4a3efbb893e8f0f94",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=97165a82ca95feb1c53dbec1eda0684a8b6188b7b4c7cd1e545dbc76f22325e6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Earnings event upcoming",
+      "headline": "Tesla Is Still Down 17% in 2026. Can Wednesday\u2019s Earnings Event Get TSLA Stock Back on Track?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fced8fa8bf1cb613862291a1ea483cf31abd24359c8c42d68b61b88bb760717",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Is Still Down 17% in 2026. Can Wednesday\u2019s Earnings Event Get TSLA Stock Back on Track?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8fced8fa8bf1cb613862291a1ea483cf31abd24359c8c42d68b61b88bb760717",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Equities Mostly Rise Intraday as Chip Stocks Advance",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7327f2afeccaa6aa1e59f4443b325280f7a6bd70ba19878af0d167cd2d7397f5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Drops 300 Points, S&P 500 Reverses Gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5be7e52ff36e802e4b16769c45b34199124e6216196fea17983481f86cbb7848",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tech Faces a Moment of Truth as Earnings Test the Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c9a9ee2f24e9d047e3a29bf5ccacc8df05656cb3edb130fd5646a558c6189e07",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 45,
+      "reason": "Hyperscaler deals drive growth",
+      "headline": "AMD: Hyperscaler Deals Drive Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b7ba89e5eebe5a834c40e26877c06215e8ff56953bbb1038c25e27ecf102b93",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD: Hyperscaler Deals Drive Growth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1b7ba89e5eebe5a834c40e26877c06215e8ff56953bbb1038c25e27ecf102b93",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What's going on in today's session: S&P500 movers",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=54504543d9cc1fb5adba49232f5960d9335a1bf8917c13ef5acf2c6559bc0862",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 1,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Earnings to spotlight Azure growth",
+      "headline": "Microsoft earnings to spotlight Azure growth, AI spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09eab415a77f30dffe43fd2717b1801ae94a546af236e946973c6d4ce97af7b2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft earnings to spotlight Azure growth, AI spending",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=09eab415a77f30dffe43fd2717b1801ae94a546af236e946973c6d4ce97af7b2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=150d70d86245da98e3720ced9f7a8a3fa3baaf008c2f8e592ea99b523acdc6a4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Claude AI Says Zeta Global (ZETA) Is a Better Buy Than Microsoft (MSFT)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58dd28c58bdf69dfc00f8231061f34f81fffa3d6f64622e96c36bde388520e0c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "ETF beating S&P",
+      "confidence": 30,
+      "reason": "ETF is beating the S&P",
       "headline": "Tom Lee\u2019s \u2018Granny Shots\u2019 ETF Is Beating the S&P Again, and He\u2019s Calling for 8,000",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fae30c25cbaa05051118348b025eb6c4e14c24e10c5613cf8adbf79c2b719e27",
@@ -32,227 +222,31 @@
           "headline": "How Much CVS Stock Are You Really Betting On?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cee1f0ffc47f5fe9ae7df305cd526cd47c23b2dff66f34a00cdffd2c1097c321",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "The Russell 2000 Is Outpacing the S&P 500 in 2026. Is It Too Late to Buy Small-Cap ETFs?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a8c7de7a082412f0b7bfa14b9ffab227bf556a3193b090ddceb85e4b51c111b7",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Spike In Margin Debt And Leverage Increases Market Risk",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=366d297b7fc053e26c88d6eb752ca74931c2e29a7c0dad49a772203980298770",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
-          "headline": "China's AI Boom: The Market Got It Wrong",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7c656404ba06bcd3dd0429157ab07c1e562c982a37d591105b11d21d996c3b5e",
-          "used_by_ai": true
+          "headline": "President Trump Signs Executive Order To Make It Harder For Defense Contractors To Obtain Waivers For Banned Foreign Critical Minerals And Materials",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=2b5c4a0bd2d59ceaa22e9a842075043b1e5bb38d7db392e856803c69dc16be3f",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Tech stocks rise",
-      "headline": "Should You Buy ServiceNow (NOW) Before Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=445d818f1fd58777ee4351b5680c635f4151fa65881a45d35fe98ed56d9fb8e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Should You Buy ServiceNow (NOW) Before Earnings?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=445d818f1fd58777ee4351b5680c635f4151fa65881a45d35fe98ed56d9fb8e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c840e055f0c00ff7c6fe18e90bfe2aaa58683153537fbfa5c105b51c023c996d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f0d8ba30fc4786074e13851ffee45f997b44f959d9d000918dab8d04af09776",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0d5e5d5fdc6ad52b1255e413788ffe21f399d30d189a7bb0965dd22a18ea0eb",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Beating Q3 estimates",
-      "headline": "Why Apple Stock Dropped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Apple Stock Dropped Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple set to beat Q3 estimates as BofA sees margin dip as transitory",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e86efd636d2fbb2be11d5295c051712b01303e67320262ca2d1eae04aca49d3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stay informed with the top movers within the dow jones index on Monday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=02b2e30e4b5a8015da142e1b9a1f892637cc927d311f40cc472a5668f9bca33d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9f661dd3a06a985d9b6362f4104376d48d31e98bc0691cd4a3efbb893e8f0f94",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=97165a82ca95feb1c53dbec1eda0684a8b6188b7b4c7cd1e545dbc76f22325e6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 2
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI capex concerns",
-      "headline": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=150d70d86245da98e3720ced9f7a8a3fa3baaf008c2f8e592ea99b523acdc6a4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=150d70d86245da98e3720ced9f7a8a3fa3baaf008c2f8e592ea99b523acdc6a4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Claude AI Says Zeta Global (ZETA) Is a Better Buy Than Microsoft (MSFT)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58dd28c58bdf69dfc00f8231061f34f81fffa3d6f64622e96c36bde388520e0c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft earnings to spotlight Azure growth, AI spending",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09eab415a77f30dffe43fd2717b1801ae94a546af236e946973c6d4ce97af7b2",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Earnings event",
-      "headline": "Tesla Is Still Down 17% in 2026. Can Wednesday\u2019s Earnings Event Get TSLA Stock Back on Track?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fced8fa8bf1cb613862291a1ea483cf31abd24359c8c42d68b61b88bb760717",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Is Still Down 17% in 2026. Can Wednesday\u2019s Earnings Event Get TSLA Stock Back on Track?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8fced8fa8bf1cb613862291a1ea483cf31abd24359c8c42d68b61b88bb760717",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Drops 300 Points, S&P 500 Reverses Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be7e52ff36e802e4b16769c45b34199124e6216196fea17983481f86cbb7848",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tech Faces a Moment of Truth as Earnings Test the Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c9a9ee2f24e9d047e3a29bf5ccacc8df05656cb3edb130fd5646a558c6189e07",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Equities Mostly Rise Intraday as Chip Stocks Advance",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7327f2afeccaa6aa1e59f4443b325280f7a6bd70ba19878af0d167cd2d7397f5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "CNBC": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Hyperscaler deals",
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=54504543d9cc1fb5adba49232f5960d9335a1bf8917c13ef5acf2c6559bc0862",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "What's going on in today's session: S&P500 movers",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=54504543d9cc1fb5adba49232f5960d9335a1bf8917c13ef5acf2c6559bc0862",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD: Hyperscaler Deals Drive Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b7ba89e5eebe5a834c40e26877c06215e8ff56953bbb1038c25e27ecf102b93",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 1
+        "SeekingAlpha": 1,
+        "Benzinga": 1
       }
     }
   ]
