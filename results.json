@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:55:20Z",
+  "updated_at": "2026-07-20T18:52:30Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,49 +8,89 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Earnings preview",
-      "headline": "Tesla earnings preview: Wall Street awaits Q2 results",
+      "confidence": 80,
+      "reason": "Mentioned as winner",
+      "headline": "Kimi K3 Hit a GPU Wall. Why Nvidia and Microsoft May Be the Real Winners",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ba7c4131d6e2c87c07d0d8028f751764ad657518d452fbee770b0caa49d03127",
+      "url": "https://finnhub.io/api/news?id=37be31fe654008198f51ba38ca13a93b7081d5a5ef9b47c3da80c03e183a439b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla earnings preview: Wall Street awaits Q2 results",
+          "headline": "Kimi K3 Hit a GPU Wall. Why Nvidia and Microsoft May Be the Real Winners",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba7c4131d6e2c87c07d0d8028f751764ad657518d452fbee770b0caa49d03127",
+          "url": "https://finnhub.io/api/news?id=37be31fe654008198f51ba38ca13a93b7081d5a5ef9b47c3da80c03e183a439b",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla Stock Rises After 20% Berlin Factory Production Boost Plan",
+          "headline": "Why Did SpaceX Stock Drop Again on Monday?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=643cc408d076340fe25c13c921596523f131f7a2201d553f3b052e90efb25e4c",
+          "url": "https://finnhub.io/api/news?id=489bfe396c88932c589ac06f092a88ef88e050d73fc1f0ab0760c564dc0c5e97",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood Is Buying This Up-and-Coming Biotech Stock. Should You Follow Her Lead?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f8ba76a17a12e798bbca42af3715990db43d2489b0985f64428257f1d13de97",
+          "used_by_ai": false
+        },
+        {
+          "headline": "If Micron\u2019s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8f5bb912d2b0b35eeb82d91dd05940f1d5c9d72c370b3180914d6b7511346463",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Stock rises",
+      "headline": "Why AMD (AMD) Stock Is Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30b565d265ea0ddc1a613f0d1808faf506e9b21029182d1e3560949a6f685eaa",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why AMD (AMD) Stock Is Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=30b565d265ea0ddc1a613f0d1808faf506e9b21029182d1e3560949a6f685eaa",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla at $380: Wall Street Says It\u2019s a Buy But Here\u2019s 3 Strong Reasons to Sell",
+          "headline": "AMD stock rises on price target bumps, Microsoft deal",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dac1669ce75a27a2333cf2507ebd774de5f15e75ac1b35c8a03aa5fc379ef6f7",
+          "url": "https://finnhub.io/api/news?id=05ce2fbcaa84ed5351876816beee18e6563f3ccbb0d2a1b697b43e1dfee36d42",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla earnings review: 2 key things to watch",
+          "headline": "Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47f0a515b4aee42e9341f49d71c108b427ca806669347e859621001a47e0a48a",
+          "url": "https://finnhub.io/api/news?id=b54b4cc9f3d4dc3398f2aba7e736273ca81a6c5940ef561541490aa620670704",
           "used_by_ai": true
         },
         {
-          "headline": "Week ahead: Wall Street gears up for volatility as Big Tech earnings kick into high gear",
+          "headline": "Price Prediction: Will Nvidia Hit $300 This Year?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a0c9cdc7347cf4f089f87cb71009406c597f7cc3ce3edf6c054e79446110d73",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=cb5448c6b2a24453da7439e5f26d8ced7fbdca258e55cc1e03212a05396f8818",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Micron, Lumentum, Sweetgreen, AMC, Domino\u2019s, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=140a1da32bdc20b92d270ee07a338636fd115349132eaaddf1ab945f2865233b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -58,32 +98,147 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 65,
-      "reason": "AI partnership",
-      "headline": "Hut 8 Jumps 10% on $9.8B AI Data Center Lease; MARA, Riot Platforms Rally in Sympathy",
+      "confidence": 70,
+      "reason": "Mentioned in biotech context",
+      "headline": "Cathie Wood Is Buying This Up-and-Coming Biotech Stock. Should You Follow Her Lead?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c1ce5764a2bc83129992d0bf50ae381e4ef0bc631836fbe777b7ba0b3ed16eb",
+      "url": "https://finnhub.io/api/news?id=4f8ba76a17a12e798bbca42af3715990db43d2489b0985f64428257f1d13de97",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Hut 8 Jumps 10% on $9.8B AI Data Center Lease; MARA, Riot Platforms Rally in Sympathy",
+          "headline": "Cathie Wood Is Buying This Up-and-Coming Biotech Stock. Should You Follow Her Lead?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c1ce5764a2bc83129992d0bf50ae381e4ef0bc631836fbe777b7ba0b3ed16eb",
+          "url": "https://finnhub.io/api/news?id=4f8ba76a17a12e798bbca42af3715990db43d2489b0985f64428257f1d13de97",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Rallies On Expanded AI Partnership With Microsoft",
+          "headline": "If Micron\u2019s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3cf4dcf15ff45a0c27f3a89d6ad62c1f2ce4afd6ac794df2575d701f00dcee5",
+          "url": "https://finnhub.io/api/news?id=8f5bb912d2b0b35eeb82d91dd05940f1d5c9d72c370b3180914d6b7511346463",
           "used_by_ai": true
         },
         {
-          "headline": "Micron, AMD, Alibaba, AMC, Domino\u2019s, and More Stocks That Explain Today\u2019s Market",
+          "headline": "Why Did SpaceX Stock Drop Again on Monday?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=97cafec63163f86a91dfd38e95ae4101994517c4061d4f6ed6f67783bc96412c",
+          "url": "https://finnhub.io/api/news?id=489bfe396c88932c589ac06f092a88ef88e050d73fc1f0ab0760c564dc0c5e97",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Kimi K3 Hit a GPU Wall. Why Nvidia and Microsoft May Be the Real Winners",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=37be31fe654008198f51ba38ca13a93b7081d5a5ef9b47c3da80c03e183a439b",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Earnings anticipation",
+      "headline": "Wall Street Eager For Robotaxi, Optimus News During Tesla Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85c52eb851cbe757f12914ffd338147b6c50b61053e693d0d876545f9ae1e4d4",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Wall Street Eager For Robotaxi, Optimus News During Tesla Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85c52eb851cbe757f12914ffd338147b6c50b61053e693d0d876545f9ae1e4d4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "DATAMYTE Achieves ISO/IEC 27001:2022 Certification for Digital Clipboard, Its No-Code Manufacturing Workflow Platform",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ebbbe08a8b80b830d991a30a1fcb84f31b2ff57e24f8f5911a74c91ef024e89",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Stock falls",
+      "headline": "Apple Stock Falls Ahead of Earnings Despite BofA's Bullish Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2577f098179f4158f17962771ede9b0b6091f76299950ee352b4099d39d2c7b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Stock Falls Ahead of Earnings Despite BofA's Bullish Outlook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2577f098179f4158f17962771ede9b0b6091f76299950ee352b4099d39d2c7b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=97165a82ca95feb1c53dbec1eda0684a8b6188b7b4c7cd1e545dbc76f22325e6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f53b8fc8cee270c8965328cbef9b0cb82b99cd08aefb5950a3841ac54d6a8d52",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why it's time to retire the 'Magnificent 7' name: Strategist",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c6d4c3df0659f0f9031b273cc0836bc2b54c83dda98a9590bc7008e3571a364",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How To Bank 8.8% On GOOGL Stock Before Buying A Single Share",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f0e69eeb25817f2ef37e4feb86dee17eb0cab116d1328165b0034dbd0002cd2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Mentioned in context",
+      "headline": "Breakout Watch: Twilio Stock Rides AI Cloud Toward Buy Point",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=551ee465705bbbcf930a3dfca3e80e456f8ae236b585855929a7d34245d5d2e5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Breakout Watch: Twilio Stock Rides AI Cloud Toward Buy Point",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=551ee465705bbbcf930a3dfca3e80e456f8ae236b585855929a7d34245d5d2e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Iren Stock Soars 15% After Landing $2.8 Billion in AI Cloud Contracts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5fa985bed5d1190880891d4b72f399f303f55f0d66329efe21d0763c82781e6b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Intel (INTC) Stock a Buy Before Q2 Earnings?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=09499f1cefe3deb03036a4033327e8cbedfbd913a10e1e7231863d1f17b19eea",
           "used_by_ai": true
         }
       ],
@@ -92,148 +247,28 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI investment",
-      "headline": "Nvidia Stock Steadies, But It Needs Help for Real Gains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1fa6c6e5dee5ff2356c3f96886f855a29a9755e3b6a7ae161df681c976dae76b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia Stock Steadies, But It Needs Help for Real Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1fa6c6e5dee5ff2356c3f96886f855a29a9755e3b6a7ae161df681c976dae76b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Sidesteps AI Spend Bubble So I Keep Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=739f0af8dca118c1229aefaa04a8bff24969ac4a57f4a87e513d52477e0df7e6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fidelity\u2019s FDVV Charges 0.15% but Delivers Tech Upside Most Dividend Funds Skip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=081cbc3af3540785305165c70856fbf9b952d633c9715d067ce21c0030225fe2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "China vs. US AI: Moonshot's Kimi K3 may not be a total game changer quite yet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e031080d82a92761d91dbaf6912b948d0694b127fcc8cabf615c881bc7dc29e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple\u2019s iPhone 18 AI bet hides a pricing trap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc244dca95b85d3c6189c9ce5664b3ba5a93bb69b1e1c567b0d49fe8e984c6c9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "AI partnership",
-      "headline": "CRM Stock: A Cash Gusher At A Marked-Down Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5b2df9a8591faf131e58796da607f0bc8eae6d724abe197c01133f92695243c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "CRM Stock: A Cash Gusher At A Marked-Down Price",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5b2df9a8591faf131e58796da607f0bc8eae6d724abe197c01133f92695243c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Fans Get Ready for the July 22 AI Event",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff6c5ad4b38d57010ad30ca28ea816c393741323d10ecf0605069d4f5a5441f7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft expands AMD partnership with Helios AI infrastructure deployment on Azure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2daf67d43f075daa575e7225b438cbf93ecd26d555087558c82579e31754e8df",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Amazon Is a Buy Before July 30 With 30% Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2c7c3bb1e86229fa41bf1cea61efb3271b83ca115a20469ccdc94280f213c6c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mixed news",
-      "headline": "An Overlooked Dividend King With a 54-Year Winning Streak Worth Buying Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d8bf05738cc311c4615efa44521bc19168c11ad0af351059a3c92ce755beb79b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "An Overlooked Dividend King With a 54-Year Winning Streak Worth Buying Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8bf05738cc311c4615efa44521bc19168c11ad0af351059a3c92ce755beb79b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq Leads On Peace Hopes; SpaceX Falls, Bus Maker Breaks Out (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0e4bd52eb1886e3aacce231280d366f5b5bd01b9e0308b33b747f61a60a1405",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Shipping ETF That Surged 1,900% Could Double as Trump Says Iran MOU Is \u201cOver\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b1831f23e676c432ad64b8303c3ac7cfe852e6f7c609146cc1d8d864f234f33",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Archer Aviation Flies 14% Higher as Anduril Team-Up Unveils Autonomous VTOL; Joby and EHang Get a Lift, Too",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f8b4ba2fcba8eac6afab16e0f9ba34d8fe4078e36940328b65e93397add73488",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top Midday Stories: Brookfield, CPP Investments to Acquire LXP; Google Working on New Server Chip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6dead17a4f77a198559009ee65aa218445ec5eaca93ed74832730938bce1545",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market news",
-      "headline": "Zacks Investment Ideas feature highlights: QQQ, SPY, Micron, Western Digital, SanDisk and Marvell",
+      "confidence": 40,
+      "reason": "Market commentary",
+      "headline": "How Much CVS Stock Are You Really Betting On?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29801bf42b87085a27dcfad93c7ca4ba0f81cfff43e2b8e69bf432032c65a420",
+      "url": "https://finnhub.io/api/news?id=cee1f0ffc47f5fe9ae7df305cd526cd47c23b2dff66f34a00cdffd2c1097c321",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Much CVS Stock Are You Really Betting On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cee1f0ffc47f5fe9ae7df305cd526cd47c23b2dff66f34a00cdffd2c1097c321",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Russell 2000 Is Outpacing the S&P 500 in 2026. Is It Too Late to Buy Small-Cap ETFs?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8c7de7a082412f0b7bfa14b9ffab227bf556a3193b090ddceb85e4b51c111b7",
+          "used_by_ai": true
+        },
         {
           "headline": "Zacks Investment Ideas feature highlights: QQQ, SPY, Micron, Western Digital, SanDisk and Marvell",
           "source": "Yahoo",
@@ -250,18 +285,6 @@
           "headline": "The Dollar\u2019s \u201cDemise\u201d Is Back in the Headlines. Before a Retiree Panics and Piles Into Gold, Here\u2019s What a Weaker Dollar Actually Does to a Social Security Check.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=90a6e2a981148d72d6af36950c412a4ff92e8dbe96446277cb5b4230b665bd2b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A $10,000 Investment in Bank of America When Brian Moynihan Became CEO Is Worth This Much Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f34fb8e2d48232d694a6885bfe41abd6063af172fdc4145e82a856bdeb515936",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Key Earnings Reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f9edb51e462f344fc60f28903686e13deb87a46ce16823fe1fd06bbf46d6e31",
           "used_by_ai": true
         }
       ],
