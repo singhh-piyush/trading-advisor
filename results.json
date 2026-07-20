@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T03:36:31Z",
+  "updated_at": "2026-07-20T06:45:25Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,13 +15,19 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Earnings ahead",
-      "headline": "Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead",
+      "confidence": 80,
+      "reason": "Delivery jump expected",
+      "headline": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0efcb791f58bb00b23994409c35e33358d1573ce691b9726439795718ac904ae",
+      "url": "https://finnhub.io/api/news?id=981d051cb59391a4edfc9dcc87a1b24ad91fa3b9865297e464264573bd168b40",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=981d051cb59391a4edfc9dcc87a1b24ad91fa3b9865297e464264573bd168b40",
+          "used_by_ai": true
+        },
         {
           "headline": "Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead",
           "source": "Yahoo",
@@ -48,141 +54,26 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings focus",
-      "headline": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00e8a87e9d1343d81091cfa81a52c57649e0a261b752b0ce678623dd78d76da0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00e8a87e9d1343d81091cfa81a52c57649e0a261b752b0ce678623dd78d76da0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meta Makes Big Moves Around AI Models and Chip Production",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dc9aaf06c5d8020c08eab5e8c014447d92ec54e89e0c28631c51c5ea5819c47",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Will AbbVie's $10.9 Billion Acquisition of Apogee Impact Its Dividend?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed196c7764efdc62d80699b6fc0f1b2432a0f672ecc3f5133df8039022df7c9d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "If You'd Invested $1,000 in Costco Stock 20 Years Ago, Here's How Much You'd Have Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=939cc77e29a213a4a72d5268ff1cd910b8b92a5bb590956b66b74818646c3515",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Did IBM Stock Plunge 25% in One Day? Preliminary Q2 Results Were Weak, But Not Terrible",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7515c55fbf97b6944ee200859612b248e4d9a3ffcbf0e5e9732076e4c4bd66d3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI event ahead",
-      "headline": "Advanced Micro Devices vs. Navitas Semiconductor: Here's What The Quarterly Revenue Trends of These Artificial Intelligence Companies Reveal to Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=825db8fbc9278953dd3dff2e089f3e196a9a4c1bb2e5694126f531696f6d6494",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Advanced Micro Devices vs. Navitas Semiconductor: Here's What The Quarterly Revenue Trends of These Artificial Intelligence Companies Reveal to Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=825db8fbc9278953dd3dff2e089f3e196a9a4c1bb2e5694126f531696f6d6494",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f437986f92068b38f3d4a4b110334fcb867cd19842bd077f85713ff5cac8bec2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings expected",
-      "headline": "Microsoft's Earnings Should Change The Narrative And Send Shares Back Over $500",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=746d4f9d5f57aa62b26bee550c7a4d96b7712577dffd88d99916a2e8ff243d23",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft's Earnings Should Change The Narrative And Send Shares Back Over $500",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=746d4f9d5f57aa62b26bee550c7a4d96b7712577dffd88d99916a2e8ff243d23",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Earnings: The One Key Commentary I Am Looking For",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a5a93cae588b0d1e3f0880061ad4544d003099f85ff2c428fb3114bfe4d3b2aa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=048fb0464ab5411597521963e065f8144dfc962b87340b753459fa815f43aa9c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fed73052de862ab0a149e55fa3aebcb17bfaa2271b7277f4cc46b6feb725ff23",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI endorsement",
-      "headline": "Alibaba Stock Just Got Apple\u2019s Biggest AI Endorsement. This Could Be a Game Changer for BABA.",
+      "confidence": 70,
+      "reason": "AI investment",
+      "headline": "Apple\u2019s stunning Nvidia flip reveals where AI money is moving",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1768720f190ac4d857f528bca6e58a60b888f54ea69649cee622e5255f9b1085",
+      "url": "https://finnhub.io/api/news?id=2e0a83be1a0050842ba81942bb5431d6e961a5a9d5199e783af1d7f1d072c185",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple\u2019s stunning Nvidia flip reveals where AI money is moving",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2e0a83be1a0050842ba81942bb5431d6e961a5a9d5199e783af1d7f1d072c185",
+          "used_by_ai": true
+        },
         {
           "headline": "Alibaba Stock Just Got Apple\u2019s Biggest AI Endorsement. This Could Be a Game Changer for BABA.",
           "source": "Yahoo",
@@ -206,11 +97,92 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a8ddb1801359f3111a555bf33d00a4280de4a60f06927d738f7596794f694a57",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Earnings expected",
+      "headline": "Microsoft (MSFT) Criticizes Anthropic Fable AI While Azure Ties Deepen",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e2fcb41c5af92f8927aef80855861488ed0b8068e62469585f50f150bf67a2d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft (MSFT) Criticizes Anthropic Fable AI While Azure Ties Deepen",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e2fcb41c5af92f8927aef80855861488ed0b8068e62469585f50f150bf67a2d",
+          "used_by_ai": true
         },
         {
-          "headline": "68% of Greg Abel's Berkshire Hathaway Portfolio Is Invested in Just 5 Stocks. Here's My Favorite of the Bunch.",
+          "headline": "Microsoft's Earnings Should Change The Narrative And Send Shares Back Over $500",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=746d4f9d5f57aa62b26bee550c7a4d96b7712577dffd88d99916a2e8ff243d23",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Earnings: The One Key Commentary I Am Looking For",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a5a93cae588b0d1e3f0880061ad4544d003099f85ff2c428fb3114bfe4d3b2aa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d63faf3f2f2fae08bb43cf0597e725076b225d57301a30042aa722664210cb7",
+          "url": "https://finnhub.io/api/news?id=048fb0464ab5411597521963e065f8144dfc962b87340b753459fa815f43aa9c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI trends",
+      "headline": "Where Could Solana Be Headed Over the Next 3 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=553c508e32ad218efa2c099de89202b02fbafa35b110ce93b09c94d1a0de64df",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Where Could Solana Be Headed Over the Next 3 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=553c508e32ad218efa2c099de89202b02fbafa35b110ce93b09c94d1a0de64df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fed Chair Kevin Warsh Vowed to End 5 Years of High Inflation in First Congressional Testimony",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9f379806f0ba8ca6eb0d93abc6f4191f75388a0f0be2d2c7df1c505679d8263e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Morgan Stanley Set a $300 Price Target on Elon Musk's SpaceX Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be6ecbbf1eeaf6225cfe625dc7ad69f9dc740f3d1334cb6bb6e1c731460dd544",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Reasons Circle Internet Group Could Soar in Value by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0a05e0712a7981e73ec2158ff45e1a2afaba192579aa7dcdbe4ec9921800017",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Micron's 30% Decline Is Dragging Down the iShares Semiconductor ETF (NASDAQ: SOXX). Here's a Low-Cost Vanguard ETF to Buy Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7953afbf9e5cd382a07dfe3d2d6090ebe160faf33f6947301f0254ebf50d3a99",
           "used_by_ai": true
         }
       ],
@@ -219,20 +191,66 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Bullish outlook",
-      "headline": "Stay Bullish Despite The Rough Week: Aerospace, Finance, Biotech, And AI",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f9ce91e5d1056a640b2dcdda395064ade824ffdbc9421dcdee21c343c510c1c1",
+      "confidence": 60,
+      "reason": "New customer",
+      "headline": "AMD Stock Rises Overnight: Is Anthropic A New Customer? What A GitHub Code File Reportedly Reveals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed135c47614df3c1679cba090b3f85859258cfd92a34e7ff2136a6368c434b06",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD Stock Rises Overnight: Is Anthropic A New Customer? What A GitHub Code File Reportedly Reveals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed135c47614df3c1679cba090b3f85859258cfd92a34e7ff2136a6368c434b06",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cathie Wood sells $11.7 million of tumbling semiconductor stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=173fd79152dbac228ba47ae4583e795b4de05fa59de64b7017c30991cc1fed4f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices vs. Navitas Semiconductor: Here's What The Quarterly Revenue Trends of These Artificial Intelligence Companies Reveal to Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=825db8fbc9278953dd3dff2e089f3e196a9a4c1bb2e5694126f531696f6d6494",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Market trends",
+      "headline": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00e8a87e9d1343d81091cfa81a52c57649e0a261b752b0ce678623dd78d76da0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00e8a87e9d1343d81091cfa81a52c57649e0a261b752b0ce678623dd78d76da0",
+          "used_by_ai": true
+        },
         {
           "headline": "Stay Bullish Despite The Rough Week: Aerospace, Finance, Biotech, And AI",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f9ce91e5d1056a640b2dcdda395064ade824ffdbc9421dcdee21c343c510c1c1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett Looks for Value in Today\u2019s Market But Comes Up Empty: \u2018Everybody Is Preferring Gambling\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3cb1f1a43f33e39a1c2594c5a6ae015646ea8d7848ba05e58326d0dbafc2a26",
           "used_by_ai": true
         },
         {
@@ -246,17 +264,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b2778abf27d72e6dbeb753d4aeb623fc8d48bada7e7e47718a16b94714fb72b5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett Looks for Value in Today\u2019s Market But Comes Up Empty: \u2018Everybody Is Preferring Gambling\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3cb1f1a43f33e39a1c2594c5a6ae015646ea8d7848ba05e58326d0dbafc2a26",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     }
   ]
