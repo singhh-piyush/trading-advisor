@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T07:07:08Z",
+  "updated_at": "2026-07-21T10:01:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,143 +12,58 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "AI infrastructure win",
-      "headline": "AI infrastructure stock surges after landing massive $2.8B win",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1cf311acf3388d9bcd05e30c9558152451b385b4a414d0c168e7b3842149630",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI infrastructure stock surges after landing massive $2.8B win",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cf311acf3388d9bcd05e30c9558152451b385b4a414d0c168e7b3842149630",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b34426e1ff56d4ec051a0296ee47d268cf9bdd6ed5359ac280609e7af549a13",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should You Buy SpaceX Stock 11% Below Its IPO Price?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07e7704e4a31312f8fe967d2685055b955f0cefcc13c8d645894a591d65990c5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Its Best Quarter in 2 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98f361ab8ea8ee46a2daa6dffec57e340007add5393113df677631e40d844fb2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A Ransomware Attack Just Halted Coca-Cola's Fairlife Production and Knocked the Stock Down 4%. Should Dividend Investors Care?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe83c1f9286332cf88f2b45ce11f94d6139e5ce2577d8c4b97c55226eb735a95",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Best quarter in 2 years",
-      "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Its Best Quarter in 2 Years",
+      "confidence": 30,
+      "reason": "Vehicle deliveries",
+      "headline": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98f361ab8ea8ee46a2daa6dffec57e340007add5393113df677631e40d844fb2",
+      "url": "https://finnhub.io/api/news?id=4a8bf655f512a3cb75237384f4a99da60e85e8c4102c3d4de6c93e471134b122",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Its Best Quarter in 2 Years",
+          "headline": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98f361ab8ea8ee46a2daa6dffec57e340007add5393113df677631e40d844fb2",
+          "url": "https://finnhub.io/api/news?id=4a8bf655f512a3cb75237384f4a99da60e85e8c4102c3d4de6c93e471134b122",
           "used_by_ai": true
         },
         {
           "headline": "Tesla (TSLA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=94a3e07a24a187b50009d196d13b5b1ca5ff8bdfe1d3b0cb6616831ab4427f8f",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Its Best Quarter in 2 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=98f361ab8ea8ee46a2daa6dffec57e340007add5393113df677631e40d844fb2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Stellar Start: Big Banks Defy Credit Fears To Kick Off Q2 Earnings",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1682b13d10b8b94f03ca543540f15a916e599a4f33c3d71a5171873e2e424cf9",
+          "used_by_ai": true
         },
         {
           "headline": "Asia stocks up as chip stocks recover, oil eases",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=359b7f325b35f4b439f879bb91946925874c92042aabb2acb060c234512d27d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Cramer Says Dump Tech Before Intel, Tesla, Alphabet Earnings: Will Inverse-Cramer Strike?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c5b436477ebf18508b70dc14265d82f957071c5f9340ae07125e2a3d3cc57d2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk just got a new rival on three fronts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5fa8abfbfa4c6e432c7ade88e71dc81b4db56731e4e03d57f92aeafc64732c7a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Carbon management growth",
-      "headline": "Global Enterprise Carbon Management Software Market Size/Share Worth USD 42.2 Billion by 2034 at a 9.73% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3dd33d075c8c7b5f404f760d44073e541e6437da3a572564385e70a1a62bbd59",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Global Enterprise Carbon Management Software Market Size/Share Worth USD 42.2 Billion by 2034 at a 9.73% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3dd33d075c8c7b5f404f760d44073e541e6437da3a572564385e70a1a62bbd59",
           "used_by_ai": true
-        },
-        {
-          "headline": "Emergent Software Secures Growth Investment from Winterbird Partners",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=162d738630eac0ec869f0a35231497508dad9cc11f1d0b61ac540965854ba6b4",
-          "used_by_ai": false
-        },
-        {
-          "headline": "China\u2019s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb3a375171a6d7db63859272bdbe453d91bd53c05fcab68563819779ab5090a7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "CleanSpark (CLSK) Soars on Fresh Multi-Billion AI Investments",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=18df3dab3c0291f5d34b8c372a4d20cd779993c8641603311a8d33c7b3cc6013",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Nvidia pressure",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Helios launch",
       "headline": "Nvidia (NVDA) Faces Fresh Rack Server Pressure As AMD Launches Helios",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2f685218060504c21eb4c8abf8796d159f1ccd256877708ef1bec0b007210231",
@@ -164,25 +79,65 @@
           "headline": "After A Steep Run And A Sharp Drop, Is Marvell Technology Stock A Bet On The AI Buildout?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a450a788a9fe7f222a779f1b8495a7e8ab49491ae3ffbcec9f7036376f3f3929",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader Market",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=de9456dae437eb4edceda91dfb68c8dfbbcfd5ad81fb1c2b7ad0b8f737532888",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Advanced Micro Devices (AMD) Increases Despite Market Slip: Here's What You Need to Know",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=72a78f7c005be8eaef9ad19d43a8cd73720c062b1d8ab9ee9f7eeca84793ae9e",
-          "used_by_ai": false
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Inflation testimony",
+      "headline": "Kevin Warsh's Inflation Testimony Came as Traders Priced an 86% Chance of a Fed Rate Hold",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ad85b0bd2fe67deed679052f6f80736dc87b76b3535b16d8ad3cc245728794d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Kevin Warsh's Inflation Testimony Came as Traders Priced an 86% Chance of a Fed Rate Hold",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ad85b0bd2fe67deed679052f6f80736dc87b76b3535b16d8ad3cc245728794d",
+          "used_by_ai": true
         },
         {
-          "headline": "S&P 500, Dow End Lower As Oil Prices Rise Amid US-Iran Crisis \u2014 PSKY, GOOGL, IREN, AMD, NVDA, AVGO In Focus",
+          "headline": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51f12386f26e09fdd416224d29d3114729fd5c10cb933e1401d4733526c34602",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=8f6a6dbd745f347a270187d8c08d748a84827e95bf224b8c06ac94e01e52c1dd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dce3031b20c53d4a9c0095d153ab66e4a2d47bd6e14c41470de51e321f1b29f9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "IREN Stock Extends Rally After $2.8B AI Contracts Disclosure: Goldman Sachs Lauds Customer Diversification, Keeps \u2018Neutral\u2019 Rating",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d7da92cde45e74efe83a063dcaf9951f0c963f1b1d25f1e645f440bc37330b9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy SpaceX Stock 11% Below Its IPO Price?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=07e7704e4a31312f8fe967d2685055b955f0cefcc13c8d645894a591d65990c5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -192,95 +147,111 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI advantage",
-      "headline": "I\u2019m Buying Apple\u2019s AI Advantage That Keeps It Ahead of the Mag 7 At Least Until This Point",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "AI hype",
+      "headline": "Apple (AAPL) Nears $5t As AI Hype And Valuation Questions Collide",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a5a3660de1de8821037af74e91ab9a0bff70dd5596ce6244a739cbaa37e75a1",
+      "url": "https://finnhub.io/api/news?id=e82c1ab609fe9552136acf72afb561c13fdc494aae1e33ed18d2b5941c5026bd",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "I\u2019m Buying Apple\u2019s AI Advantage That Keeps It Ahead of the Mag 7 At Least Until This Point",
+          "headline": "Apple (AAPL) Nears $5t As AI Hype And Valuation Questions Collide",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a5a3660de1de8821037af74e91ab9a0bff70dd5596ce6244a739cbaa37e75a1",
+          "url": "https://finnhub.io/api/news?id=e82c1ab609fe9552136acf72afb561c13fdc494aae1e33ed18d2b5941c5026bd",
           "used_by_ai": true
         },
         {
-          "headline": "Apple\u2019s Lawsuit Against OpenAI Could Be the Opening Move in the Next AI Hardware War",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dd5450042024b15083b9ac35a6a76152a1f9b3ab2471134dd4fcfa27a21cff6",
+          "headline": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=674638d1d02caac2502787451299da70b3b3c98521818e5099e08f5819acfb36",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Q3: AI Rivalry In Focus, Shares Fairly Valued",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b170e142e8379b518c08edbb40c101735d67b3ce3f3d89ad95ae40c41c0e8bf9",
           "used_by_ai": true
         },
         {
           "headline": "Why XLK Investors Pay Twice for the Same Mega-Cap Exposure",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3306784c2167e59b12011868683ba9ed3a4658e136410fa418bb5b494eb5f8d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Behind the Ticker: RISE Ditches the Usual EM Playbook",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=710a9919111757162fe8f18763a50466966d13e778a6e7c133edbca8145ef513",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is the collectibles market in a bubble? Realest CEO says memorabilia is 'wildly undervalued'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dc8d5808f3ce7bbf923dc65e802949065701a3e709ffbeed2a0d9ccf0d54974",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Carbon management",
+      "headline": "Global Enterprise Carbon Management Software Market Size/Share Worth USD 42.2 Billion by 2034 at a 9.73% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3dd33d075c8c7b5f404f760d44073e541e6437da3a572564385e70a1a62bbd59",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Global Enterprise Carbon Management Software Market Size/Share Worth USD 42.2 Billion by 2034 at a 9.73% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3dd33d075c8c7b5f404f760d44073e541e6437da3a572564385e70a1a62bbd59",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Emergent Software Secures Growth Investment from Winterbird Partners",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=162d738630eac0ec869f0a35231497508dad9cc11f1d0b61ac540965854ba6b4",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "US-Iran crisis",
-      "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
+      "direction": "up",
+      "confidence": 20,
+      "reason": "Market futures",
+      "headline": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=65706c5af55d24bcd949b511af38f2ad626891d75a2e50d7454d60b1afab39aa",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
-          "used_by_ai": true
-        },
         {
           "headline": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=65706c5af55d24bcd949b511af38f2ad626891d75a2e50d7454d60b1afab39aa",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Cash In Your SPYV Gain, Or Let It Ride?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5e8eb0251b9b0126a077ff81a9e73ea5d19725b04855c14e9a8c0aac87315860",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "The Phillips Curve And Kevin Warsh's Task Forces",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=150e00a2523294a6e5d845f3cb6b74329bdc66f9036b87d310ca311c11ea1c9b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Vanguard S&P 500 ETF - The First ETF With More Than $1.0 Trn In Assets Under Management",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3a95d4935f32d06b7999a0e22a35b182f0452905f6e3aff7d49cb56aee29e8b0",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
         "Yahoo": 2,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 1
       }
     }
   ]
