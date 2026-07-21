@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T23:00:17Z",
+  "updated_at": "2026-07-21T00:57:41Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,38 @@
   "sample": false,
   "items": [
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Bank of America doubles down",
+      "headline": "Bank of America doubles down on Microsoft stock ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d24c4995bb450bff79ff1a16494dfeb581e20829304c97dc8f4ef1d9233cd025",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bank of America doubles down on Microsoft stock ahead of earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d24c4995bb450bff79ff1a16494dfeb581e20829304c97dc8f4ef1d9233cd025",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT) Ascends While Market Falls: Some Facts to Note",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f23412bcd786221c724fc89b40012ddd951a5274a405a8ec700601de819fc43",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "AI advantage",
       "headline": "I\u2019m Buying Apple\u2019s AI Advantage That Keeps It Ahead of the Mag 7 At Least Until This Point",
       "source": "Yahoo",
@@ -35,67 +63,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple Faces Margin Test Before Earnings",
+          "headline": "Why XLK Investors Pay Twice for the Same Mega-Cap Exposure",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8745e61eac743de49a5acaed2c4d986305699dc457e294650687a52804c714d1",
+          "url": "https://finnhub.io/api/news?id=c3306784c2167e59b12011868683ba9ed3a4658e136410fa418bb5b494eb5f8d",
           "used_by_ai": true
         },
         {
-          "headline": "Why Apple Stock Dropped Today",
+          "headline": "Behind the Ticker: RISE Ditches the Usual EM Playbook",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
+          "url": "https://finnhub.io/api/news?id=710a9919111757162fe8f18763a50466966d13e778a6e7c133edbca8145ef513",
           "used_by_ai": true
         },
         {
-          "headline": "Will Alphabet's Q2 Earnings Reignite the Tech Rally?",
+          "headline": "Is the collectibles market in a bubble? Realest CEO says memorabilia is 'wildly undervalued'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f30ed04ff430ade00958e250df70ef239d6851f6b3006bed4a0a430b2762516f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "Ryanair CFO: Rival Airlines Could Fail This Winter; Industry Shakeout Could Lead to Pricing Power",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7b1f6bcf4377f3512a4549cb5096d2e605d1965b01228d60c3a360b1e4049c1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Ryanair CFO: Rival Airlines Could Fail This Winter; Industry Shakeout Could Lead to Pricing Power",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7b1f6bcf4377f3512a4549cb5096d2e605d1965b01228d60c3a360b1e4049c1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bank of America doubles down on Microsoft stock ahead of earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d24c4995bb450bff79ff1a16494dfeb581e20829304c97dc8f4ef1d9233cd025",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Reasons I\u2019m Buying Amazon Over and Over Until Late 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f2152c92f9910ca1c496be454714b7530c963471ee9031cf2998b45c56d35b0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Netflix's Post-Earnings Crash: Should You Buy the Stock While It's Below $70?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cdb11554dcaa45fcc98286b8890f94c79bbca6a24565874020887c6fb55e7642",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What History Reveals About the Road Ahead for Memory Sector Giants",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b718e0f1956b0b450230996570d16f915962397b011efc716bd633e6ba6d421",
+          "url": "https://finnhub.io/api/news?id=4dc8d5808f3ce7bbf923dc65e802949065701a3e709ffbeed2a0d9ccf0d54974",
           "used_by_ai": true
         }
       ],
@@ -107,19 +89,13 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Earnings concerns",
-      "headline": "Tesla (TSLA) Faces A New Fremont Neighbor As Agility Opens Robot Training Center",
+      "confidence": 60,
+      "reason": "Trump comments spark losses",
+      "headline": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=065398db94bf9126fe58521b2d7c607b4870c73bc018d280311be333693b7416",
+      "url": "https://finnhub.io/api/news?id=831b833373e0c93e11a95905cac739e92ec8bfbf3be359deb603c820375b7c2e",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Tesla (TSLA) Faces A New Fremont Neighbor As Agility Opens Robot Training Center",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=065398db94bf9126fe58521b2d7c607b4870c73bc018d280311be333693b7416",
-          "used_by_ai": true
-        },
         {
           "headline": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble",
           "source": "Yahoo",
@@ -127,95 +103,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "Strong earnings growth needed to justify tech valuations, says expert",
+          "headline": "US stocks edge down with Iran and earnings season in focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a442891d41277db824c96a61ebe02d5fe921e2803aa25567660b6c9a65a7326",
+          "url": "https://finnhub.io/api/news?id=0c80720492a5bc201dfd2cc65570e4b72708760cf82bd68684d397d8812c27c9",
           "used_by_ai": true
         },
         {
-          "headline": "Update: Wall Street Falls as Traders Await Earnings, Track Middle East Developments",
+          "headline": "Elon Musk Says AI and Robots Will Do \u2018So Much Stuff\u2019 We Run Out of Things for Humans to Do \u2014 But \u2018We\u2019ll Basically Just Issue Money to People\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=26fda6d9f072e92a94c25483f340f8e72db1e205a4953d3aa1f4492cb78f2e01",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Earnings optimism",
-      "headline": "UBS Trading Desk Says Buy Momentum Stocks as Selloff Nears End",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4891eea432878d151b120fbe04e275ca40a840c50100269199493a86255720a4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "UBS Trading Desk Says Buy Momentum Stocks as Selloff Nears End",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4891eea432878d151b120fbe04e275ca40a840c50100269199493a86255720a4",
+          "url": "https://finnhub.io/api/news?id=e3be8f84fb8ea782b1ade4ef42492bb9af0b51c1e92480a2aa0da55aaf4bcccd",
           "used_by_ai": true
         },
         {
-          "headline": "Nebius Group (NBIS) Secures $775 Million In Debt To Expand Its AI Cloud",
+          "headline": "Buy Tesla Stock Before Q2 Earnings, or Wait for the Results?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5dfcdca0d68ab3f7e5eca99ddb92549b9a6d9a0ec040964efde48fef14fd6826",
+          "url": "https://finnhub.io/api/news?id=7327ded5c0419aa4c9b1c99879f6fae5d290281a792ee21b302aa2e9d908a853",
           "used_by_ai": true
         },
         {
-          "headline": "CrowdStrike Stock Has Its Own Story",
+          "headline": "Tesla (TSLA) Faces A New Fremont Neighbor As Agility Opens Robot Training Center",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d13d858840882fa6090c93ad3d342bb40e3056bd6c00e7c93b65f14fc3fbbc8",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI competition",
-      "headline": "Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After Trump's Iran Comments; Sandisk Rises (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ae1c22099663960862935b862ea8690f8a3a45c4220f21194ff0bd109dd87c63",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After Trump's Iran Comments; Sandisk Rises (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae1c22099663960862935b862ea8690f8a3a45c4220f21194ff0bd109dd87c63",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel and AMD Get AI Earnings Setup",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1794a76c2e9517219dfbe1e3f8c4e40abbdaf681bb14cee7c8f981d5bdf9ac6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD sets sights on Nvidia with Helios AI racks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=241df81f983291b86e9aa9e9a8c887e3c4eb59e303312182e7d039d644be4393",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f0d8ba30fc4786074e13851ffee45f997b44f959d9d000918dab8d04af09776",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0d5e5d5fdc6ad52b1255e413788ffe21f399d30d189a7bb0965dd22a18ea0eb",
+          "url": "https://finnhub.io/api/news?id=065398db94bf9126fe58521b2d7c607b4870c73bc018d280311be333693b7416",
           "used_by_ai": true
         }
       ],
@@ -224,16 +132,103 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market volatility",
-      "headline": "Buying This ILF Dip Has A Price",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Increases despite market slip",
+      "headline": "Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader Market",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d1d49731625ce1a779bfdd0f71e9d11545552d07304e8224a3b5e78d063e7bf",
+      "url": "https://finnhub.io/api/news?id=de9456dae437eb4edceda91dfb68c8dfbbcfd5ad81fb1c2b7ad0b8f737532888",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de9456dae437eb4edceda91dfb68c8dfbbcfd5ad81fb1c2b7ad0b8f737532888",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Increases Despite Market Slip: Here's What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=72a78f7c005be8eaef9ad19d43a8cd73720c062b1d8ab9ee9f7eeca84793ae9e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500, Dow End Lower As Oil Prices Rise Amid US-Iran Crisis \u2014 PSKY, GOOGL, IREN, AMD, NVDA, AVGO In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51f12386f26e09fdd416224d29d3114729fd5c10cb933e1401d4733526c34602",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After Trump's Iran Comments; Sandisk Rises (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae1c22099663960862935b862ea8690f8a3a45c4220f21194ff0bd109dd87c63",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "International ETF",
+      "headline": "Why Mara Holdings Stock Crushed the Market on Monday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19d78aa02ad0e426df8a87aab7d40b6ed13ae8b4af2b22a501fd487b10783c13",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Mara Holdings Stock Crushed the Market on Monday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=19d78aa02ad0e426df8a87aab7d40b6ed13ae8b4af2b22a501fd487b10783c13",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Add an International ETF to Your Portfolio in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=981de5ffd3523e330ae94a524535d913bd83f90c09efa66d9a86bfcb99174838",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If I Could Only Own 1 ETF for the Rest of 2026, It Would Be This One",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=96039ce3359c950aaa8bf94fa5e72ff397b4b67e7f43c2ba93882220255526b9",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "Market losses",
+      "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
+          "used_by_ai": true
+        },
         {
           "headline": "Buying This ILF Dip Has A Price",
           "source": "Yahoo",
@@ -247,33 +242,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
-          "used_by_ai": true
-        },
-        {
           "headline": "Are You Paying For Skill Or Just The Market?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=33eccf39853b7bbd99051ab0c9975ca151f715938147b1c87520fa659d109b16",
           "used_by_ai": true
-        },
-        {
-          "headline": "When The Stock Market Fell JEPI ETF Outperformed",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb13a1fcd526c7dca57b6ee929fca114f82869ef1e1e6e8f442d79d417956aa0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tom Lee\u2019s \u2018Granny Shots\u2019 ETF Is Beating the S&P Again, and He\u2019s Calling for 8,000",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fae30c25cbaa05051118348b025eb6c4e14c24e10c5613cf8adbf79c2b719e27",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5,
-        "Reuters": 1
+        "Reuters": 1,
+        "Yahoo": 3
       }
     }
   ]
