@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:03:03Z",
+  "updated_at": "2026-07-21T23:28:00Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,225 +12,28 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "SPY",
+      "company": "",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI chip demand",
-      "headline": "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
+      "confidence": 60,
+      "reason": "Market rebound",
+      "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ba7506580ce70ab6d77aa9287d625fead457bf366f7fdd7a61fa9927eb454f6",
+      "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
+          "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ba7506580ce70ab6d77aa9287d625fead457bf366f7fdd7a61fa9927eb454f6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Databricks CEO said they are \u2019running out of GPUs everywhere\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2564922e58daa0f9302b117bae41ac2d97dcf7b3314eb2273aba2494ae9a6a4b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Verizon Is Cutting 3,000 Jobs and Handing 274 Stores to Franchisees Right Before July 24 Earnings. Is the 6.5% Dividend Still Safe?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1af6a021f6d1138a84080261ddbb38c1842ae918504b83d1c03dcdc7254e440c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Lockheed Martin Stock Dropped Tuesday Morning",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=867db6abb76b8efff45b0ddddf0429082b3f95350800c7e80298cd8590023284",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "New iPhone buying option",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd50e8cde9d4979df27db27f2221029a45587757fc6065f01064e6bc54667f48",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd50e8cde9d4979df27db27f2221029a45587757fc6065f01064e6bc54667f48",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c55fc65f6882fd5156789079143e6543b77c17a286b9fb0ed3601562ed773716",
+          "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
           "used_by_ai": true
         },
         {
           "headline": "MAGS Delivered 181% Since Launch, But Equal-Weighted Tech Concentration Is Now a Liability",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e7044abd0f963447000b0293a7308fd66e0d801066c01143f6c498bf501028b2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b5b189a7facdb320b30f5d6ee8b7c837597bd1d2e6080fedff59af810237881a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "TSMC Is Raising Prices. Can Big Tech\u2019s AI Boom Afford the Bill?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad27e0581b144661c4d1ffbefac647fabdaf5c9b78be58ed086e12e19bc64b2b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "CNBC": 1,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Robotaxi expansion",
-      "headline": "Tesla Expands Robotaxi Service in Florida",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7703084b8feb0e207b5a884eda0bd5f198d88df81a122f108097596bc9713b5e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Expands Robotaxi Service in Florida",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7703084b8feb0e207b5a884eda0bd5f198d88df81a122f108097596bc9713b5e",
           "used_by_ai": true
         },
-        {
-          "headline": "TSLA Stock Jumps Nearly 4% \u2014 Tesla Integrates Starlink Into Cybercabs But Not For Safety Purposes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f8c39002cbad2f500b528d279b940bb16476db3408dd577e463417aed67c543",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Is $370: Should You Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b7c8469cdc03cdca449ecb47c0585c0fa50a5e309538e78526453397540d15b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla\u2019s Q2 preview: the numbers will beat, but will the narrative?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f904721c7350e8f91145672bff4dedcd6f4ab40c20a286bbdfada17372012eaf",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI turnaround",
-      "headline": "3M turns to AI to fuel turnaround",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04ed7737e0cd42b6ae3987e904085bd2886ad7986fbb0e894bc896562c9df1c2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "3M turns to AI to fuel turnaround",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04ed7737e0cd42b6ae3987e904085bd2886ad7986fbb0e894bc896562c9df1c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMZN Costs More Than Its Peer Group",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a4f3bd89f4e357eeb03f8abd650cbbfb8b16eea02111083affad7bedf8fad835",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Look To Profit From Microsoft Earnings With A Short-Term, High-Risk Trade",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd30d46146c2a1a6bd0e5b5ed90cfad86bac33cb833ca21380989883383a0195",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI deal",
-      "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2dd1c2451b03575b1d24ea44706c11d8d102cb4c6edda3db010580bb502a04cc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2dd1c2451b03575b1d24ea44706c11d8d102cb4c6edda3db010580bb502a04cc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD just landed its biggest AI deal yet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f1c8dcf5913beeeb0423a0ad90cbe2945d17f8a595460976be6f7c833fa40119",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8737e031b4ea27bf6550f13e23ffc1920e47c803047ddc65c3b5c6fbfdcb5629",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Sandisk Stock Is Still Going Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d770403e7a4e2c7b67088213606574f5134a56b9ab63e7c285d38525eba116b5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market volatility",
-      "headline": "VEA Is Crushing SPY This Year, but the Decade-Long Scorecard Tells a Different Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4ff66af175c970c76c70d5aec4b4d9d0d9bf337a6b290db080c487facfd4c3c4",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "VEA Is Crushing SPY This Year, but the Decade-Long Scorecard Tells a Different Story",
           "source": "Yahoo",
@@ -238,27 +41,234 @@
           "used_by_ai": true
         },
         {
-          "headline": "SCHD: How Its Dividend Raises Fit Into A 4% Traditional Distribution Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=73809f29da3924bf3c81daa0ac199f1531a081e6f77af1cbf2a1b261cc3e5ca4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump's 50% Tariff On Canada: Trade Escalation Under Section 338",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9d6aca254474d44aae1826ed4532218b0125173790626628f6a286adfa2e3a76",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Buy Alphabet at $350 Because Wall Street\u2019s Former Fear is Now Officially Dead",
+          "headline": "How Much UNH Are You Really Betting On?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=707b6f2e5bd81221d5af9b5ff0bf0c786b2164039fe85a0e78a22620187ed3d5",
+          "url": "https://finnhub.io/api/news?id=0025b206d747134aee3b13ecf95d9a33bad996924a5e33421ab18a2dab95a044",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "AI model competition",
+      "headline": "\"Deceptive Advertising!\" Claims Novo Nordisk in Explosive New GLP-1 Lawsuit Against Eli Lilly. Here's What That Means for Both Stocks.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d312544c2126879586c6f841dd51947659f186109d11c9e56902a50eb9c0ea81",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "\"Deceptive Advertising!\" Claims Novo Nordisk in Explosive New GLP-1 Lawsuit Against Eli Lilly. Here's What That Means for Both Stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d312544c2126879586c6f841dd51947659f186109d11c9e56902a50eb9c0ea81",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Sabra Health Care REIT Stock Soared Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2a58980a28d00fc7cf50eafe9f257fedd665840c220587fe1e634606f19f2c7f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rocket Lab CEO Peter Beck Says Watch the Test Stands. Here's Why the Neutron Timeline Means Everything for Investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae20738dd2d9eed32088901e49660aeb5933739d86ff0fd4fe8b60a718b43eb1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia, Micron just got hit by an AI model from Beijing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=429ecf98e62561032585369257876fa1865dd62a7415245468e13f9095a9347a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Netflix \u201cIs Not a Broken Company\u201d and Trades At Just 19x Earnings. Jim Cramer Says Start Buying",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=96c9242c934df2be278fbfc093a0d7774de988c8e959a12a9da323085e91d4ea",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Earnings anticipation",
+      "headline": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d66c5c7968aa476fe49aac6da716147facc3ee5b76e15ed7d3967bc50a29ebf7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d66c5c7968aa476fe49aac6da716147facc3ee5b76e15ed7d3967bc50a29ebf7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google & Tesla kick off Big Tech earnings: What to Watch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=871a268e0245cc932598faf3df6184d7f1da1748f0946d438729f6fae08deb85",
+          "used_by_ai": true
+        },
+        {
+          "headline": "5 Must See Earnings Charts This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cbcd39179e50ba57e22500fb398418de98b68da43640e38a528ff03a0b098cfa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Best \"Strong Buy\" Stocks to Buy as Q2 Earnings Season Heats Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=86e34d2416c3fc30178c3d390f5e5137be2cb7764324c36df8f5267e80b4ed33",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Chip Stock Surge Snaps the Market's Skid",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=517d1f2c479cfe9ad6f7bb0d440d3fd8c835685fbbe6f1709f46e964ae83d510",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "New iPhone buying method",
+      "headline": "IC Group Secures Exclusive Canadian Aggregator Rights to Bullet's Messaging Platform",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2b8a082039e44b8ea029ef7402c69169bb45cf6a15747d6741e94c3fab65fb9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "IC Group Secures Exclusive Canadian Aggregator Rights to Bullet's Messaging Platform",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d2b8a082039e44b8ea029ef7402c69169bb45cf6a15747d6741e94c3fab65fb9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a2a56e6542acadf36e5acae59b25b1cca4de20d66a8e553fec1584480a9e985",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Big Tech's big AI spending is 'a good thing' right now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0c02ebc5b8bf8290e9d6c626543f10d68d7b82b21f2504e980cb9a36df6c11e7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett's Berkshire Hathaway Owns Zero Pure-Play AI Stocks. But This 2016 Acquisition Gives It Exposure to the Data Center Boom.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dca47f263e1a4c785557552b703f4abeb1f93a32d725cf4686ae50555bb25642",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SNAP: Priced Like A Decline, Paying Like A Machine",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=921b393fb339d035aee208c8b7fe9b1a0d870387478faff0b9a8bcacb262c805",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5,
+        "CNBC": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "AI deal and earnings",
+      "headline": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7454b8e8917d23a81cfcfd4ac5660cc4b8539aae476dbe99c45b46871a3256a6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7454b8e8917d23a81cfcfd4ac5660cc4b8539aae476dbe99c45b46871a3256a6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Following Microsoft AI Deal Faces A Fully Valued Debate",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ece0e993f6c11adb88373c2915e443b8cb3ea7dde5db4579d89ee0e7b0d48bdd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3M turns to AI to fuel turnaround",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04ed7737e0cd42b6ae3987e904085bd2886ad7986fbb0e894bc896562c9df1c2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Mag 7 Stocks Are in a Rut\u2014Can Strong Earnings Get Them Out of It?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5dd4ad760287325aca69825d4bcf512f95b812d40d2fcde3338ca4c9fb98ffcb",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Chip stock surge",
+      "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Chip Stocks Are Rebounding - Should Investors Buy Intel (INTC) Before Q2 Earnings?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=95615159948299d2f0fc795dda3b4512fb13897370b6de370e91d49cf6680da0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2dd1c2451b03575b1d24ea44706c11d8d102cb4c6edda3db010580bb502a04cc",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
-        "SeekingAlpha": 2
+        "ChartMill": 1
       }
     }
   ]
