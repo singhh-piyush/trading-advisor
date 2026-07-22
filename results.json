@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T18:41:30Z",
+  "updated_at": "2026-07-22T20:10:59Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,102 +8,248 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 9,
   "sample": false,
   "items": [
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Microsoft win",
-      "headline": "AMD\u2019s Microsoft Win Signals Dominance Over NVIDIA and Our Price Target Reflects It",
+      "confidence": 90,
+      "reason": "Multibillion-dollar deal",
+      "headline": "AMD Lands Multibillion-Dollar Anthropic Deal",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=344f88558f39e603d279a9f9547f66fa5d5b66b92e215cf4b3e022a931b77ffd",
+      "url": "https://finnhub.io/api/news?id=bfa10455c0af000d1bc4ee0c47bae9e63374e37c42cc3c3e26a2f1b2bd845d07",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD\u2019s Microsoft Win Signals Dominance Over NVIDIA and Our Price Target Reflects It",
+          "headline": "AMD Lands Multibillion-Dollar Anthropic Deal",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=344f88558f39e603d279a9f9547f66fa5d5b66b92e215cf4b3e022a931b77ffd",
+          "url": "https://finnhub.io/api/news?id=bfa10455c0af000d1bc4ee0c47bae9e63374e37c42cc3c3e26a2f1b2bd845d07",
           "used_by_ai": true
         },
         {
-          "headline": "Super Micro Just Disclosed $60 Billion in New Orders and a Massive Margin Beat",
+          "headline": "AMD Commits Up to $5 Billion as Anthropic Targets 2 Gigawatts of AI Chips",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ca026e2334a28b18393b24a6c0959ec8fda2376c86aa39ae516c12b10fe7887",
+          "url": "https://finnhub.io/api/news?id=b6a8c49b3fafb6144fd7fc734c5d941f71dbcccba835b8fb5b5c1314fbeb2489",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Just Changed The Rules Of The AI Game",
+          "headline": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c35d9259541a009975d8e192b526f7bf1b942b57b89fe4b1bf3bbc8d6a32fcf",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=fd76b069e4ea63908e1c358679f8ac6ec3523e8a2693a2aa0b96059ff1254594",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29996d88d3af8c7f068ce666c10540cc07f0abad1c1beddbcdf536d1582d29cc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia highlights Vera CPU strategy as AI infrastructure debate evolves",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f6eb5f9deb4a7bb66454d24cd87750e01bb2e94d154192268a8204a46144cb9",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI CPU market growth",
+      "headline": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd76b069e4ea63908e1c358679f8ac6ec3523e8a2693a2aa0b96059ff1254594",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd76b069e4ea63908e1c358679f8ac6ec3523e8a2693a2aa0b96059ff1254594",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Lands Multibillion-Dollar Anthropic Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bfa10455c0af000d1bc4ee0c47bae9e63374e37c42cc3c3e26a2f1b2bd845d07",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD Commits Up to $5 Billion as Anthropic Targets 2 Gigawatts of AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6a8c49b3fafb6144fd7fc734c5d941f71dbcccba835b8fb5b5c1314fbeb2489",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29996d88d3af8c7f068ce666c10540cc07f0abad1c1beddbcdf536d1582d29cc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia highlights Vera CPU strategy as AI infrastructure debate evolves",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f6eb5f9deb4a7bb66454d24cd87750e01bb2e94d154192268a8204a46144cb9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "New payment method",
+      "headline": "Apple rewrites how Americans pay for iPhones",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9fecb5064c65b1ba140a34afc3cd94965edaf03846552a908c6aac44cac1dd5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple rewrites how Americans pay for iPhones",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9fecb5064c65b1ba140a34afc3cd94965edaf03846552a908c6aac44cac1dd5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "These dow jones stocks are moving in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4dd21184d1462d0068ff987aa2f82ff81b64ca5662220094fa95e645bdec6773",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Can Alphabet Set the Tone for Mag 7 Earnings?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2561a736427451772d42f6276ae14094092c916df6ea79268e8380713671b9b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Fails to Overturn $634 Million Masimo Verdict",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=26ac5c70ade1dcc2b150e4fdd59c777f3abe258343b1d0a1eec44fe196037309",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's How Much Berkshire Hathaway's Apple Stake Would Be Worth If Warren Buffett Never Sold a Share",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab9c332e2389857ac2663c20b2418573c6ae3e58bb004b606f1983563726571a",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "AMD dominance",
-      "headline": "AMD\u2019s Microsoft Win Signals Dominance Over NVIDIA and Our Price Target Reflects It",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI infrastructure debate",
+      "headline": "Nvidia highlights Vera CPU strategy as AI infrastructure debate evolves",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=344f88558f39e603d279a9f9547f66fa5d5b66b92e215cf4b3e022a931b77ffd",
+      "url": "https://finnhub.io/api/news?id=5f6eb5f9deb4a7bb66454d24cd87750e01bb2e94d154192268a8204a46144cb9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD\u2019s Microsoft Win Signals Dominance Over NVIDIA and Our Price Target Reflects It",
+          "headline": "Nvidia highlights Vera CPU strategy as AI infrastructure debate evolves",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=344f88558f39e603d279a9f9547f66fa5d5b66b92e215cf4b3e022a931b77ffd",
+          "url": "https://finnhub.io/api/news?id=5f6eb5f9deb4a7bb66454d24cd87750e01bb2e94d154192268a8204a46144cb9",
           "used_by_ai": true
         },
         {
           "headline": "What's going on in today's session: S&P500 most active stocks",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=0807893a2820d82d1d2cd8a640168910b0d09b726b3bef954c6252b869aab02c",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Curious about the most active stocks on Wednesday?",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=996d1e8349f95b4f81084a2fbeba929f0a7daca6bf8eb0c655019da2f76018e7",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Predicting SpaceX's Valuation at the End of 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f902b62c1878ff47a4a213cf04d124b3aca610e4237872bb423d8eb07bda3915",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "IonQ vs. Quantinuum vs. Infleqtion vs. Rigetti vs. D-Wave: Which Is the Best Quantum Computing Stock to Bet On?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4c36c90f6cf0b6c6240cd3019b350bdd171fea6dacca217eab483fc90a1c8dde",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Failed to overturn verdict",
+      "headline": "Apple Fails to Overturn $634 Million Masimo Verdict",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26ac5c70ade1dcc2b150e4fdd59c777f3abe258343b1d0a1eec44fe196037309",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Fails to Overturn $634 Million Masimo Verdict",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=26ac5c70ade1dcc2b150e4fdd59c777f3abe258343b1d0a1eec44fe196037309",
+          "used_by_ai": true
+        },
+        {
+          "headline": "These dow jones stocks are moving in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4dd21184d1462d0068ff987aa2f82ff81b64ca5662220094fa95e645bdec6773",
           "used_by_ai": false
         },
         {
-          "headline": "The AI Boom's Best-Kept Secrets: 3 Companies Flying Under the Radar",
+          "headline": "Can Alphabet Set the Tone for Mag 7 Earnings?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f921f9699f6c1aa7cad8b998083012349fbe84643243d7bf2ed9859cf4cc2e",
+          "url": "https://finnhub.io/api/news?id=e2561a736427451772d42f6276ae14094092c916df6ea79268e8380713671b9b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple rewrites how Americans pay for iPhones",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9fecb5064c65b1ba140a34afc3cd94965edaf03846552a908c6aac44cac1dd5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's How Much Berkshire Hathaway's Apple Stake Would Be Worth If Warren Buffett Never Sold a Share",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab9c332e2389857ac2663c20b2418573c6ae3e58bb004b606f1983563726571a",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "ChartMill": 2
+        "ChartMill": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI and cloud growth",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Data and access risk",
       "headline": "Weak Microsoft 365 Governance Raises Data and Access Risk as AI and Collaboration Expand, Says Info-Tech Research Group",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=429d4e4367d470bcc41890728cf8cf62c93c0a6e22773105b6551948b8af0ef0",
@@ -119,36 +265,30 @@
           "headline": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8a50158d98402a73806368478e0eb540894380a98468378b4339e14231c1c52e",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "INFQ Stock Surges After Three DOE Awards In $5B Genesis Mission \u2013 HPE, WLY Also Gain On Joining Federal AI Initiative",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1b5023de69d74c6f955b003632a3fc15b5e4095e118c5d40814a9a6ee6c262b1",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Evercore: Alphabet Needs 17%+ Search Growth and 70%+ Cloud Growth to Beat Q2 Expectations Tonight",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b8d122f2a446abd7d3018c16d73881d0e027ce9cd0f0a9c48488643eeb5be3e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD, Cerebras Strike AI Chip Deals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=569ef0cb986ff84c05aa170c2e6b86de1b08200008ca378ba03967aa72f7d748",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 50,
       "reason": "Earnings anticipation",
       "headline": "Tesla Earnings, Elon Musk Loom: What Investors Want To Know (Live Coverage)",
       "source": "Yahoo",
@@ -178,70 +318,57 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=702be184ef0ef8dc53ea23cbc07b97259bee8d340ea3829152047f80f137723e",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Dow Wavers As Oil Jumps; SMCI Surges With Alphabet, Tesla Earnings Next (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f0e1dcddeb9f935695a553ebabef48c39162bad9f9afecfeb1fc7ce9e489fec",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Valuation metrics",
-      "headline": "A 15% \u201cDividend\u201d ETF With Berkshire Stocks? Read This Before You Buy a Single Share",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "New industry prediction",
+      "headline": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b393f7a81a35f74ee34e22cbc1d3576ed3174a38395435c3d845cc8a0a29355c",
+      "url": "https://finnhub.io/api/news?id=8a50158d98402a73806368478e0eb540894380a98468378b4339e14231c1c52e",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "A 15% \u201cDividend\u201d ETF With Berkshire Stocks? Read This Before You Buy a Single Share",
+          "headline": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b393f7a81a35f74ee34e22cbc1d3576ed3174a38395435c3d845cc8a0a29355c",
+          "url": "https://finnhub.io/api/news?id=8a50158d98402a73806368478e0eb540894380a98468378b4339e14231c1c52e",
           "used_by_ai": true
         },
         {
-          "headline": "Is Apple stock overvalued? Here's what AlphaSpace valuation metrics say.",
+          "headline": "INFQ Stock Surges After Three DOE Awards In $5B Genesis Mission \u2013 HPE, WLY Also Gain On Joining Federal AI Initiative",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6172dc7eee68a013f1e00c16b2ed788e37c0b8c9e772af065e971213f963b14",
+          "url": "https://finnhub.io/api/news?id=1b5023de69d74c6f955b003632a3fc15b5e4095e118c5d40814a9a6ee6c262b1",
           "used_by_ai": true
         },
         {
-          "headline": "Intel Earnings Might Prove the AI Boom Is Still Going Strong \u2014 Or About to Stall",
+          "headline": "Evercore: Alphabet Needs 17%+ Search Growth and 70%+ Cloud Growth to Beat Q2 Expectations Tonight",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=532e8f5fb2842bad2273b9b52e92d111f8e69c288c55b837604804e8a55ed0ae",
+          "url": "https://finnhub.io/api/news?id=b8d122f2a446abd7d3018c16d73881d0e027ce9cd0f0a9c48488643eeb5be3e2",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Stock Rides a Familiar Current",
+          "headline": "Weak Microsoft 365 Governance Raises Data and Access Risk as AI and Collaboration Expand, Says Info-Tech Research Group",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c49da882a000d5c8fbe0c1f26515fe491dfdc5e9b111bb4e27414e0e5ab3504e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "These dow jones stocks are moving in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=3ae5da22deda5e2f9aa4fc64d027850081313f2da93c31fc2e6ffa8ecaacc33a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=429d4e4367d470bcc41890728cf8cf62c93c0a6e22773105b6551948b8af0ef0",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
+      "confidence": 40,
       "reason": "Market mixed",
       "headline": "SPHD\u2019s 4.4% Yield Grows While Market Swings Slow to Half Speed",
       "source": "Yahoo",
