@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T07:10:09Z",
+  "updated_at": "2026-07-22T09:59:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,99 +8,141 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "NVIDIA",
       "direction": "up",
       "confidence": 80,
-      "reason": "Supplier launches factory",
-      "headline": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
+      "reason": "Multiple AI deals",
+      "headline": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eca9306c8b2e0b68b67e60dbdeab85c3962308c673881647e97c2d9976b74be7",
+      "url": "https://finnhub.io/api/news?id=641e481b5cd98ece8e475c7a0d7a94b4967b6a92b0408a7e2473242b643b214a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
+          "headline": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eca9306c8b2e0b68b67e60dbdeab85c3962308c673881647e97c2d9976b74be7",
+          "url": "https://finnhub.io/api/news?id=641e481b5cd98ece8e475c7a0d7a94b4967b6a92b0408a7e2473242b643b214a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=035c5b7ecd578ef595daf50cd237bd631c2f9601057e823886c8c330a1769cfe",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NIO Stock Stares At Another Red Month \u2014 But Morgan Stanley Says Nvidia-Rivaling AI Chip Arm Could Be Nio\u2019s Valuable Call Option",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=12cae59e94dc4cf65e82ccea7b7c5792071631aae946c4a217022747dae8d39a",
           "used_by_ai": true
         },
         {
           "headline": "Why AppLovin Stock Fell 24% in the First Half of 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=357e3587b8c40a40a5eaa8d26592369ba45c4e0c1fa3bbcfd8c14deb03b48e7d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Upstart Stock Lost 19% in the First Half of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=158f3360b627633c85a7de2a9b27e7b0f72f5b19c56607b1c8029da950d17b99",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk Says the Short Sellers Betting Against SpaceX Have a \"Very Low\" Survival Probability. Their Bets Now Equal 32% of the Float.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e13988660ed5618445cdfd6e1a7c7058425d1012b3c87e77698294db35d8a8e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why AMD Stock Jumped Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0ac61bfb7f9a3521ac13da565896be012c21e5c70eb886adb695470398986fd",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Unbreakable ecosystem",
+      "headline": "STARTRADER Introduces 24/7 US Stock CFDs Across NVIDIA, Apple, Meta, and Leading Global Equities",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f2fef42a6dff4bd94a76c131e77822eae5424d11565932977653e069c6cf273",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "STARTRADER Introduces 24/7 US Stock CFDs Across NVIDIA, Apple, Meta, and Leading Global Equities",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f2fef42a6dff4bd94a76c131e77822eae5424d11565932977653e069c6cf273",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer vs. The AI Bears: Why Apple\u2019s Consumer Ecosystem Remains Unbreakable",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=802b79d0974a891d5e8e7125a2d021506a35e216ec326b3f757c3de3a532a655",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Kicks Off Mag 7 Earnings, and It\u2019s Going to Be an AI Spending Palooza",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c186fbbec7c5f43075ae3e5de5b894f6c579b2e9ec8e54288736a7f1c8cdc216",
+          "used_by_ai": true
+        },
+        {
+          "headline": "At AI's Edge: Precision Hardware Is Moving From Data Centers To Devices",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3bbc070dd85b5b2b6fd167207eeb5db0056afc241d3c5a5c4905d22ddb78b3a1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Challenges of the China Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3d4894e9b752221796d3ae64eefbae193820b26bbb5a5a6d7c145a75a0a3b790",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Stock jumps ahead of report",
-      "headline": "TSLA Stock Jumps 3% Ahead Of Q2 Report \u2014 Analysts Split On Earnings Beat Expectations And Tesla\u2019s Overpromise Problem",
+      "confidence": 60,
+      "reason": "Earnings expectations",
+      "headline": "Adam Smith\u2019s \u2018Wealth of Nations\u2019 Helped Create the World\u2019s Wealthiest Nation",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b33ff048d58d6077184777f718536c3803c4d39a6f857c1b0add5303b5ae3776",
+      "url": "https://finnhub.io/api/news?id=7d8422e161a2b8c7fe81203d712337b89abac4172743ea5212b8f11917533e49",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "TSLA Stock Jumps 3% Ahead Of Q2 Report \u2014 Analysts Split On Earnings Beat Expectations And Tesla\u2019s Overpromise Problem",
+          "headline": "Adam Smith\u2019s \u2018Wealth of Nations\u2019 Helped Create the World\u2019s Wealthiest Nation",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b33ff048d58d6077184777f718536c3803c4d39a6f857c1b0add5303b5ae3776",
+          "url": "https://finnhub.io/api/news?id=7d8422e161a2b8c7fe81203d712337b89abac4172743ea5212b8f11917533e49",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Nightview Fund Q2 2026 Portfolio Review",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=925f2d2cd5183e905c76db0ac94ad4ba67d3d7ef11f456f8c16062bc4b42e24a",
           "used_by_ai": true
         },
         {
           "headline": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ee7401357235bdf74cadbf784bbfe4bdf082bbf6511598f2fe1405b3979d6ec3",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Tesla Earnings Today: What to Expect as Investors Eye Profit Margins Over Deliveries",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6321a260d3689e124384c708773680a718e602107d55f82950febb3c73427ce1",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "Review & Preview: Bounce",
+          "headline": "TSLA Stock Jumps 3% Ahead Of Q2 Report \u2014 Analysts Split On Earnings Beat Expectations And Tesla\u2019s Overpromise Problem",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8f649a4efad634ffd14b165dbf3396e46a689dec6ebba5d26c2ba4fa58c2463",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk Says Traffic Will Get Worse With Robot Cars, Reaffirms Tesla FSD Will Remember Individual Preferences",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=131e57cda6b1f7d385b0b2e75121b89ea895c01517c8b511538b3a14bb3626fa",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=b33ff048d58d6077184777f718536c3803c4d39a6f857c1b0add5303b5ae3776",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -108,12 +150,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Stock gets new reason to watch",
-      "headline": "AMD stock gets a new reason to watch from Bank of America",
+      "reason": "Stock jump",
+      "headline": "Why AMD Stock Jumped Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5dfb0825ef73a9a39b7d9e995b186baa539ad8c47004ebcaad5bf46975dd9154",
+      "url": "https://finnhub.io/api/news?id=e0ac61bfb7f9a3521ac13da565896be012c21e5c70eb886adb695470398986fd",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Why AMD Stock Jumped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0ac61bfb7f9a3521ac13da565896be012c21e5c70eb886adb695470398986fd",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD stock gets a new reason to watch from Bank of America",
           "source": "Yahoo",
@@ -121,16 +169,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7454b8e8917d23a81cfcfd4ac5660cc4b8539aae476dbe99c45b46871a3256a6",
-          "used_by_ai": true
-        },
-        {
           "headline": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=33e550143a28a9825056f8bd6237a6df705c8ce63ed6c40c3f286db08b6cc936",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -140,96 +182,75 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "down",
       "confidence": 50,
-      "reason": "Credit and business applications strong",
-      "headline": "Credit And Business Applications Sit Strong",
+      "reason": "Market volatility",
+      "headline": "GPU Depreciation May Crush The Software Sector Margins",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=188a3814035ca53cd6e6cdb63bbb202b62eca91365e4716028f787c70355382f",
+      "url": "https://finnhub.io/api/news?id=a8fa83b2dafdbdd63d702b1df54ad081fb466d318635f35c2420bfb1f556f939",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Credit And Business Applications Sit Strong",
+          "headline": "GPU Depreciation May Crush The Software Sector Margins",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=188a3814035ca53cd6e6cdb63bbb202b62eca91365e4716028f787c70355382f",
+          "url": "https://finnhub.io/api/news?id=a8fa83b2dafdbdd63d702b1df54ad081fb466d318635f35c2420bfb1f556f939",
           "used_by_ai": true
         },
         {
-          "headline": "Your SPLG Position Is Stretched, What's Next?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1301dbc08fd173d8abc14911d8331308b7a3696cf27d1668f8a74eb6981e17d",
-          "used_by_ai": false
+          "headline": "Yields Rise, Markets Pricing In A Longer Energy Shock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6c6037d2b72ba0f976a47ac5a464f8d075a8641db13be881d5adf69c2669e029",
+          "used_by_ai": true
         },
         {
-          "headline": "What Are You Really Paying For Inside VOO?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7604dbf9e7f72c31f6460550d99a32465e6a48944a11fafbb9eaed21697130f8",
-          "used_by_ai": false
+          "headline": "Flash PMI Surveys To Help Assess Ongoing War Impact",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7698197fdb576352c0fae424c2fefe322e531b2723581a1ca59770f3fdf926a9",
+          "used_by_ai": true
         },
         {
-          "headline": "Netflix \u201cIs Not a Broken Company\u201d and Trades At Just 19x Earnings. Jim Cramer Says Start Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=96c9242c934df2be278fbfc093a0d7774de988c8e959a12a9da323085e91d4ea",
-          "used_by_ai": false
+          "headline": "Demand For Consumer Services Has Been Volatile So Far In 2026 Due To Middle East War",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2824cbb1ea44af7ef69426b1400456471f92789c62906ed8a4146da7f5a796fd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Economies Central To AI Development Drive Global Manufacturing Growth",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=292b36e90b71fc539d0e1edb7d6efc26c8a3dbe1e4e725b5de84ef76d5df1518",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 3
+        "SeekingAlpha": 5
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Prepares new way to buy iPhones",
-      "headline": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html",
+      "reason": "AI spending",
+      "headline": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market\u2019s Next AI Trade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48c28d1cec8b2b25f3a4eb576e8fb57933b432600628e742b14394dcd5344b79",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html",
+          "headline": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market\u2019s Next AI Trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=48c28d1cec8b2b25f3a4eb576e8fb57933b432600628e742b14394dcd5344b79",
           "used_by_ai": true
         },
         {
-          "headline": "The Challenges of the China Market",
+          "headline": "Is Washington Building a Tariff Wall Around American AI?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3d4894e9b752221796d3ae64eefbae193820b26bbb5a5a6d7c145a75a0a3b790",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Single Stock Futures: Back To The Future (And This Time It Might Actually Stick)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=78efc3f0ec9e918873852a9d30aab3195f0363d753bc498af57e45b35ee7bef6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afdd25ae64f95f14972bac90d5dd5b82754d80463fc2bbb0b249de2e16c2fa58",
-          "used_by_ai": false
-        },
-        {
-          "headline": "IC Group Secures Exclusive Canadian Aggregator Rights to Bullet's Messaging Platform",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2b8a082039e44b8ea029ef7402c69169bb45cf6a15747d6741e94c3fab65fb9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a2a56e6542acadf36e5acae59b25b1cca4de20d66a8e553fec1584480a9e985",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=50badeebfa4bf791bc851b7cdaa0f7be9413539d4525041bcc9f93f1651a38f4",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "CNBC": 1,
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 2
       }
     }
   ]
