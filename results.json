@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T23:03:06Z",
+  "updated_at": "2026-07-23T01:00:30Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,12 +16,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 90,
-      "reason": "Multibillion-dollar deal",
-      "headline": "AMD inks blockbuster multi-billion-dollar Anthropic AI deal",
+      "reason": "Lands $5B deal",
+      "headline": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f5ffd2a6e64ab4373d6695a0ea88e08ea14c2e2874d684770f84cf297dcd3dc",
+      "url": "https://finnhub.io/api/news?id=0eb11e72fdbf11ac8d3cca9fd1bfa850d96a60a25683c46657d522ef2a3c62e6",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0eb11e72fdbf11ac8d3cca9fd1bfa850d96a60a25683c46657d522ef2a3c62e6",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD inks blockbuster multi-billion-dollar Anthropic AI deal",
           "source": "Yahoo",
@@ -35,61 +41,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Super Micro, ServiceNow, GE Vernova, and More Stocks That Explain Today\u2019s Market",
+          "headline": "Tesla's New AI Business Idea Could Help Intel",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f8bbeb9a18d58aa1688cb4a33383579c90ebb788dd761ba4eb7fb04e2b9af5af",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Lands Multibillion-Dollar Anthropic Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bfa10455c0af000d1bc4ee0c47bae9e63374e37c42cc3c3e26a2f1b2bd845d07",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 80,
-      "reason": "Earnings miss",
-      "headline": "Tesla Earnings Miss Despite Strong EV Sales; Elon Musk On Call (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cfff9bbde5e5d54386733bcbe362c5d225daf5457fef7c29ac69a397ab1621e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Earnings Miss Despite Strong EV Sales; Elon Musk On Call (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3cfff9bbde5e5d54386733bcbe362c5d225daf5457fef7c29ac69a397ab1621e",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=9ad5db549a387e9e8d361d3b106c71f2c7263ee7821451d7cbd93d575e7d3038",
+          "used_by_ai": false
         },
         {
           "headline": "Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla\u2019s (NASDAQ:TSLA) Q2 CY2026: Beats On Revenue",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e74012f5650dda12435da530665a31260ce14bf38d4910e1cee07c1dc9c64ac",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Tesla Stock Isn't Down More",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d8df53ffd4ab596ed5ba7798643107d2e12047e59812a93e4dbd8ba9c374410",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Crypto Market Today, July 22: Clarity Act Progress Balances Inflation Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8230105a9a3331ee103e281440d2d79ac30af50b122d36a3cd0cc43125447c7e",
           "used_by_ai": false
         }
       ],
@@ -100,42 +60,134 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Beats revenue",
-      "headline": "Tesla\u2019s (NASDAQ:TSLA) Q2 CY2026: Beats On Revenue",
+      "direction": "down",
+      "confidence": 80,
+      "reason": "Musk warns of rising capex",
+      "headline": "TSLA Stock Continues Slide After Musk Says \u2018A Little Less Capital Efficient\u2019 Is Acceptable \u2014 Warns Of Rising Capex for Next 2-3 Years",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e74012f5650dda12435da530665a31260ce14bf38d4910e1cee07c1dc9c64ac",
+      "url": "https://finnhub.io/api/news?id=3eaa9227ae9840233d089f1c9b1b915366a04e35b0e8daa10f6ab817dd78bb0a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla\u2019s (NASDAQ:TSLA) Q2 CY2026: Beats On Revenue",
+          "headline": "TSLA Stock Continues Slide After Musk Says \u2018A Little Less Capital Efficient\u2019 Is Acceptable \u2014 Warns Of Rising Capex for Next 2-3 Years",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e74012f5650dda12435da530665a31260ce14bf38d4910e1cee07c1dc9c64ac",
+          "url": "https://finnhub.io/api/news?id=3eaa9227ae9840233d089f1c9b1b915366a04e35b0e8daa10f6ab817dd78bb0a",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",
+          "headline": "Tesla-SpaceX merger? Musk cites 'more and more overlap'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=73061fdee9a2c3ce8970245394d763decae1662c6d500e1a6255aaec9d014bae",
+          "used_by_ai": true
         },
         {
-          "headline": "Tesla Earnings Miss Despite Strong EV Sales; Elon Musk On Call (Live Coverage)",
+          "headline": "S&P 500, Nasdaq close lower ahead of technology earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3cfff9bbde5e5d54386733bcbe362c5d225daf5457fef7c29ac69a397ab1621e",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=ba43b11b1b2063fcfb489a082dbba954ff9918722309e96cf71ebd3882b99b0c",
+          "used_by_ai": true
         },
         {
-          "headline": "Why Tesla Stock Isn't Down More",
+          "headline": "Tesla Holds Bitcoin Position Steady as Digital Asset Loss Reaches $112M",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d8df53ffd4ab596ed5ba7798643107d2e12047e59812a93e4dbd8ba9c374410",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=b1253ea8b58935e403ae986ef9598af79a0907ae4c5dbcc3f707c6e5f2437153",
+          "used_by_ai": true
         },
         {
-          "headline": "Crypto Market Today, July 22: Clarity Act Progress Balances Inflation Fears",
+          "headline": "Tesla Q2 Earnings Call Highlights",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8230105a9a3331ee103e281440d2d79ac30af50b122d36a3cd0cc43125447c7e",
+          "url": "https://finnhub.io/api/news?id=6d4dfb4b4872f6cef3d45aa7ede6e04242deb2a18b33b08cc3fb6cd8bce9c49a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Reveals 9.3% stake",
+      "headline": "Nvidia Just Revealed It Owns 9.3% of Nebius. The Stock Jumped Nearly 19% on Tuesday -- Here's What Nvidia Is Actually Buying.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24a8d0f78e1e073f77da2840574713a5973aff3c4cc03d6763f82881ee23d592",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia Just Revealed It Owns 9.3% of Nebius. The Stock Jumped Nearly 19% on Tuesday -- Here's What Nvidia Is Actually Buying.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=24a8d0f78e1e073f77da2840574713a5973aff3c4cc03d6763f82881ee23d592",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This 1 Momentum ETF Is Still Beating the S&P 500 With Lower Drawdowns",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4a98cf327fe2b5e75d4193316e98e32031d6393fbdb399ecb335bd78f6d86939",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Constellation Energy Stock Blasted Higher on Wednesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a40fd45de8c3e64d4a7ce746fb57afde80c6d4335daaefaf4bed3ac8ab620ceb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why AT&T Stock Rallied Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b9b3588012068785e6dd6872c2d327fc0f69d36ca87f83d8a1c842c7719aab24",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Ferrari Is a Better Buy Than Ford for the Next Decade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=828fd14fca5ba69e3e38fff52ca161f1233e2831b4a3e6d1bebe67b1479d9ca9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Eyes AI demand",
+      "headline": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5afbca660a71ac38443ab27bfd992f205d6ee1cbc11e9f6c217f570babec2b83",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5afbca660a71ac38443ab27bfd992f205d6ee1cbc11e9f6c217f570babec2b83",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c0caf67d5214868a9460d30ce8f62ac69385702c4173daa99031219caedf27ae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Eyes AI Demand With Mac Updates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=860b96ea10147303acd601e206df4d001162f6ab5d35a205aeb51356c9228a25",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Risk in Apple's Stock That Nobody Is Talking About",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93afc0317a5b0b8f817735b359bc8175f86749cb0b85cf619e0d3ec0f4bd6408",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Stock Falls as AI Spending Continues to Mount",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3267226100aa23228c480a529cf298e0b879b8f0fb289fedd2daa6d627786b2f",
           "used_by_ai": false
         }
       ],
@@ -147,13 +199,19 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Retail investors buying",
-      "headline": "Here\u2019s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
+      "confidence": 50,
+      "reason": "Retail investors buy",
+      "headline": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1add48ea5cf25e73d489b45314971d2f80329cff2dfc7e5a91254e8e4f3494a2",
+      "url": "https://finnhub.io/api/news?id=ba97f512051bcb3ff34f5b053034254bf48537ab59106dd3a8836af4d4cb86cb",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba97f512051bcb3ff34f5b053034254bf48537ab59106dd3a8836af4d4cb86cb",
+          "used_by_ai": true
+        },
         {
           "headline": "Here\u2019s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
           "source": "Yahoo",
@@ -164,155 +222,63 @@
           "headline": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=be503855ab24e806291590eed486d6335f2fedc1957adc43a3152faea511cd3b",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "AXT Announces Jia-Bin Duh Appointed to AXT, Inc. Board of Directors",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=857ad14ad803b7e0791c3f9f1abc53d4020f26e2cf0e98d94d50d1a2b7f88370",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Majority of Residents Oppose AI Data Center Construction in Their Area, Redfin Survey Shows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e166e1b279f8592a46db6bb7e796d45128951d99cdd24ea39d01ddd6756abeea",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI demand",
-      "headline": "Apple Eyes AI Demand With Mac Updates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=860b96ea10147303acd601e206df4d001162f6ab5d35a205aeb51356c9228a25",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Eyes AI Demand With Mac Updates",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=860b96ea10147303acd601e206df4d001162f6ab5d35a205aeb51356c9228a25",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Stock Falls as AI Spending Continues to Mount",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3267226100aa23228c480a529cf298e0b879b8f0fb289fedd2daa6d627786b2f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0caf67d5214868a9460d30ce8f62ac69385702c4173daa99031219caedf27ae",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Risk in Apple's Stock That Nobody Is Talking About",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93afc0317a5b0b8f817735b359bc8175f86749cb0b85cf619e0d3ec0f4bd6408",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel Earnings Face Sky-High Expectations",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac84178370275a17be7f637851d191a89717238d584ff943530c3dbf64a9156b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Bullish calls",
-      "headline": "CoreWeave and Nebius Get Bullish Calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b9d9b07c420f8516ed44ed981050e9758f19707f49b138b0c6fecfaab8ac756",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "CoreWeave and Nebius Get Bullish Calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b9d9b07c420f8516ed44ed981050e9758f19707f49b138b0c6fecfaab8ac756",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Metropolitan Bank Stock Sank by Nearly 9% Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fdc4689b2ba6f21094add97b13718b50e13b7711b18bc0876ef3807556102c30",
-          "used_by_ai": false
-        },
-        {
-          "headline": "VPFF: Virtus\u2019s Latest Income Play Charges 0.80% to Beat Preferred Stock Indexes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cdb34164761510a5fc29485bbc3e32da65653d4724cbc95a054f450178b494c0",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rocket Lab Shares Are Sliding: What Investors Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74c245a3f3a257493331ac4760d49f4bb9d1bc93b5729d05bf92e8ff0e912384",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Plans Starship Launch For Tomorrow. Here's What Investors Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f03d638488da0adfb542dd4835428ba5b91e33a3da380636b8d38215febef06",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market news",
-      "headline": "Everyone\u2019s Launching an ETF\u2026 But Should They?",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Market drops",
+      "headline": "When the Market Drops, the IRS Quietly Discounts Your Roth Conversion. Here\u2019s the Math at $500,000",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07a253e741429fed3c54c3d78f60329c6e299dc8c5c6a36b95bf92f1aaec1412",
+      "url": "https://finnhub.io/api/news?id=05fd92d46e7f046133d0a9de3b90e201918c30080f4282772774d404e7abc31f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "When the Market Drops, the IRS Quietly Discounts Your Roth Conversion. Here\u2019s the Math at $500,000",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05fd92d46e7f046133d0a9de3b90e201918c30080f4282772774d404e7abc31f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Brent Sullivan: Why 351 Exchange ETFs Are Now Everywhere",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c986906cfdcac6ab136e188f23f0d938f37388a13bd0d3052e946f8972bf3bbd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500, Nasdaq close lower ahead of technology earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba43b11b1b2063fcfb489a082dbba954ff9918722309e96cf71ebd3882b99b0c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics \u2014  TSLA, GOOGL, PSKY, RDDT, AMZN In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=24441d5b69bec9180c7543603d204dc8efb0485823bbc745ed49a14d93d605b5",
+          "used_by_ai": true
+        },
         {
           "headline": "Everyone\u2019s Launching an ETF\u2026 But Should They?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=07a253e741429fed3c54c3d78f60329c6e299dc8c5c6a36b95bf92f1aaec1412",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq Weak As Oil Rises; GE Vernova Slides, SMCI Spikes (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f7854f7907085c37f467530ea17358f66352c12dea1da8f52b9086686fc4511",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5386894844c46df56db4b221ac9364e1372445e1eecb90c6db79230d644e2ee8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Want an Extra $100 Per Month? Put This Much Into the SPYI ETF",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e6a449c951663340299928d86698ea3cd0b2fe1919ab190450bed65c7f1d64e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     }
   ]
