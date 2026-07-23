@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T10:22:26Z",
+  "updated_at": "2026-07-23T12:09:32Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,10 +12,64 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Strong growth profile",
+      "headline": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NVIDIA Corp (NASDAQ:NVDA) is a Quality Stock with a 125% ROIC and Strong Growth Profile",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=875cfebb40ad349c6ab28539dd3a0470ec171eb0c73ada4dba36cfe37ba3d767",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett's Berkshire Hathaway Has Barely Touched AI Stocks. This 1 Subsidiary Is a Backdoor AI Winner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f2952fa976013b1563561149f910323c230ac7b658348a6da7b67825f0402a89",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is IonQ Stock a No-Brainer Buy? Here's What History Says.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8194f382f2b608878a1c1a45f8879b33aa21521c4499f136856dd3634c75260",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How Much Could $5,000 Invested in SK Hynix Be Worth in 5 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4597d80915830f5ffa17e971ecaf9f0a5c715c9dbb1838024f6ec2297e8a38d7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "$1 Trillion Anthropic IPO Is a Go. Here\u2019s Why I Won\u2019t Touch It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7cd9f1d3c0b9baa971a68743b62299f7bec25074c23cbcad4730d7e59fffab69",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "CNBC": 1,
+        "ChartMill": 1,
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "Q2 profit plunge",
       "headline": "Tesla's once-bullish tone on robotaxis shifts",
       "source": "Yahoo",
@@ -62,7 +116,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI infrastructure deal",
+      "reason": "Long-term server CPU deals",
       "headline": "Anthropic selects AMD Helios for 2GW GPU AI infrastructure",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1d4190a6adb260312befe9b158c3b9980e3297b4dc292430640a99efb238aa6b",
@@ -96,30 +150,12 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "device-leasing program",
-      "headline": "Alphabet Stock Is Falling as AI Spending Continues to Mount",
+      "reason": "Device-leasing program",
+      "headline": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3184d88998bc8e339249f324e06e1d4051cf945c0c76789e37a5300d9726a303",
+      "url": "https://finnhub.io/api/news?id=063c5574f26a2ac713eeec851e1506cabc58c1230bf19dc15a1af8c01f9525c7",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Alphabet Stock Is Falling as AI Spending Continues to Mount",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3184d88998bc8e339249f324e06e1d4051cf945c0c76789e37a5300d9726a303",
-          "used_by_ai": true
-        },
-        {
-          "headline": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6921cbc4bc1001bbab2dd8c9263d55fa0bf285a4c4ed81ec845b5df05330c053",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f5276c67732491accbb894c5d58b364130a99a44b6086b3321c9e4036dae79e",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
           "source": "Yahoo",
@@ -127,10 +163,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "Alphabet Stock Is Falling as AI Spending Continues to Mount",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3184d88998bc8e339249f324e06e1d4051cf945c0c76789e37a5300d9726a303",
+          "used_by_ai": false
+        },
+        {
+          "headline": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6921cbc4bc1001bbab2dd8c9263d55fa0bf285a4c4ed81ec845b5df05330c053",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f5276c67732491accbb894c5d58b364130a99a44b6086b3321c9e4036dae79e",
+          "used_by_ai": false
+        },
+        {
           "headline": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c5352e9cbedbc3050cc1d9117ef1436e2161cf9163502022bd3d3b6e1505561f",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -142,7 +196,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI and earnings",
+      "reason": "Weathering SaaSpocalypse",
       "headline": "CRM, MSFT Are Already Weathering The 'SaaSpocalypse' \u2014 Now Jack Dorsey's Block Is Buzzing In With A New AI Rival",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3082b1a0fd17537006e6197ed10ad6a35d08265ea76861d6df257cf299865149",
@@ -185,57 +239,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI-related news",
-      "headline": "Is IonQ Stock a No-Brainer Buy? Here's What History Says.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8194f382f2b608878a1c1a45f8879b33aa21521c4499f136856dd3634c75260",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Is IonQ Stock a No-Brainer Buy? Here's What History Says.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a8194f382f2b608878a1c1a45f8879b33aa21521c4499f136856dd3634c75260",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Much Could $5,000 Invested in SK Hynix Be Worth in 5 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4597d80915830f5ffa17e971ecaf9f0a5c715c9dbb1838024f6ec2297e8a38d7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "$1 Trillion Anthropic IPO Is a Go. Here\u2019s Why I Won\u2019t Touch It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cd9f1d3c0b9baa971a68743b62299f7bec25074c23cbcad4730d7e59fffab69",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett's Berkshire Hathaway Has Barely Touched AI Stocks. This 1 Subsidiary Is a Backdoor AI Winner",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2952fa976013b1563561149f910323c230ac7b658348a6da7b67825f0402a89",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire Ken Griffin of Citadel Dropped a Can't-Miss, 2-Word Reality Check on the AI Revolution",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=adacc43e2bd6addd412935966f5aa41430f3682a9a6a67cd1a0de17842cc125c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "market news",
+      "reason": "Market mixed signals",
       "headline": "When Monetary Policy Surprises Stop Translating",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a5b1861c0059fefc635c4a2776a52193af8a73a05ba784717c32a98a2fd29371",
