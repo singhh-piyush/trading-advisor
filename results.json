@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:35:26Z",
+  "updated_at": "2026-07-23T22:03:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 80,
       "reason": "Analysts warn of pressures",
       "headline": "Alphabet, Tesla Shares Drop as Analysts Warn of Pressures to Free Cash Flow Amid Ballooning CapEx",
       "source": "Yahoo",
@@ -56,13 +56,37 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 55,
-      "reason": "Chinese CEO outlines bear case",
-      "headline": "A Chinese CEO Just Outlined the Bear Case for NVIDIA. It Should Terrify Owners of the Stock.",
+      "confidence": 70,
+      "reason": "Bear case outlined",
+      "headline": "Donald Trump's USTR Hit Brazil With a 25% Section 301 Tariff on July 15. Here's How That Could Play Out for These 2 Stocks.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0a407226a9a889404fbb9f82fcd4f3674698b199c926f93b39c19f533387f54",
+      "url": "https://finnhub.io/api/news?id=c48a744abe2676379a831b8ad1799bf89f2d4d53d96d9b2ca0d97213a6164195",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Donald Trump's USTR Hit Brazil With a 25% Section 301 Tariff on July 15. Here's How That Could Play Out for These 2 Stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c48a744abe2676379a831b8ad1799bf89f2d4d53d96d9b2ca0d97213a6164195",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d6b3e1df12292ffbe4ed84c37916fb3490b803b242db182fe789d56771bd98a5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6a6ced557f1241da704aff25993dcf2a781f20ef6a9f5aa6ff366c4225fba848",
+          "used_by_ai": true
+        },
         {
           "headline": "A Chinese CEO Just Outlined the Bear Case for NVIDIA. It Should Terrify Owners of the Stock.",
           "source": "Yahoo",
@@ -73,30 +97,6 @@
           "headline": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=12a0c6d9ffe20dd1c4c481b339c60c221a447f25a86491ebfa731fcb50b44ab6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Donald Trump's USTR Hit Brazil With a 25% Section 301 Tariff on July 15. Here's How That Could Play Out for These 2 Stocks.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c48a744abe2676379a831b8ad1799bf89f2d4d53d96d9b2ca0d97213a6164195",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6b3e1df12292ffbe4ed84c37916fb3490b803b242db182fe789d56771bd98a5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a6ced557f1241da704aff25993dcf2a781f20ef6a9f5aa6ff366c4225fba848",
           "used_by_ai": false
         }
       ],
@@ -108,105 +108,60 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "New Helios AI rack system",
-      "headline": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
+      "confidence": 60,
+      "reason": "New AI system",
+      "headline": "Which S&P500 stocks are moving after the closing bell on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d32847d0307152ac4528851d0189d27c3f79291e50e1560ca3d49c3033173e86",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Schneider Electric and AMD release first Helios platform reference design to accelerate AI Factory deployment",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=62b83d81f050dd437ecd8b022677eb4b073709edc5f8d7a01b90c0a6fac24dda",
+          "headline": "Which S&P500 stocks are moving after the closing bell on Thursday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d32847d0307152ac4528851d0189d27c3f79291e50e1560ca3d49c3033173e86",
           "used_by_ai": true
         },
         {
           "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8de9666cb40d21f7fff9e4c8c50f0442f9d12a5208e40c7c4bb5dc2511179e6f",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a24b54f17e1d5f6f60f934b737c54429e46e02d8bb38d2e086109b3ab9a14f38",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "A Chinese CEO Just Outlined the Bear Case for NVIDIA. It Should Terrify Owners of the Stock.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f0a407226a9a889404fbb9f82fcd4f3674698b199c926f93b39c19f533387f54",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "New competition from AMD",
-      "headline": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
           "used_by_ai": true
-        },
-        {
-          "headline": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=12a0c6d9ffe20dd1c4c481b339c60c221a447f25a86491ebfa731fcb50b44ab6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Donald Trump's USTR Hit Brazil With a 25% Section 301 Tariff on July 15. Here's How That Could Play Out for These 2 Stocks.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c48a744abe2676379a831b8ad1799bf89f2d4d53d96d9b2ca0d97213a6164195",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6b3e1df12292ffbe4ed84c37916fb3490b803b242db182fe789d56771bd98a5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a6ced557f1241da704aff25993dcf2a781f20ef6a9f5aa6ff366c4225fba848",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "ChartMill": 1,
+        "Yahoo": 3
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 30,
+      "confidence": 40,
       "reason": "AI spending",
-      "headline": "Amazon Stock Slips Below Key Level As Google Sets Tone For Hefty AI Spending",
+      "headline": "Space stocks fall below their 52-week highs as SpaceX sinks lower",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a971cef42385492d00aeebe812403d27046646f97c45e973a19139f0b52d254",
+      "url": "https://finnhub.io/api/news?id=ea26be910685970b3c149acea0f39bf080d0dfd8f0fe71c277bd701c7f5b98e3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Space stocks fall below their 52-week highs as SpaceX sinks lower",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea26be910685970b3c149acea0f39bf080d0dfd8f0fe71c277bd701c7f5b98e3",
+          "used_by_ai": true
+        },
         {
           "headline": "Amazon Stock Slips Below Key Level As Google Sets Tone For Hefty AI Spending",
           "source": "Yahoo",
@@ -214,22 +169,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Space stocks fall below their 52-week highs as SpaceX sinks lower",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ea26be910685970b3c149acea0f39bf080d0dfd8f0fe71c277bd701c7f5b98e3",
-          "used_by_ai": false
-        },
-        {
           "headline": "Is IREN (IREN) Undervalued Following Its $2.8b AI Cloud Contract Win?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a6c3530324a6524239770dcb65b2523a0238fa1e977335977b18f64bd5053de5",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "These dow jones stocks are moving in today's session",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=bc6828dc888b16a18d4634c6b054cfddda83b8c9bd63e85c8a711b2f5a305ff4",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -242,7 +191,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Qualcomm deepens ties with rival",
+      "reason": "Smarter shopping",
       "headline": "Qualcomm deepens ties with major Apple rival",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d0cfe33f230f6d327838a64815d5d2ca1fa6d7984b173dcf2cf6a1c1e1e574bf",
@@ -258,25 +207,25 @@
           "headline": "TSLA, GOOGL Stocks Lead 'Magnificent Seven' Rout \u2013 MAGS ETF On Track For Biggest Single-Day Loss This Year",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a33852e9a226f370c66beaedca7add43d5e488ebd9fc54dd80e888cb47ade713",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Best Monthly Dividend ETFs for Consistent Income",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1de5038ef073af3ed66423bedc4fc046766610b7dfdc096d519b53d8bc890542",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Apple Tests Smarter Shopping Experience",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0eb9acfd54dd72af5079fab4f780338c0cafa55a092f4974d0776f008a1c87a3",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e78813fe1aa8f83f0171162dcf5794e1467ba5cbb1e5dbd049e807100c86decf",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -286,9 +235,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 20,
-      "reason": "Market update",
+      "reason": "Market volatility",
       "headline": "HDV Delivers 3.1% Yield While Beating SPY Year to Date by 9 Points",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=161f9163fed82cb011751a2b6390549dda0724fd6e4069ed674acc35a1eb4b77",
@@ -313,14 +262,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "What Does SPY's Price Tag Buy You Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da039b138b0284c74a86264efad99ba9b029bb41fde0911dfdca8e5d1f4e556b",
+          "headline": "Houthis Strike, Treasuries Burn: The Rate Shock Wall Street Is Completely Blind To",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c8561b4a1fc71f9430c8e54e959ba0380ae80032c4a72de39826a08e0538d102",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     }
   ]
