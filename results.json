@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T04:50:28Z",
+  "updated_at": "2026-07-23T07:32:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,108 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 17,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Acquiring dark fiber",
+      "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e19db90feb79c65d35a6e0b1401b9f50abc612bdb22d81cfbb2a403c23f24b13",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e19db90feb79c65d35a6e0b1401b9f50abc612bdb22d81cfbb2a403c23f24b13",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Reo.Dev Bags $11.3M Series A to Scale Across the US",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47f550d647ecd15f6bda2b6c629bf380b5e86030e49dbcdb3470270f93ba2b21",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14015521fcf3e6e888857b90e4e28b9e4b9a05bd5f8b3521c94b8aea70d67ea3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f426cdfd38de58a713fcc10a8ebdb18e37e8c418fb68caffb805f7c9a5d179d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d276474d8fd8e7f11620fda77b400f6d36a91fc6da9b2f54e6735519463142a2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Record deliveries",
+      "headline": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6fdadee36e5a30ab1b3524b0872e3f1ef71fe9b1753425b297787d871631666",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6fdadee36e5a30ab1b3524b0872e3f1ef71fe9b1753425b297787d871631666",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=22a8831aa2c96b07406a241c464fee8ba0afa6c9193f937213e6cdc86d01893e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Lands $5B partnership",
+      "confidence": 70,
+      "reason": "$5 billion partnership",
       "headline": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0eb11e72fdbf11ac8d3cca9fd1bfa850d96a60a25683c46657d522ef2a3c62e6",
@@ -29,16 +122,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD inks blockbuster multi-billion-dollar Anthropic AI deal",
+          "headline": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f5ffd2a6e64ab4373d6695a0ea88e08ea14c2e2874d684770f84cf297dcd3dc",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=58b9383d1e65fac5deee6239b06fae4c52a874d839d758a5a9069f0a6c3fee6d",
+          "used_by_ai": false
         },
         {
-          "headline": "Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
-          "used_by_ai": true
+          "headline": "AMD: The Full-Stack AI Opportunity",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4ef05404082408682793502f070c38d145091904a9710d897e9b5d1a056b7517",
+          "used_by_ai": false
         },
         {
           "headline": "Tesla's New AI Business Idea Could Help Intel",
@@ -48,107 +141,16 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Dell climbs on AI demand",
-      "headline": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab1c51e3cdd634f2e159885e8559ce1c733815f238afec6615775242a584f696",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab1c51e3cdd634f2e159885e8559ce1c733815f238afec6615775242a584f696",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Meta Platforms Will Soar on July 29 When It Makes This Announcement",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8813e03fc0d2d8aba84e1b4d02ca7664886b40a038e1ccc57468b2a948de3ebf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58b9383d1e65fac5deee6239b06fae4c52a874d839d758a5a9069f0a6c3fee6d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Just Erased $1 Trillion in Value. Here\u2019s Why the Worst Could Be Yet to Come.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=accfa564345b05eb6e2f4357925b69911ab69eacc35fbae07956c31bf10ce019",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Donald Trump's Iran Blockade Announcement Sent Oil Prices Surging and the Dow Falling",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51a1329b4d9cd3d1dac46e31ca9840720e990d5d6b06aee31b3d903401300733",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Musk keeps merger speculation alive",
-      "headline": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5de6d142a7935fa5f807cd02906130f81d13f6375fb14439449dccdc72c7c845",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5de6d142a7935fa5f807cd02906130f81d13f6375fb14439449dccdc72c7c845",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SPCX Gains After Hours Ahead Of Upcoming Starship Test Flight\u2014 Tesla Books $1B SpaceX Gain",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c69b036a52cedf3880432588bba474469af10e281e09767d43ed26318cfbe2c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Device-leasing program launch",
+      "confidence": 60,
+      "reason": "Device-leasing program",
       "headline": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=063c5574f26a2ac713eeec851e1506cabc58c1230bf19dc15a1af8c01f9525c7",
@@ -164,25 +166,25 @@
           "headline": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c5352e9cbedbc3050cc1d9117ef1436e2161cf9163502022bd3d3b6e1505561f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "BGY: A Good International CEF If You Are Willing To Sacrifice Upside For Income",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c55f0a1898fc8ec1aee87dc3756cd4357910a3191c38b25338ae6c9defc415da",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5afbca660a71ac38443ab27bfd992f205d6ee1cbc11e9f6c217f570babec2b83",
-          "used_by_ai": true
+          "used_by_ai": false
+        },
+        {
+          "headline": "BGY: A Good International CEF If You Are Willing To Sacrifice Upside For Income",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c55f0a1898fc8ec1aee87dc3756cd4357910a3191c38b25338ae6c9defc415da",
+          "used_by_ai": false
         },
         {
           "headline": "Alphabet Stock Falls as AI Spending Continues to Mount",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3267226100aa23228c480a529cf298e0b879b8f0fb289fedd2daa6d627786b2f",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -191,84 +193,586 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Series A funding",
+      "headline": "Reo.Dev Bags $11.3M Series A to Scale Across the US",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47f550d647ecd15f6bda2b6c629bf380b5e86030e49dbcdb3470270f93ba2b21",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Reo.Dev Bags $11.3M Series A to Scale Across the US",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47f550d647ecd15f6bda2b6c629bf380b5e86030e49dbcdb3470270f93ba2b21",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14015521fcf3e6e888857b90e4e28b9e4b9a05bd5f8b3521c94b8aea70d67ea3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f426cdfd38de58a713fcc10a8ebdb18e37e8c418fb68caffb805f7c9a5d179d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d276474d8fd8e7f11620fda77b400f6d36a91fc6da9b2f54e6735519463142a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e19db90feb79c65d35a6e0b1401b9f50abc612bdb22d81cfbb2a403c23f24b13",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Dividend stock",
+      "headline": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14015521fcf3e6e888857b90e4e28b9e4b9a05bd5f8b3521c94b8aea70d67ea3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14015521fcf3e6e888857b90e4e28b9e4b9a05bd5f8b3521c94b8aea70d67ea3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Reo.Dev Bags $11.3M Series A to Scale Across the US",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47f550d647ecd15f6bda2b6c629bf380b5e86030e49dbcdb3470270f93ba2b21",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f426cdfd38de58a713fcc10a8ebdb18e37e8c418fb68caffb805f7c9a5d179d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d276474d8fd8e7f11620fda77b400f6d36a91fc6da9b2f54e6735519463142a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e19db90feb79c65d35a6e0b1401b9f50abc612bdb22d81cfbb2a403c23f24b13",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Mega IPOs",
+      "headline": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f426cdfd38de58a713fcc10a8ebdb18e37e8c418fb68caffb805f7c9a5d179d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f426cdfd38de58a713fcc10a8ebdb18e37e8c418fb68caffb805f7c9a5d179d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Reo.Dev Bags $11.3M Series A to Scale Across the US",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47f550d647ecd15f6bda2b6c629bf380b5e86030e49dbcdb3470270f93ba2b21",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14015521fcf3e6e888857b90e4e28b9e4b9a05bd5f8b3521c94b8aea70d67ea3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d276474d8fd8e7f11620fda77b400f6d36a91fc6da9b2f54e6735519463142a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e19db90feb79c65d35a6e0b1401b9f50abc612bdb22d81cfbb2a403c23f24b13",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Chip boom",
+      "headline": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d276474d8fd8e7f11620fda77b400f6d36a91fc6da9b2f54e6735519463142a2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d276474d8fd8e7f11620fda77b400f6d36a91fc6da9b2f54e6735519463142a2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Reo.Dev Bags $11.3M Series A to Scale Across the US",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47f550d647ecd15f6bda2b6c629bf380b5e86030e49dbcdb3470270f93ba2b21",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14015521fcf3e6e888857b90e4e28b9e4b9a05bd5f8b3521c94b8aea70d67ea3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f426cdfd38de58a713fcc10a8ebdb18e37e8c418fb68caffb805f7c9a5d179d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e19db90feb79c65d35a6e0b1401b9f50abc612bdb22d81cfbb2a403c23f24b13",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Energy storage outlook",
+      "headline": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22a8831aa2c96b07406a241c464fee8ba0afa6c9193f937213e6cdc86d01893e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=22a8831aa2c96b07406a241c464fee8ba0afa6c9193f937213e6cdc86d01893e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6fdadee36e5a30ab1b3524b0872e3f1ef71fe9b1753425b297787d871631666",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Bitcoin stockpile",
+      "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6fdadee36e5a30ab1b3524b0872e3f1ef71fe9b1753425b297787d871631666",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=22a8831aa2c96b07406a241c464fee8ba0afa6c9193f937213e6cdc86d01893e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Robotaxi fears",
+      "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6fdadee36e5a30ab1b3524b0872e3f1ef71fe9b1753425b297787d871631666",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=22a8831aa2c96b07406a241c464fee8ba0afa6c9193f937213e6cdc86d01893e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Earnings focus",
+      "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6fdadee36e5a30ab1b3524b0872e3f1ef71fe9b1753425b297787d871631666",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=22a8831aa2c96b07406a241c464fee8ba0afa6c9193f937213e6cdc86d01893e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adbf2933c3ab9d27c9589fa5712e0ddeff88426fe1d9f42c3a5482bf02f6aea4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bill Ackman Says Tesla Robotaxi Fears Are Creating a 'Very Cheap' Buying Opportunity for UBER",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbd78cf2d50ecf605eab214c98fd95f2fbe65493d98d6c6ec0781457af11891",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Full-stack AI",
+      "headline": "AMD: The Full-Stack AI Opportunity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4ef05404082408682793502f070c38d145091904a9710d897e9b5d1a056b7517",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD: The Full-Stack AI Opportunity",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4ef05404082408682793502f070c38d145091904a9710d897e9b5d1a056b7517",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58b9383d1e65fac5deee6239b06fae4c52a874d839d758a5a9069f0a6c3fee6d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0eb11e72fdbf11ac8d3cca9fd1bfa850d96a60a25683c46657d522ef2a3c62e6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla's New AI Business Idea Could Help Intel",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ad5db549a387e9e8d361d3b106c71f2c7263ee7821451d7cbd93d575e7d3038",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Server CPU deals",
+      "headline": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58b9383d1e65fac5deee6239b06fae4c52a874d839d758a5a9069f0a6c3fee6d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58b9383d1e65fac5deee6239b06fae4c52a874d839d758a5a9069f0a6c3fee6d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD: The Full-Stack AI Opportunity",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4ef05404082408682793502f070c38d145091904a9710d897e9b5d1a056b7517",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0eb11e72fdbf11ac8d3cca9fd1bfa850d96a60a25683c46657d522ef2a3c62e6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla's New AI Business Idea Could Help Intel",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ad5db549a387e9e8d361d3b106c71f2c7263ee7821451d7cbd93d575e7d3038",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Retail investors buy on dip",
-      "headline": "Here\u2019s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1add48ea5cf25e73d489b45314971d2f80329cff2dfc7e5a91254e8e4f3494a2",
+      "reason": "Better entry point",
+      "headline": "Microsoft: A Better Entry Point Before Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1e968cd544a90bbb135c2a5de1ec417c1ed612b0d9326181d3d922d9a8d582b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Here\u2019s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1add48ea5cf25e73d489b45314971d2f80329cff2dfc7e5a91254e8e4f3494a2",
+          "headline": "Microsoft: A Better Entry Point Before Earnings",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e1e968cd544a90bbb135c2a5de1ec417c1ed612b0d9326181d3d922d9a8d582b",
           "used_by_ai": true
         },
         {
-          "headline": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens.",
+          "headline": "Jim Cramer reveals 4 surging chip stocks he likes best",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be503855ab24e806291590eed486d6335f2fedc1957adc43a3152faea511cd3b",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=20b784be1d53c1dd4982a9f211def2334cd041f655ca0ed39e188d452d53f394",
+          "used_by_ai": false
         },
         {
           "headline": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ba97f512051bcb3ff34f5b053034254bf48537ab59106dd3a8836af4d4cb86cb",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "SeekingAlpha": 1,
+        "Yahoo": 2
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market valuation questions",
-      "headline": "When the Market Drops, the IRS Quietly Discounts Your Roth Conversion. Here\u2019s the Math at $500,000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=05fd92d46e7f046133d0a9de3b90e201918c30080f4282772774d404e7abc31f",
+      "confidence": 40,
+      "reason": "Monetary policy",
+      "headline": "When Monetary Policy Surprises Stop Translating",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5b1861c0059fefc635c4a2776a52193af8a73a05ba784717c32a98a2fd29371",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "When Monetary Policy Surprises Stop Translating",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a5b1861c0059fefc635c4a2776a52193af8a73a05ba784717c32a98a2fd29371",
+          "used_by_ai": true
+        },
+        {
+          "headline": "6 Sectors And A Case Of Mixed Signals",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=403f4ca19ceefd05b6ea29da6f3a4ae3aec5d610349096a11654938f5cc401cc",
+          "used_by_ai": false
+        },
         {
           "headline": "When the Market Drops, the IRS Quietly Discounts Your Roth Conversion. Here\u2019s the Math at $500,000",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=05fd92d46e7f046133d0a9de3b90e201918c30080f4282772774d404e7abc31f",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Brent Sullivan: Why 351 Exchange ETFs Are Now Everywhere",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c986906cfdcac6ab136e188f23f0d938f37388a13bd0d3052e946f8972bf3bbd",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Is AI Making Inflation Better Or Worse?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=627da5c79a237bf94002a1afbed94b4a5ce6d9fb1703ca683992724bbca1ffba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics \u2014  TSLA, GOOGL, PSKY, RDDT, AMZN In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24441d5b69bec9180c7543603d204dc8efb0485823bbc745ed49a14d93d605b5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Market Valuation: Is The Market Still Overvalued?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e740165e7983553ef6a7b730c0bf643483d07b08beb394aa7f9bf478aae6b690",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 3,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed signals",
+      "headline": "6 Sectors And A Case Of Mixed Signals",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=403f4ca19ceefd05b6ea29da6f3a4ae3aec5d610349096a11654938f5cc401cc",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "6 Sectors And A Case Of Mixed Signals",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=403f4ca19ceefd05b6ea29da6f3a4ae3aec5d610349096a11654938f5cc401cc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "When Monetary Policy Surprises Stop Translating",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a5b1861c0059fefc635c4a2776a52193af8a73a05ba784717c32a98a2fd29371",
+          "used_by_ai": false
+        },
+        {
+          "headline": "When the Market Drops, the IRS Quietly Discounts Your Roth Conversion. Here\u2019s the Math at $500,000",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05fd92d46e7f046133d0a9de3b90e201918c30080f4282772774d404e7abc31f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Brent Sullivan: Why 351 Exchange ETFs Are Now Everywhere",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c986906cfdcac6ab136e188f23f0d938f37388a13bd0d3052e946f8972bf3bbd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is AI Making Inflation Better Or Worse?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=627da5c79a237bf94002a1afbed94b4a5ce6d9fb1703ca683992724bbca1ffba",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
