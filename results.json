@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:36:52Z",
+  "updated_at": "2026-07-24T23:01:54Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,68 @@
   "sample": false,
   "items": [
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI deal news",
+      "headline": "Microsoft (MSFT) Stock May Be 43% Undervalued After Fresh AI Deal News",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c89f80513dfc71b76082c7160b4e5aed9a6e52255d22d871519bf4918d4555a5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft (MSFT) Stock May Be 43% Undervalued After Fresh AI Deal News",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c89f80513dfc71b76082c7160b4e5aed9a6e52255d22d871519bf4918d4555a5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ORCL Has Left Its Peers Behind. Or Has It?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1c8934cc59a90d5b73e0c94f0dbf02725d21dd8f01fe33ba47b43ea2c6e49d26",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67b052a2b7386b03bf53ffd36490ffc430a19af564d2b56335e85bf8fc7fad0b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Most Basic Economics Lesson Is Why I Won\u2019t Stop Buying Nvidia This Earnings Season",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87f6b0f884eeca52ca32985d2a8aa8e215a1a722ed0b347bdf1b1bc5613a44b7",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI computer news",
-      "headline": "Advanced Micro Devices vs. Alphabet: What Do the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors?",
+      "confidence": 70,
+      "reason": "Taking aim at Nvidia",
+      "headline": "Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79908d47d71430326869ddd254ec614b8a71cab63a1239c87980e9e2d85887f5",
+      "url": "https://finnhub.io/api/news?id=f17974741a96a51b75669930326b0b600e8ca0817afcac4c5521f4cee1c1ddca",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f17974741a96a51b75669930326b0b600e8ca0817afcac4c5521f4cee1c1ddca",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67b052a2b7386b03bf53ffd36490ffc430a19af564d2b56335e85bf8fc7fad0b",
+          "used_by_ai": true
+        },
         {
           "headline": "Advanced Micro Devices vs. Alphabet: What Do the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors?",
           "source": "Yahoo",
@@ -33,64 +85,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=95086a1d35d4dd525c7f2cd7defd00ebd3570386bca77addd55eae57dcaaf025",
           "used_by_ai": true
-        },
-        {
-          "headline": "AMD Draws Analyst Praise After Bullish AI Event",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c697e181d11cbe1a9d527384983340b54b2a58b7bb5a1bb2470fac8c2435a996",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Scores Price-Target Hikes On AI Computer News",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aec8462c796e4357cf5f62bfd47d60ac2e077e98acaefc4dd7b9854b572391cc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Memory Stocks Lead Chip Selloff",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c39d766952b514ca7f6b321a7ad7bd4846948479a8a289a98d2058984612c5f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "selloff and anxiety",
-      "headline": "Tesla Sinks 18% in a Month as Lucid Climbs 21%, Rivian Gains 9%: SpaceX Anxiety or Cracks Under the Hood?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1ceb9e8ba83e8955894f3c650c4e9e19cd8ae97bf164ef6a26bd67461f3b03b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Sinks 18% in a Month as Lucid Climbs 21%, Rivian Gains 9%: SpaceX Anxiety or Cracks Under the Hood?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1ceb9e8ba83e8955894f3c650c4e9e19cd8ae97bf164ef6a26bd67461f3b03b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla, SpaceX Selloff Cuts Elon Musk's Paper Wealth by Up to $700 Billion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=564b90add4cd17f125913f3dfba13800c5ac4f61d59768198bf8ce1b2a6a9cde",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Micron Stock Is Tumbling Friday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cca52adff049bd82d621a2c84df94f713deeee75dc6c18de049f12082947459",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market: Nasdaq Skids As Oil Prices Jump, Google And Tesla Plunge: Weekly Review",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6bfa7e2e6e1c4ff5c75963626286839ffd64dff710a6209be67138475bcd25e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -98,45 +92,45 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
-      "confidence": 60,
-      "reason": "open AI models",
-      "headline": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch",
+      "confidence": 70,
+      "reason": "Earnings optimism",
+      "headline": "Dow Jones Futures: Apple Earnings, Iran News, Fed Meeting Loom As AI Stocks Sell Off",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d970fcf7c36a2f32fff1a80f5861fa74e0d0a1fc409fd57857e57b6a1e5eaf66",
+      "url": "https://finnhub.io/api/news?id=95418f4b57a5f09da2bb4319facd56354d920e90f88081375aa3b22fd17492a9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch",
+          "headline": "Dow Jones Futures: Apple Earnings, Iran News, Fed Meeting Loom As AI Stocks Sell Off",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d970fcf7c36a2f32fff1a80f5861fa74e0d0a1fc409fd57857e57b6a1e5eaf66",
+          "url": "https://finnhub.io/api/news?id=95418f4b57a5f09da2bb4319facd56354d920e90f88081375aa3b22fd17492a9",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Draws $600 Price Target Ahead of Fiscal Fourth-Quarter Results",
+          "headline": "Rotation Hits Magnificent 7: How Strong Ratings Sparked Apple Stock Swing Trade",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36b2416371077e9189ce301d4d20f2daf5a754ee8bfc152d913a59009538e1f2",
+          "url": "https://finnhub.io/api/news?id=aa83f550a10bcf260504bd44f7b7ac4dd8552a16443bbb140b0f2b63e1bb5a7c",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia CEO Backs Open AI Models",
+          "headline": "Like It or Not, Apple Built a Perfect Mousetrap, So I Keep on Buying",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57f94fa8b5dc398e28fda8cbfa64d665297dacc19c7d9c5dc28d16204274bc64",
+          "url": "https://finnhub.io/api/news?id=102d066ee1fd447d18fef621f3dd2991ad67e0d6e7d7703d69099b49866e41d1",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia, Microsoft and other tech giants back open-source AI models",
+          "headline": "Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60cdf01cdf6457ef9aef3e4d78f65e03e02da49d6b529b0f94dce7fa7d03624c",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e99ad6f3302defb96151305659aa18eb53a8b41195c37d4162628dff3748a4fa",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
+          "headline": "AI spending restraint will reward Magnificent 7 shares, expert says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc64008744eb6e32464d7c023583b30d4c2d5fe8db2f7d502194359d565a965a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=ccf574a7a9e2d964f6d612b7be5eb9dc0ac64426cbcdd0ac34fab2dd15a7cff7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -146,165 +140,140 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "various mentions",
-      "headline": "This Dirt Cheap Stock Reports Earnings July 30. Is It Finally Time to Buy Sirius XM?",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "AMD competition",
+      "headline": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2020218a607e83d8a99ec74de333a9e1c10343ee20b891fb19ddd1818723b6f0",
+      "url": "https://finnhub.io/api/news?id=67b052a2b7386b03bf53ffd36490ffc430a19af564d2b56335e85bf8fc7fad0b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "This Dirt Cheap Stock Reports Earnings July 30. Is It Finally Time to Buy Sirius XM?",
+          "headline": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2020218a607e83d8a99ec74de333a9e1c10343ee20b891fb19ddd1818723b6f0",
+          "url": "https://finnhub.io/api/news?id=67b052a2b7386b03bf53ffd36490ffc430a19af564d2b56335e85bf8fc7fad0b",
           "used_by_ai": true
         },
         {
-          "headline": "Super Micro Just Reported $60 Billion of New Orders -- Here's Why Smart Investors Should Buy Dell Stock Now",
+          "headline": "Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=583098cbc41fcaedd43b9e8b9edfb1c6bf032350550ace52c7d10dda29c4acce",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=562a4b7bbd2ced49d5ea19fdbe71d358b3e12b03ec8f188465effe1609e80cd0",
+          "used_by_ai": false
         },
         {
-          "headline": "How QQA Delivers 10% Yields From Tech Stocks That Pay Almost Nothing",
+          "headline": "Interactive Brokers Has Posted a Pre-Tax Margin Above 70% for 7 Straight Quarters. Why Rivals Struggle to Copy It",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7253bbe3fbd210b58d21540d7b7eb81f4e4e2d500946fbf3c6e59101e0f43010",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=cc3aad61eb4bbee56f282ddaf24fc090eb7814a3af682bd0f584ae3faccd464d",
+          "used_by_ai": false
         },
         {
-          "headline": "Is It Too Late to Buy Bitcoin?",
+          "headline": "These 3 Healthcare Stocks Have Crushed the Market This Year. Here's Why There's More Upside Ahead",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2af19a1ad5c4534558ccbdccbb5f9ec39f57250faaec761c9923e742383df1cf",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=72c1ecc8070e3542fabff6ca1bb5afaef92eb2cf19bd4772f53eb42130f87fc5",
+          "used_by_ai": false
         },
         {
-          "headline": "Are You a New Investor in 2026? Here's 1 Costly Mistake to Avoid.",
+          "headline": "Boeing Has a $695B Backlog and Analysts See 29% Upside. Should You Buy Before July 28 Earnings?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4beca3e5b21719a1dce7e545f15a6fc13b62800f6701ba79f12b384dd536ab46",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f024bbabcef71cb9edad9e5edf49b30397d588d6c554f24118dd00f1a7b5d466",
+          "used_by_ai": false
         },
         {
-          "headline": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch",
+          "headline": "MRVL Has Momentum. The Question Is The Price",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d970fcf7c36a2f32fff1a80f5861fa74e0d0a1fc409fd57857e57b6a1e5eaf66",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia CEO Backs Open AI Models",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57f94fa8b5dc398e28fda8cbfa64d665297dacc19c7d9c5dc28d16204274bc64",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, Microsoft and other tech giants back open-source AI models",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60cdf01cdf6457ef9aef3e4d78f65e03e02da49d6b529b0f94dce7fa7d03624c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc64008744eb6e32464d7c023583b30d4c2d5fe8db2f7d502194359d565a965a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=6120d5ab14b1aa2b05ea68602aa178e15a0bd22d9e860b5b004081ce93b30b53",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 9
+        "Yahoo": 6
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "sector update",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI potential",
+      "headline": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide Robotaxi Launches",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1fd1c20ee32b3c62817af7e957d201cbc471d4e20384a28bf75be263a4574cf1",
+      "url": "https://finnhub.io/api/news?id=53ca9210c84d22ff5455beccb8745b812c14a6b3a70bda4efe171c1259f9bdad",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+          "headline": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide Robotaxi Launches",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1fd1c20ee32b3c62817af7e957d201cbc471d4e20384a28bf75be263a4574cf1",
+          "url": "https://finnhub.io/api/news?id=53ca9210c84d22ff5455beccb8745b812c14a6b3a70bda4efe171c1259f9bdad",
           "used_by_ai": true
         },
         {
-          "headline": "Which dow jones stocks are moving on Friday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0a485f1fa08b431da2d3ffb0109a55c9e9c924b2f7213f2766d5efe23d30f2e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Curious about the most active S&P500 stocks in today's session?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=f032514225cf476c9818d7817a73a4e0724c9b03454fb647f5980eb635623532",
-          "used_by_ai": true
-        },
-        {
-          "headline": "FDVV\u2019s 2.8% yield hides tech mega-cap risk in dividend portfolio",
+          "headline": "Weekly Wrap: Bitcoin Holds Firm As Stocks Post Losing Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a75637fb1d530289a595d82b778da5c6d41b4d7cf52f4b964ef8b0b233994688",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=c9d12ffc3f8e755963ff83ab258e8732113df525799269a2a28793cd78257351",
+          "used_by_ai": false
         },
         {
-          "headline": "Sector Update: Tech Stocks Decline Friday Afternoon",
+          "headline": "Big Tech Earnings Week is Over. Who Won and Lost?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07de76983d096e7ad9eca242223f194a989e59a5429ecce776db00c0fd7eb4a0",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=3e400142cc71111f3a0f310c440bc887463516cc47a070aa49305ed4577df15c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "S&P 500 Posts Weekly Decline Amid Mixed Earnings, US-Iran Turmoil",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=affc373443b47675c54804bdf37a4353456cb988e736598b08ef4456a676d6aa",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 2
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "market mentions",
-      "headline": "The Anti-Nvidia ETF: Why Contrarians Are Buying the Stocks Nobody Wants",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f736b9355e54e151153619ecc7596573ac4f18c23b0573d7b90ebc56708a1df",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Market volatility",
+      "headline": "Market Complacency About To Be Brutally Shattered",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56dad2f9bc054f78a8ba79f4ef98cc6d76ba54339d0943e8fdbe34a070fe88df",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Market Complacency About To Be Brutally Shattered",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=56dad2f9bc054f78a8ba79f4ef98cc6d76ba54339d0943e8fdbe34a070fe88df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "IGV ETF Is A More Focused Bet Than You Think",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9554d7b4e3145ced7a697fd94c2059cb7ed3fa88d8c2189d7867179c6c63fbad",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Are You Really Paying For Inside IJH?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=19a5c5eb1d0ddfd396aa8eff743844096088208389137e0c25e93eacaf76a543",
+          "used_by_ai": false
+        },
         {
           "headline": "The Anti-Nvidia ETF: Why Contrarians Are Buying the Stocks Nobody Wants",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7f736b9355e54e151153619ecc7596573ac4f18c23b0573d7b90ebc56708a1df",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
-          "headline": "The One Bond Chart That Keeps Me Up At Night",
+          "headline": "The Fat Tail Risks Hiding In Plain Sight",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ade563d0bcbab301df254bb2dec7dd8c657559a863e24c79058103f60411b31e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Much AMD Are You Really Betting On?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a8ad1dd5da07ff6b82576112347ec2dc698832328e3cec8dfdbc8fa3ce5f5483",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Is SCHD's New High Really Made Of?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fd1b3b7a94ece25be5f0e7411b51c9f8b689b3680d35dc857d01920c1e10349",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Cruel Tax Twist That Makes JEPI a Bad Fit for Your Brokerage Account",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e439c27125b3d7d36906c550fbbd4d454ba57be2c33ec905954f4d9ceda7d97e",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=0e4490b50f8952a70413dd394458dec1db6717ed84b11326f0d134f41d8a4bc5",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 2,
+        "Yahoo": 3
       }
     }
   ]
