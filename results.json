@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:07:09Z",
+  "updated_at": "2026-07-24T09:54:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,44 +12,84 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close to Surpassing Netflix in Revenue?",
+      "confidence": 80,
+      "reason": "Analysts laud chipmaker",
+      "headline": "AMD Stock Could Surge 48% as Daniel Newman Calls It a 'Top Conviction'\u2014Patrick Moorhead Sees $200 Billion Server CPU Market",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d8a0ef811090996ed0aa7f2598cd51a9683f3ba5386465588126c34dfefcbed",
+      "url": "https://finnhub.io/api/news?id=4db34d8cbf20a80b8dd69d55360555f7e55f790eef4b4221b939981dc4bb8b5d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD Stock Could Surge 48% as Daniel Newman Calls It a 'Top Conviction'\u2014Patrick Moorhead Sees $200 Billion Server CPU Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4db34d8cbf20a80b8dd69d55360555f7e55f790eef4b4221b939981dc4bb8b5d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Stock Gains Overnight: Analysts Laud Chipmaker's \u2018Server Leadership\u2019 After Strong Helios, Customer Updates",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=df91cc0c3b9efae012df6862668a87edf7fd10b8a12cc27fc6d21d071bb31dba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD\u2019s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66010d30e82bf598a166f7b4dc907d951c5ece3e565549c1987352c010f909cd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bd3337eceaea471007f90dc1fce4d06599fd415b71f1c56aa16855901b48c8db",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Competition from AMD",
+      "headline": "Prediction: SpaceX Will Underperform Planet Labs This Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cb8a90a8e0d2ad90ae08a7c20e374c05e89772dc63114dfde260581e74a316b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Prediction: SpaceX Will Underperform Planet Labs This Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6cb8a90a8e0d2ad90ae08a7c20e374c05e89772dc63114dfde260581e74a316b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Investors Should Mark Their Calendars for Aug. 4",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=188775441f5e973feb1c588f26aba4d6d1e6ab7fafdc02769e2cf62dc78142a0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a093b6c55da89f93bf1bb0ea89e450912d80b77fe124e662725c3cfff073dd0d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Strategy Has Now Gone 4 Weeks Without Buying Bitcoin. Should Investors Be Concerned?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=45835f68ba70de8e29a62cc1cb9dc7417c11c48ae56101cf13730d7dcf2fc802",
+          "used_by_ai": true
+        },
         {
           "headline": "Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close to Surpassing Netflix in Revenue?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9d8a0ef811090996ed0aa7f2598cd51a9683f3ba5386465588126c34dfefcbed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Ran the Numbers on Retiring 5 Years Early With VOO. Here's What Changed My Mind.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da62f0b615436ed0c4cec1535370564ae097c707203f8ef70261b0341a1b4fe1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Vanguard ETFs Built to Thrive as Big Tech Loses Its Market Grip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cbaa285c8b70cef3897ec288cc973546fc3044667d2f5c95950b2a20566d59f0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Top Growth Stocks to Buy Right Now Without Any Hesitation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4690c8bceee94a7bc498375f5c6b1872f0e58b125bf0ab5029987042be36e37a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cathie Wood Just Bought More SpaceX Stock. Here's Why I Wouldn't Copy Her",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b28f06a82c25b4a844e0bb28b063fd891ec35979989ac45113d531641c6f6091",
           "used_by_ai": true
         }
       ],
@@ -62,12 +102,18 @@
       "company": "Tesla",
       "direction": "down",
       "confidence": 50,
-      "reason": "AI spending concerns",
-      "headline": "Shares skid in Asia in sell-off of AI-related shares as Brent oil tops $100 per barrel",
+      "reason": "Oil price surge",
+      "headline": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b17fbe8d6a5f42309363db50fce3885edfe72fc9cc1042465aadf8fc5120bcb",
+      "url": "https://finnhub.io/api/news?id=8af272278abb22f7227abea888e9a96ab238cc8d66b4963040e058a7b624c5ea",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8af272278abb22f7227abea888e9a96ab238cc8d66b4963040e058a7b624c5ea",
+          "used_by_ai": true
+        },
         {
           "headline": "Shares skid in Asia in sell-off of AI-related shares as Brent oil tops $100 per barrel",
           "source": "Yahoo",
@@ -94,6 +140,53 @@
         }
       ],
       "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Earnings preview",
+      "headline": "Microsoft And Meta Earnings Previews",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=13c52e2354fd5b2e4ee49902870a13446051bb9bacf79af23198d271267628f5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft And Meta Earnings Previews",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=13c52e2354fd5b2e4ee49902870a13446051bb9bacf79af23198d271267628f5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ORCL Stock Rises After-Hours On Pentagon Deal Worth Up To $7B \u2014 Why Retail Sees NOW, PLTR, MSFT And Others Benefiting Too",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac12958066742a723e66461b112cb675df87b172263ed8efabcb9bc2e7735426",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD's customer list keeps growing, and Nvidia should notice",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1375f98888f5c6f08b6052f9f5920acd7cb5f71f94ce3a0b67b07a8e2d89e3b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=25e19f986c178b761ca14972553b655359a3dcfc2363df164ed359097417e481",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today, July 23: Alphabet Slides 7% After Announcing 2026 Capex of Roughly $200 Billion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0570e64fc9660620b74a99c0f2e7e2f654f2f34c09edde00a4e42a4c1bf18a60",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
         "Yahoo": 4
       }
     },
@@ -102,7 +195,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "analyst targets",
+      "reason": "Analyst target price",
       "headline": "Ford set to challenge Tesla after big new deal with tech giant",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=355c2e95e854d7f04e9f2b0337cc33811a92f0eef8e6f3264ad07562c3e64e69",
@@ -146,9 +239,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "bullish sentiment",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Oil price surge",
       "headline": "Nasdaq, S&P 500, Dow Futures Shake Off Iran Jitters As Investors Turn To AI Hyperscaler Earnings: INTC, TSLA, TTD, HIMS In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=61e5adaf97f6da2208a84121ad3646a47d6a493fcbb9313fd80d3203f0898c83",
@@ -167,6 +260,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil \u2014 CBRS, AMD, GOOGL, TSLA, MSTR In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dca4877e50b3fe61544b445014ea030d73653ec94c73bf3ab00442498422b510",
+          "used_by_ai": true
+        },
+        {
           "headline": "First Trust Launches DGJL, a New Buffer ETF With a Fixed 9.37% Return",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9f63e7936e9002c06d6fd7cbf31ccbb9e6ab1dcaa1db6e0286c168e01673f24d",
@@ -180,100 +279,8 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
+        "Yahoo": 3,
         "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "cloud growth",
-      "headline": "ORCL Stock Rises After-Hours On Pentagon Deal Worth Up To $7B \u2014 Why Retail Sees NOW, PLTR, MSFT And Others Benefiting Too",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac12958066742a723e66461b112cb675df87b172263ed8efabcb9bc2e7735426",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "ORCL Stock Rises After-Hours On Pentagon Deal Worth Up To $7B \u2014 Why Retail Sees NOW, PLTR, MSFT And Others Benefiting Too",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac12958066742a723e66461b112cb675df87b172263ed8efabcb9bc2e7735426",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD's customer list keeps growing, and Nvidia should notice",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1375f98888f5c6f08b6052f9f5920acd7cb5f71f94ce3a0b67b07a8e2d89e3b4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25e19f986c178b761ca14972553b655359a3dcfc2363df164ed359097417e481",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today, July 23: Alphabet Slides 7% After Announcing 2026 Capex of Roughly $200 Billion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0570e64fc9660620b74a99c0f2e7e2f654f2f34c09edde00a4e42a4c1bf18a60",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oklo (OKLO) Could Be 45% Below Fair Value Following $200 Million Federal Program",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e391f424cdcac5225e72c123a6acafabc975b39c78468cae56ec25455ee9555f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "growing customer list",
-      "headline": "AMD's customer list keeps growing, and Nvidia should notice",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1375f98888f5c6f08b6052f9f5920acd7cb5f71f94ce3a0b67b07a8e2d89e3b4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AMD's customer list keeps growing, and Nvidia should notice",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1375f98888f5c6f08b6052f9f5920acd7cb5f71f94ce3a0b67b07a8e2d89e3b4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD\u2019s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66010d30e82bf598a166f7b4dc907d951c5ece3e565549c1987352c010f909cd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd3337eceaea471007f90dc1fce4d06599fd415b71f1c56aa16855901b48c8db",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil \u2014 CBRS, AMD, GOOGL, TSLA, MSTR In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dca4877e50b3fe61544b445014ea030d73653ec94c73bf3ab00442498422b510",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel and AMD just got leverage they haven't had in years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0819e8d9911ee3308faa107e04f750dcf01bf423f0fbfb6fa6f7a3e796950231",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     }
   ]
