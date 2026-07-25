@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T20:27:07Z",
+  "updated_at": "2026-07-25T21:26:52Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Featured in 'Magnificent Seven' stocks",
+      "confidence": 80,
+      "reason": "Ranked as best stock",
       "headline": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=250fd0f3649acd5d54fcb787b66d4b3ef9a2999f945bd3170602c3f37047e02c",
@@ -35,6 +35,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "After Comparing Every Covered Call Nasdaq-100 ETF These 3 Pay Up to 14 Percent Without Capping Your AI Upside",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dba635862b4cb8c7c3f77fc975e5ff6ff856390b8e27d88a515d2d73b0745186",
+          "used_by_ai": true
+        },
+        {
           "headline": "PayPal's Board Reportedly Called $60.50 a Share Inadequate. The Stock Trades at $56.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=227225061f35350c909451c53ecc79a63e0595fa3a1c917491223b0b2264f771",
@@ -44,12 +50,6 @@
           "headline": "Should You Buy Chipotle Stock Before July 29?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7320b13e60ab1a89b440633eab17ec3808fd34d0f24fbf2c9e71ae805128dcaa",
-          "used_by_ai": false
-        },
-        {
-          "headline": "After Comparing Every Covered Call Nasdaq-100 ETF These 3 Pay Up to 14 Percent Without Capping Your AI Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dba635862b4cb8c7c3f77fc975e5ff6ff856390b8e27d88a515d2d73b0745186",
           "used_by_ai": false
         }
       ],
@@ -61,7 +61,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 55,
+      "confidence": 70,
       "reason": "New product launch",
       "headline": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
       "source": "Yahoo",
@@ -84,19 +84,19 @@
           "headline": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=19864269b59d6f73ac4c56c8940ac0c1253a855c5dd9ba863c050f7545eda7b3",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ccef82e1f473549f0af52872e7629c0e799f0744690dc7c96795ffc454afb95c",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=99bae4292d55359be7b9e0f8fc0233b32e227c1e8b44483b6a6ef843ec906fb7",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -107,7 +107,7 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "Potential upside",
       "headline": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
       "source": "Yahoo",
@@ -124,19 +124,19 @@
           "headline": "Elon Musk Says \u2018Only Way\u2019 the U.S. Deficit Will Actually Get Paid Is by \u2018Taxing the Living Daylights Out of Everyone\u2019",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fc665fecf02f9ab09bda5efcb5ae7b53ab0bdef783dfdb528a4ef3bf57db6d8f",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Elon Musk's Starship Tries Again Today After Engine Abort, Weather Scrub: What Prediction Markets Say About Flight 13",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=660bdd3011485a549f49c328bf56e3cacadc91bcf22e2b5085578d2df8211a68",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "BYD Already Surpassed Ford, and It's Only Now Revving Up Ambitions. Here's How It Can Win.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d2f4e1611865bd6003d481e23e1b3dcef39cda810e9f9a661f6ac9e8f793adaa",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -147,7 +147,7 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "Earnings anticipation",
       "headline": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
       "source": "Yahoo",
@@ -170,13 +170,13 @@
           "headline": "3 Energy Stocks Yielding Over 4.5% to Cash in on the AI Power Boom",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8da1439488eeb7852e943868cc60f187ab2bc183bcdacc2137fff31628371a16",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Mark Cuban sees a problem with the AI spending spree",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dbb148dc4ff350e997bfcbc5bf2f248ffb09a3c574a968cfa1429826b5a216b9",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -187,7 +187,7 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 45,
+      "confidence": 60,
       "reason": "New partnerships",
       "headline": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
       "source": "Yahoo",
@@ -234,7 +234,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
+      "confidence": 40,
       "reason": "Market volatility",
       "headline": "A Roulette Wheel Has Taken Over S&P 500 Stocks. Here\u2019s How Not to Lose Your House.",
       "source": "Yahoo",
