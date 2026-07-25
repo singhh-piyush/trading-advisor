@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T21:26:52Z",
+  "updated_at": "2026-07-25T22:27:59Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,13 +15,31 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Ranked as best stock",
-      "headline": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
+      "confidence": 60,
+      "reason": "AI growth",
+      "headline": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=250fd0f3649acd5d54fcb787b66d4b3ef9a2999f945bd3170602c3f37047e02c",
+      "url": "https://finnhub.io/api/news?id=efbe1b3bf09dadd8e2b7f4085c10fc5b6b68e895266994fdbd186926cbf1b319",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=efbe1b3bf09dadd8e2b7f4085c10fc5b6b68e895266994fdbd186926cbf1b319",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b6b60c9e2480390cbc93e6268b187f3e9445aaa5f0120e37fa290de5b175a4df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Simplest Way to Invest in the AI Revolution Is Hiding in Plain Sight",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01e2a98ae2dc7934d1261eaa8a172443dc42a1109d33944a6ab4364596baa842",
+          "used_by_ai": true
+        },
         {
           "headline": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
           "source": "Yahoo",
@@ -33,24 +51,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1d6a7d32e45c43eb7b082ce5070f385213342a4254443f4c29e0f40a31bd2e1",
           "used_by_ai": true
-        },
-        {
-          "headline": "After Comparing Every Covered Call Nasdaq-100 ETF These 3 Pay Up to 14 Percent Without Capping Your AI Upside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dba635862b4cb8c7c3f77fc975e5ff6ff856390b8e27d88a515d2d73b0745186",
-          "used_by_ai": true
-        },
-        {
-          "headline": "PayPal's Board Reportedly Called $60.50 a Share Inadequate. The Stock Trades at $56.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=227225061f35350c909451c53ecc79a63e0595fa3a1c917491223b0b2264f771",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Should You Buy Chipotle Stock Before July 29?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7320b13e60ab1a89b440633eab17ec3808fd34d0f24fbf2c9e71ae805128dcaa",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -61,8 +61,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "New product launch",
+      "confidence": 55,
+      "reason": "New products",
       "headline": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4ddee1f70c88077ced112fcc1bec9121f3e53fe6aed2c8926c1782525fbd6bd5",
@@ -81,39 +81,39 @@
           "used_by_ai": true
         },
         {
-          "headline": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19864269b59d6f73ac4c56c8940ac0c1253a855c5dd9ba863c050f7545eda7b3",
-          "used_by_ai": true
-        },
-        {
           "headline": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ccef82e1f473549f0af52872e7629c0e799f0744690dc7c96795ffc454afb95c",
           "used_by_ai": true
         },
         {
-          "headline": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
+          "headline": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99bae4292d55359be7b9e0f8fc0233b32e227c1e8b44483b6a6ef843ec906fb7",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=19864269b59d6f73ac4c56c8940ac0c1253a855c5dd9ba863c050f7545eda7b3",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Potential upside",
-      "headline": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Q2 miss",
+      "headline": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b880f1d64ad2286a5d833b9e56754e267996dc92c50c2ad8c9619c9352043cd",
+      "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
           "source": "Yahoo",
@@ -131,12 +131,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=660bdd3011485a549f49c328bf56e3cacadc91bcf22e2b5085578d2df8211a68",
           "used_by_ai": true
-        },
-        {
-          "headline": "BYD Already Surpassed Ford, and It's Only Now Revving Up Ambitions. Here's How It Can Win.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2f4e1611865bd6003d481e23e1b3dcef39cda810e9f9a661f6ac9e8f793adaa",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -147,13 +141,19 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Earnings anticipation",
-      "headline": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
+      "confidence": 50,
+      "reason": "Earnings",
+      "headline": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbcceb4f924d4f9e2b006022eb87e129790f1d9fda29c2b4eb343db3acd65390",
+      "url": "https://finnhub.io/api/news?id=e1c6d37b47a3688c60f86678972ae384d5f90488e98e36f704ab126923c36d71",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1c6d37b47a3688c60f86678972ae384d5f90488e98e36f704ab126923c36d71",
+          "used_by_ai": true
+        },
         {
           "headline": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
           "source": "Yahoo",
@@ -171,12 +171,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8da1439488eeb7852e943868cc60f187ab2bc183bcdacc2137fff31628371a16",
           "used_by_ai": true
-        },
-        {
-          "headline": "Mark Cuban sees a problem with the AI spending spree",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbb148dc4ff350e997bfcbc5bf2f248ffb09a3c574a968cfa1429826b5a216b9",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -187,8 +181,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "New partnerships",
+      "confidence": 45,
+      "reason": "Partnerships",
       "headline": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=225bf8e13b69a75b507b78c71599807e39d1d284c0c6e178f287784353ae258a",
@@ -213,15 +207,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD: The Next Leg Higher",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b930775dc7bbf8be97a2c51cf36c0232abe89fe208bb8790d2ffd2f42d7bd5f6",
+          "headline": "Arm Just Scored a Major Server Market Share Win. What That Means for ARM Stock Here.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b711dc7ab117395eb38225d89211d42681cb489e3c96bed532030b6efe68d5bd",
           "used_by_ai": true
         },
         {
-          "headline": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=728d2fa1bafe5808be8bf5c1ebaa5c9f7225d322e6c9499c180ee7beedf56982",
+          "headline": "AMD: The Next Leg Higher",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b930775dc7bbf8be97a2c51cf36c0232abe89fe208bb8790d2ffd2f42d7bd5f6",
           "used_by_ai": true
         }
       ],
@@ -234,7 +228,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 30,
       "reason": "Market volatility",
       "headline": "A Roulette Wheel Has Taken Over S&P 500 Stocks. Here\u2019s How Not to Lose Your House.",
       "source": "Yahoo",
