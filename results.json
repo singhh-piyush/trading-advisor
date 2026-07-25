@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T22:27:59Z",
+  "updated_at": "2026-07-25T23:32:41Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
+      "confidence": 80,
+      "reason": "AI revolution",
       "headline": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=efbe1b3bf09dadd8e2b7f4085c10fc5b6b68e895266994fdbd186926cbf1b319",
@@ -61,7 +61,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 55,
+      "confidence": 70,
       "reason": "New products",
       "headline": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
       "source": "Yahoo",
@@ -81,68 +81,34 @@
           "used_by_ai": true
         },
         {
+          "headline": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=19864269b59d6f73ac4c56c8940ac0c1253a855c5dd9ba863c050f7545eda7b3",
+          "used_by_ai": true
+        },
+        {
           "headline": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ccef82e1f473549f0af52872e7629c0e799f0744690dc7c96795ffc454afb95c",
           "used_by_ai": true
         },
         {
-          "headline": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
+          "headline": "Cathie Wood Just Poured $18 Million Into Meta Stock. Here\u2019s Why.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19864269b59d6f73ac4c56c8940ac0c1253a855c5dd9ba863c050f7545eda7b3",
+          "url": "https://finnhub.io/api/news?id=48afc629f829230e08046b8ccd159bc4cceba8bbe098ef2dba7a549c1470613a",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Q2 miss",
-      "headline": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b880f1d64ad2286a5d833b9e56754e267996dc92c50c2ad8c9619c9352043cd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Says \u2018Only Way\u2019 the U.S. Deficit Will Actually Get Paid Is by \u2018Taxing the Living Daylights Out of Everyone\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc665fecf02f9ab09bda5efcb5ae7b53ab0bdef783dfdb528a4ef3bf57db6d8f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Starship Tries Again Today After Engine Abort, Weather Scrub: What Prediction Markets Say About Flight 13",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=660bdd3011485a549f49c328bf56e3cacadc91bcf22e2b5085578d2df8211a68",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings",
+      "confidence": 70,
+      "reason": "Earnings anticipation",
       "headline": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e1c6d37b47a3688c60f86678972ae384d5f90488e98e36f704ab126923c36d71",
@@ -165,24 +131,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=19df728dc4b612f7e675956b32a8e8b99bf36e79010cfb7e73dab47f4336d111",
           "used_by_ai": true
-        },
-        {
-          "headline": "3 Energy Stocks Yielding Over 4.5% to Cash in on the AI Power Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8da1439488eeb7852e943868cc60f187ab2bc183bcdacc2137fff31628371a16",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 45,
-      "reason": "Partnerships",
+      "confidence": 70,
+      "reason": "New partnerships",
       "headline": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=225bf8e13b69a75b507b78c71599807e39d1d284c0c6e178f287784353ae258a",
@@ -225,10 +185,51 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Q2 miss",
+      "headline": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla, Intel, Google All Dropped After Earnings - Will Microsoft, Amazon, Meta Follow?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9290d90b626b245ce8cc03e05b0a05e9f427ce95179bb5403ec4bebb4c79d3dd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8b880f1d64ad2286a5d833b9e56754e267996dc92c50c2ad8c9619c9352043cd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Says \u2018Only Way\u2019 the U.S. Deficit Will Actually Get Paid Is by \u2018Taxing the Living Daylights Out of Everyone\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc665fecf02f9ab09bda5efcb5ae7b53ab0bdef783dfdb528a4ef3bf57db6d8f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
+      "confidence": 40,
       "reason": "Market volatility",
       "headline": "A Roulette Wheel Has Taken Over S&P 500 Stocks. Here\u2019s How Not to Lose Your House.",
       "source": "Yahoo",
