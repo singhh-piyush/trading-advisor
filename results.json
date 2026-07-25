@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T10:51:50Z",
+  "updated_at": "2026-07-25T12:02:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "New deals and orders",
+      "reason": "Positive AI news",
       "headline": "Should You Forget SpaceX, Starlink, and Small Satellites? USAF Orders 2 Big Billion-Dollar Satellites From Boeing.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c2f3e010ecb3d15c8e021f88156393c45696cf7a24946023c4685a01eda1487e",
@@ -78,13 +78,13 @@
           "headline": "Why Economist Mohamed El-Erian Monitors South Korea, U.K. Bonds, and the Yen",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fae09541413c094153d78c2dc0dd6f9dc40509db16cb128d5274e798adfafbe2",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Tesla: Q2 Ended Robot Romance",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=791c5750c288c279d096531733358f6eade19e9bde78bf99240a4ae818095e54",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Waymo vs. human drivers: Experts reveal which is safer",
@@ -109,24 +109,12 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "Stock price increase",
-      "headline": "1 Popular Cryptocurrency to Buy Before It Soars 1,125%, According to Cathie Wood's Ark Invest",
+      "reason": "Stock up today",
+      "headline": "Why Apple Stock Is Up Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=141fc7290b202cf1b3a3660c6c41bb3f04b04b13a932c952b7d0297609974126",
+      "url": "https://finnhub.io/api/news?id=f4d7a5e09347f733994f9065c4cb00b129eac9e514781f1a55b010d42c4d196f",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "1 Popular Cryptocurrency to Buy Before It Soars 1,125%, According to Cathie Wood's Ark Invest",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=141fc7290b202cf1b3a3660c6c41bb3f04b04b13a932c952b7d0297609974126",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump faces Apple-Micron clash over Chinese memory chips - WSJ",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58381a51f6c7c9e41d60d93ca8ccfa24ad6727cee78018725bb5505450cea38b",
-          "used_by_ai": true
-        },
         {
           "headline": "Why Apple Stock Is Up Today",
           "source": "Yahoo",
@@ -134,9 +122,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "1 Popular Cryptocurrency to Buy Before It Soars 1,125%, According to Cathie Wood's Ark Invest",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=141fc7290b202cf1b3a3660c6c41bb3f04b04b13a932c952b7d0297609974126",
+          "used_by_ai": false
+        },
+        {
           "headline": "Western Digital Corporation (NASDAQ:WDC) Got Lucky While Micron\u2019s The Real Deal, Says Jim Cramer",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c44c1710cee4cdcca909985f36f5eb8c2cf2bd6e3eb49b5a42c75c71204a5c7d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Trump faces Apple-Micron clash over Chinese memory chips - WSJ",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58381a51f6c7c9e41d60d93ca8ccfa24ad6727cee78018725bb5505450cea38b",
           "used_by_ai": false
         },
         {
@@ -168,22 +168,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nebius Is Turning Into The Open Source Anthropic",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7acd2455ad175c768208f115a9173bac981a51a672482d8b7b4ed780c4e1b0ef",
-          "used_by_ai": true
-        },
-        {
           "headline": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=261321756561b0619b745bf3c1138c6267cee3f74f7a63935a6c6b88747559c3",
           "used_by_ai": true
         },
         {
+          "headline": "Nebius Is Turning Into The Open Source Anthropic",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7acd2455ad175c768208f115a9173bac981a51a672482d8b7b4ed780c4e1b0ef",
+          "used_by_ai": false
+        },
+        {
           "headline": "Review & Preview: An Earnings Week to Forget",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=77fa1847bc1765e58b2b1bed700a4283cb8b56ae345ca0f5777c2aaf5f657907",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -242,7 +242,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 40,
-      "reason": "AI data center push",
+      "reason": "Positive chip news",
       "headline": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=728d2fa1bafe5808be8bf5c1ebaa5c9f7225d322e6c9499c180ee7beedf56982",
@@ -261,12 +261,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c74e2107dc40d86f2244222818bf07a996672de6caa99aecd496f8985f11d53",
-          "used_by_ai": true
-        },
-        {
           "headline": "MRVL Has Momentum. The Question Is The Price",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6120d5ab14b1aa2b05ea68602aa178e15a0bd22d9e860b5b004081ce93b30b53",
@@ -277,6 +271,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f17974741a96a51b75669930326b0b600e8ca0817afcac4c5521f4cee1c1ddca",
           "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9c74e2107dc40d86f2244222818bf07a996672de6caa99aecd496f8985f11d53",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
