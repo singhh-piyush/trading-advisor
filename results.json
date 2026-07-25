@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T04:42:54Z",
+  "updated_at": "2026-07-25T07:16:10Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,108 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Expands partnerships",
+      "headline": "Super Micro Just Delivered Fantastic News to Nvidia Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=020c1451074aef6c4cac65b4c2ffc9ab8873e47c2dfa2c512b91ea1ce13d5db1",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Super Micro Just Delivered Fantastic News to Nvidia Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=020c1451074aef6c4cac65b4c2ffc9ab8873e47c2dfa2c512b91ea1ce13d5db1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d72dc144d7c33260667fe7cc810f7eaca08120e83c9c4c724c76409559782cd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NAVER, NVIDIA and Brookfield to Expand Korea\u2019s National AI Factory Infrastructure Buildout",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aef15003821335f75a456faffb8f2c9981417289036465ef2903bc535d5f10de",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bitcoin Just Hit a 30-Day High Above $65,000. Where Does BTC Go From Here?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=890fa0d7ab59b6d44ad0843ca0d5f4120529e2b32847111256fc03558f55e97e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Better Artificial Intelligence (AI) Buy: Micron Technology vs. Sandisk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7d96989a11b59879c427bd37cd2a3722aaffc88bb5b3518b16b25ea9cc678d04",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Record profit engine",
+      "headline": "Good News For Tesla Stock Fans",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e90295b3ca39f31618fb7dd3b65e79aca6c12057c00a14ec406c2f4f4c0a7b8f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Good News For Tesla Stock Fans",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e90295b3ca39f31618fb7dd3b65e79aca6c12057c00a14ec406c2f4f4c0a7b8f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Just Found A Record Profit Engine Beyond Car Sales",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7249f26f0c2fbee9dd91c7dbbf33e0fa1640119b164bca17d67a35db1f6abba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waymo vs. human drivers: Experts reveal which is safer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=32beec2a8664e90632cae245adc89043ebec3927c12801f07bf03645dc1a6eb8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "This Week's Market Wrap: Earnings, Inflation, And AI-Driven Spending Concerns",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c4530315c69f8f4c69de402a2c6095d082f2dfc439c28a4d59602d188d7b1f9c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Tumble Of Two Sectors",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3042e3e381508a894bfe394cb808135846024a1b6584039a07da0c60a4bd58fe",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
       "confidence": 60,
-      "reason": "Positive stock news",
+      "reason": "Stock is up",
       "headline": "Why Apple Stock Is Up Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f4d7a5e09347f733994f9065c4cb00b129eac9e514781f1a55b010d42c4d196f",
@@ -58,235 +151,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI partnership expansion",
-      "headline": "Nvidia (NVDA) Expands AI Reach With KAIST Lab And Amkor Partnership",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a15cc003b640aa9e04d5d9234e4beff7c1d5d1cd78b52e8560494dc73057cd1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia (NVDA) Expands AI Reach With KAIST Lab And Amkor Partnership",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a15cc003b640aa9e04d5d9234e4beff7c1d5d1cd78b52e8560494dc73057cd1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Bitcoin Still a Millionaire Maker?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0188635dfd1bf98f75c1ecda58b98cae328723bad8954d9edcd5fc98c0d2c5d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tech Hits a Wall & Netflix Plunges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2402c479ba69721705212e8d76322675dfdc317d5d5d92d2d6eb38bccdefffc6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Uber\u2019s New Acquisition and GE Aerospace\u2019s Search for Parts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be905b6acd6a20b64f592937da2f780793d42478f6243c2d12b21182537ed74f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Record profit engine",
-      "headline": "Tesla (TSLA) Just Found A Record Profit Engine Beyond Car Sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7249f26f0c2fbee9dd91c7dbbf33e0fa1640119b164bca17d67a35db1f6abba",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla (TSLA) Just Found A Record Profit Engine Beyond Car Sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7249f26f0c2fbee9dd91c7dbbf33e0fa1640119b164bca17d67a35db1f6abba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Waymo vs. human drivers: Experts reveal which is safer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32beec2a8664e90632cae245adc89043ebec3927c12801f07bf03645dc1a6eb8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Good News For Tesla Stock Fans",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e90295b3ca39f31618fb7dd3b65e79aca6c12057c00a14ec406c2f4f4c0a7b8f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets \u2014 Here\u2019s What He\u2019s Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b00b7ad3d9016316fe87c8c47616ebef4c5a88d550b7fd046d17388c082263f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk Wouldn't Rule Out a Tesla-SpaceX Merger on the July 22 Earnings Call. Here's What It Would Mean for the Shares You Own Today.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f19842c1355d8a9bc2532d8784bcd34e913d29867013fceceadfe291aa6cc6e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Potential price hike",
-      "headline": "TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a31173a0577fc3f5fb4e0254c2077a29d29b42b9be43097231356f5333ef1d00",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a31173a0577fc3f5fb4e0254c2077a29d29b42b9be43097231356f5333ef1d00",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump faces Apple-Micron clash over Chinese memory chips - WSJ",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58381a51f6c7c9e41d60d93ca8ccfa24ad6727cee78018725bb5505450cea38b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Apple Stock Is Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4d7a5e09347f733994f9065c4cb00b129eac9e514781f1a55b010d42c4d196f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Meta quits clean energy pledge amid gas-powered data center push",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa989f634fe71fbc23c46424e71ef714e046ce91a61e82aedcce8a689a48129b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Mag 7 Earnings Preview: Alphabet's Cloud Surge and CapEx Hike Raise the Stakes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38366ff75af05b9bc480eff3e58cfe4e293e70c2e166fcfaa2e4110dfdefed04",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Short selling",
-      "headline": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets \u2014 Here\u2019s What He\u2019s Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b00b7ad3d9016316fe87c8c47616ebef4c5a88d550b7fd046d17388c082263f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets \u2014 Here\u2019s What He\u2019s Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b00b7ad3d9016316fe87c8c47616ebef4c5a88d550b7fd046d17388c082263f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Bitcoin Still a Millionaire Maker?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0188635dfd1bf98f75c1ecda58b98cae328723bad8954d9edcd5fc98c0d2c5d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tech Hits a Wall & Netflix Plunges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2402c479ba69721705212e8d76322675dfdc317d5d5d92d2d6eb38bccdefffc6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia (NVDA) Expands AI Reach With KAIST Lab And Amkor Partnership",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a15cc003b640aa9e04d5d9234e4beff7c1d5d1cd78b52e8560494dc73057cd1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Uber\u2019s New Acquisition and GE Aerospace\u2019s Search for Parts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be905b6acd6a20b64f592937da2f780793d42478f6243c2d12b21182537ed74f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Positive stock news",
-      "headline": "Good News For Tesla Stock Fans",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e90295b3ca39f31618fb7dd3b65e79aca6c12057c00a14ec406c2f4f4c0a7b8f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Good News For Tesla Stock Fans",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e90295b3ca39f31618fb7dd3b65e79aca6c12057c00a14ec406c2f4f4c0a7b8f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Waymo vs. human drivers: Experts reveal which is safer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32beec2a8664e90632cae245adc89043ebec3927c12801f07bf03645dc1a6eb8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla (TSLA) Just Found A Record Profit Engine Beyond Car Sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7249f26f0c2fbee9dd91c7dbbf33e0fa1640119b164bca17d67a35db1f6abba",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets \u2014 Here\u2019s What He\u2019s Buying",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b00b7ad3d9016316fe87c8c47616ebef4c5a88d550b7fd046d17388c082263f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Elon Musk Wouldn't Rule Out a Tesla-SpaceX Merger on the July 22 Earnings Call. Here's What It Would Mean for the Shares You Own Today.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f19842c1355d8a9bc2532d8784bcd34e913d29867013fceceadfe291aa6cc6e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Big Tech revolt",
+      "confidence": 60,
+      "reason": "Leads tech revolt",
       "headline": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=261321756561b0619b745bf3c1138c6267cee3f74f7a63935a6c6b88747559c3",
@@ -320,41 +189,41 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 40,
-      "reason": "Taking aim at Nvidia",
-      "headline": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
+      "reason": "Mentioned in chip stocks",
+      "headline": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67b052a2b7386b03bf53ffd36490ffc430a19af564d2b56335e85bf8fc7fad0b",
+      "url": "https://finnhub.io/api/news?id=728d2fa1bafe5808be8bf5c1ebaa5c9f7225d322e6c9499c180ee7beedf56982",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67b052a2b7386b03bf53ffd36490ffc430a19af564d2b56335e85bf8fc7fad0b",
-          "used_by_ai": true
-        },
         {
           "headline": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=728d2fa1bafe5808be8bf5c1ebaa5c9f7225d322e6c9499c180ee7beedf56982",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2c9e386ecfa57bddc27bcd28cdd33da64128b80aee8e4c4256edd4369189162c",
+          "used_by_ai": true
         },
         {
           "headline": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9c74e2107dc40d86f2244222818bf07a996672de6caa99aecd496f8985f11d53",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "MRVL Has Momentum. The Question Is The Price",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6120d5ab14b1aa2b05ea68602aa178e15a0bd22d9e860b5b004081ce93b30b53",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f17974741a96a51b75669930326b0b600e8ca0817afcac4c5521f4cee1c1ddca",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -364,48 +233,35 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Elevated oil prices",
-      "headline": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d39ef88fff0779779505f0099fb88676c495a3940dddf2d545be623974b8100",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Market wrap",
+      "headline": "U.S. Stocks: Margin Math Tests The Earnings Story",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=55d09e82b014e5dcdc3aa658c416da86f84744db9177852f8bb07527662dc647",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d39ef88fff0779779505f0099fb88676c495a3940dddf2d545be623974b8100",
+          "headline": "U.S. Stocks: Margin Math Tests The Earnings Story",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=55d09e82b014e5dcdc3aa658c416da86f84744db9177852f8bb07527662dc647",
           "used_by_ai": true
         },
         {
-          "headline": "You\u2019re 58 and Your $350K Is Just Sitting There. These 3 ETFs Turn It Into a Retirement Engine",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d604fe6070826f26eed97aadcc152793fe34237acf8273217f4edfa4e9cca1c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "IGV ETF Is A More Focused Bet Than You Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9554d7b4e3145ced7a697fd94c2059cb7ed3fa88d8c2189d7867179c6c63fbad",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What Are You Really Paying For Inside IJH?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19a5c5eb1d0ddfd396aa8eff743844096088208389137e0c25e93eacaf76a543",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Chicago Fed National Activity Index: Economic Growth Increased In June",
+          "headline": "Equities: Looking Beyond The Leaders",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=25f1c9f0e55d135d333802cc52f1dc1f238cb19126620bc6202922a223041df5",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=e9f4b71652981ebc7e216a4fcf47b361cdd36f88aac5484a386889e6386dbfec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500 Snapshot: Index Ends Choppy Week In The Red",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b96af754ba976f28a26229e023c0745edef7189fae211e5017ab548cf8893e05",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 3
       }
     }
   ]
