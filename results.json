@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T16:57:00Z",
+  "updated_at": "2026-07-25T18:00:07Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 70,
-      "reason": "Revenue beat hid bad number",
+      "confidence": 80,
+      "reason": "Revenue beat hid negative number",
       "headline": "Tesla's Revenue Beat Hid The Number That Actually Sank The Stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2907eecc4fd30ff31ec62933222f829c89081a914de4a05f1bffcd8f733e7a42",
@@ -29,6 +29,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=049bf4434932d7d91859bb647eed5f6ab2ab93aa77fd04b7b785b3e1d446e799",
+          "used_by_ai": true
+        },
+        {
           "headline": "How Free Batteries Help NYC Small Businesses Save on Electric Bills",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=39f80330bac6905b57d5577be7f5dc27d59b6f9478cb9484505178671030b512",
@@ -36,61 +42,14 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Chips for humanoid robots",
-      "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=728d2fa1bafe5808be8bf5c1ebaa5c9f7225d322e6c9499c180ee7beedf56982",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2c9e386ecfa57bddc27bcd28cdd33da64128b80aee8e4c4256edd4369189162c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c74e2107dc40d86f2244222818bf07a996672de6caa99aecd496f8985f11d53",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD: The Next Leg Higher",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b930775dc7bbf8be97a2c51cf36c0232abe89fe208bb8790d2ffd2f42d7bd5f6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 3
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
+      "direction": "up",
+      "confidence": 60,
       "reason": "AI boom",
       "headline": "Billionaire Investor Seth Klarman\u2019s Top 5 Stocks: Would He Buy More Today?",
       "source": "Yahoo",
@@ -133,10 +92,57 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI and robotics",
+      "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD: The Next Leg Higher",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b930775dc7bbf8be97a2c51cf36c0232abe89fe208bb8790d2ffd2f42d7bd5f6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=728d2fa1bafe5808be8bf5c1ebaa5c9f7225d322e6c9499c180ee7beedf56982",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2c9e386ecfa57bddc27bcd28cdd33da64128b80aee8e4c4256edd4369189162c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9c74e2107dc40d86f2244222818bf07a996672de6caa99aecd496f8985f11d53",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
+      "direction": "up",
+      "confidence": 50,
       "reason": "AI power boom",
       "headline": "3 Energy Stocks Yielding Over 4.5% to Cash in on the AI Power Boom",
       "source": "Yahoo",
@@ -170,8 +176,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Warren Buffett favorite",
+      "confidence": 40,
+      "reason": "General market",
       "headline": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=19864269b59d6f73ac4c56c8940ac0c1253a855c5dd9ba863c050f7545eda7b3",
@@ -196,12 +202,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a255be44cff3ffdc67c4b68542558b5a6cb9fc619a42d6bb6b7c392b78db00cd",
-          "used_by_ai": true
-        },
-        {
           "headline": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bfb4301ce41463a34dd99b4caf16879a2ab0842e95ac9fb0533d23485b3b9f8c",
@@ -209,15 +209,15 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Market trends",
+      "confidence": 30,
+      "reason": "Market indicators",
       "headline": "Thinking About The Semiconductor Pullback And Positioning",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=03f59e2d9a71b788984f43170d3164cd4fddc160d27e060b009375b12855840a",
