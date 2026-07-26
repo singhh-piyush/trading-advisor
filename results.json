@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T18:31:39Z",
+  "updated_at": "2026-07-26T20:09:23Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,91 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI boom",
+      "headline": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa34d893a6a6719a9ec41342809c23aeb5e01ba8cf91d94376b19e9ed1ff525b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aa34d893a6a6719a9ec41342809c23aeb5e01ba8cf91d94376b19e9ed1ff525b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d698e37a3e5b1d45010feb9f3677e325326cd8f25ce74ef26c5ca79fd03bd65",
+          "used_by_ai": true
+        },
+        {
+          "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1115aad204afc24903e96a618b2792f96178012b7dee8407ff0e137c346c63c9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wingstop Is Down 68% From Its All-Time High. Should You Buy Before July 29?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=57b346fa181f7494eefa2b99215c525fd64997841bc1f4d52ce8876da7779773",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Did Citigroup's Latest Earnings Change the Investment Case?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89724521406b7eea413c59b2df05823ef2ca598bb5a085c009c11256ef3ce190",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 6
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI capex boom",
+      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI Day signals",
+      "confidence": 50,
+      "reason": "AI trade",
       "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
@@ -59,96 +139,10 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI boom",
-      "headline": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa34d893a6a6719a9ec41342809c23aeb5e01ba8cf91d94376b19e9ed1ff525b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa34d893a6a6719a9ec41342809c23aeb5e01ba8cf91d94376b19e9ed1ff525b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d698e37a3e5b1d45010feb9f3677e325326cd8f25ce74ef26c5ca79fd03bd65",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1115aad204afc24903e96a618b2792f96178012b7dee8407ff0e137c346c63c9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Wingstop Is Down 68% From Its All-Time High. Should You Buy Before July 29?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57b346fa181f7494eefa2b99215c525fd64997841bc1f4d52ce8876da7779773",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Did Citigroup's Latest Earnings Change the Investment Case?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89724521406b7eea413c59b2df05823ef2ca598bb5a085c009c11256ef3ce190",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 7
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI capex boom",
-      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "AI trade",
       "headline": "TechCrunch Mobility: Uber bets on its former CEO",
       "source": "Yahoo",
@@ -177,46 +171,6 @@
           "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings ahead",
-      "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c40eb17ffbd97ffb354bc32045d298528cbd28967036f2ef252e994da8e0990a",
           "used_by_ai": true
         }
       ],
@@ -229,7 +183,7 @@
       "company": "",
       "direction": "down",
       "confidence": 40,
-      "reason": "Market signals",
+      "reason": "Market volatility",
       "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
@@ -263,6 +217,52 @@
       "source_breakdown": {
         "Yahoo": 1,
         "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Earnings ahead",
+      "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c40eb17ffbd97ffb354bc32045d298528cbd28967036f2ef252e994da8e0990a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     }
   ]
