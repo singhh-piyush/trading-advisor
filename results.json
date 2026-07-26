@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T10:45:54Z",
+  "updated_at": "2026-07-26T12:02:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,20 +8,84 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Positive forecast reset",
-      "headline": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of NVDA",
+      "headline": "Fed Chair Kevin Warsh Sends a Clear Signal on Where Interest Rates Are Headed",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd8f30d99f7dd10b75cb0732cd3c1fcfd5d5d1f045915dbf327ff7d61a7b5ac3",
+      "url": "https://finnhub.io/api/news?id=ce3dfc4fa97a3dbbf2ad62edfb4f57d5a5d33fef66518ef440e453390abcf51d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Fed Chair Kevin Warsh Sends a Clear Signal on Where Interest Rates Are Headed",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce3dfc4fa97a3dbbf2ad62edfb4f57d5a5d33fef66518ef440e453390abcf51d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Down 30% on the Year, Is Tesla Stock a Buy On This Latest Dip?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a59af45c718c603191be15d70c456ad8b7c49f15e2e6beee6166f2a8cace2c2a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Buy Sandisk Stock Before It Reports Earnings on Aug. 5?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6bc1d84411d39b727f02aa1a86ab55aee933872be490c0ab935c47b2be9e7b9a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "1 Reason the Crowd Is Wrong to Ignore Royal Caribbean Before July 28",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=035de823c651c7f7c7f263d6790eea4835b47874fb5a32e0e8ac6c63f5789d61",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Blue Origin Raised $10 Billion at a $130 Billion Valuation Under Jeff Bezos",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dac5655af0bf94755bcf4eae9b61d49006d56025740890e87933751e275a8fe1",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of AAPL",
+      "headline": "Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f9dfd60aab992facc87563aabfdc193cbe3aed5ffa10f8d066a42ab2bfc424a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9f9dfd60aab992facc87563aabfdc193cbe3aed5ffa10f8d066a42ab2bfc424a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aa93f6b650dcda9f8826f3f7390c5a02e2548ec74e81335b1ebe7541cf3f7d9d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Second Largest Negative Signal Of 2026: Bubbles, Barrels, And Skew",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=edc186f6a27ba872b896e076799fb59bcd37ee72a388078b83b613b95ecc3c78",
+          "used_by_ai": true
+        },
         {
           "headline": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
           "source": "Yahoo",
@@ -29,70 +93,51 @@
           "used_by_ai": true
         },
         {
-          "headline": "Which Is the Better Value Stock Right Now: Microsoft or Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=806c81fe02efa14402c325dd53c18edd8e28f80c91b83bef6e18ebfe45000f10",
-          "used_by_ai": false
-        },
-        {
-          "headline": "3M (MMM) Teams Up With Microsoft To Bring Optical Tech Into Azure AI Data Centers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=61add9ef166c1e4d1f453388adafbad4881de02d6b98860ff4bca561f39c152a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft: One Of The Best Buying Opportunities In Big Tech",
+          "headline": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2026 Update",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1dfabf8327dc63255cc5d51690af467ff16c5c396aae9a02fc1b993815fee0ae",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=b7c7414f5a348862645b4262f9b2682c8f76756b22f3a176a5c98e31a4b1d284",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "Buying opportunity",
-      "headline": "Microsoft: One Of The Best Buying Opportunities In Big Tech",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1dfabf8327dc63255cc5d51690af467ff16c5c396aae9a02fc1b993815fee0ae",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of MSFT",
+      "headline": "Which Is the Better Value Stock Right Now: Microsoft or Nvidia?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=806c81fe02efa14402c325dd53c18edd8e28f80c91b83bef6e18ebfe45000f10",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Microsoft: One Of The Best Buying Opportunities In Big Tech",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1dfabf8327dc63255cc5d51690af467ff16c5c396aae9a02fc1b993815fee0ae",
-          "used_by_ai": true
-        },
         {
           "headline": "Which Is the Better Value Stock Right Now: Microsoft or Nvidia?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=806c81fe02efa14402c325dd53c18edd8e28f80c91b83bef6e18ebfe45000f10",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "3M (MMM) Teams Up With Microsoft To Bring Optical Tech Into Azure AI Data Centers",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=61add9ef166c1e4d1f453388adafbad4881de02d6b98860ff4bca561f39c152a",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
         "Yahoo": 2
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Investor buys stock",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of TSLA",
       "headline": "Cathie Wood buys $50.1 million of tumbling megacap stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=40fc62ad2d6b29aef6c8657435464b017bda70fa95605e885ad095f8f29d5bf8",
@@ -108,13 +153,13 @@
           "headline": "Top 3 US Stock Market Stories From This Week",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e9b3b6495eb7c96a8d19fb3458285fd7ad781c4a98052844d6b3fe965eddf097",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=250fd0f3649acd5d54fcb787b66d4b3ef9a2999f945bd3170602c3f37047e02c",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -124,94 +169,32 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Chip supply for robots",
-      "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of AMD",
+      "headline": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
+      "url": "https://finnhub.io/api/news?id=cb213ad00a301e6579fd1c2ff7b8a147c3fa13545d7f5a8d6d7e993c96a1f002",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
-          "used_by_ai": true
-        },
         {
           "headline": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cb213ad00a301e6579fd1c2ff7b8a147c3fa13545d7f5a8d6d7e993c96a1f002",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2e0ce0af0cb6d6e484bd1967691b52b4c7e18e88397cae72c2311d00121f5c46",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=225bf8e13b69a75b507b78c71599807e39d1d284c0c6e178f287784353ae258a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bank of America revamps AMD stock price target for 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ca4f9feaa09a3c47a0adc3f19d88cc23fb8960d3f9747a955a38e9f7bc528cd",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 45,
-      "reason": "Ranked as stock to buy",
-      "headline": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=250fd0f3649acd5d54fcb787b66d4b3ef9a2999f945bd3170602c3f37047e02c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=250fd0f3649acd5d54fcb787b66d4b3ef9a2999f945bd3170602c3f37047e02c",
           "used_by_ai": true
         },
-        {
-          "headline": "Cathie Wood buys $50.1 million of tumbling megacap stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40fc62ad2d6b29aef6c8657435464b017bda70fa95605e885ad095f8f29d5bf8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Top 3 US Stock Market Stories From This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9b3b6495eb7c96a8d19fb3458285fd7ad781c4a98052844d6b3fe965eddf097",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 45,
-      "reason": "Price target revamp",
-      "headline": "Bank of America revamps AMD stock price target for 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ca4f9feaa09a3c47a0adc3f19d88cc23fb8960d3f9747a955a38e9f7bc528cd",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "Bank of America revamps AMD stock price target for 2026",
           "source": "Yahoo",
@@ -219,28 +202,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb213ad00a301e6579fd1c2ff7b8a147c3fa13545d7f5a8d6d7e993c96a1f002",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e0ce0af0cb6d6e484bd1967691b52b4c7e18e88397cae72c2311d00121f5c46",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=225bf8e13b69a75b507b78c71599807e39d1d284c0c6e178f287784353ae258a",
-          "used_by_ai": false
-        },
-        {
           "headline": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9958e6c72201e9c45d37c5557f1993146910fe12bf833495dd717599af59f8e8",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -250,9 +215,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Faster growth signal",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Mentions of market",
       "headline": "Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Price Concerns Cloud Outlook",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5d84c5c7d910db8e73bea71d1d06cfabd4000843b43f67ab3d6eb31cd7132d46",
@@ -268,19 +233,19 @@
           "headline": "The AI Capex Bill Comes Due",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=ea902e4b94087efc5ca609036cd653c160faba97a84d503e0330316c1d3d07ca",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Figuring Out The Fed",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f7076e84346ad680eb24684f1b36777abe1057399dfab31226483489e401a404",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "RPG: Pure Momentum, Not Pure Growth, Is Driving This Year's Exceptional Gains",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=bcca74dc2a54d1fb024472418762c413b3fcb91ff517f4cc18d9984ecb992063",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
