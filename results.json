@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T22:31:58Z",
+  "updated_at": "2026-07-26T23:58:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Locked AI deal",
+      "reason": "AI deal",
       "headline": "Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intelligence (AI) Stock Is the Best Quantum Computing Opportunity, and It's Currently Trading at a 7-Year Valuation Low.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e4ea082a2a04cc67225abccffe829f02d15c7cf2006caf2b0885bea01fe73299",
@@ -35,15 +35,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "American Airlines Cut Its Full-Year Guidance. The Stock Rose 6.8% the Next Day.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cceba9d8a195328214dfb3a0559f13b73b31a1fdde2c2683f2c13dc3c57b6691",
-          "used_by_ai": false
-        },
-        {
           "headline": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3435ca906231d5c8ab748d2227e9803f78fe705be769450b417bc3ed34606d3e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "American Airlines Cut Its Full-Year Guidance. The Stock Rose 6.8% the Next Day.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cceba9d8a195328214dfb3a0559f13b73b31a1fdde2c2683f2c13dc3c57b6691",
           "used_by_ai": false
         }
       ],
@@ -56,7 +56,7 @@
       "company": "Tesla",
       "direction": "down",
       "confidence": 70,
-      "reason": "Overvalued",
+      "reason": "overvalued",
       "headline": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51b09b6995b17e0e4b199fa2cb33b19da06516515fe395f189052fc03dfff07c",
@@ -78,13 +78,13 @@
           "headline": "TechCrunch Mobility: Uber bets on its former CEO",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -92,11 +92,46 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI policy",
+      "headline": "Microsoft just took sides in AI policy fight",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f59089685b2e0e9934c18a33f78452d4b8ff667bd78d0335b21ad26f97ceaeae",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft just took sides in AI policy fight",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f59089685b2e0e9934c18a33f78452d4b8ff667bd78d0335b21ad26f97ceaeae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tracking Lone Pine Capital Portfolio - Q1 2026 Update",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=be41904ebdcc5bca5c274b445a00f402da10ab95c9fff40563b47912a70c691e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "On GPS: Exclusive interview with Microsoft CEO Satya Nadella",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2da30109eba1eb24624594b447320ee7acb53266c9a186a3d716ed3d3f511e24",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "Earnings wave",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "earnings wave",
       "headline": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=549c343e1b951ffe375c7188459832eac86c0601e388fafc23dbd314dbb6ad91",
@@ -124,13 +159,13 @@
           "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -139,45 +174,11 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI policy",
-      "headline": "Microsoft just took sides in AI policy fight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f59089685b2e0e9934c18a33f78452d4b8ff667bd78d0335b21ad26f97ceaeae",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft just took sides in AI policy fight",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f59089685b2e0e9934c18a33f78452d4b8ff667bd78d0335b21ad26f97ceaeae",
-          "used_by_ai": true
-        },
-        {
-          "headline": "On GPS: Exclusive interview with Microsoft CEO Satya Nadella",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2da30109eba1eb24624594b447320ee7acb53266c9a186a3d716ed3d3f511e24",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI Day signals",
+      "confidence": 50,
+      "reason": "AI signals",
       "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
@@ -224,8 +225,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 50,
-      "reason": "Market trends",
+      "confidence": 30,
+      "reason": "market trends",
       "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
@@ -235,6 +236,12 @@
           "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Best Dividend Kings: July 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
           "used_by_ai": true
         },
         {
@@ -253,12 +260,6 @@
           "headline": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=6b6dc1d0b41af76edaf1deb902011d8e7eb9344c53042223e54a4b4bfa35eade",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Next Fed Rate Hike May Be Coming Soon",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4da10ba1ebb0e0f3a803545acaff541bb33a0f6fee7617dc250a64729022614e",
           "used_by_ai": true
         }
       ],
