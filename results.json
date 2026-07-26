@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T21:26:27Z",
+  "updated_at": "2026-07-26T22:31:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,37 +8,164 @@
     "AMD",
     "SPY"
   ],
-  "count": 22,
+  "count": 6,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Locked AI deal",
+      "headline": "Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intelligence (AI) Stock Is the Best Quantum Computing Opportunity, and It's Currently Trading at a 7-Year Valuation Low.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4ea082a2a04cc67225abccffe829f02d15c7cf2006caf2b0885bea01fe73299",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intelligence (AI) Stock Is the Best Quantum Computing Opportunity, and It's Currently Trading at a 7-Year Valuation Low.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e4ea082a2a04cc67225abccffe829f02d15c7cf2006caf2b0885bea01fe73299",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia just locked down deal that changes AI race",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef1624dc8c69b953eb1b7b05238fcb018e8da49062f9ab3b7342f78afb4544e7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "American Airlines Cut Its Full-Year Guidance. The Stock Rose 6.8% the Next Day.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cceba9d8a195328214dfb3a0559f13b73b31a1fdde2c2683f2c13dc3c57b6691",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3435ca906231d5c8ab748d2227e9803f78fe705be769450b417bc3ed34606d3e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Overvalued",
+      "headline": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51b09b6995b17e0e4b199fa2cb33b19da06516515fe395f189052fc03dfff07c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51b09b6995b17e0e4b199fa2cb33b19da06516515fe395f189052fc03dfff07c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51c745b670ece671487174733a6971f132960c85b6ba72219aa91619de7ce89f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TechCrunch Mobility: Uber bets on its former CEO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Earnings wave",
+      "headline": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=549c343e1b951ffe375c7188459832eac86c0601e388fafc23dbd314dbb6ad91",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=549c343e1b951ffe375c7188459832eac86c0601e388fafc23dbd314dbb6ad91",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures Due, Iran News In focus; Apple Leads Earnings Wave, Fed Meeting Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3350a7843509ebf2f617d375e1c2d93f987000f3de7cf347206809485bc44e0d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "Benzinga": 1
+      }
+    },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 65,
-      "reason": "AI capex boom",
-      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "confidence": 60,
+      "reason": "AI policy",
+      "headline": "Microsoft just took sides in AI policy fight",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+      "url": "https://finnhub.io/api/news?id=f59089685b2e0e9934c18a33f78452d4b8ff667bd78d0335b21ad26f97ceaeae",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+          "headline": "Microsoft just took sides in AI policy fight",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+          "url": "https://finnhub.io/api/news?id=f59089685b2e0e9934c18a33f78452d4b8ff667bd78d0335b21ad26f97ceaeae",
           "used_by_ai": true
         },
         {
           "headline": "On GPS: Exclusive interview with Microsoft CEO Satya Nadella",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2da30109eba1eb24624594b447320ee7acb53266c9a186a3d716ed3d3f511e24",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
-          "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
+          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -49,8 +176,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 65,
-      "reason": "UBS resets AMD stock target",
+      "confidence": 60,
+      "reason": "AI Day signals",
       "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
@@ -66,44 +193,8 @@
           "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a6ce0c9402ef9b4b6eb3c2bbe2a3c72d48c381948b5057516b3fe895a7bd02ee",
-          "used_by_ai": false
+          "used_by_ai": true
         },
-        {
-          "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4b35ab8369f7911239f9389e825348233fee006e926187efb5ef4f9b46143176",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 65,
-      "reason": "Intel's best days are still ahead",
-      "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
           "source": "SeekingAlpha",
@@ -111,830 +202,21 @@
           "used_by_ai": true
         },
         {
-          "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6ce0c9402ef9b4b6eb3c2bbe2a3c72d48c381948b5057516b3fe895a7bd02ee",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4b35ab8369f7911239f9389e825348233fee006e926187efb5ef4f9b46143176",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Cheap dividend stocks",
-      "headline": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2dd5d7f942a1493256beacfa77ff0be06748f35ade154f9940482d373623ef7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2dd5d7f942a1493256beacfa77ff0be06748f35ade154f9940482d373623ef7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a122b1f8c82c5a5012711200cca50502566e69377dc1744c894136d502e459a1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cba2303f9d25d941175562e91e3ddaa0f31ae63d94cb7a5e69a562dc2efda46b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cf183463590b159f8976352a3303e3312000e4d5ddce720ac6b85978529dd0c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f44fcc55cf77509e2be688695c978ef11f81c106c3cd081b6a264195d6d70f21",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Quantum computing",
-      "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "On GPS: Exclusive interview with Microsoft CEO Satya Nadella",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2da30109eba1eb24624594b447320ee7acb53266c9a186a3d716ed3d3f511e24",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Anthropic chip deal",
-      "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6ce0c9402ef9b4b6eb3c2bbe2a3c72d48c381948b5057516b3fe895a7bd02ee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6ce0c9402ef9b4b6eb3c2bbe2a3c72d48c381948b5057516b3fe895a7bd02ee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4b35ab8369f7911239f9389e825348233fee006e926187efb5ef4f9b46143176",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI trade faces final flush lower",
-      "headline": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4b35ab8369f7911239f9389e825348233fee006e926187efb5ef4f9b46143176",
-      "on_watchlist": true,
-      "articles": [
-        {
           "headline": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=4b35ab8369f7911239f9389e825348233fee006e926187efb5ef4f9b46143176",
           "used_by_ai": true
         },
         {
-          "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6ce0c9402ef9b4b6eb3c2bbe2a3c72d48c381948b5057516b3fe895a7bd02ee",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "Boring industrial stocks",
-      "headline": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4cf183463590b159f8976352a3303e3312000e4d5ddce720ac6b85978529dd0c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cf183463590b159f8976352a3303e3312000e4d5ddce720ac6b85978529dd0c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2dd5d7f942a1493256beacfa77ff0be06748f35ade154f9940482d373623ef7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a122b1f8c82c5a5012711200cca50502566e69377dc1744c894136d502e459a1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cba2303f9d25d941175562e91e3ddaa0f31ae63d94cb7a5e69a562dc2efda46b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f44fcc55cf77509e2be688695c978ef11f81c106c3cd081b6a264195d6d70f21",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "Uber bets on former CEO",
-      "headline": "TechCrunch Mobility: Uber bets on its former CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "TechCrunch Mobility: Uber bets on its former CEO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "Big Tech's spending on AI",
-      "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TechCrunch Mobility: Uber bets on its former CEO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "AI boom drives big tech earnings",
-      "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441",
-      "on_watchlist": true,
-      "articles": [
-        {
           "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441",
           "used_by_ai": true
-        },
-        {
-          "headline": "UBS hurries to reset AMD stock target on key AI Day signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dbc1478bae46be3f614a74a6899fb000b2d5bb1539c941d36685c7e4f101978",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6ce0c9402ef9b4b6eb3c2bbe2a3c72d48c381948b5057516b3fe895a7bd02ee",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4b35ab8369f7911239f9389e825348233fee006e926187efb5ef4f9b46143176",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "Yahoo": 2,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Yield on blue chip stocks",
-      "headline": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f44fcc55cf77509e2be688695c978ef11f81c106c3cd081b6a264195d6d70f21",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f44fcc55cf77509e2be688695c978ef11f81c106c3cd081b6a264195d6d70f21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2dd5d7f942a1493256beacfa77ff0be06748f35ade154f9940482d373623ef7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a122b1f8c82c5a5012711200cca50502566e69377dc1744c894136d502e459a1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cba2303f9d25d941175562e91e3ddaa0f31ae63d94cb7a5e69a562dc2efda46b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cf183463590b159f8976352a3303e3312000e4d5ddce720ac6b85978529dd0c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Elon Musk to show how to build Model S or X",
-      "headline": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TechCrunch Mobility: Uber bets on its former CEO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
-          "used_by_ai": false
-        },
-        {
-          "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Government's intel stake made $70 billion",
-      "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Next Fed rate hike may be coming soon",
-      "headline": "The Next Fed Rate Hike May Be Coming Soon",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4da10ba1ebb0e0f3a803545acaff541bb33a0f6fee7617dc250a64729022614e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Next Fed Rate Hike May Be Coming Soon",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4da10ba1ebb0e0f3a803545acaff541bb33a0f6fee7617dc250a64729022614e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=013daa4843ec81d4c4f45a507b90b9d950ae603192658f196eb209523ee8aaef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6b6dc1d0b41af76edaf1deb902011d8e7eb9344c53042223e54a4b4bfa35eade",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 45,
-      "reason": "S&P 500 breaking in slow motion",
-      "headline": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=013daa4843ec81d4c4f45a507b90b9d950ae603192658f196eb209523ee8aaef",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=013daa4843ec81d4c4f45a507b90b9d950ae603192658f196eb209523ee8aaef",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6b6dc1d0b41af76edaf1deb902011d8e7eb9344c53042223e54a4b4bfa35eade",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Next Fed Rate Hike May Be Coming Soon",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4da10ba1ebb0e0f3a803545acaff541bb33a0f6fee7617dc250a64729022614e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 45,
-      "reason": "SPYI's 12% yield faces hidden threat",
-      "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=013daa4843ec81d4c4f45a507b90b9d950ae603192658f196eb209523ee8aaef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6b6dc1d0b41af76edaf1deb902011d8e7eb9344c53042223e54a4b4bfa35eade",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Next Fed Rate Hike May Be Coming Soon",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4da10ba1ebb0e0f3a803545acaff541bb33a0f6fee7617dc250a64729022614e",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
         "SeekingAlpha": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Fed meeting and inflation",
-      "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Top three ETFs to watch",
-      "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Magnificent 7 trade is broken",
-      "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Stock market week ahead",
-      "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Week Ahead: Mag 7 And The Fed \u2014 But It's All About The Cash",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e75113fab70e3fccc33db2aedd0aab19c042638104af9b13072629ad767b97a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=063caae182b53b5cfa5bf5335b445579d39efe33c8b2f7c5a64a34b5a4cd2ea2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9153ff3fa8a62ff65438601ca296281aa7740844d189f9764e65a94c79d24385",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0a66f6ac5b8a3b388478d04858a72d41aaac461145a557d2715d756e040f9ff",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=153223944ac13c4b335e1b21fe68375045bfa049c458b3c0c404bacd248d07d5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
         "Benzinga": 1
       }
     },
@@ -942,13 +224,31 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Iran confirmed readiness to continue US negotiations",
-      "headline": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6b6dc1d0b41af76edaf1deb902011d8e7eb9344c53042223e54a4b4bfa35eade",
+      "confidence": 50,
+      "reason": "Market trends",
+      "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=013daa4843ec81d4c4f45a507b90b9d950ae603192658f196eb209523ee8aaef",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
+          "used_by_ai": true
+        },
         {
           "headline": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
           "source": "Benzinga",
@@ -956,34 +256,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3cd792fec3371e29c6ac03fd47630c0f92ca30e182f2f32eb89537a2021108d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=013daa4843ec81d4c4f45a507b90b9d950ae603192658f196eb209523ee8aaef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SPYI\u2019s 12% yield faces a hidden threat from falling volatility this summer",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=72bc5827418a169b2746d10282d1832dd2684cde05598497bab919f1bd731d6b",
-          "used_by_ai": false
-        },
-        {
           "headline": "The Next Fed Rate Hike May Be Coming Soon",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=4da10ba1ebb0e0f3a803545acaff541bb33a0f6fee7617dc250a64729022614e",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1,
         "Yahoo": 2,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     }
   ]
