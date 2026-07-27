@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T21:38:23Z",
+  "updated_at": "2026-07-27T23:01:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,70 +8,24 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "AI cybersecurity model",
-      "headline": "MSFT Stock Gains 3% \u2014 Microsoft Unveils AI Cybersecurity Model To Combat Real-Time Threats",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1681d84bfbcb8b342c5a8c3527925f1bf794cd34798aa43edb82fdd116d2e3a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "MSFT Stock Gains 3% \u2014 Microsoft Unveils AI Cybersecurity Model To Combat Real-Time Threats",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1681d84bfbcb8b342c5a8c3527925f1bf794cd34798aa43edb82fdd116d2e3a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1
-      }
-    },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
-      "confidence": 70,
-      "reason": "renewed worries",
-      "headline": "Update: US Equity Indexes Mixed as Tech Heads Lower While Iran Strikes Remain Halted",
+      "confidence": 80,
+      "reason": "Renewed worries of circular financing",
+      "headline": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d197bbfe0865a94764c2d60eec60f5ed65bf5c8e90686c9d09cf516eee7d0fa",
+      "url": "https://finnhub.io/api/news?id=010e3205d48fd2fca6f2c4e62203e7a02acf2313b65881020d33c9da17fec220",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Update: US Equity Indexes Mixed as Tech Heads Lower While Iran Strikes Remain Halted",
+          "headline": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d197bbfe0865a94764c2d60eec60f5ed65bf5c8e90686c9d09cf516eee7d0fa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Decline Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8a0ec531ee52de71d302ffc31c88474fcad576dc124e0475620204b24a261ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Dow Up, Auto Stock Tests Entry; AI Stock Fights Back Before Key Event (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd3659c37ad7ff2b19aead67f31568eab7566fb432eac89c35465995ddfb21dd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Guarantees $250B for OpenAI So Everyone One Day Can Get Paid",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5245abd53ed288ae84e2eb48682a9b4f36927a6b208a1b76ff7c719d04d95fa4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Still Down 26% in 2026, Is Palantir\u2019s Rebound Just Getting Started?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ed47baf059ba6e51cfe697fe09638f7ebcd3975e00c2cc08553e95c00bad0b5",
+          "url": "https://finnhub.io/api/news?id=010e3205d48fd2fca6f2c4e62203e7a02acf2313b65881020d33c9da17fec220",
           "used_by_ai": true
         },
         {
@@ -79,6 +33,30 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2d7775c4b68436816545af031b7be209549d825bc32ca67ccac08ff694573927",
           "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a43926d9a68a52073dcddcf158a0bf171391b0c4de69f022e0ad01acdb4845b9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Bitmine Stock Popped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=341d287962b8ab7b3235fa27a94abe99d4977b087326103c7bdf0607fd6c8a46",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Invests in Ilya Sutskever's AI Startup",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d526587c69f63215525dc4ad0f9717025e8bd7112871da5e357e89d71555baf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6055170484aa85f59e53fb659e49bccd27866eb245352a53d75c28c18ef8676",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -86,11 +64,131 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Invests in AI startup",
+      "headline": "Nvidia Invests in Ilya Sutskever's AI Startup",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d526587c69f63215525dc4ad0f9717025e8bd7112871da5e357e89d71555baf",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia Invests in Ilya Sutskever's AI Startup",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d526587c69f63215525dc4ad0f9717025e8bd7112871da5e357e89d71555baf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a43926d9a68a52073dcddcf158a0bf171391b0c4de69f022e0ad01acdb4845b9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Bitmine Stock Popped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=341d287962b8ab7b3235fa27a94abe99d4977b087326103c7bdf0607fd6c8a46",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6055170484aa85f59e53fb659e49bccd27866eb245352a53d75c28c18ef8676",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "U.S.-Iran peace hopes send oil prices plunging",
+      "headline": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a43926d9a68a52073dcddcf158a0bf171391b0c4de69f022e0ad01acdb4845b9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a43926d9a68a52073dcddcf158a0bf171391b0c4de69f022e0ad01acdb4845b9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Bitmine Stock Popped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=341d287962b8ab7b3235fa27a94abe99d4977b087326103c7bdf0607fd6c8a46",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Invests in Ilya Sutskever's AI Startup",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d526587c69f63215525dc4ad0f9717025e8bd7112871da5e357e89d71555baf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6055170484aa85f59e53fb659e49bccd27866eb245352a53d75c28c18ef8676",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Plans $190 billion of capital spending",
+      "headline": "Microsoft Plans $190 Billion of Capital Spending This Year. Wednesday Shows Whether Azure Is Keeping Up.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b55d38ad034de4022d993c34d878a27d5fc0ccca4e25755e7b60304eb2c0ea0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Plans $190 Billion of Capital Spending This Year. Wednesday Shows Whether Azure Is Keeping Up.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4b55d38ad034de4022d993c34d878a27d5fc0ccca4e25755e7b60304eb2c0ea0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Earnings Due July 29 as Options Signal 7% Stock Move",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=df04f5272878fd8321dc3e6aa547b51b9208943c4442efd81df1534173fcc763",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Update: US Equity Indexes Mixed as Chipmakers Drop, Pause in Iran Strikes Sinks Crude Oil",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f97a226c411d85840c6ecd2d384d63daf81601f51e0133bef5e94bebbb874413",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stock Market Today: Dow Up As These Stocks Test Entries; This AI Play Fights Back Before Key Event (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=df81aabb4d8d8a6db9a3ae667eaa69689cc4324edce082489550f2db554c07e8",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
       "confidence": 60,
-      "reason": "most valuable company",
+      "reason": "Becomes world's most valuable company",
       "headline": "Apple ends day as world's most valuable company, passing Nvidia",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
@@ -103,80 +201,39 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+          "headline": "Meet the Dividend Growth Stock That Warren Buffett Held for Decades, and Greg Abel Pegged as One of Berkshire Hathaway's Multidecade Compounders",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb40c6fd39f1fd48243a498731ce91e44c365e780f572639bc70bead51b1f4d2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Memory-Chip Stocks Micron, SK Hynix Drop After China Rival's IPO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9163cf49d805111cef74a490a2d19e4eb5e016ef043963dbfc72f967f165cda5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Explore the S&P500 index on Monday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=f63f4c342bc2488382cbf721e7aa2a85da40c33941d3c63a9bfda7b3a90ae6fe",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d7775c4b68436816545af031b7be209549d825bc32ca67ccac08ff694573927",
+          "url": "https://finnhub.io/api/news?id=2231ac72237e7ca4539d46229b54ef08b184529df039099e3e1cfd4922d2375e",
           "used_by_ai": false
         },
         {
-          "headline": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX",
+          "headline": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89138d28d25dcab7e843fc9cb1c6523550f33509c02392ef098e2ef889ee15cf",
+          "url": "https://finnhub.io/api/news?id=621ac323033e079ee2a776dac5d58f57d263f94b4872d48dfb82804a31786fd8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a7a4b80897018ea3dfa1ac5b7e7b67158737739c6cc8f943dd3b8d76e6e8e98",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4dabdabc36d625db115a654033965dac3c893f3630e9f955a0a530d99b29618c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Is The Growth In QQQ Actually Costing You?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3a8760d4357f5975ac2d9f41b9f53ce6d94cba5a5e22488660baf50568a2800",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "CNBC": 1,
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "stock plunge prediction",
-      "headline": "Prediction: Tesla Stock Will Plunge to $100 If the Nasdaq Enters a Bear Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d18fbed2f26d0e85c75f2b58aa68b0ca93e0d125bf112ee7624203d515121d4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Prediction: Tesla Stock Will Plunge to $100 If the Nasdaq Enters a Bear Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d18fbed2f26d0e85c75f2b58aa68b0ca93e0d125bf112ee7624203d515121d4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Wins UK Appeal in 5G Patent Licensing Case",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3875434a89781d89c517d80b2c8272e89677d8b528a8fdb26d8826ab3d3759e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "As Elon Musk Promises The Future, Tesla Stock Slides Into The Past",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed3e727a668a210e4571e2178c47e6ec407a7f8fef712fcaf7f4a3cecc78f68a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Ford and GM Look to Defense for New Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=467984e0d4a0b243eacf96e49cfffd6e42bb23ea3e9a21c4f95f798a9e89acad",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -184,7 +241,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "data center growth",
+      "reason": "Data center growth seen beating expectations",
       "headline": "AMD Data Center Growth Seen Beating Expectations Through 2027",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a3f8461d22d59a1f98f948fd72158fef031222b685ac0099fb0755db5255ff6e",
@@ -197,27 +254,66 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD\u2019s Microsoft Partnership Validates This Transition So I\u2019m Loading Up",
+          "headline": "Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e50aef1358963cba30c57034a36b1a2f16b4c780aa76048041d89eb9f03b18d6",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=a7c84d74b503a449641d3c03a9917859568c759be6919da2a0576fec22c7d8d9",
+          "used_by_ai": false
         },
         {
-          "headline": "Stay informed with the top movers within the S&P500 index on Monday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d92a31627db5e49a00f7865fdd64cbe8652bf16b62b82f5756be1467c3b2a654",
-          "used_by_ai": true
+          "headline": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=010e3205d48fd2fca6f2c4e62203e7a02acf2313b65881020d33c9da17fec220",
+          "used_by_ai": false
         },
         {
-          "headline": "Sandisk and More Chip Stocks Hit China Roadblocks",
+          "headline": "Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8755ed7451675f7689245094d5986c24023f7415053628dda03ab0196c9261b",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=2d7775c4b68436816545af031b7be209549d825bc32ca67ccac08ff694573927",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Stock slips despite UK Supreme Court victory",
+      "headline": "Tesla Stock Slips Despite Major UK Supreme Court Victory in 5G Patent Fight",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7acc15f47089302b3f4edc355ab41113a3a53ded85e6961ec8370635acdd8f8e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Stock Slips Despite Major UK Supreme Court Victory in 5G Patent Fight",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7acc15f47089302b3f4edc355ab41113a3a53ded85e6961ec8370635acdd8f8e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Geopolitics, AI Concerns, & Tech's Summer Slump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5ec7ab0826dff23be64feae5002c01c7cb5f12bb8300724d29ae7753c0932a31",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Trump Touts Tariffs in Midterm Pitch to GM Workers in Michigan",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=09fd9bb1ee75bf490fda9dd4b196a754a2bc64058f5df3be2aa6cf34a4e89378",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Stock Drops to Record Lows to Start Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=082cf4d8714c4eefa8eaf504f594ced19eb43893ca55ffd443686ff058037f19",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
@@ -225,12 +321,24 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "market rotation",
-      "headline": "Cash, Chips, and Chaos: What\u2019s Really Driving ETF Flows",
+      "reason": "Mixed market",
+      "headline": "How Much Union Pacific (UNP) Are You Really Betting On?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a197a2769eaa14fa0d801d4e5d2e29c2dacae64da68b44bdf01c2d51d6fa1fbf",
+      "url": "https://finnhub.io/api/news?id=c7a710d71129521d9fa807f277e3468735e5a87b48f60b9e7186a14e0529fb0f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Much Union Pacific (UNP) Are You Really Betting On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7a710d71129521d9fa807f277e3468735e5a87b48f60b9e7186a14e0529fb0f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Buying The SMH Dip Requires A Strong Stomach",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca31dccaea80f134b40298f91ce553ab520201edcf2ff86d0dc3fe774bac5943",
+          "used_by_ai": true
+        },
         {
           "headline": "Cash, Chips, and Chaos: What\u2019s Really Driving ETF Flows",
           "source": "Yahoo",
@@ -242,29 +350,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cbeea917c5ef3408c16e6d5299dac26d8e298e11e74823cbe68403782cbdcbdf",
           "used_by_ai": true
-        },
-        {
-          "headline": "Why Paying Off $80K in Student Loans Could Cost You $500,000",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=159beb33dea8bced98debec3d7f0f01921d72376274b9e9b100129f5d1b91139",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Is Not A Normal Market Rotation",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85b13d58f25ed21694804314f07cb4647b16d01fc98aca616e550cf8939b9714",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Coreweave is $71 After Falling 43% in a Year: One Analyst Thinks It Can Rocket to $250",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9109c7fa89b54d8d5e8da285caa18ccc807632885fab0e37ae5a43f16d1e5ba1",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     }
   ]
