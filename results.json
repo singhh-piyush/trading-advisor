@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T18:04:38Z",
+  "updated_at": "2026-07-27T20:03:54Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 9,
   "sample": false,
   "items": [
     {
@@ -16,179 +16,171 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Record high before earnings",
-      "headline": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
+      "reason": "Overtakes Nvidia",
+      "headline": "Apple overtakes Nvidia as world's most valuable company",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f8ceb4b0da0d80c4acac57dc15d45df16e5619b6cbdd1998790e4c43ec7d38e",
+      "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
+          "headline": "Apple overtakes Nvidia as world's most valuable company",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f8ceb4b0da0d80c4acac57dc15d45df16e5619b6cbdd1998790e4c43ec7d38e",
+          "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
           "used_by_ai": true
         },
         {
-          "headline": "1 Incredible Reason to Buy Apple Stock Before It Reports Earnings on July 30",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a088e3e1c591b8e6438d1499838dc9658d7d515140a5400161e30bfeec85e53",
-          "used_by_ai": true
+          "headline": "Explore the S&P500 index on Monday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=f63f4c342bc2488382cbf721e7aa2a85da40c33941d3c63a9bfda7b3a90ae6fe",
+          "used_by_ai": false
         },
         {
-          "headline": "Apple Stock Hits Record High Before Fiscal Q3 Earnings",
+          "headline": "Apple Is Barely Spending on AI While Its Rivals Pour In $700 Billion. Is That Discipline or Denial?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d364f8d3b169e55e4672bffc6890355112ab35557db5322669b08a03afbbb4b",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=096a41e0902a79060aedfff399b78a89f692a0ae16aa18cf8a22c8f29a002b85",
+          "used_by_ai": false
         },
         {
-          "headline": "Just 3 \"Magnificent Seven\" Stocks Remain Founder-Led. Should Investors Bet on Elon Musk, Mark Zuckerberg, or Jensen Huang for the Long Term?",
+          "headline": "S&P 500 Second-Quarter Earnings Growth Reaches 70%, Oppenheimer Says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb5d7094a74fc5ed8b5274edc07454a0e55f9b216dd69217d1118cbb51b33310",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=ea501f01f1f94e7fc4f83cb68bde7d8193d75c7629f1a619e9a4ba20eeb05a5f",
+          "used_by_ai": false
         },
         {
-          "headline": "Apple Is on Track to Dethrone Nvidia",
+          "headline": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92005828a82bf86c7d0487bca9e181bdcf4d27014f92c29b36fc77129070168f",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=05c4c239151ab7be91c966dbd7e5d02cb2a22a6444ea5b44450230ccca1e20a7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "up",
+      "direction": "down",
       "confidence": 70,
-      "reason": "Margins are safe",
-      "headline": "Top dow jones movers in Monday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c19dab74e14a1da00a0b26c3d0894666e72cf4b8ea237811786f25e0118168da",
+      "reason": "Loses top spot",
+      "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Top dow jones movers in Monday's session",
+          "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple overtakes Nvidia as world's most valuable company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Monday's session: top gainers and losers in the dow jones index",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c19dab74e14a1da00a0b26c3d0894666e72cf4b8ea237811786f25e0118168da",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=cb78fd5b6d971beed68ff684ddaa78ca399ac0d5c1918fac5995e99449126988",
+          "used_by_ai": false
         },
         {
-          "headline": "Is Intel Stock a Buy After Its Latest Earnings Report?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cfb98794dc0632d2bcb67effa2bf970a0dd171c9bcc4579fb0a966753357b499",
-          "used_by_ai": true
+          "headline": "Curious about the most active stocks on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=561049fb6b0df58aca2893ee7a7cd9c289a836bcd15f39f751e6679064109d99",
+          "used_by_ai": false
         },
         {
-          "headline": "Nvidia\u2019s Margins are Safe This Decade So I Keep Loading Up as Fear Resonates",
+          "headline": "TeraWulf and Cipher Digital Drop Even As Wall Street Hikes Targets Above $30: Best Setup for 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bfdd4d5647e4769169c09c839e607e560704941cd5f172fee5949916df3d6488",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Is On Track to Beat Lisa Su\u2019s $100 Billion Revenue Prediction By 2 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e153434be45d115680ee993ad7c64a9d24875bb78abb8c8a400dee192f31fde",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget Social Security: 5 Sleep-at-Night Dividend Stocks Retirees Are Using to Replace a Paycheck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=226e97769226d352193ee468abc933e80443ec0634412daea81166b5b2cba6ca",
+          "url": "https://finnhub.io/api/news?id=47f7573602d040d709a9b62552a2b2239b1918f1d9b16c3c5639c8fb062c9c9d",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
+        "CNBC": 1,
+        "Yahoo": 2,
+        "ChartMill": 2
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
       "confidence": 60,
-      "reason": "On track to beat revenue",
-      "headline": "Which S&P500 stocks are moving on Monday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=32a20ea883049ba22d8fec2ef198fc85eb03cbe855ef6311b92620400ca3eab8",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Which S&P500 stocks are moving on Monday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=32a20ea883049ba22d8fec2ef198fc85eb03cbe855ef6311b92620400ca3eab8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Will AMD\u2019s New Helios AI Platform and Full\u2011Stack Push Change Advanced Micro Devices' (AMD) Narrative?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74a1501286b012495dee39372d51f18a38719447efbe95737a214361f7dd858a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Chip Stocks Sink on China Competition Concerns, Erasing Early Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=072bb2a66fa7b103b96de885a4e3e2dc326f1c172f45ff36cdf6271401b39337",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 2
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Buying before earnings",
-      "headline": "I\u2019m Buying Microsoft Before July 29 for One Reason",
+      "reason": "AI spending",
+      "headline": "Apple Is Barely Spending on AI While Its Rivals Pour In $700 Billion. Is That Discipline or Denial?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63427bb243f2602d28b3c7948bfd72b91730cebb5f4f1574cc95f9f6deaf2770",
+      "url": "https://finnhub.io/api/news?id=096a41e0902a79060aedfff399b78a89f692a0ae16aa18cf8a22c8f29a002b85",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "I\u2019m Buying Microsoft Before July 29 for One Reason",
+          "headline": "Apple Is Barely Spending on AI While Its Rivals Pour In $700 Billion. Is That Discipline or Denial?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63427bb243f2602d28b3c7948bfd72b91730cebb5f4f1574cc95f9f6deaf2770",
+          "url": "https://finnhub.io/api/news?id=096a41e0902a79060aedfff399b78a89f692a0ae16aa18cf8a22c8f29a002b85",
           "used_by_ai": true
+        },
+        {
+          "headline": "Explore the S&P500 index on Monday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=f63f4c342bc2488382cbf721e7aa2a85da40c33941d3c63a9bfda7b3a90ae6fe",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple overtakes Nvidia as world's most valuable company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
+          "used_by_ai": false
+        },
+        {
+          "headline": "S&P 500 Second-Quarter Earnings Growth Reaches 70%, Oppenheimer Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea501f01f1f94e7fc4f83cb68bde7d8193d75c7629f1a619e9a4ba20eeb05a5f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05c4c239151ab7be91c966dbd7e5d02cb2a22a6444ea5b44450230ccca1e20a7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "New business deal",
-      "headline": "Earnings Misses: Between Tesla and Alphabet, Only One Deserved Punishment",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Stock breaks down",
+      "headline": "Tesla Stock Breaks Down After Worst Week Since 2022, Charts Point to $296",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6f48d494e37e5e441d6f3a24e1d343d1f82790fdf3ecf49c9838f024e9c774f",
+      "url": "https://finnhub.io/api/news?id=ab89a013d2eab6408d606f0625cebc90d2a4caeb9e6e9c701d8eed52649a7348",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Earnings Misses: Between Tesla and Alphabet, Only One Deserved Punishment",
+          "headline": "Tesla Stock Breaks Down After Worst Week Since 2022, Charts Point to $296",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6f48d494e37e5e441d6f3a24e1d343d1f82790fdf3ecf49c9838f024e9c774f",
+          "url": "https://finnhub.io/api/news?id=ab89a013d2eab6408d606f0625cebc90d2a4caeb9e6e9c701d8eed52649a7348",
           "used_by_ai": true
         },
         {
-          "headline": "Virtuix Sells First Omni One Enterprise System to Tesla\u2019s Optimus Robot Division",
+          "headline": "Should You Buy Tesla Stock After Its Post-Earnings Dip?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24b26465506820faf25b9205c1c52bbb360d1411707e61accfd6b478518b70bc",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f4577ef6533ea10590e3a59395db672accb9fabcc1d09001615c67793582e347",
+          "used_by_ai": false
         },
         {
-          "headline": "Elon Musk\u2019s Tunneling Firm Is Worth More Than About 100 S&P Companies",
+          "headline": "Cathie Wood Goes Bargain Hunting: 3 Huge Stocks She Bought Last Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b6e1e2271871bdc8944b367c858a565533a5b64f001a57a8d3cc0bcecb5a34c",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=dabb32ac0d71e043064ee22019c2db8c0d90857dd1bca1432138eb2bb0337c62",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -196,51 +188,194 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Market breadth improves",
-      "headline": "Let The AI Panic Begin: The Most Unexpected Alliance",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3970e71c2749aa7261dd45485f792df1b98b9b9736d86f9b8085806607df042d",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "TeraWulf targets",
+      "headline": "TeraWulf and Cipher Digital Drop Even As Wall Street Hikes Targets Above $30: Best Setup for 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47f7573602d040d709a9b62552a2b2239b1918f1d9b16c3c5639c8fb062c9c9d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Let The AI Panic Begin: The Most Unexpected Alliance",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3970e71c2749aa7261dd45485f792df1b98b9b9736d86f9b8085806607df042d",
+          "headline": "TeraWulf and Cipher Digital Drop Even As Wall Street Hikes Targets Above $30: Best Setup for 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47f7573602d040d709a9b62552a2b2239b1918f1d9b16c3c5639c8fb062c9c9d",
           "used_by_ai": true
         },
         {
-          "headline": "Market Breadth Slips to a Negative Bias as Short-Term Support Weakens",
+          "headline": "Monday's session: top gainers and losers in the dow jones index",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=786fd0ff5d15ed6b40eb278077a554c433ee4215ba49015c51f5ec37ff25928c",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=cb78fd5b6d971beed68ff684ddaa78ca399ac0d5c1918fac5995e99449126988",
+          "used_by_ai": false
         },
         {
-          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Oil Prices Fall",
+          "headline": "Curious about the most active stocks on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=561049fb6b0df58aca2893ee7a7cd9c289a836bcd15f39f751e6679064109d99",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 1,
+        "ChartMill": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Bargain hunting",
+      "headline": "Cathie Wood Goes Bargain Hunting: 3 Huge Stocks She Bought Last Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dabb32ac0d71e043064ee22019c2db8c0d90857dd1bca1432138eb2bb0337c62",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cathie Wood Goes Bargain Hunting: 3 Huge Stocks She Bought Last Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eace834f5bfe5068bb71894ae3a505a4dc3c6b10cd412ac9e8ee15274d008641",
+          "url": "https://finnhub.io/api/news?id=dabb32ac0d71e043064ee22019c2db8c0d90857dd1bca1432138eb2bb0337c62",
           "used_by_ai": true
         },
         {
-          "headline": "Business Conditions Monthly May 2026",
+          "headline": "Should You Buy Tesla Stock After Its Post-Earnings Dip?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f4577ef6533ea10590e3a59395db672accb9fabcc1d09001615c67793582e347",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla Stock Breaks Down After Worst Week Since 2022, Charts Point to $296",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ab89a013d2eab6408d606f0625cebc90d2a4caeb9e6e9c701d8eed52649a7348",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Dethrone Nvidia",
+      "headline": "Could AMD Dethrone Nvidia?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef88f177ac9be042f169ec162d4ae8315bd177b24252bf43e3c6b26b08b8efaa",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Could AMD Dethrone Nvidia?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef88f177ac9be042f169ec162d4ae8315bd177b24252bf43e3c6b26b08b8efaa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stay informed with the top movers within the S&P500 index on Monday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d92a31627db5e49a00f7865fdd64cbe8652bf16b62b82f5756be1467c3b2a654",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wedbush Tweaks AMD Stock Price Target Ahead of Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e4f8f7cdf517ffb1b4df720f2dbfd58b4bc3dc7f86e1e50c028161a2d7aa7649",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Which S&P500 stocks are moving on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=32a20ea883049ba22d8fec2ef198fc85eb03cbe855ef6311b92620400ca3eab8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jim Cramer Warns the Semiconductor Selloff Has \u2018Monstrous\u2019 Sellers Behind It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6f26120553edda00ea42d259c4ea8ffff38bf05bf58c19f797fb4c05e3fcafd1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 2
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Tech stocks fall",
+      "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1e308833962f97bfc123105b6d3f7363923da98e174d0bfafbf07293fa7a8d1",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c1e308833962f97bfc123105b6d3f7363923da98e174d0bfafbf07293fa7a8d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX and Tesla shed $1.2 trillion in July as Apple keeps the megacaps afloat: Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c81d9f4fc8f900a05864577ce1b710bbaf397a5894a816c10c0b71dd3e31c204",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Futures rise",
+      "headline": "Why Paying Off $80K in Student Loans Could Cost You $500,000",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=159beb33dea8bced98debec3d7f0f01921d72376274b9e9b100129f5d1b91139",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Paying Off $80K in Student Loans Could Cost You $500,000",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=159beb33dea8bced98debec3d7f0f01921d72376274b9e9b100129f5d1b91139",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Coreweave is $71 After Falling 43% in a Year: One Analyst Thinks It Can Rocket to $250",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9109c7fa89b54d8d5e8da285caa18ccc807632885fab0e37ae5a43f16d1e5ba1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Most Bullish Valuation In 30 Years, So Why Aren't Investors Buying?",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f2bef5eb8e1a33bfa7eb8e52d9985255c9e3dd513da7dc8e8ac9ee1da9f33ec7",
+          "url": "https://finnhub.io/api/news?id=8e3e840ce023290badd8cf0735d0f5c2d4fc83e7700bd7510956c835360e60f6",
           "used_by_ai": true
         },
         {
-          "headline": "WEBs Defined Volatility\u2120 Sector ETFs Celebrate One Year of Helping Investors Navigate Volatile Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6df75650e15ed1687f7aba460aa592d0eecdbbc37f83a1c1745cb4067bc54296",
+          "headline": "Massive AI Data Center Investment Pushes The Economy And Prices: Durable Goods Orders",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3fb8c7b251e66fa601a2dd9bffd009c6494ebf7c7a66880d2524d6963a0ba57a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Retail Stays Bullish On Hyperscalers Ahead Of Earnings",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=dd9d296f001c79e0d0dedaa7f0b4d7004037c57a0c48f5e9d5d7bff48b47bebb",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "ChartMill": 1,
-        "Yahoo": 2
+        "Yahoo": 2,
+        "SeekingAlpha": 3
       }
     }
   ]
