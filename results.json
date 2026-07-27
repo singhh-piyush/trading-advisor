@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T16:19:46Z",
+  "updated_at": "2026-07-27T18:04:38Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -17,11 +17,17 @@
       "direction": "up",
       "confidence": 80,
       "reason": "Record high before earnings",
-      "headline": "1 Incredible Reason to Buy Apple Stock Before It Reports Earnings on July 30",
+      "headline": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a088e3e1c591b8e6438d1499838dc9658d7d515140a5400161e30bfeec85e53",
+      "url": "https://finnhub.io/api/news?id=5f8ceb4b0da0d80c4acac57dc15d45df16e5619b6cbdd1998790e4c43ec7d38e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f8ceb4b0da0d80c4acac57dc15d45df16e5619b6cbdd1998790e4c43ec7d38e",
+          "used_by_ai": true
+        },
         {
           "headline": "1 Incredible Reason to Buy Apple Stock Before It Reports Earnings on July 30",
           "source": "Yahoo",
@@ -48,7 +54,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -56,12 +62,18 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 70,
-      "reason": "Safe margins and growth",
-      "headline": "Is Intel Stock a Buy After Its Latest Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfb98794dc0632d2bcb67effa2bf970a0dd171c9bcc4579fb0a966753357b499",
+      "reason": "Margins are safe",
+      "headline": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c19dab74e14a1da00a0b26c3d0894666e72cf4b8ea237811786f25e0118168da",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Top dow jones movers in Monday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c19dab74e14a1da00a0b26c3d0894666e72cf4b8ea237811786f25e0118168da",
+          "used_by_ai": true
+        },
         {
           "headline": "Is Intel Stock a Buy After Its Latest Earnings Report?",
           "source": "Yahoo",
@@ -84,17 +96,12 @@
           "headline": "Forget Social Security: 5 Sleep-at-Night Dividend Stocks Retirees Are Using to Replace a Paycheck",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=226e97769226d352193ee468abc933e80443ec0634412daea81166b5b2cba6ca",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Indexes Mixed On U.S.-Iran War Pause; Pharma Player Tests Entry, Oil Skids (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a30ecebfcd6c398ab732a2c24802c628397c45a1b250fcffe79b5bd57bbeee66",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "ChartMill": 1,
+        "Yahoo": 4
       }
     },
     {
@@ -102,12 +109,18 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "New AI platform and growth",
-      "headline": "Will AMD\u2019s New Helios AI Platform and Full\u2011Stack Push Change Advanced Micro Devices' (AMD) Narrative?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74a1501286b012495dee39372d51f18a38719447efbe95737a214361f7dd858a",
+      "reason": "On track to beat revenue",
+      "headline": "Which S&P500 stocks are moving on Monday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=32a20ea883049ba22d8fec2ef198fc85eb03cbe855ef6311b92620400ca3eab8",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Which S&P500 stocks are moving on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=32a20ea883049ba22d8fec2ef198fc85eb03cbe855ef6311b92620400ca3eab8",
+          "used_by_ai": true
+        },
         {
           "headline": "Will AMD\u2019s New Helios AI Platform and Full\u2011Stack Push Change Advanced Micro Devices' (AMD) Narrative?",
           "source": "Yahoo",
@@ -119,17 +132,33 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=072bb2a66fa7b103b96de885a4e3e2dc326f1c172f45ff36cdf6271401b39337",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Buying before earnings",
+      "headline": "I\u2019m Buying Microsoft Before July 29 for One Reason",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63427bb243f2602d28b3c7948bfd72b91730cebb5f4f1574cc95f9f6deaf2770",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Which S&P500 stocks are gapping on Monday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b2c2134beeb6f172d64343ca7cd66e1ceadc90d88bf96362306a9f63508771d3",
+          "headline": "I\u2019m Buying Microsoft Before July 29 for One Reason",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=63427bb243f2602d28b3c7948bfd72b91730cebb5f4f1574cc95f9f6deaf2770",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "ChartMill": 1
+        "Yahoo": 1
       }
     },
     {
@@ -137,7 +166,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "New sales and partnerships",
+      "reason": "New business deal",
       "headline": "Earnings Misses: Between Tesla and Alphabet, Only One Deserved Punishment",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f6f48d494e37e5e441d6f3a24e1d343d1f82790fdf3ecf49c9838f024e9c774f",
@@ -167,44 +196,22 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings anticipation",
-      "headline": "I\u2019m Buying Microsoft Before July 29 for One Reason",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63427bb243f2602d28b3c7948bfd72b91730cebb5f4f1574cc95f9f6deaf2770",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "I\u2019m Buying Microsoft Before July 29 for One Reason",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63427bb243f2602d28b3c7948bfd72b91730cebb5f4f1574cc95f9f6deaf2770",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Week ahead: Wall Street's biggest summer test is here with Big Tech, Fed on deck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a1b192dba9661ce0046ef537c7fb5a57c2de731a8928d17065289d014dabaa0",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market volatility",
-      "headline": "Market Breadth Slips to a Negative Bias as Short-Term Support Weakens",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=786fd0ff5d15ed6b40eb278077a554c433ee4215ba49015c51f5ec37ff25928c",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market breadth improves",
+      "headline": "Let The AI Panic Begin: The Most Unexpected Alliance",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3970e71c2749aa7261dd45485f792df1b98b9b9736d86f9b8085806607df042d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Let The AI Panic Begin: The Most Unexpected Alliance",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3970e71c2749aa7261dd45485f792df1b98b9b9736d86f9b8085806607df042d",
+          "used_by_ai": true
+        },
         {
           "headline": "Market Breadth Slips to a Negative Bias as Short-Term Support Weakens",
           "source": "ChartMill",
@@ -218,28 +225,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "Business Conditions Monthly May 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f2bef5eb8e1a33bfa7eb8e52d9985255c9e3dd513da7dc8e8ac9ee1da9f33ec7",
+          "used_by_ai": true
+        },
+        {
           "headline": "WEBs Defined Volatility\u2120 Sector ETFs Celebrate One Year of Helping Investors Navigate Volatile Markets",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6df75650e15ed1687f7aba460aa592d0eecdbbc37f83a1c1745cb4067bc54296",
           "used_by_ai": true
-        },
-        {
-          "headline": "President Trump, To Axios, Says I'm Ready For Strong Military Action If Iran Talks Fail",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e542243890b49cb24bd798a5da107330179aab9e17c7382fcd14674ea9afa60e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e739e8d27f0b9e4ae4fb4da3a63ad8118e9ee88a56e48504c907d8db01e1f8b5",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
+        "SeekingAlpha": 2,
         "ChartMill": 1,
-        "Yahoo": 2,
-        "Benzinga": 2
+        "Yahoo": 2
       }
     }
   ]
