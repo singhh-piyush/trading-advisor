@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T16:46:19Z",
+  "updated_at": "2026-07-28T18:14:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -16,40 +16,87 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Reaches $5 trillion market value",
-      "headline": "Apple briefly becomes second company ever to notch $5 trillion market value",
+      "reason": "Hits $5 trillion market cap",
+      "headline": "Cadence Stock Jumps 5% as AI Chip Demand Lifts Forecast",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b638f6eda55874733be2c862a8a1a17be6b1b8cca3ed0ab49685caf4f29710e9",
+      "url": "https://finnhub.io/api/news?id=336369d23b40974d93787953534a8602afab3dbd6ab11a7758a041d0c875275c",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple briefly becomes second company ever to notch $5 trillion market value",
+          "headline": "Cadence Stock Jumps 5% as AI Chip Demand Lifts Forecast",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b638f6eda55874733be2c862a8a1a17be6b1b8cca3ed0ab49685caf4f29710e9",
+          "url": "https://finnhub.io/api/news?id=336369d23b40974d93787953534a8602afab3dbd6ab11a7758a041d0c875275c",
           "used_by_ai": true
         },
         {
-          "headline": "4 US Stocks Earnings to Watch This Week: Will AI Spending Finally Pay Off?",
+          "headline": "Apple briefly hits $5 trillion market cap, second ever after Nvidia",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4aca0e5aeaa8cb76dddb47742d4f5c991f57d8b49f309210d29bbf425aab02eb",
+          "url": "https://finnhub.io/api/news?id=3c4952fb8c3a1e5f42af6ab152125d46f8d4386765ecdc321b7c41ee55f34759",
           "used_by_ai": true
         },
         {
-          "headline": "$508 Billion Back To Shareholders: Inside The AAPL Machine",
+          "headline": "The $5 Trillion Question: Does Apple or Nvidia Maintain The Highest Market Cap?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6e70cc7db40752f505ce1b97fb619a6e86361dccb25816a4b1144e4a00a5c10",
+          "url": "https://finnhub.io/api/news?id=2f9b9fc3646b49fa15e8510efb3f05114bb24d9ac17e75e49692801782d29e8f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple faces lawsuit over alleged Bitcoin scam",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee188a82e959b9b193befa70b57bf6da3779ac77274a48d0eaddcbb74f78bd64",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Exploring the top movers within the dow jones index during today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ef5f0544f165f1eb4c081c488dfeb854ae72ad9d95b9677df73f68899768b046",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Stock dives 23%",
+      "headline": "BYD Shares Rally 22% As Tesla Dives 23%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbb380132477c5437e4259c89babeeece91499b9f36b09dccf81a25729474a1c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "BYD Shares Rally 22% As Tesla Dives 23%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbb380132477c5437e4259c89babeeece91499b9f36b09dccf81a25729474a1c",
           "used_by_ai": true
         },
         {
-          "headline": "iPhone 18 Is Apple\u2019s Most Important Product Ever",
+          "headline": "Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40b10875df356311fb3366d920580127ec806f93f439515b38ef4d32096def13",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d9b37562f56f3c441f68c828ecfa8e97c10a0fd3fb45da6aadff5e0d1c4f1d2a",
+          "used_by_ai": false
         },
         {
-          "headline": "Kevin O'Leary Calls 'Shark Tank' Ambassador of the American Dream \u2014 'No Other Country Where People Risk Drowning Under Barbed Wire in a River to Get In'",
+          "headline": "Musk\u2019s Wealth Has Taken a Huge SpaceX Hit. He\u2019s Still Worth 45 Times China\u2019s CXMT Billionaire.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7823b9b6b4c3a4823f92a15fad43d0351df19b33fbdf279c15f3bfb7fc9835b4",
+          "url": "https://finnhub.io/api/news?id=1e3bba557ebbff50d9d4cf8150f02d2d8efd891efd8632c533ed0bfbc9ab2901",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla stock hasn't been this oversold in more than a year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc2becfa8081eaa4b2e3247b28db4f7ee375bf4a31ee5f2f895955b0219f0aac",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla, SpaceX Stocks Fall Further and Cathie Wood Keeps Buying Both",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=84fe64c766f0eccd25164d754bc9ba2e76b897c4f68631eb99d88fedf4950db0",
           "used_by_ai": false
         }
       ],
@@ -61,8 +108,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Potential growth",
+      "confidence": 60,
+      "reason": "AI chip demand",
       "headline": "Billionaire Stanley Druckenmiller Slashed His Stake in This Stock. But Wall Street Thinks It Could Jump 50%.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1f6741634c570a0a20006e26c5c0744e0155c035d6ab6e66017e612bbfb04639",
@@ -81,24 +128,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia in talks to back OpenAI lease of $500 billion data center",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-          "used_by_ai": true
-        },
-        {
           "headline": "2 Energy Stocks You Won't Regret Buying in July",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=48ca74fda87c42628b1755aa0de1cae23636e996b64531acdc72c3a63916bae2",
@@ -109,49 +138,23 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e153f4f2dfc91ed8fc20d9dd10571c196b6bdb65aaf92e92512e10ade742b337",
           "used_by_ai": false
-        },
-        {
-          "headline": "3 High-Yield BDC Stocks to Buy Before August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b80f06ac934115b1ded196833c0066882773ad01aa7e01b79cf6255c5685b50b",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 6,
-        "CNBC": 1,
-        "Bloomberg": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Stock dives",
-      "headline": "Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Stock oversold",
+      "headline": "Tesla stock hasn't been this oversold in more than a year",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9b37562f56f3c441f68c828ecfa8e97c10a0fd3fb45da6aadff5e0d1c4f1d2a",
+      "url": "https://finnhub.io/api/news?id=fc2becfa8081eaa4b2e3247b28db4f7ee375bf4a31ee5f2f895955b0219f0aac",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9b37562f56f3c441f68c828ecfa8e97c10a0fd3fb45da6aadff5e0d1c4f1d2a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Musk\u2019s Wealth Has Taken a Huge SpaceX Hit. He\u2019s Still Worth 45 Times China\u2019s CXMT Billionaire.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e3bba557ebbff50d9d4cf8150f02d2d8efd891efd8632c533ed0bfbc9ab2901",
-          "used_by_ai": true
-        },
-        {
-          "headline": "BYD Shares Rally 22% As Tesla Dives 23%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbb380132477c5437e4259c89babeeece91499b9f36b09dccf81a25729474a1c",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla stock hasn't been this oversold in more than a year",
           "source": "Yahoo",
@@ -159,10 +162,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d9b37562f56f3c441f68c828ecfa8e97c10a0fd3fb45da6aadff5e0d1c4f1d2a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Musk\u2019s Wealth Has Taken a Huge SpaceX Hit. He\u2019s Still Worth 45 Times China\u2019s CXMT Billionaire.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1e3bba557ebbff50d9d4cf8150f02d2d8efd891efd8632c533ed0bfbc9ab2901",
+          "used_by_ai": false
+        },
+        {
+          "headline": "BYD Shares Rally 22% As Tesla Dives 23%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbb380132477c5437e4259c89babeeece91499b9f36b09dccf81a25729474a1c",
+          "used_by_ai": false
+        },
+        {
           "headline": "Tesla, SpaceX Stocks Fall Further and Cathie Wood Keeps Buying Both",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=84fe64c766f0eccd25164d754bc9ba2e76b897c4f68631eb99d88fedf4950db0",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -174,12 +195,18 @@
       "company": "AMD",
       "direction": "down",
       "confidence": 50,
-      "reason": "Stock falls",
-      "headline": "MU, AMD, INTC, SNDK Stocks Fall \u2014 Morgan Stanley's Mike Wilson Explains Why Investors Are Going After Chip And Memory Stocks",
+      "reason": "Stock sinks 8%",
+      "headline": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=608f1e9e8a65a27dc48c915ac506f81bf2f88e4ca20b199a46856ed0688d550e",
+      "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485",
+          "used_by_ai": true
+        },
         {
           "headline": "MU, AMD, INTC, SNDK Stocks Fall \u2014 Morgan Stanley's Mike Wilson Explains Why Investors Are Going After Chip And Memory Stocks",
           "source": "Yahoo",
@@ -187,34 +214,81 @@
           "used_by_ai": true
         },
         {
+          "headline": "Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=776c111104cd6b9d32b2ae46c5330c143a2465657a435141f252603be8b5a03f",
+          "used_by_ai": false
+        },
+        {
           "headline": "What You're Really Paying For Broadcom Stock",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1122569073d2d9e7320fb792b00f5fb4f37ff932b526b8ada3cc0a40b5538b5d",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Corning, ASML, SK Hynix, PayPal, UPS, Coca-Cola, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2c22955765a290384aad78f69a57d3a3a4929c942b67332afc05a822e7795f19",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Core Scientific Stock Drops as Big Earnings Miss Overshadows AMD Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5b555bc109ee069cc9c44d258d3984254ae8bd20cf848c4192716d8478b48a3",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "Faces lawsuit",
+      "headline": "Apple faces lawsuit over alleged Bitcoin scam",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee188a82e959b9b193befa70b57bf6da3779ac77274a48d0eaddcbb74f78bd64",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple faces lawsuit over alleged Bitcoin scam",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee188a82e959b9b193befa70b57bf6da3779ac77274a48d0eaddcbb74f78bd64",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cadence Stock Jumps 5% as AI Chip Demand Lifts Forecast",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=336369d23b40974d93787953534a8602afab3dbd6ab11a7758a041d0c875275c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The $5 Trillion Question: Does Apple or Nvidia Maintain The Highest Market Cap?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f9b9fc3646b49fa15e8510efb3f05114bb24d9ac17e75e49692801782d29e8f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple briefly hits $5 trillion market cap, second ever after Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c4952fb8c3a1e5f42af6ab152125d46f8d4386765ecdc321b7c41ee55f34759",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Exploring the top movers within the dow jones index during today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ef5f0544f165f1eb4c081c488dfeb854ae72ad9d95b9677df73f68899768b046",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Partnership and AI",
+      "confidence": 30,
+      "reason": "Partners with BlackRock",
       "headline": "Meta Partners With BlackRock Over $14 Billion Data Center Project",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81479933e2578c97c0d9b7969a0bd6a61301d43c71db49edc6adc02de8e864e9",
@@ -230,37 +304,31 @@
           "headline": "The 5 Hyperscaler Stocks Most at Risk If AI Capex Spending Hits a Wall in 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cf38be1a779713593e784b3d2a105dfdbdf60aee2b3ea3f6123fcad2dd56c85c",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Is Etsy (ETSY) Fully Valued Following Its New AI Partnerships?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4d2248adade05bedfb9b4f1807bf9dfd61b678ba53466da2f357b34f5bf1de19",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon Is Killing Most of Nova \u2014 Is Its $200 Billion AI Bet Still Alive?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecf93dbfa76428abf248b02c72f0ac3a82fda5f0069867f0081a401e2b261a9c",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market news",
+      "confidence": 20,
+      "reason": "Market update",
       "headline": "Prediction: This \u2018Boring\u2019 Dividend ETF Secretly Rides the AI Trade and Out-Earns Your High-Yield Fund by 2036",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d30853e65c00378415d30d59a5967ff2f900939f6907ae3ee97252353d3efa08",
@@ -279,21 +347,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "The Fed Is Expected To Hold Rates - The Rules Say It Shouldn't",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ab4c1a18b8e2ee7ed86e61e0d1236353c1db986d4df0c733e87ebec5f279e82b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "6 Catalysts That Might Pop The AI Bubble",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e252009570e04de8fda282c8ee6707568119d13c5a4c3828c86fc93634033727",
+          "used_by_ai": true
+        },
+        {
           "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b8c4b7fee40506b48e5c496f5ef24559c1ceb8284427e469dbf17d815bc31a40",
-          "used_by_ai": true
-        },
-        {
-          "headline": "When The Debt Levee Breaks",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c9694fc4dc24e3d275d1657309102102aa444831df3618008c3bf8d8cbd084a6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Credit Market Lens: The Return Of Financial Engineering - Not 2008, But Not Nothing",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=831c878d638095b492b5a6b52a47913f18bc02a9998e902d34cc366168f4d23b",
           "used_by_ai": true
         }
       ],
