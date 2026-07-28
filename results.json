@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T04:09:02Z",
+  "updated_at": "2026-07-28T07:12:53Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,88 +12,109 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
       "confidence": 80,
-      "reason": "Quantum stock surges",
-      "headline": "Why D-Wave Quantum Stock Surged Today",
+      "reason": "New 52-week high",
+      "headline": "Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db9fdc6debf311bf1087aec492a7f957925ae05f55cb18e3951ec328ab809629",
+      "url": "https://finnhub.io/api/news?id=ae40a889c214680944ea246dcaf10c72e85d82a0640d455d339ab84dbe0e44d0",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why D-Wave Quantum Stock Surged Today",
+          "headline": "Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db9fdc6debf311bf1087aec492a7f957925ae05f55cb18e3951ec328ab809629",
+          "url": "https://finnhub.io/api/news?id=ae40a889c214680944ea246dcaf10c72e85d82a0640d455d339ab84dbe0e44d0",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia just made a move Wall Street wasn't ready for",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63cb6dd9fd623c77f53c3aeaa56f8bc5f2519fa24daa9db311b270f8ad99cf68",
+          "headline": "Apple ends day as world's most valuable company, passing Nvidia",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
           "used_by_ai": true
         },
         {
-          "headline": "Jim Cramer Says the US Government Is Nvidia\u2019s Silent Backstop",
+          "headline": "SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotation",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=41558dd6c0058459ed7528739e9913e213e95fee1fc93474a1daf53ec5a5fce8",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=594f8f71f456ec94d344282b1c1ecf3f076b8340d73bb40b0d455be39d7c2517",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Insurance Stocks Can Be Some of the Market's Best Long-Term Compounders",
+          "headline": "Dan Niles Says Apple Was \u2018Incompetent\u2019 With AI, So Why Is The Stock at All-Time Highs?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=acb379b4de7de5053ccbf3fc0f8dff71dd28255e548e1c52c2757b9c85c9df3f",
+          "url": "https://finnhub.io/api/news?id=01673d54e33f97775b98cbc3e7741ea52523abc835fa6c4290a90acb0b13e318",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Market Brief: The Quarter's Most Pivotal 48 Hours",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d650c2ed7ce3d7b4adc6589f89b154e4c4260c943c361d5b9a671581a2bcdca2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39df7d5d96535106d8dad205697fb0208462ad39f7fa732f3ebf14f5997e6f56",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 4,
+        "CNBC": 1,
+        "SeekingAlpha": 1
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "down",
       "confidence": 70,
-      "reason": "Costly problem",
-      "headline": "Tesla sales rebound hides costly problem for investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bac4491f217b426aeb17bdc54ce7d746a261a5d0010197b6fb4f0785fbf3211f",
+      "reason": "Potential $250B backstop",
+      "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla sales rebound hides costly problem for investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bac4491f217b426aeb17bdc54ce7d746a261a5d0010197b6fb4f0785fbf3211f",
+          "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+          "headline": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a43926d9a68a52073dcddcf158a0bf171391b0c4de69f022e0ad01acdb4845b9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Built Tesla and SpaceX While Working Over 100-Hour Weeks. He Says 'Vacations Will Kill You' and the Reasons Behind It Are as Chaotic as You'd Expect.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b0c58c05ec7f54b000564aa85349268a8714464cf83417475f8b7bca4757b1d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Continues Its 2026 Crash. This Prominent Analyst Believes It\u2019ll Rise 85% in 12 Months.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65816b5bc2c6b7b62f123b63e5cccb7d605249acfc9d42ad9adb7774a4b7ab38",
+          "url": "https://finnhub.io/api/news?id=435cf31ac78cd92c4be8c593e89a7b85803b246a6f5c8b32db37e5997e524732",
           "used_by_ai": false
         },
         {
-          "headline": "The Closest IPO Parallel to SpaceX Is Not Tesla But This Stock",
+          "headline": "Prediction: SpaceX Stock Will Fall After Aug. 4",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2e565e8b80de4f259ec005415ca8fec50f005e40c8430ec0a9c4d4f480e5f1c",
+          "url": "https://finnhub.io/api/news?id=fc7faa512ae6e797908aabb475eff261501a26748c1b046fd769dcaaf4f68cd3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Ford Yields 4.1% and Lost $6.1 Billion Over the Past Year. Its Earnings Land Tuesday Afternoon.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d481244de20ddc268931467263e072d8b968fd8d0862de5f844260afa29e4d6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Radar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90a347c40c333b00a5e0c0c202d1360cc0031adc7cc64da996ec5318478c1c88",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI Memory Stocks on Rocky Ground: 3 Reasons SK Hynix Fell 13%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9f789dba6529f5dfb1d701d0591ae36c5e7ac8346fd6ee349fc7bc15fdcb3724",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
+        "CNBC": 1,
         "Yahoo": 5
       }
     },
@@ -101,13 +122,19 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 70,
-      "reason": "Supply chain risk",
-      "headline": "AMD (AMD) Faces New Supply Chain Risk As China Scales Domestic DUV Tools",
+      "confidence": 60,
+      "reason": "New supply chain risk",
+      "headline": "KOSPI Crashes 8% as AI Chip Selloff Slams Asian Markets",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e83bfa96f6dde203b80e921b29f5f11ac3ccf98dbe91acd872e2a6edcb2686b7",
+      "url": "https://finnhub.io/api/news?id=234fd0b318d6c98fdd2163026c8d12ec85ecd9aced2973ff195abc1e3c9349ac",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "KOSPI Crashes 8% as AI Chip Selloff Slams Asian Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=234fd0b318d6c98fdd2163026c8d12ec85ecd9aced2973ff195abc1e3c9349ac",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD (AMD) Faces New Supply Chain Risk As China Scales Domestic DUV Tools",
           "source": "Yahoo",
@@ -119,104 +146,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0aae1d0250e5311020e5df3d8f9aad947e52a3517b8da4a67e79af4b2f008a11",
           "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Invests in Ilya Sutskever's AI Startup",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d526587c69f63215525dc4ad0f9717025e8bd7112871da5e357e89d71555baf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7c84d74b503a449641d3c03a9917859568c759be6919da2a0576fec22c7d8d9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=010e3205d48fd2fca6f2c4e62203e7a02acf2313b65881020d33c9da17fec220",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "AI incompetence",
-      "headline": "Dan Niles Says Apple Was \u2018Incompetent\u2019 With AI, So Why Is The Stock at All-Time Highs?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01673d54e33f97775b98cbc3e7741ea52523abc835fa6c4290a90acb0b13e318",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dan Niles Says Apple Was \u2018Incompetent\u2019 With AI, So Why Is The Stock at All-Time Highs?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01673d54e33f97775b98cbc3e7741ea52523abc835fa6c4290a90acb0b13e318",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39df7d5d96535106d8dad205697fb0208462ad39f7fa732f3ebf14f5997e6f56",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Capex Concerns are Bogus But There\u2019s an Internal Hedge Against Them Regardless",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ced2c514c6e76403f1cff6cfe5a94dddbe015e441cebb6ea20533757c8920704",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SK Hynix\u2019s Rebound From $470 Billion Rout Hinges on AI Spending",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad126e897523c2147ba93a2042084df953ca15ea8ae1d806c76b5275050f1d16",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street ends mixed as investors focus on tech earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2486fe794d2e04023e0ae7ccd4cef4957ce07da046944714b6e48db6792158e3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "Cloud results",
-      "headline": "INTU Down 60%: Is Intuit's Proven Price Floor About To Break?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fce47b02085c86a7921d179a66f0cf38d437904bbce1c15aaf19a26f3cc955c2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "INTU Down 60%: Is Intuit's Proven Price Floor About To Break?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fce47b02085c86a7921d179a66f0cf38d437904bbce1c15aaf19a26f3cc955c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft and Amazon Earnings: Cloud Results in Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=132d986d8d76d7a46bf56a99300013f7e915dd483cd4ea1cc801b63595576f5b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Review & Preview: Brace Yourself",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2c151cfc22e40169fda47114439c8605540b82e735beaaf284b834d7631fecc2",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -226,24 +155,18 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market mixed",
-      "headline": "The Tech Bet Hiding Inside EWY ETF",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f3f7f47c5324b9888e6b7db62b6f4ed31805ed5870fcd4ed7abe3cb1a2168c9",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Market rebound",
+      "headline": "Escalating Middle East Tensions Shift The Balance Of Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ccb47fa800ba139349c7d4c4da4a76219f0743907c7455c5f5ec31e64b180e7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The Tech Bet Hiding Inside EWY ETF",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f3f7f47c5324b9888e6b7db62b6f4ed31805ed5870fcd4ed7abe3cb1a2168c9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Should You Do With DVY At A New High?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9058d4ac8af0018d3c86f6d00f70ed3862840ddf0ff3c48da5f1990ca888021",
+          "headline": "Escalating Middle East Tensions Shift The Balance Of Risk",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8ccb47fa800ba139349c7d4c4da4a76219f0743907c7455c5f5ec31e64b180e7",
           "used_by_ai": true
         },
         {
@@ -253,14 +176,96 @@
           "used_by_ai": true
         },
         {
-          "headline": "How Much Union Pacific (UNP) Are You Really Betting On?",
+          "headline": "The Tech Bet Hiding Inside EWY ETF",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7a710d71129521d9fa807f277e3468735e5a87b48f60b9e7186a14e0529fb0f",
+          "url": "https://finnhub.io/api/news?id=5f3f7f47c5324b9888e6b7db62b6f4ed31805ed5870fcd4ed7abe3cb1a2168c9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Should You Do With DVY At A New High?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9058d4ac8af0018d3c86f6d00f70ed3862840ddf0ff3c48da5f1990ca888021",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Mixed news",
+      "headline": "Is Tesla a Buy After Its Latest Earnings Report?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b62f72ac6ec86f9cf4abb74a73094e9a9de54c7f0e44e65d93d94dc96275f79b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Is Tesla a Buy After Its Latest Earnings Report?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b62f72ac6ec86f9cf4abb74a73094e9a9de54c7f0e44e65d93d94dc96275f79b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cathie Wood\u2019s ARK Buys The Dip As SpaceX Wipes Out Tesla-Sized Market Value Since Its Peak: Retail Bears Smell Blood",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc6f14a1817e1b19363a6a59580095a5c23755f534d5bae626ed1f6e9325d553",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Fleet Owners' Push For Aggregating Demand",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=87e4639967319fbe2904f3a455e0b4a977ffe8ba8ac09f59b65c888c02e812b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla sales rebound hides costly problem for investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bac4491f217b426aeb17bdc54ce7d746a261a5d0010197b6fb4f0785fbf3211f",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "No clear news",
+      "headline": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d0a99512f13e8febc6a8e874cd626f9774acec49e4c20cdfac64850fd2165db",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7d0a99512f13e8febc6a8e874cd626f9774acec49e4c20cdfac64850fd2165db",
+          "used_by_ai": true
+        },
+        {
+          "headline": "INTU Down 60%: Is Intuit's Proven Price Floor About To Break?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fce47b02085c86a7921d179a66f0cf38d437904bbce1c15aaf19a26f3cc955c2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Capex Concerns are Bogus But There\u2019s an Internal Hedge Against Them Regardless",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ced2c514c6e76403f1cff6cfe5a94dddbe015e441cebb6ea20533757c8920704",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
       }
     }
   ]
