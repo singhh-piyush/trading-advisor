@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T22:31:47Z",
+  "updated_at": "2026-07-29T23:59:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "Beats revenue expectations",
+      "reason": "Beats Wall Street expectations",
       "headline": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=01fe27467941134d7e2cbb7400e8d5b55991c1d2533e6a48da199e7649b60186",
@@ -62,7 +62,7 @@
       "company": "Tesla",
       "direction": "down",
       "confidence": 70,
-      "reason": "Stock falls under $300",
+      "reason": "Stock falls under pressure",
       "headline": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fbcafac61d28ac3d2fb41c29f1eb1b86f8fef5c8a13677167547b725a65fcdd0",
@@ -108,7 +108,7 @@
       "company": "AMD",
       "direction": "down",
       "confidence": 70,
-      "reason": "Stock drops after AI deal",
+      "reason": "Stock drops after AI rout",
       "headline": "AMD's Core Scientific deal is bigger than the headline number",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
@@ -179,15 +179,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
-          "used_by_ai": true
-        },
-        {
           "headline": "Apple options trades: What's a covered call and how does it work?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5f09b769086b9cf3ec8ceb16318c106b1be5859e6a30ce5cfaab0c6c625626d8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
           "used_by_ai": false
         }
       ],
@@ -241,6 +241,52 @@
       "source_breakdown": {
         "Yahoo": 4,
         "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Multiple earnings calls",
+      "headline": "Bunge Global S.A. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=893c34373b9d61a5e699eb88d5326ead81924f4fdfebc665fee7f3f99da1f25b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bunge Global S.A. Q2 2026 Earnings Call Summary",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=893c34373b9d61a5e699eb88d5326ead81924f4fdfebc665fee7f3f99da1f25b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Blackbaud, Inc. Q2 2026 Earnings Call Summary",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b3c7df1f59b18571e4f63484263e34ffe88caede8dab810750a9cabe003b777b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wabash National Corporation Q2 2026 Earnings Call Summary",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea6968c7b47f0acabe19c00793e576fefad84d03b5111cccc5a6c26db6821c7f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "V.F. Corporation Q1 2027 Earnings Call Summary",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=71cda5d300b3d5a9c5cd25d7f4c50391a0c0ec6151b9fe385d700b219a6ca69e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stanley Black & Decker, Inc. Q2 2026 Earnings Call Summary",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd425b79e26e15ea320bb403eb7ae60c06eb0a42404040c582973f062986758d",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     }
   ]
