@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T22:58:35Z",
+  "updated_at": "2026-07-29T00:04:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 10,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "Buy signal",
       "headline": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
       "source": "Yahoo",
@@ -58,57 +58,11 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Most valuable company",
-      "headline": "Apple Tops Nvidia as the Most Valuable Company, But Its Reign Could Be Brief",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99388ef6d8c22903771b35d54e3e12c4b198c6b3d31fcad3e14670958d1479a2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Tops Nvidia as the Most Valuable Company, But Its Reign Could Be Brief",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99388ef6d8c22903771b35d54e3e12c4b198c6b3d31fcad3e14670958d1479a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a46ae5aa6bf10eb328c9cba6f6dfdc64722aa400d721b5b429e37aaa8e37c395",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Today: Dow Gains 500 Points; SpaceX, SK Hynix Make These Moves (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37b7b7d2159bcf45616c3d3b5be370f101b58ede0a5e0d1bd39c49abf6de21a2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Alphabet Stock's Biggest Risk Is A Profit Margin Built On Borrowed Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Reports Q3 Earnings on July 30. Here's What Investors Should Watch For During Tim Cook's Final Earnings Call as CEO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6428fdad6a4c1822ea98603eb2e02fb1b43a42d484970feb522542cf94bba506",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "down",
       "confidence": 60,
-      "reason": "Stock plummeted",
+      "reason": "Valuation concern",
       "headline": "Why Navitas Semiconductor Stock Plummeted by 12% Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eb5e1f064012cd80f9ef343e552a9ae8cc7661ae64330654181769f8ca2a6a47",
@@ -118,6 +72,12 @@
           "headline": "Why Navitas Semiconductor Stock Plummeted by 12% Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=eb5e1f064012cd80f9ef343e552a9ae8cc7661ae64330654181769f8ca2a6a47",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Far Could Marvell Technology Stock Actually Fall From Here?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=84affedbd6649949a2248c44d13f8513ae38dae2dc8658bd0320fa00de141678",
           "used_by_ai": true
         },
         {
@@ -137,11 +97,51 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6cca12cb6a0d582299711ceb88ddb18be91bd4862036cdb5031483e8a21ee1d5",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Earnings anticipation",
+      "headline": "Apple Tops Nvidia as the Most Valuable Company, But Its Reign Could Be Brief",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99388ef6d8c22903771b35d54e3e12c4b198c6b3d31fcad3e14670958d1479a2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Tops Nvidia as the Most Valuable Company, But Its Reign Could Be Brief",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99388ef6d8c22903771b35d54e3e12c4b198c6b3d31fcad3e14670958d1479a2",
+          "used_by_ai": true
         },
         {
-          "headline": "How Far Could Marvell Technology Stock Actually Fall From Here?",
+          "headline": "Apple Reports Q3 Earnings on July 30. Here's What Investors Should Watch For During Tim Cook's Final Earnings Call as CEO",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84affedbd6649949a2248c44d13f8513ae38dae2dc8658bd0320fa00de141678",
+          "url": "https://finnhub.io/api/news?id=6428fdad6a4c1822ea98603eb2e02fb1b43a42d484970feb522542cf94bba506",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a46ae5aa6bf10eb328c9cba6f6dfdc64722aa400d721b5b429e37aaa8e37c395",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stock Market Today: Dow Gains 500 Points; SpaceX, SK Hynix Make These Moves (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=37b7b7d2159bcf45616c3d3b5be370f101b58ede0a5e0d1bd39c49abf6de21a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Alphabet Stock's Biggest Risk Is A Profit Margin Built On Borrowed Gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb",
           "used_by_ai": false
         }
       ],
@@ -150,11 +150,45 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Earnings watch",
+      "headline": "Does New Partner AI Integrations Shift the Risk\u2011Reward Around Microsoft\u2019s (MSFT) Massive Cloud Capex?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7476eb630302ee5040310ec98a01f093d6ec1b6417186e425dfb391633e6896",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Does New Partner AI Integrations Shift the Risk\u2011Reward Around Microsoft\u2019s (MSFT) Massive Cloud Capex?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7476eb630302ee5040310ec98a01f093d6ec1b6417186e425dfb391633e6896",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Stock Runs Into Resistance With Earnings Next; Is Microsoft A Sell Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1719b6ccf45e387a7c56419258e5f8237351d8c7a46648a7e494d1e668187cce",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Market Talk: Investors trying to 'bully' Mag 7 to lower AI spending",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d5d4b1f776cf1bfe3ca87577a3901a5718745c17a028eee953539f38f9cb90eb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Marketcap erased",
+      "confidence": 50,
+      "reason": "Market cap concern",
       "headline": "SpaceX Erased Tesla\u2019s Marketcap in Little Over a Month",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4a6e2fdcf48f97cef4cf8f7ecb86eec3d930fa0a542ea7ef2845982a2bd599d0",
@@ -196,57 +230,11 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "Earnings report",
-      "headline": "Apple Reports Q3 Earnings on July 30. Here's What Investors Should Watch For During Tim Cook's Final Earnings Call as CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6428fdad6a4c1822ea98603eb2e02fb1b43a42d484970feb522542cf94bba506",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Reports Q3 Earnings on July 30. Here's What Investors Should Watch For During Tim Cook's Final Earnings Call as CEO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6428fdad6a4c1822ea98603eb2e02fb1b43a42d484970feb522542cf94bba506",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a46ae5aa6bf10eb328c9cba6f6dfdc64722aa400d721b5b429e37aaa8e37c395",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Stock Market Today: Dow Gains 500 Points; SpaceX, SK Hynix Make These Moves (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37b7b7d2159bcf45616c3d3b5be370f101b58ede0a5e0d1bd39c49abf6de21a2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Tops Nvidia as the Most Valuable Company, But Its Reign Could Be Brief",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99388ef6d8c22903771b35d54e3e12c4b198c6b3d31fcad3e14670958d1479a2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Alphabet Stock's Biggest Risk Is A Profit Margin Built On Borrowed Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Merger math",
+      "reason": "Merger speculation",
       "headline": "Tesla-SpaceX Merger Math Gets RBC View",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=683ee56256b9182ee38949ee1d738a27f79ed4a3a1ca974bf5e06138401983a1",
@@ -288,132 +276,22 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Resistance",
-      "headline": "Microsoft Stock Runs Into Resistance With Earnings Next; Is Microsoft A Sell Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1719b6ccf45e387a7c56419258e5f8237351d8c7a46648a7e494d1e668187cce",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Stock Runs Into Resistance With Earnings Next; Is Microsoft A Sell Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1719b6ccf45e387a7c56419258e5f8237351d8c7a46648a7e494d1e668187cce",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Market Talk: Investors trying to 'bully' Mag 7 to lower AI spending",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5d4b1f776cf1bfe3ca87577a3901a5718745c17a028eee953539f38f9cb90eb",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Does New Partner AI Integrations Shift the Risk\u2011Reward Around Microsoft\u2019s (MSFT) Massive Cloud Capex?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7476eb630302ee5040310ec98a01f093d6ec1b6417186e425dfb391633e6896",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI integrations",
-      "headline": "Does New Partner AI Integrations Shift the Risk\u2011Reward Around Microsoft\u2019s (MSFT) Massive Cloud Capex?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7476eb630302ee5040310ec98a01f093d6ec1b6417186e425dfb391633e6896",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Does New Partner AI Integrations Shift the Risk\u2011Reward Around Microsoft\u2019s (MSFT) Massive Cloud Capex?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7476eb630302ee5040310ec98a01f093d6ec1b6417186e425dfb391633e6896",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Market Talk: Investors trying to 'bully' Mag 7 to lower AI spending",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5d4b1f776cf1bfe3ca87577a3901a5718745c17a028eee953539f38f9cb90eb",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft Stock Runs Into Resistance With Earnings Next; Is Microsoft A Sell Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1719b6ccf45e387a7c56419258e5f8237351d8c7a46648a7e494d1e668187cce",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "AI boom",
-      "headline": "Is This Wall Street Bank Insane to Believe Tesla Will Nearly Double From Current Prices? Maybe Not.",
+      "reason": "Market sentiment",
+      "headline": "Why Investors Should Wait For Meta\u2019s Post Earnings Dip",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b26cec47787fedf792306f5bc07d258bedec4530b6e8cb7a93b729cbd2a9c715",
+      "url": "https://finnhub.io/api/news?id=6bee56ca7b6c0a813b7d059b6c766849cd09b9af4e3b3efdadc7b78f99e2aa74",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Is This Wall Street Bank Insane to Believe Tesla Will Nearly Double From Current Prices? Maybe Not.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b26cec47787fedf792306f5bc07d258bedec4530b6e8cb7a93b729cbd2a9c715",
-          "used_by_ai": true
-        },
         {
           "headline": "Why Investors Should Wait For Meta\u2019s Post Earnings Dip",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6bee56ca7b6c0a813b7d059b6c766849cd09b9af4e3b3efdadc7b78f99e2aa74",
-          "used_by_ai": false
+          "used_by_ai": true
         },
-        {
-          "headline": "The Market Is Emotional - You Should Profit From It",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=488f7b74fd8c540bbbb54f1e4cf262b2068fd33a1dc3d556df03ced79e0dca21",
-          "used_by_ai": false
-        },
-        {
-          "headline": "A Goldman Economist Says AI Will Take 15 Years to Show Up in the Economy. A 63-Year-Old Banking His Nest Egg on the AI Boom Should Listen.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bb4cd03d99e1a7189d60c93348fc581594cb3a488ef2fb9ee03ba230b9f2f3c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "'Trump Administration To End Medicare Drug Plan Subsidy; Program That Held Down Premiums Not Renewed For 2027, Resulting In Higher Costs For Some Seniors' - WSJ Exclusive",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ee99550e65d283f8fc6944965013ad47621413e2f6544d5e671d18f30d079119",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market emotional",
-      "headline": "The Market Is Emotional - You Should Profit From It",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=488f7b74fd8c540bbbb54f1e4cf262b2068fd33a1dc3d556df03ced79e0dca21",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "The Market Is Emotional - You Should Profit From It",
           "source": "SeekingAlpha",
@@ -421,33 +299,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "Why Investors Should Wait For Meta\u2019s Post Earnings Dip",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bee56ca7b6c0a813b7d059b6c766849cd09b9af4e3b3efdadc7b78f99e2aa74",
-          "used_by_ai": false
-        },
-        {
           "headline": "A Goldman Economist Says AI Will Take 15 Years to Show Up in the Economy. A 63-Year-Old Banking His Nest Egg on the AI Boom Should Listen.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1bb4cd03d99e1a7189d60c93348fc581594cb3a488ef2fb9ee03ba230b9f2f3c",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Is This Wall Street Bank Insane to Believe Tesla Will Nearly Double From Current Prices? Maybe Not.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b26cec47787fedf792306f5bc07d258bedec4530b6e8cb7a93b729cbd2a9c715",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "'Trump Administration To End Medicare Drug Plan Subsidy; Program That Held Down Premiums Not Renewed For 2027, Resulting In Higher Costs For Some Seniors' - WSJ Exclusive",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=ee99550e65d283f8fc6944965013ad47621413e2f6544d5e671d18f30d079119",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
         "Yahoo": 3,
+        "SeekingAlpha": 1,
         "Benzinga": 1
       }
     }
