@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:29:21Z",
+  "updated_at": "2026-07-29T22:31:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,48 +8,94 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "AI concerns",
-      "headline": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Beats revenue expectations",
+      "headline": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
+      "url": "https://finnhub.io/api/news?id=01fe27467941134d7e2cbb7400e8d5b55991c1d2533e6a48da199e7649b60186",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
+          "headline": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
+          "url": "https://finnhub.io/api/news?id=01fe27467941134d7e2cbb7400e8d5b55991c1d2533e6a48da199e7649b60186",
           "used_by_ai": true
         },
         {
-          "headline": "Biogen Inc. Q2 2026 Earnings Call Summary",
+          "headline": "Microsoft's Q4 results are 'narrative changing,' according to one analyst",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b603a696c3ad32b26eea35e7acb3b9e37eb7f5a6acf4903dee490a13eb42463a",
+          "url": "https://finnhub.io/api/news?id=e2ed0824747d9b975f98b3031da904fbe4b000bd961afcf9990af09e37b4c0b4",
           "used_by_ai": true
         },
         {
-          "headline": "Aon plc Q2 2026 Earnings Call Summary",
+          "headline": "Microsoft's Cloud Accelerates to Fastest Growth Since 2022",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=622bb6490bc52711a1d7af70bf45768e2fa507c201d82f9b03003e7666962b16",
+          "url": "https://finnhub.io/api/news?id=b5f0ca5ff2b6b6cd708517ca531b7a4eaa3b8270f4c6342000be9804cc0be40c",
           "used_by_ai": true
         },
         {
-          "headline": "Jensen Huang Says AI Needs \"1,000 Times More Power Than We Currently Have.\" These 3 Industrial Stocks Will Deliver It.",
+          "headline": "Microsoft beats Wall Street expectations with $90B in revenue",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f471153800d56c6649261bbc0824879462e96db4fc1dab3235806a6df4db69a",
+          "url": "https://finnhub.io/api/news?id=706ae25e9fe8bcd977354c2e14c5aa48852f84eeba3ef937556c856af8eac904",
           "used_by_ai": true
         },
         {
-          "headline": "Anika Therapeutics, Inc. Q2 2026 Earnings Call Summary",
+          "headline": "Stock Market Today, July 29: Stocks Slide on Hawkish Fed and Increased Middle East Tensions",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8450275b1049b512264ab2cc054323bdc6546328d4fe0a9755e4628f1efe126a",
+          "url": "https://finnhub.io/api/news?id=717b9515acf27f5cf0c4b9b6ba38d9dcf781e33110d57e1d6899599f8596a459",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Stock falls under $300",
+      "headline": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbcafac61d28ac3d2fb41c29f1eb1b86f8fef5c8a13677167547b725a65fcdd0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fbcafac61d28ac3d2fb41c29f1eb1b86f8fef5c8a13677167547b725a65fcdd0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "An economist dared Elon Musk to give away his $1t fortune in the next decade \u2013 Musk says he\u2019s planning something similar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6364c7cb3c7a4fca81d98b5922926c7e77716be8955036e74bc95bd6d0b7c265",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5dd87d9fb57169ae6e0eccc9918970697b1cfae3e9aa2d67dec36067c0c7025e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9cad07fed73edfcb4d0e1afe254878785b9eaa377e033415d3f899c4edfa912b",
           "used_by_ai": true
         }
       ],
@@ -61,8 +107,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 55,
-      "reason": "AI rout",
+      "confidence": 70,
+      "reason": "Stock drops after AI deal",
       "headline": "AMD's Core Scientific deal is bigger than the headline number",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
@@ -106,14 +152,32 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Fair value",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Misses $5 trillion mark",
+      "headline": "Klarna (NYSE:KLAR) Lands Apple Upgrade Role In New US Hardware Leasing Program",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7611973e39d4dfeac137e9671872b54163482f3a3f34137270a878ba19dd2a2c",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Klarna (NYSE:KLAR) Lands Apple Upgrade Role In New US Hardware Leasing Program",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7611973e39d4dfeac137e9671872b54163482f3a3f34137270a878ba19dd2a2c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Stock Misses the $5 Trillion Mark, Snapping Three-Day Winning Streak",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e5f47172325a6a785fa55594dda48dc07fee6eab00fad2c998a004e328096cb7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0b94d9045ac722dc31e72a1236c6625fcc4003ffc4a7263f1e06e8b9257446f",
+          "used_by_ai": true
+        },
         {
           "headline": "Wednesday's session: top gainers and losers in the dow jones index",
           "source": "ChartMill",
@@ -121,134 +185,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple (AAPL) Stock Looks Above Fair Value On Cash Flow, Near Fair Value On Earnings",
+          "headline": "Apple options trades: What's a covered call and how does it work?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f29f4a8e47e56b8b65fa59f93c0d547273c599355ce71cce772745509015e37",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Stock Rises Near $5 Trillion Ahead of Five-Year Growth Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f902f835a37c3fdd063f880b16e3e46bac923dbc3470248a84741d0491657b93",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c766f88e616916fe8e40600df5afe7cbf8d7ee2d3376090d27e1bd4192e4fb2e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Berkshire Stock Slips Despite UBS Raising Target to $877,848",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80b9b0b9c3f218d7366c4280935d252eca9de54a6de8b0603f7a83c44fcb9510",
+          "url": "https://finnhub.io/api/news?id=5f09b769086b9cf3ec8ceb16318c106b1be5859e6a30ce5cfaab0c6c625626d8",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 2,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "AI spending",
-      "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9cad07fed73edfcb4d0e1afe254878785b9eaa377e033415d3f899c4edfa912b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Ford Just Delivered Bad News for Tesla Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bab477616bc947914df4d6cefc891874aa7e4f945b1cec7edeb31f2440f0e4e7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Anti-Tesla ETF Is Up 75%+ in July\u2014Here's What's Driving the Stunning Rally",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6a59cdc3d7abd6c5dfbb0d5677ffaf884a1a07908935b899ee8203be54c5d6ce",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI capex",
-      "headline": "Stock Market Today: Nasdaq Tumbles As Fed's Warsh Notes Two Trends; Meta Losing Gains (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2bb6ecde898613915ee6f575b189a9f9c9918cb2c9d5a081663f12872cd18668",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Stock Market Today: Nasdaq Tumbles As Fed's Warsh Notes Two Trends; Meta Losing Gains (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2bb6ecde898613915ee6f575b189a9f9c9918cb2c9d5a081663f12872cd18668",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SK Hynix\u2019s Profits Explode 550%, but Its $31 Billion Spending Plan Sends Investors Running",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cfe7a2c2ff3336854f6cd2257f5b2972c7de85e804216cf5b7e4f9310cd783cc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oracle Is Sending a Different Signal Than Big Tech",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=59034d432fd7a09f3e46f7604b6bc32dd35cb4e9f76420a6667f4f3acb0d4e4b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "KPIT Technologies Ltd (BOM:542651) Q1 2027 Earnings Call Highlights: Strategic Partnerships and ...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbbde8dfc1c49333bd85d1ab1c435357c76818b130361eb42110bad766c2f431",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
         "Yahoo": 4,
-        "CNBC": 1
+        "ChartMill": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Market selloff",
-      "headline": "Wall Street Sends Fresh Warning as AI Tech Stocks Stumble After Earnings",
+      "confidence": 50,
+      "reason": "Market slides on hawkish Fed",
+      "headline": "How Much Eli Lilly (LLY) Are You Really Betting On?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fe4c805e4d6d97b0d9490f2fffdfaeb2db33cc97062047521c41357c2d0e529",
+      "url": "https://finnhub.io/api/news?id=3b946c325725339a4480a062c4ff72f58a36a2164ab2cbcaea9621d0dd3c962f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Much Eli Lilly (LLY) Are You Really Betting On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b946c325725339a4480a062c4ff72f58a36a2164ab2cbcaea9621d0dd3c962f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d588f3681cb7fdb6861cdf9ebc80189ed47e3c58d1909577ba48fadd55b484a7",
+          "used_by_ai": true
+        },
         {
           "headline": "Wall Street Sends Fresh Warning as AI Tech Stocks Stumble After Earnings",
           "source": "Yahoo",
@@ -262,27 +232,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "The Playbook for Palantir Ahead of Q3 Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=22812efb24490d52a543bdee10189708116e94ed07b5b7182d266a7ac9228125",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Max Out a Trump Account and Your Kid Could Have $185,000 at 18",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9f4c732dad0bc13358b2a04478921971eddf29f0d722abbafea0499fb089ef8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon Q2 Preview: Ecommerce Growth May Be Overshadowed By AWS Momentum Again",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=256c46ecccbd59d5d187898aa222f43b2a121ed7353b62fd5bebe5d2c4df6bbb",
+          "headline": "July FOMC: Patience Prevails, But The Inflation Debate Deepens",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=dbf3e9605627ea79d95ded46b0f7d2f5b0ee2679d15418833017910d97115d54",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "Benzinga": 1
+        "SeekingAlpha": 1
       }
     }
   ]
