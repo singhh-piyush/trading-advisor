@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T20:29:41Z",
+  "updated_at": "2026-07-29T21:29:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,50 +12,56 @@
   "sample": false,
   "items": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "down",
-      "confidence": 80,
-      "reason": "Stock falls",
-      "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
+      "confidence": 60,
+      "reason": "AI concerns",
+      "headline": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
+      "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
+          "headline": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
+          "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
           "used_by_ai": true
         },
         {
-          "headline": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
+          "headline": "Biogen Inc. Q2 2026 Earnings Call Summary",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9cad07fed73edfcb4d0e1afe254878785b9eaa377e033415d3f899c4edfa912b",
+          "url": "https://finnhub.io/api/news?id=b603a696c3ad32b26eea35e7acb3b9e37eb7f5a6acf4903dee490a13eb42463a",
           "used_by_ai": true
         },
         {
-          "headline": "Ford Just Delivered Bad News for Tesla Investors",
+          "headline": "Aon plc Q2 2026 Earnings Call Summary",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bab477616bc947914df4d6cefc891874aa7e4f945b1cec7edeb31f2440f0e4e7",
+          "url": "https://finnhub.io/api/news?id=622bb6490bc52711a1d7af70bf45768e2fa507c201d82f9b03003e7666962b16",
           "used_by_ai": true
         },
         {
-          "headline": "Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.",
+          "headline": "Jensen Huang Says AI Needs \"1,000 Times More Power Than We Currently Have.\" These 3 Industrial Stocks Will Deliver It.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08bbdb1fa214a33f6efd61fc046c8e4f58428610ca3d382b3b46fd6ce2deabbb",
+          "url": "https://finnhub.io/api/news?id=7f471153800d56c6649261bbc0824879462e96db4fc1dab3235806a6df4db69a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Anika Therapeutics, Inc. Q2 2026 Earnings Call Summary",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8450275b1049b512264ab2cc054323bdc6546328d4fe0a9755e4628f1efe126a",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 55,
       "reason": "AI rout",
       "headline": "AMD's Core Scientific deal is bigger than the headline number",
       "source": "Yahoo",
@@ -98,57 +104,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Investors worried",
-      "headline": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Biogen Inc. Q2 2026 Earnings Call Summary",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b603a696c3ad32b26eea35e7acb3b9e37eb7f5a6acf4903dee490a13eb42463a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Aon plc Q2 2026 Earnings Call Summary",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=622bb6490bc52711a1d7af70bf45768e2fa507c201d82f9b03003e7666962b16",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Anika Therapeutics, Inc. Q2 2026 Earnings Call Summary",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8450275b1049b512264ab2cc054323bdc6546328d4fe0a9755e4628f1efe126a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jensen Huang Says AI Needs \"1,000 Times More Power Than We Currently Have.\" These 3 Industrial Stocks Will Deliver It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f471153800d56c6649261bbc0824879462e96db4fc1dab3235806a6df4db69a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "Stock rises",
+      "reason": "Fair value",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
@@ -167,12 +127,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Berkshire Stock Slips Despite UBS Raising Target to $877,848",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80b9b0b9c3f218d7366c4280935d252eca9de54a6de8b0603f7a83c44fcb9510",
-          "used_by_ai": true
-        },
-        {
           "headline": "Apple Stock Rises Near $5 Trillion Ahead of Five-Year Growth Test",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f902f835a37c3fdd063f880b16e3e46bac923dbc3470248a84741d0491657b93",
@@ -183,6 +137,12 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=c766f88e616916fe8e40600df5afe7cbf8d7ee2d3376090d27e1bd4192e4fb2e",
           "used_by_ai": true
+        },
+        {
+          "headline": "Berkshire Stock Slips Despite UBS Raising Target to $877,848",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80b9b0b9c3f218d7366c4280935d252eca9de54a6de8b0603f7a83c44fcb9510",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -191,11 +151,52 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "AI spending",
+      "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9cad07fed73edfcb4d0e1afe254878785b9eaa377e033415d3f899c4edfa912b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Ford Just Delivered Bad News for Tesla Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bab477616bc947914df4d6cefc891874aa7e4f945b1cec7edeb31f2440f0e4e7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Anti-Tesla ETF Is Up 75%+ in July\u2014Here's What's Driving the Stunning Rally",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=6a59cdc3d7abd6c5dfbb0d5677ffaf884a1a07908935b899ee8203be54c5d6ce",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mixed signals",
+      "reason": "AI capex",
       "headline": "Stock Market Today: Nasdaq Tumbles As Fed's Warsh Notes Two Trends; Meta Losing Gains (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2bb6ecde898613915ee6f575b189a9f9c9918cb2c9d5a081663f12872cd18668",
@@ -241,8 +242,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 30,
-      "reason": "Market falls",
+      "confidence": 40,
+      "reason": "Market selloff",
       "headline": "Wall Street Sends Fresh Warning as AI Tech Stocks Stumble After Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4fe4c805e4d6d97b0d9490f2fffdfaeb2db33cc97062047521c41357c2d0e529",
@@ -273,15 +274,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "U.S. Economy: A 30% Adjustment For Housing Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2f38dbe2ef3c22147f0ed4aff07f9d695b5d32ae7b53742d528bf0d7d81a7276",
+          "headline": "Amazon Q2 Preview: Ecommerce Growth May Be Overshadowed By AWS Momentum Again",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=256c46ecccbd59d5d187898aa222f43b2a121ed7353b62fd5bebe5d2c4df6bbb",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Benzinga": 1
       }
     }
   ]
