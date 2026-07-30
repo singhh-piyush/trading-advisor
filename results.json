@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T06:06:27Z",
+  "updated_at": "2026-07-30T09:13:30Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,16 +16,28 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "Strong cloud services",
-      "headline": "Microsoft Cloud Services Surpass $100B",
+      "reason": "Record revenue",
+      "headline": "Microsoft Corp (MSFT) (Q4 2026) Earnings Call Highlights: Record Revenue Surpasses $331 ...",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=658dcf1143a16e594224bc12dc188bec280907eb47681af8cdacc315668f31d1",
+      "url": "https://finnhub.io/api/news?id=28b74d7b9b5eb41ef079ad60348cf8a274449f7818f3a541132838164ef27b10",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Microsoft Corp (MSFT) (Q4 2026) Earnings Call Highlights: Record Revenue Surpasses $331 ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=28b74d7b9b5eb41ef079ad60348cf8a274449f7818f3a541132838164ef27b10",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft Cloud Services Surpass $100B",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=658dcf1143a16e594224bc12dc188bec280907eb47681af8cdacc315668f31d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Even $64 Billion in Quarterly Profit Is a Disappointment for Chip Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f25d7cf471970e45aed538d839afb1a0f5c014ddd7182a18b98ccf976121335",
           "used_by_ai": true
         },
         {
@@ -39,11 +51,91 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=94786af6cadf7380be1e5ecf722be2c923978d6e0e07e5e4eb2541e5b99a799f",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Missed profit",
+      "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f56f8c63373b476f9ae54538da2064c425139af76f2c7b14c2bea5a437154879",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f56f8c63373b476f9ae54538da2064c425139af76f2c7b14c2bea5a437154879",
+          "used_by_ai": true
         },
         {
-          "headline": "Dow, S&P 500, Nasdaq Futures Rise As Investors Shrug Off Fed Hold, Big Tech Earnings: IBRX, MSFT, SOFI, META In Focus",
+          "headline": "Cathie Wood Bought $53.5 Million of Tesla Stock Right After Elon Musk's Post-Earnings Sell-Off. Is a Rebound Coming?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6542db42113350728bddc0ba753972ee8bdd1cdc60225159421bf16f84fbf0e9",
+          "url": "https://finnhub.io/api/news?id=0a16561a0961c5f574691ec867267b4a4312a7bb342c6ed2f503863012947ee9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Eyes Mag 7\u2019s Worst July \u2014 Gordon Johnson Says Q2 Numbers Expose FSD\u2019s \u2018Ridiculous\u2019 Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73fa9d41d9b06f3f10d43b84db6d3e6db102748f0ea81d11696d37eb2c9e8db2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Trump FCC gives Tesla a leg up in critical technology race",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=574de12862545d6695c5b24557212ce1e52dd994429bc61767b29f9399caf4ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Delivered 480,126 Vehicles in a Quarter and Still Missed on Profit. Here's Where the Money Went.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0be61adf68e2637139a00ccb9329e90d3ae743c9d40ffd74a581c39c90e99dc3",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Bullish AI call",
+      "headline": "Rivian Reports Earnings on July 30, Followed by Lucid on Aug. 4. Here's the Better Buy Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96b9155d3f202fb21ec7927fe7e00e6dfbd2874fef5f62ace147bb3c69e6d4be",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Rivian Reports Earnings on July 30, Followed by Lucid on Aug. 4. Here's the Better Buy Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=96b9155d3f202fb21ec7927fe7e00e6dfbd2874fef5f62ace147bb3c69e6d4be",
+          "used_by_ai": true
+        },
+        {
+          "headline": "I Was Wrong About Meta Earnings, But the Stock Is Still a Buy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=421d46ac15ba237d7da00c66cf1d8f27e000687a049aa8d07f43d758aca4d5d8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "2 Cash-Producing Stocks Worth Investigating and 1 We Brush Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=70c5dc8ca8f6e88a3a42c14e521d71c223446bdcd891abb89eaed08593c89553",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Investment Could Turn $1,000 Into $6,700 Without Picking a Single Stock. Here's the Math. (Keep Adding Money, and It Could Grow to $687,000.)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb7d829614f490c7b3601af63c81c3ac759ce59713a0d48bf523085b72b40376",
           "used_by_ai": true
         }
       ],
@@ -55,13 +147,19 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Positive analyst note",
-      "headline": "Bank of America doubles down on Apple stock ahead of earnings",
+      "confidence": 50,
+      "reason": "Bank of America endorsement",
+      "headline": "Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=963a8d218b7f2cd4c6574c7365edf46e6204a67e4c3bb85ca8eed4a216a0a314",
+      "url": "https://finnhub.io/api/news?id=b04b7ff5e821871892455ef62b465fb368d55e8a184af283513676a048014e75",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b04b7ff5e821871892455ef62b465fb368d55e8a184af283513676a048014e75",
+          "used_by_ai": true
+        },
         {
           "headline": "Bank of America doubles down on Apple stock ahead of earnings",
           "source": "Yahoo",
@@ -72,117 +170,31 @@
           "headline": "Qualcomm Q3 Earnings Call Highlights",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=16dd068fbc3dff4e374a8904480714362dd18f81ecad7c46c0c772712732c18b",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Investors Are Racing to Find America's Next Rare Earth Winner",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c2bf47aa4a29652a452b2b8d41934315e1e6361f42111a319c5bb340dd388926",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "QCOM Stock Drops Nearly 8% After Hours \u2014 Qualcomm\u2019s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f0ed0c9c195b2ec0f1907895e82c9443a9850a6eac24a2b12c7f909ce6a157c6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Senators Warn Apple Not to Buy Memory Chips From Chinese Firms",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=984d586a1f0d87fa6f68c99be5353f6d9d52f13cb21156b5d6b1b66f201a7fbf",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Disappointing profit",
-      "headline": "Even $64 Billion in Quarterly Profit Is a Disappointment for Chip Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f25d7cf471970e45aed538d839afb1a0f5c014ddd7182a18b98ccf976121335",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Even $64 Billion in Quarterly Profit Is a Disappointment for Chip Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f25d7cf471970e45aed538d839afb1a0f5c014ddd7182a18b98ccf976121335",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meta Generated $31.9 Billion in Operating Cash Flow Last Quarter and Kept Only $784 Million of It. Here's Where the Rest Went.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07f055edab1854f4424160a2a01c95f9330b6cb1932e77394cd8d5c1e74ac4b6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Lithia Stock Surged Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7e4a3c76c69f44df2455266c77f37c802eb364d618f231fd21c053b74e10f4f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Chipotle Raises Full-Year Guidance After 9.3% Revenue Jump. Is the Turnaround Finally Here?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=53c9b31c75b8d7163d18cb00b1465ed0024b0961aaf17843e53dc79f885d562a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla Delivered 480,126 Vehicles in a Quarter and Still Missed on Profit. Here's Where the Money Went.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0be61adf68e2637139a00ccb9329e90d3ae743c9d40ffd74a581c39c90e99dc3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Technology race advantage",
-      "headline": "Trump FCC gives Tesla a leg up in critical technology race",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=574de12862545d6695c5b24557212ce1e52dd994429bc61767b29f9399caf4ed",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Trump FCC gives Tesla a leg up in critical technology race",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=574de12862545d6695c5b24557212ce1e52dd994429bc61767b29f9399caf4ed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla's Optimus May Soon Have Company as China's BYD Confirms Its First Humanoid Robot Will Debut in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7ad8f3f10b222715a82fd8d7b371ab3fee93b2b343530f10909e5942662ec555",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Review & Preview: Warsh\u2019s Credibility",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5fc6908d05f0984d81b07726185a93b9d9a1fdfd1f362284a825810c2a2f75e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Pullback creates entry point",
+      "confidence": 50,
+      "reason": "Better entry point",
       "headline": "The SOXX Dip Has A Painful History",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c447f16af111d31e565f80f6f12787da1582a417c9ffe47af2a81b235722bd50",
@@ -211,30 +223,42 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
           "used_by_ai": true
-        },
-        {
-          "headline": "Synopsys Doubles Down on AI Chip Design With Microsoft and AMD. How to Play SNPS Stock Here.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fc8300bc75fb5af9fdc82603eea299b61b0d211d4a9ba28325d514907e60580",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 40,
       "reason": "Fed holds rates steady",
-      "headline": "Fed Holds Rates Steady As 3 FOMC Members Dissent",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8470dbdc47c257b21bfb17de00b33924e877888320bd505b1ef9b1c00b9ca069",
+      "headline": "Treasury sell-off continues after divided Fed holds interest rates steady",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Treasury sell-off continues after divided Fed holds interest rates steady",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stocks Tank, Long-Term Treasury Yields Jump After Warsh Starts Talking",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9855391e848d10f86231ce3ebc047f3e0cdedaf5e493c63a4fb19cb8a878b49a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Fed Holds Steady, But Questions Linger",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=941b5b0e20f43677ec653338534b3b20aafc6afd325e2b0de7e1d2e771c390be",
+          "used_by_ai": true
+        },
         {
           "headline": "Fed Holds Rates Steady As 3 FOMC Members Dissent",
           "source": "SeekingAlpha",
@@ -246,23 +270,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=1090f87208c754bccd9cd9ab3b6a41ff9f2b4b62409ab3667f49cd23bedd374c",
           "used_by_ai": true
-        },
-        {
-          "headline": "How Much Eli Lilly (LLY) Are You Really Betting On?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b946c325725339a4480a062c4ff72f58a36a2164ab2cbcaea9621d0dd3c962f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d588f3681cb7fdb6861cdf9ebc80189ed47e3c58d1909577ba48fadd55b484a7",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2
+        "CNBC": 1,
+        "SeekingAlpha": 4
       }
     }
   ]
