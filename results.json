@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T18:56:21Z",
+  "updated_at": "2026-07-30T20:15:46Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,49 +8,170 @@
     "AMD",
     "SPY"
   ],
-  "count": 8,
+  "count": 6,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI spending boost",
+      "headline": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d80d5f480803fe365c4786e12e9ec51a6fbeb158cc5500728c653fcd5e1ac38",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d80d5f480803fe365c4786e12e9ec51a6fbeb158cc5500728c653fcd5e1ac38",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC's next AI chip move sends Intel stock soaring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=baa89514fe4f741cd77e5b6f42f37f3871ccd045d40a3daffcb1c9fa5b69631f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Stock Has Surged 364% in 5 Years. History Suggests That It Will Become a Multibagger By 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9900edafc3b0137dffef90fc4f2a42a2afb753eb6f17fff10e790967a61ed7f4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Oracle Stock Just Jumped",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ccb91ee256ef7ed0375041285eb68b4c080c7f74304d9929e2e83128abefe078",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft set for record one-day market cap gain after upbeat Azure forecast",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=498f0cb572f75a21247432bcb0f08b34a2bd4a3da5c72c718813d7effccc1ac6",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI and Azure growth",
+      "headline": "Amazon Stock Jumps 5.2% as $200 Billion AI Test Nears",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bb1266811c78465fd3e6af9f4b1e95e140ba07d2db076e6c911adef0bab91f6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Amazon Stock Jumps 5.2% as $200 Billion AI Test Nears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9bb1266811c78465fd3e6af9f4b1e95e140ba07d2db076e6c911adef0bab91f6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC Stock Jumps 7% as Microsoft Revives AI-Chip Trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e264a13b4e26864a4fd1020d38d9aedc86f795a4f407ca2250b133d6420ce622",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft set for record one-day market cap gain after upbeat Azure forecast",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=498f0cb572f75a21247432bcb0f08b34a2bd4a3da5c72c718813d7effccc1ac6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Sharply Higher Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73c3a709b6ef4dab6eb73c49e929289e39f06caccb19266911baf76673a877ea",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft wins back Jim Cramer's support after a surprisingly good quarter",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "CNBC": 1
+      }
+    },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Soars as Susquehanna lifts target",
-      "headline": "AMD Stock Soars as Susquehanna Lifts Price Target Ahead of Earnings",
+      "confidence": 70,
+      "reason": "AI rally and data-center bets",
+      "headline": "AMD Stock Soars 12.7% as AI Rally Revives Data-Center Bets",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=881b9793c8f3342ea9957c44c59787fe33b0ba96972ff9698958fad5a933f497",
+      "url": "https://finnhub.io/api/news?id=3f709ce6c8364baf5fd864666240bddeae56b160b620b01d41fc2f72b4764360",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AMD Stock Soars as Susquehanna Lifts Price Target Ahead of Earnings",
+          "headline": "AMD Stock Soars 12.7% as AI Rally Revives Data-Center Bets",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=881b9793c8f3342ea9957c44c59787fe33b0ba96972ff9698958fad5a933f497",
+          "url": "https://finnhub.io/api/news?id=3f709ce6c8364baf5fd864666240bddeae56b160b620b01d41fc2f72b4764360",
           "used_by_ai": true
         },
         {
-          "headline": "Intel and AMD Soar 13%, Taiwan Semiconductor Rallies 7% as AI-Chip Stocks Bounce Hard",
+          "headline": "Cathie Wood Invests $28.7 Million in Two High-Stakes Tech Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=213f22772d7ba8045dd10fec469e37324c364c1b3a02f39188e9b6be9daa9613",
+          "url": "https://finnhub.io/api/news?id=00b03372f4034313ffe8e75b89dbe54c94326cd1e28418de6078f69fb43b7507",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Pre-earnings drop",
+      "headline": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1c7d8a7fc6fd751b07f462718ae57659785c173d63e31ff3bed538ab3e94387",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1c7d8a7fc6fd751b07f462718ae57659785c173d63e31ff3bed538ab3e94387",
           "used_by_ai": true
         },
         {
-          "headline": "The Nvidia Vs. AMD Narrative Evolved Again: How to Understand it Today",
+          "headline": "Apple Stock Falls Nearly 2% Before Earnings as Upgrade Program Launches",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2636e625ce993ef397c7a7d9bd40dd412bb3595dbe4f184da490b3cc09a699be",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=663c65f9b8582a3c5c846df2fc678650ab0a3a13b2077ee251762f14783c4cbd",
+          "used_by_ai": true
         },
         {
-          "headline": "AMD Fell 8% as China Unveils New Technology \u2014 the Real Risk Is the Multiple, Not the Lithography",
+          "headline": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=284287af465764241d48543b4e3e2d43c0e81fec344682f04d20f313ab9bf430",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=07f17e8291bde75fab96197734478017eb8883f2fc904dd3bc27ba71ea6db44c",
+          "used_by_ai": true
         },
         {
-          "headline": "The Ultimate Bull Run for AMD, Broadcom, and Arm May Be Closer Than You Think",
+          "headline": "Qualcomm Stock Falls on Weak Q4 Outlook Despite Revenue Beat",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35fd1391f8290986ad5ba340edc6e3ba858e667276ee2b99c5ba77b63d9d1475",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=7ada1b6082688151c3ee9e34acdbeeeaa6ea0f22789316a5dc060eed39280d2a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel's Rare AI Advantage Faces a New Threat",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0d16ccc264ff4d6bb4e9a2e1835e8b26909f0f91b60cbb554c64164dc3a7bd2",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -61,111 +182,13 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 70,
-      "reason": "Margins broke",
-      "headline": "Tesla\u2019s (TSLA) Margins Broke in a Way Deliveries Can\u2019t Fix",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla\u2019s (TSLA) Margins Broke in a Way Deliveries Can\u2019t Fix",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d1447ec3de0becb9ab324ed6a80e5fce7d37493361b63d4cf64e06d32108dac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Looks To Snap Losing Streak As It Hits 10 Million EV Milestone",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=86bcac12de706dd05b4e7a6e208592960ce542c3ca9d30127388ea26221ba337",
-          "used_by_ai": false
-        },
-        {
-          "headline": "$19.6 Billion: The Microsoft Earnings Number That Matters Most",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f5c737d40b405713e18ae982f79805cff1809aec393f7644b359b7b729f3e33",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
       "confidence": 60,
-      "reason": "Fell 8% as China unveils tech",
-      "headline": "AMD Fell 8% as China Unveils New Technology \u2014 the Real Risk Is the Multiple, Not the Lithography",
+      "reason": "Margin concerns",
+      "headline": "Wall Street\u2019s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here\u2019s What They Don\u2019t Tell You",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=284287af465764241d48543b4e3e2d43c0e81fec344682f04d20f313ab9bf430",
+      "url": "https://finnhub.io/api/news?id=5c5505cb2a1284848724326e8054a0fd4ce0290bd7f8ac3d86728c9a79872843",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "AMD Fell 8% as China Unveils New Technology \u2014 the Real Risk Is the Multiple, Not the Lithography",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=284287af465764241d48543b4e3e2d43c0e81fec344682f04d20f313ab9bf430",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Nvidia Vs. AMD Narrative Evolved Again: How to Understand it Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2636e625ce993ef397c7a7d9bd40dd412bb3595dbe4f184da490b3cc09a699be",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Ultimate Bull Run for AMD, Broadcom, and Arm May Be Closer Than You Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35fd1391f8290986ad5ba340edc6e3ba858e667276ee2b99c5ba77b63d9d1475",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMD Stock Soars as Susquehanna Lifts Price Target Ahead of Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=881b9793c8f3342ea9957c44c59787fe33b0ba96972ff9698958fad5a933f497",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Intel and AMD Soar 13%, Taiwan Semiconductor Rallies 7% as AI-Chip Stocks Bounce Hard",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=213f22772d7ba8045dd10fec469e37324c364c1b3a02f39188e9b6be9daa9613",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI-Chip stocks bounce",
-      "headline": "Most active stocks in Thursday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=75c81c32c9f203b97471741e711c89bdf1634eb8f1c95fa219067e86be6988f3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Most active stocks in Thursday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=75c81c32c9f203b97471741e711c89bdf1634eb8f1c95fa219067e86be6988f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meet the Spectacular ETF With Big Positions in Stocks Like Palantir, Microsoft, and Salesforce. It Could be a Brilliant Buy as the AI Trade Unwinds.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=693ab1b4b71b7e35daa491c383399d06c6962adee4727e678fd783e565ad6d90",
-          "used_by_ai": true
-        },
         {
           "headline": "Wall Street\u2019s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here\u2019s What They Don\u2019t Tell You",
           "source": "Yahoo",
@@ -173,28 +196,17 @@
           "used_by_ai": true
         },
         {
-          "headline": "Prediction: Where Will Rambus End The Year?",
+          "headline": "Tesla\u2019s (TSLA) Margins Broke in a Way Deliveries Can\u2019t Fix",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=70b4ab2cc8ee1283359c0bd8ff55332780f945cad7357a21d3bcdc6cc9852e3d",
+          "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
           "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Looks to snap losing streak",
-      "headline": "Tesla Looks To Snap Losing Streak As It Hits 10 Million EV Milestone",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86bcac12de706dd05b4e7a6e208592960ce542c3ca9d30127388ea26221ba337",
-      "on_watchlist": true,
-      "articles": [
+        },
+        {
+          "headline": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7d1447ec3de0becb9ab324ed6a80e5fce7d37493361b63d4cf64e06d32108dac",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla Looks To Snap Losing Streak As It Hits 10 Million EV Milestone",
           "source": "Yahoo",
@@ -202,26 +214,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "Tesla\u2019s (TSLA) Margins Broke in a Way Deliveries Can\u2019t Fix",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d1447ec3de0becb9ab324ed6a80e5fce7d37493361b63d4cf64e06d32108dac",
-          "used_by_ai": false
-        },
-        {
           "headline": "$19.6 Billion: The Microsoft Earnings Number That Matters Most",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2f5c737d40b405713e18ae982f79805cff1809aec393f7644b359b7b729f3e33",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -229,133 +229,59 @@
       "company": "",
       "direction": "up",
       "confidence": 50,
-      "reason": "US Equity Indexes surge",
-      "headline": "Update: US Equity Indexes Surge as Rebound in Chipmakers Boosts Technology",
+      "reason": "Market rebound",
+      "headline": "Sector Update: Tech Stocks Sharply Higher Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e110d0dea6c8a69343446a2f4b7136abbeee79aca3d9af682d9032f1625b6064",
+      "url": "https://finnhub.io/api/news?id=73c3a709b6ef4dab6eb73c49e929289e39f06caccb19266911baf76673a877ea",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Update: US Equity Indexes Surge as Rebound in Chipmakers Boosts Technology",
+          "headline": "Sector Update: Tech Stocks Sharply Higher Late Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e110d0dea6c8a69343446a2f4b7136abbeee79aca3d9af682d9032f1625b6064",
+          "url": "https://finnhub.io/api/news?id=73c3a709b6ef4dab6eb73c49e929289e39f06caccb19266911baf76673a877ea",
           "used_by_ai": true
         },
         {
-          "headline": "PCE Data for June: +3.3% on Core, Consumption & Pricing Higher",
+          "headline": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afb66f63710f5789a16c100f817af15bb8fecad80e83016c8a77bd0def88e9e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Q2 GDP And June PCE: Growth Remains Resilient Beneath A Weak Headline Print",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=38129c71bca26e5415dc41b39e062259cf0a03c2c22e6dcb2a7732f679e9fd8f",
+          "url": "https://finnhub.io/api/news?id=07f17e8291bde75fab96197734478017eb8883f2fc904dd3bc27ba71ea6db44c",
           "used_by_ai": true
         },
         {
           "headline": "Forget MDY. State Street Sells the Same S&P Mid-Caps for 87% Less",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=94a7b7ddbaa42d358a6dc630bc11c17bca7276aa3104faadfd418f69b3c3fcd8",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Samsung Profits Surge 1300%; 30-Year Bond Yield Highest Since 2007; Momo's Favorite Semi ETF Loses 70%",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ec594a5f9aa3b8c8aed992146f5ee20d17a178449e1ccd743b47b28b534a5d6d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Be Worried Both About The Bonds And The Market...Or Not",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e6f0a244a630e83e642aab3efc72d663064195f09ce25c2adcf4c480586dea89",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Narrative Fading: By The Numbers",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=52c7e865c83c7b19d095b3b52722f085de455755028da33ce336c68118aaec06",
+          "used_by_ai": true
         },
         {
           "headline": "Nvidia is Tanking Below $190: One Wall Street Pro Sees 165% Gains From Here",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a33ce8e889b27ae6c28fb95aa132204b1b552420b75e684d6b169097cfb6b773",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28f53efa66e3fa1216940a00900f2061fe76066060aa47e29044a40ee42d6227",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Faces earnings test",
-      "headline": "Most active S&P500 stocks in Thursday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=173e3dc5b589ca0110bf70c0b6907ea807c25e1e81c2b86027f7e8d37c4b99ef",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Most active S&P500 stocks in Thursday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=173e3dc5b589ca0110bf70c0b6907ea807c25e1e81c2b86027f7e8d37c4b99ef",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind \u2014 Here\u2019s What He Said About Siri AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b50261a7017962650b1893690c6582c528f55da53f78f0964083204e3ee8eff8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Apple's Earnings Need 'Zero Blemishes'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3d54658174a52f68d974ce3ada143acaef8d52596f18cdfa35c40b2dfd130714",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq Rebounds, Chips Jump; These Techs Face Key Resistance Level (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c9ba77e586a3d0c69b4d92238e928b645acd5a8ba7a3229c082a850e2ada0f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Faces a Closely Watched Earnings Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=49222ec58d5fb72c9b5d72a99fe6ed6a1f663823514b80116d194499970fd91d",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "New CEO at Scale AI",
-      "headline": "Scale AI names Francis deSouza as new CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ac013d9b5989cd01f77ed533bce98bbc2aeadf48bb697288ace696cf72cee68",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Scale AI names Francis deSouza as new CEO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ac013d9b5989cd01f77ed533bce98bbc2aeadf48bb697288ace696cf72cee68",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: US Equity Indexes Surge as Rebound in Chipmakers Boosts Technology",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e110d0dea6c8a69343446a2f4b7136abbeee79aca3d9af682d9032f1625b6064",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a2749ecb125dd33ee394bd0b9919f303660b486945ab262db97ba160f035c2b",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4,
+        "Benzinga": 1,
+        "SeekingAlpha": 2
       }
     }
   ]
