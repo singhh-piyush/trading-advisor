@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T11:28:55Z",
+  "updated_at": "2026-07-30T13:09:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,118 +8,236 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Record profit",
-      "headline": "Microsoft posts record profit as shares surge 10%, while Meta disappoints",
+      "reason": "AI demand surge",
+      "headline": "Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b1588fa5981b607e92defeb77c118cc99c543bfca0e6edefe2c24eb9d6df7b0",
+      "url": "https://finnhub.io/api/news?id=0fc0ad63eeedd415f2b3d10a20b1190efc31586d74bf60eaa077849433b13b9c",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft posts record profit as shares surge 10%, while Meta disappoints",
+          "headline": "Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b1588fa5981b607e92defeb77c118cc99c543bfca0e6edefe2c24eb9d6df7b0",
+          "url": "https://finnhub.io/api/news?id=0fc0ad63eeedd415f2b3d10a20b1190efc31586d74bf60eaa077849433b13b9c",
           "used_by_ai": true
         },
         {
-          "headline": "MSFT Says the Next Phase of AI Is 'Per Seat Plus Consumption' as Copilot Usage Grows",
+          "headline": "Meta Is Spending Whatever It Takes to Win AI \u2014 And That\u2019s What Worries Investors",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1081a8004bca20e1752bcbcccfb7cdac1dbd74a5dfa90821e196fec7218a6f90",
+          "url": "https://finnhub.io/api/news?id=5c1cafd554cb75a1bb1ef37ec4833d00807d7626492065392e43737752338b09",
           "used_by_ai": true
         },
         {
-          "headline": "Fed Decision and Big Tech Earnings Dominate Market Attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+          "headline": "This Old-School Sector Battles Semiconductor ETFs For Supremacy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c08ba0346ab67bb5fcd02f2d219de314bfae7982ee09b9e659889d05fe6ad582",
+          "url": "https://finnhub.io/api/news?id=fe931736fc78474e4f73284f1265932efaf54f817e1a808052ae47e9fe899093",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Micron Stock Will Be Worth More Than $3,000 by the End of 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21cf8f2767e82ca7bde48c8f0974cdae0ee9bb4d92678d8411d8acf40a868b10",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Netflix Stock Won't Double by 2031",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea127a9b464f81fe05a1e5d6be3e071ca68bd762c561b4665065df898e23dfdd",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI bet paying off",
+      "headline": "Top S&P500 movers in Thursday's pre-market session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bf1e50847e33ed20493dcf949388c5f80c0af11365937bdb1f67e964fbeb274e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Top S&P500 movers in Thursday's pre-market session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=bf1e50847e33ed20493dcf949388c5f80c0af11365937bdb1f67e964fbeb274e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Earnings Prove Its Big AI Bet Is Paying Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4deab1e6c5f50bf044a4f492547af89a9ccc383c396fcee5d16e42c532e04ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Big Cash Flow Problem That Is Sinking Meta Stock After Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b52e796f7b395a11704ec7678399ed069659806513f9739468972c461c47c634",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 2
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
+      "direction": "down",
       "confidence": 60,
-      "reason": "Investor buying",
-      "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+      "reason": "Losing streak",
+      "headline": "Tesla\u2019s Six-Day Losing Streak Took the Stock Below $300 for the First Time in a Year",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f56f8c63373b476f9ae54538da2064c425139af76f2c7b14c2bea5a437154879",
+      "url": "https://finnhub.io/api/news?id=b2f9e72f15defc631389b28b4a609d07f095f142088e9228c9e3e1d07709df8a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+          "headline": "Tesla\u2019s Six-Day Losing Streak Took the Stock Below $300 for the First Time in a Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f56f8c63373b476f9ae54538da2064c425139af76f2c7b14c2bea5a437154879",
+          "url": "https://finnhub.io/api/news?id=b2f9e72f15defc631389b28b4a609d07f095f142088e9228c9e3e1d07709df8a",
           "used_by_ai": true
         },
         {
-          "headline": "Cathie Wood Bought $53.5 Million of Tesla Stock Right After Elon Musk's Post-Earnings Sell-Off. Is a Rebound Coming?",
+          "headline": "This Week In Energy Transition - Atlas Suite Revolutionizes Solar Project Efficiency and Performance",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a16561a0961c5f574691ec867267b4a4312a7bb342c6ed2f503863012947ee9",
+          "url": "https://finnhub.io/api/news?id=2c254251ea8fc49038c56efc39aed811b617871f4d0343872313e86e3436a7cb",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk hints at donating entire $1T fortune after shock 2036 prediction \u2014 why extreme deflation could be ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7ea3eeedfe41c4fcc2f8ee95cbc516b60a037e8d7e31027168cbea4970da067",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Ford Motor Stock Can Keep Climbing Without Selling More Vehicles",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88fefdfea99f8339a095286fb697d9306251fade0554f256901f1663d0997183",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy \u2018Exponential\u2019 \u2013 Sells BLSH, HOOD, XYZ Shares Too",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=442e517086e87d4a6d34bc9b12f215db91aa9fdbcc60268a3f9b1523efc2dd3b",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Mixed news",
+      "headline": "Stock Futures Rise as Investors Await Key Inflation Report Following Fed Hold",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8b8330ecf6f04d32ce287d18df0fab9c7b99fe6f6a7be78c5a1b6f39d00171e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stock Futures Rise as Investors Await Key Inflation Report Following Fed Hold",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8b8330ecf6f04d32ce287d18df0fab9c7b99fe6f6a7be78c5a1b6f39d00171e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Earnings Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2a904b19e13c4e12bf0a7dc305026ca2c4e9f5de47f13265280389663d55219",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm shares slide as higher costs, Apple-related weakness cloud profit forecast",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d533784237e01fb53d9f8835ca73f81734139fb3293e377aab220d2e1e3bd40",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Markets Ride a Roller Coaster of Fed Confusion and AI Hope After Savage Selloff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e06044b1c487e4e6f0b4344988a92d76ec3b5efbf41490c42bd78d067388ebe3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Thursday; Microsoft, Nebius Group to Advance",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e2b76e10d8971bc1c7cd78ad7f2e2542f76005b6106a5dbe006b6a8593bce37",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Positive outlook",
-      "headline": "The SOXX Dip Has A Painful History",
+      "confidence": 50,
+      "reason": "Semiconductor forecast",
+      "headline": "Nvidia Stock Is Rising as Capex Is No Longer King",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c447f16af111d31e565f80f6f12787da1582a417c9ffe47af2a81b235722bd50",
+      "url": "https://finnhub.io/api/news?id=c25f074c41678882a12331d3af9a4b839230fd73b05049b5b4a889bc4d76d161",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nvidia Stock Is Rising as Capex Is No Longer King",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c25f074c41678882a12331d3af9a4b839230fd73b05049b5b4a889bc4d76d161",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NVDA, NBIS, SKHY, SNDK Stock Losses Reportedly Force Ex-OpenAI Researcher\u2019s $20B Fund To Seek Capital",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=453795b067659bf67b20beca31627962a753d15e142259923ae45588350929f6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Fed Held, The Bond Market Called The Bluff, and Oil Did The Rest",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c03aa034f7183ba315351079e3750cfd6125f5d0581fb59d54ddaa47c4748398",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Riot Platforms: Why The Q2 2026 AMD Hosting Update Matters More Than Bitcoin",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=466c67f3647c2ead5e6255ef23ad9695e79a86407f3915eb6213793715b01a83",
+          "used_by_ai": true
+        },
         {
           "headline": "The SOXX Dip Has A Painful History",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c447f16af111d31e565f80f6f12787da1582a417c9ffe47af2a81b235722bd50",
           "used_by_ai": true
-        },
-        {
-          "headline": "AMD: The Pullback Creates A Better Entry Ahead Of Q2",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d808ed6748fcd9df84324e25cba993f65363d0eb7e5d85d59823fb77dddde1cb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dear AMD Stock Fans, Mark Your Calendars for August 4",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=300ca708d415370f45aef122c40effc6e1779386ef1bc8e00e82df096e634f20",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD's Core Scientific deal is bigger than the headline number",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
+        "ChartMill": 1,
         "SeekingAlpha": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Market uncertainty",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market news",
       "headline": "His 401(k) Hit a Record High on AI Stocks. Why His Social Security Check Matters More Than Ever.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9dda102ebec47dd47d51d915c54302a1d3f11e55aaa46d990ea566eb9d87d3e5",
@@ -129,6 +247,18 @@
           "headline": "His 401(k) Hit a Record High on AI Stocks. Why His Social Security Check Matters More Than Ever.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9dda102ebec47dd47d51d915c54302a1d3f11e55aaa46d990ea566eb9d87d3e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The KOSPI Crash: The Prelude To The Nasdaq 100 Crash",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=24d2e6f804c8e73112b902727ece406529f8b06bb56f236cde98035fae8f9148",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warsh Holds Off Rate Hike, Bets On Supply Catching Up With Demand",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=271f677af44b439427bc42333fe5e5471d2054ebe8be0d78096fd56c08b2bf48",
           "used_by_ai": true
         },
         {
@@ -142,70 +272,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=53fe941b032880907c3b681c98716c5ee4436ef3af5aad610bb0d06c6e6b6909",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stocks Tank, Long-Term Treasury Yields Jump After Warsh Starts Talking",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9855391e848d10f86231ce3ebc047f3e0cdedaf5e493c63a4fb19cb8a878b49a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Fed Holds Steady, But Questions Linger",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=941b5b0e20f43677ec653338534b3b20aafc6afd325e2b0de7e1d2e771c390be",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 1,
         "SeekingAlpha": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Earnings anticipation",
-      "headline": "Nasdaq, S&P 500 Futures Rise: Microsoft Lifts AI Mood, Meta Sinks, Investors Brace For Apple, Amazon And PCE \u2013 Why MU, IBRX, CAPR, SBUX Are In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4aea7ef575ed4779d517dc9a77209dad76dcdac4804c3532111e7cb41985c8b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nasdaq, S&P 500 Futures Rise: Microsoft Lifts AI Mood, Meta Sinks, Investors Brace For Apple, Amazon And PCE \u2013 Why MU, IBRX, CAPR, SBUX Are In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4aea7ef575ed4779d517dc9a77209dad76dcdac4804c3532111e7cb41985c8b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bayerische Motoren Werke Aktiengesellschaft Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d386a6f744348823683e58cbbe614e05f45c29280649d741fdbf0a89b95b79ea",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Flirting with $5 trillion, Apple has never been more valuable\u2014or a riskier bet for investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=070707455ca118f1e78bf04bcf0543e2a14440e260affb82f23fc85367e71e0d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Earnings Are Almost Here. Why Tim Cook\u2019s Last Call as CEO Matters More Than Ever.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc0ac818fac34fbd58f3f6c6d1812e37a2bb6d007e93062ddff8809cee1145f7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Fed Held, The Bond Market Called The Bluff, and Oil Did The Rest",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c03aa034f7183ba315351079e3750cfd6125f5d0581fb59d54ddaa47c4748398",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
       }
     }
   ]
