@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T23:59:05Z",
+  "updated_at": "2026-07-30T03:15:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,42 +15,123 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Beats Wall Street expectations",
-      "headline": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
+      "confidence": 70,
+      "reason": "Earnings lead",
+      "headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01fe27467941134d7e2cbb7400e8d5b55991c1d2533e6a48da199e7649b60186",
+      "url": "https://finnhub.io/api/news?id=94786af6cadf7380be1e5ecf722be2c923978d6e0e07e5e4eb2541e5b99a799f",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
+          "headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01fe27467941134d7e2cbb7400e8d5b55991c1d2533e6a48da199e7649b60186",
+          "url": "https://finnhub.io/api/news?id=94786af6cadf7380be1e5ecf722be2c923978d6e0e07e5e4eb2541e5b99a799f",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft's Q4 results are 'narrative changing,' according to one analyst",
+          "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2ed0824747d9b975f98b3031da904fbe4b000bd961afcf9990af09e37b4c0b4",
+          "url": "https://finnhub.io/api/news?id=2a0eb23cb1bc0605100088d478d760b6f79a9577ec0fc380dc500adeeba3c434",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft's Cloud Accelerates to Fastest Growth Since 2022",
+          "headline": "Microsoft Q4 Earnings Call Highlights",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5f0ca5ff2b6b6cd708517ca531b7a4eaa3b8270f4c6342000be9804cc0be40c",
+          "url": "https://finnhub.io/api/news?id=f1190956a821f1df5c98fd2157757c902b50c314337001b4b404d23b63078a05",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 65,
+      "reason": "Positive outlook",
+      "headline": "The SOXX Dip Has A Painful History",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c447f16af111d31e565f80f6f12787da1582a417c9ffe47af2a81b235722bd50",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The SOXX Dip Has A Painful History",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c447f16af111d31e565f80f6f12787da1582a417c9ffe47af2a81b235722bd50",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft beats Wall Street expectations with $90B in revenue",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=706ae25e9fe8bcd977354c2e14c5aa48852f84eeba3ef937556c856af8eac904",
+          "headline": "AMD: The Pullback Creates A Better Entry Ahead Of Q2",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d808ed6748fcd9df84324e25cba993f65363d0eb7e5d85d59823fb77dddde1cb",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today, July 29: Stocks Slide on Hawkish Fed and Increased Middle East Tensions",
+          "headline": "AMD's Core Scientific deal is bigger than the headline number",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=717b9515acf27f5cf0c4b9b6ba38d9dcf781e33110d57e1d6899599f8596a459",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Synopsys Doubles Down on AI Chip Design With Microsoft and AMD. How to Play SNPS Stock Here.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fc8300bc75fb5af9fdc82603eea299b61b0d211d4a9ba28325d514907e60580",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Stock Drops 5.7% as AI Rout Overwhelms 2.5-Gigawatt Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=48481c8ab2d9e594329c76df9384348a379687c2c4849298f4c10080877bff6c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Earnings anticipation",
+      "headline": "Bank of America doubles down on Apple stock ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=963a8d218b7f2cd4c6574c7365edf46e6204a67e4c3bb85ca8eed4a216a0a314",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bank of America doubles down on Apple stock ahead of earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=963a8d218b7f2cd4c6574c7365edf46e6204a67e4c3bb85ca8eed4a216a0a314",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Qualcomm Q3 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16dd068fbc3dff4e374a8904480714362dd18f81ecad7c46c0c772712732c18b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Investors Are Racing to Find America's Next Rare Earth Winner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c2bf47aa4a29652a452b2b8d41934315e1e6361f42111a319c5bb340dd388926",
+          "used_by_ai": true
+        },
+        {
+          "headline": "QCOM Stock Drops Nearly 8% After Hours \u2014 Qualcomm\u2019s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0ed0c9c195b2ec0f1907895e82c9443a9850a6eac24a2b12c7f909ce6a157c6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Senators Warn Apple Not to Buy Memory Chips From Chinese Firms",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=984d586a1f0d87fa6f68c99be5353f6d9d52f13cb21156b5d6b1b66f201a7fbf",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -60,148 +141,49 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Stock falls under pressure",
-      "headline": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Competition and comparison",
+      "headline": "Tesla's Optimus May Soon Have Company as China's BYD Confirms Its First Humanoid Robot Will Debut in August",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fbcafac61d28ac3d2fb41c29f1eb1b86f8fef5c8a13677167547b725a65fcdd0",
+      "url": "https://finnhub.io/api/news?id=7ad8f3f10b222715a82fd8d7b371ab3fee93b2b343530f10909e5942662ec555",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tesla's Optimus May Soon Have Company as China's BYD Confirms Its First Humanoid Robot Will Debut in August",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ad8f3f10b222715a82fd8d7b371ab3fee93b2b343530f10909e5942662ec555",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Review & Preview: Warsh\u2019s Credibility",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5fc6908d05f0984d81b07726185a93b9d9a1fdfd1f362284a825810c2a2f75e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla\u2019s Grok Playbook Meets Its Match? GOOGL's Waymo Arms Ojai Robotaxis With Gemini AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f77fd6bf2b5283c66bd24544a56b6041052471c7f7acd0b4f6983c9c608676df",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fbcafac61d28ac3d2fb41c29f1eb1b86f8fef5c8a13677167547b725a65fcdd0",
           "used_by_ai": true
-        },
-        {
-          "headline": "An economist dared Elon Musk to give away his $1t fortune in the next decade \u2013 Musk says he\u2019s planning something similar",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6364c7cb3c7a4fca81d98b5922926c7e77716be8955036e74bc95bd6d0b7c265",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5dd87d9fb57169ae6e0eccc9918970697b1cfae3e9aa2d67dec36067c0c7025e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99c6ecf61374466e0c6c2d4783f05422541f1c9e0758b7f1949c38042e676efd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9cad07fed73edfcb4d0e1afe254878785b9eaa377e033415d3f899c4edfa912b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "Stock drops after AI rout",
-      "headline": "AMD's Core Scientific deal is bigger than the headline number",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AMD's Core Scientific deal is bigger than the headline number",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54d9e5904294b4bcf075f82c6c0465ab25cb8f5304d9a409fc3b548b3332a2d9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Drops 5.7% as AI Rout Overwhelms 2.5-Gigawatt Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=48481c8ab2d9e594329c76df9384348a379687c2c4849298f4c10080877bff6c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nasdaq, S&P 500 Fall 1%, Dow Sinks 900 Points Ahead of Fed Decision",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=680b52ad4c18cef53005b4ba04d004f73cf7eb86c16dca114a1d56812809ffe6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMD and Core Scientific's $14 billion AI partnership is a turning point",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6edef1884c0840e15c3558fc56ec752c43104d8818ce8f6b99496039c625eeb6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as SK hynix Earnings Disappoint",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90132820379dc3b1248cda956972f5117af53bbb5dcd5791b247e49ff8ff1957",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Misses $5 trillion mark",
-      "headline": "Klarna (NYSE:KLAR) Lands Apple Upgrade Role In New US Hardware Leasing Program",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7611973e39d4dfeac137e9671872b54163482f3a3f34137270a878ba19dd2a2c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Klarna (NYSE:KLAR) Lands Apple Upgrade Role In New US Hardware Leasing Program",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7611973e39d4dfeac137e9671872b54163482f3a3f34137270a878ba19dd2a2c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Stock Misses the $5 Trillion Mark, Snapping Three-Day Winning Streak",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e5f47172325a6a785fa55594dda48dc07fee6eab00fad2c998a004e328096cb7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0b94d9045ac722dc31e72a1236c6625fcc4003ffc4a7263f1e06e8b9257446f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple options trades: What's a covered call and how does it work?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f09b769086b9cf3ec8ceb16318c106b1be5859e6a30ce5cfaab0c6c625626d8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Market slides on hawkish Fed",
+      "confidence": 45,
+      "reason": "Market warning",
       "headline": "How Much Eli Lilly (LLY) Are You Really Betting On?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3b946c325725339a4480a062c4ff72f58a36a2164ab2cbcaea9621d0dd3c962f",
@@ -220,26 +202,20 @@
           "used_by_ai": true
         },
         {
+          "headline": "Best Dividend Aristocrats For August 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=67311e2187c8daa5f97909344e3c76b99fbde905a77e989bccdfea2563d55757",
+          "used_by_ai": true
+        },
+        {
           "headline": "Wall Street Sends Fresh Warning as AI Tech Stocks Stumble After Earnings",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4fe4c805e4d6d97b0d9490f2fffdfaeb2db33cc97062047521c41357c2d0e529",
           "used_by_ai": true
-        },
-        {
-          "headline": "Forget SPY: This Shareholder Yield ETF Has Beaten It by 12 Points This Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b34da6f2f5fe3f4f7042fbcd4beb18bc57934ce22215f4062b4d8309e7841e23",
-          "used_by_ai": true
-        },
-        {
-          "headline": "July FOMC: Patience Prevails, But The Inflation Debate Deepens",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=dbf3e9605627ea79d95ded46b0f7d2f5b0ee2679d15418833017910d97115d54",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     },
@@ -248,40 +224,40 @@
       "company": "Nvidia",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Multiple earnings calls",
-      "headline": "Bunge Global S.A. Q2 2026 Earnings Call Summary",
+      "reason": "Mentioned in context",
+      "headline": "Overlooked AI stock is growing faster than Nvidia",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=893c34373b9d61a5e699eb88d5326ead81924f4fdfebc665fee7f3f99da1f25b",
+      "url": "https://finnhub.io/api/news?id=ed6152fae42f524be04209239bc97fe195d8abd1687fb7ed4078e48592a07bff",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Bunge Global S.A. Q2 2026 Earnings Call Summary",
+          "headline": "Overlooked AI stock is growing faster than Nvidia",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=893c34373b9d61a5e699eb88d5326ead81924f4fdfebc665fee7f3f99da1f25b",
+          "url": "https://finnhub.io/api/news?id=ed6152fae42f524be04209239bc97fe195d8abd1687fb7ed4078e48592a07bff",
           "used_by_ai": true
         },
         {
-          "headline": "Blackbaud, Inc. Q2 2026 Earnings Call Summary",
+          "headline": "Zuckerberg Loses $15 Billion As Meta Shares Plunge Following Earnings Disappointment",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3c7df1f59b18571e4f63484263e34ffe88caede8dab810750a9cabe003b777b",
+          "url": "https://finnhub.io/api/news?id=567139dc8a3a5e2aa1a3fa2d6191bb56297fcf6ee07561358387a4d246f63c7a",
           "used_by_ai": true
         },
         {
-          "headline": "Wabash National Corporation Q2 2026 Earnings Call Summary",
+          "headline": "Is Microsoft a Buy After Its Latest Earnings Report?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ea6968c7b47f0acabe19c00793e576fefad84d03b5111cccc5a6c26db6821c7f",
+          "url": "https://finnhub.io/api/news?id=5444468f0e737112b9153268bbbb86ac87aca886f0e83da7c48c893a92beb8e3",
           "used_by_ai": true
         },
         {
-          "headline": "V.F. Corporation Q1 2027 Earnings Call Summary",
+          "headline": "XOVR Isn\u2019t About SpaceX or Space. So What Is It About?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=71cda5d300b3d5a9c5cd25d7f4c50391a0c0ec6151b9fe385d700b219a6ca69e",
+          "url": "https://finnhub.io/api/news?id=57bd0cb785c49eef499620173fe426e69958018030d81e71adb3dbb6dd0188e7",
           "used_by_ai": true
         },
         {
-          "headline": "Stanley Black & Decker, Inc. Q2 2026 Earnings Call Summary",
+          "headline": "Why SoFi Stock Fell Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd425b79e26e15ea320bb403eb7ae60c06eb0a42404040c582973f062986758d",
+          "url": "https://finnhub.io/api/news?id=655fdca38c8d592ad8dd6ee2938d1b175451237088dfa805d2ae01193afb8dac",
           "used_by_ai": true
         }
       ],
