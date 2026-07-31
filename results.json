@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:38:18Z",
+  "updated_at": "2026-07-31T22:59:31Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,44 +12,136 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
       "confidence": 80,
-      "reason": "AI chip rally",
-      "headline": "Why Wall Street Keeps Underestimating Micron",
+      "reason": "Supply woes",
+      "headline": "Apple Stock Tumbles, Wiping Out $359 Billion in Value",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c170f20159985827c6caf472ca2672eee9b059eaeb4609e9b00fefaf7ddd2a60",
+      "url": "https://finnhub.io/api/news?id=e5f988e3e01a408db0b3f96b829fa17210ffb5e47ee7263e6f147f16b5c20920",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Wall Street Keeps Underestimating Micron",
+          "headline": "Apple Stock Tumbles, Wiping Out $359 Billion in Value",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c170f20159985827c6caf472ca2672eee9b059eaeb4609e9b00fefaf7ddd2a60",
+          "url": "https://finnhub.io/api/news?id=e5f988e3e01a408db0b3f96b829fa17210ffb5e47ee7263e6f147f16b5c20920",
           "used_by_ai": true
+        },
+        {
+          "headline": "Apple's Supply Woes Likely to Continue Into Fiscal 2027, UBS Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c35c2cd546bbafb5fc0cd3c0874aab0e3d3773841f3cd35d35accff38efda07",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5128180d32df69128c8360cfa49c94f8a7dc860c6d818d274d73adcabf8b143a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Update: Wall Street Gains Amid Amazon Rally as July Ends Mostly Lower",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=691dfb911085f847ab57db8b984d0f2b76070f61f31b92f2e0f69079af0b8dab",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Market Talk: Apple sinks, Amazon soars in split verdict on AI winners",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da81e4262f472bf567b18b8fa6d62a30848cf9a5425716f72685131dfaec40bf",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Musk denies report",
+      "headline": "Tesla Stock Falls 1.8% as Musk Denies China Separation Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f84308897a7b2ffbf98529eabf1d48a7651357b738cad973cee5aca4fd29448",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Stock Falls 1.8% as Musk Denies China Separation Report",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9f84308897a7b2ffbf98529eabf1d48a7651357b738cad973cee5aca4fd29448",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=788d1070d04dbf7c78c9f511bf9314021e8eb617a22625c7aa43d538d5e3fc28",
+          "used_by_ai": false
+        },
+        {
+          "headline": "TSLL: How Tesla Investors Lose Money Even When the Stock Goes Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47d26d7fa83e613435aa984481996a0cc252fe7992133a1eeee1d188455a05f3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk Cools Off Tesla-SpaceX Merger Speculation as SpaceX Stock Hits Record Low",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f7c063e55604f3f4b815d3984d2a154248ef53643745f7719d22db080eb8846",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX to release first earnings report: What investors are looking for",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8f6cab6785966b541ad94c327c1039ee54e9a060f917eea965b2c0ef7ff36bf",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Record gain",
+      "headline": "Microsoft Stock Rises Again After Record $450 Billion Gain",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4ce163012e72fb5f4a6ef3bf4294710e381358cd54ac0cb9ee9598bdc014fa7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Stock Rises Again After Record $450 Billion Gain",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c4ce163012e72fb5f4a6ef3bf4294710e381358cd54ac0cb9ee9598bdc014fa7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa",
+          "used_by_ai": false
+        },
+        {
+          "headline": "US Equity Indexes Rise This Week as AI Monetization Evidence in Big-Tech Quarterly Results Energizes Bulls",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2156074c3c419f5ef666ce838753ddfade9b261d1b5fe954564f6578073c3b9d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b18d0bf0ed43c01c4d5d8b83eb2ee5bad8928a6ef31494c8dd15b0590a05c6e5",
+          "used_by_ai": false
         },
         {
           "headline": "Samsung Stock Soars 27% as Korea's AI-Chip Rally Breaks Records",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8a182e4a0bb942b0448d96aaa02445ccd8ca2c15e679c7ddf08d697f9a463698",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Micron Stock Was Up and Down Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=288340d72ce559a83c424e66ba2075fc9eb9ac82f341742c03585ce7c4239da2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alibaba's AI Bet Is Powering a Rival",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cce9f6cd643aa56bf10db050187ff290946e0b08a5468457a30c08e752061a0f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Forget SpaceX's Upcoming Q2 Results. History Says You Should Wait at Least This Long Before Buying SpaceX Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0be1d1219145baf1faf13d75ecf0d723467930b4a2279ae0e31fbb7b6d48d84d",
           "used_by_ai": false
         }
       ],
@@ -62,7 +154,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI spending expansion",
+      "reason": "AI spending",
       "headline": "AMD Stock Gains as Amazon Expands AI Spending to $220 Billion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a81d28a82ecea87149bca4884a069adecb34251264bffd2d684b220fd3abadec",
@@ -75,162 +167,62 @@
           "used_by_ai": true
         },
         {
-          "headline": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
+          "headline": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=427d251700e4700db464e95f801ad6bca834d60888601efedc6c69ae5ba2f71a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=1a94eb2201e3abbd3656b840f134ff2b4adcbb19f38c716c72b5b9b7f5d47385",
+          "used_by_ai": false
         },
         {
-          "headline": "Nvidia\u2019s Valuation Gap With AMD Just Got Bigger",
+          "headline": "Here\u2019s How Much Traders See AMD Stock Moving After Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39deea97b690ac7b56dada0b4b81cbdbe6504c78f63dae24074a00a50461b8bd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=911401ccbf7cb4f2130f9472945ecab9467870e9b502487a641cb1e99cb9d27c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD CEO doubles down on AI and the stock market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c85c3866c3b609802551dead99a478bbf6aecaf6a329a7a83863e84a52a7dc3",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=b75c5507997c98c4122e90fdcfdbeaaa312d7c9f218248bf431c9565a18f9742",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "China business denial",
-      "headline": "Elon Musk denies claims that Tesla could sell off its China business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad3a24e1677e5691f6e441bf2a74a57c79be0db8940a6d670f995aa9c8cbf03b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk denies claims that Tesla could sell off its China business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad3a24e1677e5691f6e441bf2a74a57c79be0db8940a6d670f995aa9c8cbf03b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Curious about the most active S&P500 stocks in today's session?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=088075512575cbe9e0abbb1f6b911924f01ee3e8038560995c4fdd2a8d2bf7d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Short sellers pile into SpaceX ahead of earnings, lockup expiration",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a3af99bc841828e612a099cb803e5539a396c30ca93bcc732275c3ada2e0641",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Is Now Down 36% in a Month. Would You Be Better Off With Rocket Lab or ASTS SpaceMobile?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1363f1e4f5628fe053282ce47a2c1db24d6869d23f480a210485108b5de879b6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top Stocks Set to Benefit From Rising EV and AV Adoption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ad8b772778cd172d63387b7abcd84af5390b7b9ff8a0278322445098ba3b364",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI plans and surging shares",
-      "headline": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b18d0bf0ed43c01c4d5d8b83eb2ee5bad8928a6ef31494c8dd15b0590a05c6e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b18d0bf0ed43c01c4d5d8b83eb2ee5bad8928a6ef31494c8dd15b0590a05c6e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=407683c30bfe15f16ba22549ead2a88d44004972ed91aac1ec34513f69f4e04a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de6869eefd566699763b4ece5c125b2fe32aee3f597b4c8765730ee32c40a893",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft shares are surging. Here\u2019s how to still make money, says Mike Khouw",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "CNBC": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "neutral",
       "confidence": 50,
-      "reason": "AI plans and mixed stocks",
-      "headline": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+      "reason": "Mixed news",
+      "headline": "Why CareDx Stock Jumped Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=064e21ad358c52a972b59d6b5324580426c8369f54e8fd11b9d957b0766d14f0",
+      "url": "https://finnhub.io/api/news?id=c36158965215c0887cfc3e3c07e23830886d2225bc7412f8534889889290e104",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+          "headline": "Why CareDx Stock Jumped Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=064e21ad358c52a972b59d6b5324580426c8369f54e8fd11b9d957b0766d14f0",
+          "url": "https://finnhub.io/api/news?id=c36158965215c0887cfc3e3c07e23830886d2225bc7412f8534889889290e104",
           "used_by_ai": true
         },
         {
-          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
+          "headline": "AI trade is a combination of 'perception and reality': Bradley Tusk",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5eea23cf29a149cf41976368d228def59143bb67c83ecf3eaeb7a5823ec13249",
+          "url": "https://finnhub.io/api/news?id=09e3189c56b73156f3de9367010e2ff997c7c28bc8513b44413117469505f22b",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today: Nasdaq Advances Despite Spiking Yields; Amazon Soars (Live Coverage)",
+          "headline": "Novo Nordisk Shares Plunge After a Key Trial Fails. Should Investors Buy the Dip?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88e79534e5b09ce0f5176089296bb86e67dc8fcc1b85fe0b5e4b0b17c989d187",
+          "url": "https://finnhub.io/api/news?id=c53c9a315e7e91efc64054f7d6933231ea7c275384820cddc7972a046ecf7309",
           "used_by_ai": true
         },
         {
-          "headline": "Micron Stock Drops 4.2% Despite Amazon's $220 Billion AI Bet",
+          "headline": "Coinbase Just Took a Record 10.3% of Global Crypto Trading. It Still Posted Its Third Straight Quarterly Loss.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d7af7cdadc7d9ee1b0332e3caa54bc07e3aea8331576614f350f420fb7b95c73",
+          "url": "https://finnhub.io/api/news?id=45fd172bcfeffa3ef70a107880f8deb1d925e31b54604f9bb1bd91af5a48e81d",
           "used_by_ai": true
         },
         {
-          "headline": "Update: US Equity Indexes Rise Amid Amazon-Fueled Gains in Consumer Discretionary While Crude Oil Trades Off Session Highs",
+          "headline": "Fed Chair Kevin Warsh Plays the Hawk But May Have a Dove Up His Sleeve",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9f556e83be0311c290aaa27e2962b603e0c9b4ea3f53e34bd98c511f33c5cf4d",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f0290f9877eda30e842cdf85f35b089a1898a8f866b7cc4e6c9e3025bd5a73b1",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -242,12 +234,24 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market updates and ETFs",
-      "headline": "How Much CRWD Are You Really Betting On?",
+      "reason": "Market news",
+      "headline": "Forget IWM: SPSM Has Quietly Beaten It by 12.68 Points Over 10 Years",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a99af71c393409503014f61ff1a4f0f659aa3ebe3ea1f847b202e168cd7ee8f9",
+      "url": "https://finnhub.io/api/news?id=72cfce73ec0eb74564eaef7f5e17112f68e721909c4ae14b8e63b1ad8ba9e918",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Forget IWM: SPSM Has Quietly Beaten It by 12.68 Points Over 10 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=72cfce73ec0eb74564eaef7f5e17112f68e721909c4ae14b8e63b1ad8ba9e918",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cash In Your IEFA Gain, Or Let It Ride?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f3a795bc18856876ce20fdab85816447c7ed26e00e37d243535ee28b59672f8a",
+          "used_by_ai": true
+        },
         {
           "headline": "How Much CRWD Are You Really Betting On?",
           "source": "Yahoo",
@@ -261,27 +265,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "AI Stocks Cracked In July, New S&P 500 Challenges Emerge In August",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2fd35aad1946cd3a089833abf3daa14d13ca800fbb9f6d08987f37854aad5103",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD is Down 10% Over a Month: Did Microsoft\u2019s Catalyst Just Spark the 155% Upside Expected By Wall Street Pro?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ff228574f21af0bc0fe9125109578d5522facc2b97cbf01946a14d44fadd4e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Holds Rates Steady, May Hike Ahead: ETFs in Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77d980e0569585ab169e277b204ac54eb7cd5689b72caabad40ffad78ce6ce6d",
+          "headline": "'U.S., Israel preparing to bombard energy-related targets in Iran, sources say'- CBS News",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=6f6c41160a073f63959bef0fe482284b5898cd759f63edd926afbcc6f3ef5ee0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Benzinga": 1
       }
     }
   ]
