@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T20:20:19Z",
+  "updated_at": "2026-07-31T21:38:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -17,17 +17,11 @@
       "direction": "up",
       "confidence": 80,
       "reason": "AI chip rally",
-      "headline": "Alibaba's AI Bet Is Powering a Rival",
+      "headline": "Why Wall Street Keeps Underestimating Micron",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cce9f6cd643aa56bf10db050187ff290946e0b08a5468457a30c08e752061a0f",
+      "url": "https://finnhub.io/api/news?id=c170f20159985827c6caf472ca2672eee9b059eaeb4609e9b00fefaf7ddd2a60",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Alibaba's AI Bet Is Powering a Rival",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cce9f6cd643aa56bf10db050187ff290946e0b08a5468457a30c08e752061a0f",
-          "used_by_ai": true
-        },
         {
           "headline": "Why Wall Street Keeps Underestimating Micron",
           "source": "Yahoo",
@@ -41,16 +35,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Forget SpaceX's Upcoming Q2 Results. History Says You Should Wait at Least This Long Before Buying SpaceX Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0be1d1219145baf1faf13d75ecf0d723467930b4a2279ae0e31fbb7b6d48d84d",
-          "used_by_ai": true
-        },
-        {
           "headline": "Why Micron Stock Was Up and Down Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=288340d72ce559a83c424e66ba2075fc9eb9ac82f341742c03585ce7c4239da2",
           "used_by_ai": true
+        },
+        {
+          "headline": "Alibaba's AI Bet Is Powering a Rival",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cce9f6cd643aa56bf10db050187ff290946e0b08a5468457a30c08e752061a0f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Forget SpaceX's Upcoming Q2 Results. History Says You Should Wait at Least This Long Before Buying SpaceX Stock.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0be1d1219145baf1faf13d75ecf0d723467930b4a2279ae0e31fbb7b6d48d84d",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,7 +62,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI spending boost",
+      "reason": "AI spending expansion",
       "headline": "AMD Stock Gains as Amazon Expands AI Spending to $220 Billion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a81d28a82ecea87149bca4884a069adecb34251264bffd2d684b220fd3abadec",
@@ -106,9 +106,9 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 60,
-      "reason": "EV adoption",
+      "reason": "China business denial",
       "headline": "Elon Musk denies claims that Tesla could sell off its China business",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ad3a24e1677e5691f6e441bf2a74a57c79be0db8940a6d670f995aa9c8cbf03b",
@@ -127,6 +127,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Short sellers pile into SpaceX ahead of earnings, lockup expiration",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a3af99bc841828e612a099cb803e5539a396c30ca93bcc732275c3ada2e0641",
+          "used_by_ai": true
+        },
+        {
           "headline": "SpaceX Is Now Down 36% in a Month. Would You Be Better Off With Rocket Lab or ASTS SpaceMobile?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1363f1e4f5628fe053282ce47a2c1db24d6869d23f480a210485108b5de879b6",
@@ -137,12 +143,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2ad8b772778cd172d63387b7abcd84af5390b7b9ff8a0278322445098ba3b364",
           "used_by_ai": true
-        },
-        {
-          "headline": "Short sellers pile into SpaceX ahead of earnings, lockup expiration",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a3af99bc841828e612a099cb803e5539a396c30ca93bcc732275c3ada2e0641",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -154,8 +154,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI plans",
+      "confidence": 60,
+      "reason": "AI plans and surging shares",
       "headline": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b18d0bf0ed43c01c4d5d8b83eb2ee5bad8928a6ef31494c8dd15b0590a05c6e5",
@@ -178,18 +178,25 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=de6869eefd566699763b4ece5c125b2fe32aee3f597b4c8765730ee32c40a893",
           "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft shares are surging. Here\u2019s how to still make money, says Mike Khouw",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 3,
+        "CNBC": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "mixed news",
+      "confidence": 50,
+      "reason": "AI plans and mixed stocks",
       "headline": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=064e21ad358c52a972b59d6b5324580426c8369f54e8fd11b9d957b0766d14f0",
@@ -233,14 +240,32 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "market gains",
-      "headline": "AMD is Down 10% Over a Month: Did Microsoft\u2019s Catalyst Just Spark the 155% Upside Expected By Wall Street Pro?",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market updates and ETFs",
+      "headline": "How Much CRWD Are You Really Betting On?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ff228574f21af0bc0fe9125109578d5522facc2b97cbf01946a14d44fadd4e3",
+      "url": "https://finnhub.io/api/news?id=a99af71c393409503014f61ff1a4f0f659aa3ebe3ea1f847b202e168cd7ee8f9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Much CRWD Are You Really Betting On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a99af71c393409503014f61ff1a4f0f659aa3ebe3ea1f847b202e168cd7ee8f9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Click Beta 14: Who Wins When We Know Less?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bb4c9104f71a34648fd125dbc99e22ff35b8008dae7abed56cc1e3048093fa75",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Stocks Cracked In July, New S&P 500 Challenges Emerge In August",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2fd35aad1946cd3a089833abf3daa14d13ca800fbb9f6d08987f37854aad5103",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD is Down 10% Over a Month: Did Microsoft\u2019s Catalyst Just Spark the 155% Upside Expected By Wall Street Pro?",
           "source": "Yahoo",
@@ -252,30 +277,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=77d980e0569585ab169e277b204ac54eb7cd5689b72caabad40ffad78ce6ce6d",
           "used_by_ai": true
-        },
-        {
-          "headline": "Why Markets May Be Second-Guessing The U.S. Fed",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=502d34b8c1b6bf225c936448372aed72d9e224bb08d752ec63abd6203df4e56f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wonder Boy Blowup Sparks Massive Semiconductor Rally; Kospi Up 18%; Amazon Helps, Apple Disappoints",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=039aff22d55b9c9cbceecf1970c40077c6cceb850b5d11e8ac2b01f78ca67027",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Her Wisconsin Pension Rose 2.1%. The Other Part Jumped 18%. Only One Is Safe to Spend.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9742ec2337227647214ee21efae2666a0bc6811dc036075a0aeadd8ea30c910c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1,
-        "Benzinga": 1
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     }
   ]
