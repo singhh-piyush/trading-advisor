@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T20:52:09Z",
+  "updated_at": "2026-08-01T21:56:51Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Mentioned in multiple articles",
+      "confidence": 80,
+      "reason": "Quantum computing",
       "headline": "3 Stocks Smart Quantum Computing Investors Are Buying",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9d4168f13e7cec40880440134f406b41b15f3010121c402eb284b977b0193e88",
@@ -35,18 +35,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a975dbcbf184391a0998965876ecfa96f1c2308aa89f9937f114f2f5c5facbd1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Most Income Investors Have Never Heard of These 3 Bond ETFs Paying Over 10 Percent Monthly",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81cabd325c81c91112e5ee2eff1c871e4102ff9feb328b0da8c6b1608886ebf1",
-          "used_by_ai": true
-        },
-        {
           "headline": "Is Bloom Energy in Its Nvidia Moment?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0a3d91e27986b3c486f9a1fa6dfa70d82f6b01fb0b68e897fe7af02e9e1e9caa",
@@ -57,6 +45,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3795c657a584ee726778e8ff9f4f735c32b141ff39f5462e812d5b9d478b63f",
           "used_by_ai": true
+        },
+        {
+          "headline": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a975dbcbf184391a0998965876ecfa96f1c2308aa89f9937f114f2f5c5facbd1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Most Income Investors Have Never Heard of These 3 Bond ETFs Paying Over 10 Percent Monthly",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81cabd325c81c91112e5ee2eff1c871e4102ff9feb328b0da8c6b1608886ebf1",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -67,8 +67,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 55,
-      "reason": "Positive news and analysis",
+      "confidence": 70,
+      "reason": "Smartphone sales",
       "headline": "Should you still buy your next smartphone \u2014 or subscribe to it instead?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a147d848a91d8918d429e4e1bc74197562231611646c456c46e589685b11fb2d",
@@ -113,9 +113,9 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Positive news and analysis",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Probes over Microsoft 365",
       "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
@@ -144,26 +144,19 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c8b055d3b08b133e4a41c3042b6037d69b7f420e25f0261167bab71d594af142",
           "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft shares are surging. Here\u2019s how to still make money, says Mike Khouw",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
-        "Benzinga": 1,
-        "CNBC": 1
+        "Benzinga": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 45,
-      "reason": "Competition and market concerns",
+      "confidence": 50,
+      "reason": "Rival sales",
       "headline": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=50e25d36809113be2cb465fa6bfd4c6a0a8401fc0330cf64fca2a8fbb78cf312",
@@ -209,8 +202,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Positive news and analysis",
+      "confidence": 50,
+      "reason": "Server CPUs",
       "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
@@ -252,7 +245,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market analysis and trends",
+      "reason": "Market trends",
       "headline": "What's Inside URA Decides This Dip's Fate",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b1d4e59e6a10f60fe73f31a98ed86ddbc074ff28fcedeb2e6ef4c359fc3f7262",
