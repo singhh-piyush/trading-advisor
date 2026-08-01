@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T04:02:04Z",
+  "updated_at": "2026-08-01T07:02:07Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,44 +12,90 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Nvidia AI cluster",
-      "headline": "Roblox Guided Bookings Down as Much as 18% and Withdrew Its Full-Year Outlook. The Algorithm Change Behind It Was Deliberate.",
+      "confidence": 60,
+      "reason": "FSD plan growth",
+      "headline": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69180d42a6f2050b61766e07ab6c6c3d8ebeb13ccb38432036ad57d93fd4203c",
+      "url": "https://finnhub.io/api/news?id=877aa37dbb0be6b0d0c441170d7027fc392bd8f181f2da9fd956fc54b83826c3",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Roblox Guided Bookings Down as Much as 18% and Withdrew Its Full-Year Outlook. The Algorithm Change Behind It Was Deliberate.",
+          "headline": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69180d42a6f2050b61766e07ab6c6c3d8ebeb13ccb38432036ad57d93fd4203c",
+          "url": "https://finnhub.io/api/news?id=877aa37dbb0be6b0d0c441170d7027fc392bd8f181f2da9fd956fc54b83826c3",
           "used_by_ai": true
         },
         {
-          "headline": "Alibaba (NYSE:BABA) Is Supplying Moonshot With A Major Nvidia AI Cluster",
+          "headline": "Believe In Elon Musk, Says Jim Cramer About Tesla, Inc. (NASDAQ:TSLA)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14d54fa57fa728689f9cd4f67db68d5805f18c4a234517dbb4e9b65cc63a6a13",
+          "url": "https://finnhub.io/api/news?id=24ce9fc6fb810882afccd5ee9ffb0e2a4eade4521761f22151e1a6886598568f",
           "used_by_ai": true
         },
         {
-          "headline": "Here Are 3 Things Every Successful Passive Income Investor Has in Common -- and They're Simpler Than You Might Think",
+          "headline": "Market Chatter: Musk's Fortune Falls Below Pre-SpaceX IPO Levels, Bloomberg Reports",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af7a64a1dfd631c406525dcba610b993006c5788d7a2007205abda3c460fab26",
+          "url": "https://finnhub.io/api/news?id=ab4d5017994719e9914091208a618f435f1ea49891d926c6cb7c262772aa7a84",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Admits Its Time To Talk About Space Exploration Technologies Corp (NASDAQ:SPCX)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=62e56f88a8eca40d7b86bbb622e49f206f4866ae3d89476d250cba0073c19bbe",
           "used_by_ai": false
         },
         {
-          "headline": "Amazon's Free Cash Flow Swung $26 Billion in the Wrong Direction. The Stock Rose 15% Anyway.",
+          "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae96543a402adcc9a178dfa068abde4d337baea1abc4590cd097a21d84998738",
+          "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06",
           "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "AI developments",
+      "headline": "South Korea exports beat forecasts in July on AI chip demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc89abbe5b10a8b9d4ec5dbf9bf3d6a46f8100ddfa24fa4aaf5e5a945882bcec",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "South Korea exports beat forecasts in July on AI chip demand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc89abbe5b10a8b9d4ec5dbf9bf3d6a46f8100ddfa24fa4aaf5e5a945882bcec",
+          "used_by_ai": true
         },
         {
-          "headline": "Why Baxter International Stock Skyrocketed by 19% This Week",
+          "headline": "Jim Cramer Can\u2019t Help But Gloat At Apple Inc (NASDAQ:AAPL)\u2019s AI Developments",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58b9387f1d1ec8ab751e91f1f0d83e42612dd62ba9f9b2af3fe9ff46f19c7f29",
+          "url": "https://finnhub.io/api/news?id=b84795b42a7f9e71b9789d58adda42b151b481be22d13ac95d53f5c919635fae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Makes Big Prediction About T-Mobile US Inc. (NASDAQ:TMUS) Which Involves Apple",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=066dced472907398280a2489b8b869c4e3eda2fe1fb0046d95c077a962fb9a2f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple vs. HP: The $5 Trillion Giant, or the Stock That Pays 15x the Dividend.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d41029df309d2a09752cb96d02583ae9e6b10b07cf244b2523a907c7042856f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Apple Stock Dropped on Friday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40743aaa20f2d4350b530c5fdc69ef98771e27c8c5e417c26dc00b9a55fda677",
           "used_by_ai": false
         }
       ],
@@ -61,13 +107,25 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Earnings expansion",
-      "headline": "Grid Dynamics Q2 Earnings Call Highlights",
+      "confidence": 50,
+      "reason": "Surging shares",
+      "headline": "1 Chart Shows Why You Should Not Buy an IPO Stock on its IPO Date",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3013d3107cf1a415b0af509d44196e8142f9123b30ad06283b67ae9d2882d3b7",
+      "url": "https://finnhub.io/api/news?id=b506ab3ce660790bc100f72b92f9b27874b20512fc52bbc31cf49eb22ed1715c",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "1 Chart Shows Why You Should Not Buy an IPO Stock on its IPO Date",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b506ab3ce660790bc100f72b92f9b27874b20512fc52bbc31cf49eb22ed1715c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Southern Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a637d51d0588632b8c0eedd35a6a2282fb32c67998c439a25f27f92fa4bcb977",
+          "used_by_ai": true
+        },
         {
           "headline": "Grid Dynamics Q2 Earnings Call Highlights",
           "source": "Yahoo",
@@ -81,67 +139,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US Equity Indexes Rise This Week as AI Monetization Evidence in Big-Tech Quarterly Results Energizes Bulls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2156074c3c419f5ef666ce838753ddfade9b261d1b5fe954564f6578073c3b9d",
+          "headline": "Microsoft shares are surging. Here\u2019s how to still make money, says Mike Khouw",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Overvalued stock",
-      "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1a94eb2201e3abbd3656b840f134ff2b4adcbb19f38c716c72b5b9b7f5d47385",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here\u2019s How Much Traders See AMD Stock Moving After Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b75c5507997c98c4122e90fdcfdbeaaa312d7c9f218248bf431c9565a18f9742",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4,
+        "CNBC": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Market gains",
-      "headline": "US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Worst Month In Over A Year \u2014 PSKY, BABA, RDDT, RIVN, AMZN In Focus",
+      "confidence": 50,
+      "reason": "Market rebound",
+      "headline": "The 12% Yield Trap: How SPYI Returns Your Own Capital as \u2018Income\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ff0a2677bdd341d72a63925b1f58372c64ec153fadcdc8794bd723a30164ff6",
+      "url": "https://finnhub.io/api/news?id=51e9286f0efc5726b01a1413b95e00fec0ad7f52d3ced37fc727a86c01e4aab7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The 12% Yield Trap: How SPYI Returns Your Own Capital as \u2018Income\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51e9286f0efc5726b01a1413b95e00fec0ad7f52d3ced37fc727a86c01e4aab7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Swing And A Miss",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a75210d9a6e05454ee6621d1811a13638645333eeba059179f90b363cdbb5f19",
+          "used_by_ai": true
+        },
         {
           "headline": "US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Worst Month In Over A Year \u2014 PSKY, BABA, RDDT, RIVN, AMZN In Focus",
           "source": "Yahoo",
@@ -159,40 +190,34 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=fc62ef3a9c05cf27cd5efe4e0d6312f287b5557752aa2fe995c44eb8e9e8f181",
           "used_by_ai": true
-        },
-        {
-          "headline": "Cash In Your IEFA Gain, Or Let It Ride?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3a795bc18856876ce20fdab85816447c7ed26e00e37d243535ee28b59672f8a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Much CRWD Are You Really Betting On?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a99af71c393409503014f61ff1a4f0f659aa3ebe3ea1f847b202e168cd7ee8f9",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Nvidia surpasses",
-      "headline": "Wall Street ends higher as Amazon soothes AI jitters",
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 45,
+      "reason": "AI chip demand",
+      "headline": "TSMC is quietly borrowing a page from Intel's playbook",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cdfba985ab69b52b6fb7b2365ed75fc4b6928e6d12af7f4f10486ee0a60ebf0",
+      "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Wall Street ends higher as Amazon soothes AI jitters",
+          "headline": "TSMC is quietly borrowing a page from Intel's playbook",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cdfba985ab69b52b6fb7b2365ed75fc4b6928e6d12af7f4f10486ee0a60ebf0",
+          "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
           "used_by_ai": true
         },
         {
@@ -202,69 +227,62 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
+          "headline": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc26378807776e3bf1748f34f49abacd66660e2e6d14d287a34083b0dc9ef347",
+          "url": "https://finnhub.io/api/news?id=1a94eb2201e3abbd3656b840f134ff2b4adcbb19f38c716c72b5b9b7f5d47385",
           "used_by_ai": true
         },
         {
-          "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 2",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b01254886ca04bb4ee2ca13216638f12f5b9bc0c9bbe991af37b4d7b45adc14c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: Wall Street Gains Amid Amazon Rally as July Ends Mostly Lower",
+          "headline": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=691dfb911085f847ab57db8b984d0f2b76070f61f31b92f2e0f69079af0b8dab",
+          "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 5
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Musk's fortune",
-      "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Shareholder meeting",
+      "headline": "Nvidia's Shareholder Meeting Is Aug. 26. Here's What Investors Should Be Looking Out For.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06",
+      "url": "https://finnhub.io/api/news?id=b563694be034ed99ff8b30ac52fa6e9899fd9eab2e1a42db04107e86f4638e5b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
+          "headline": "Nvidia's Shareholder Meeting Is Aug. 26. Here's What Investors Should Be Looking Out For.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06",
+          "url": "https://finnhub.io/api/news?id=b563694be034ed99ff8b30ac52fa6e9899fd9eab2e1a42db04107e86f4638e5b",
           "used_by_ai": true
         },
         {
-          "headline": "Market Chatter: Musk's Fortune Falls Below Pre-SpaceX IPO Levels, Bloomberg Reports",
+          "headline": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab4d5017994719e9914091208a618f435f1ea49891d926c6cb7c262772aa7a84",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=877aa37dbb0be6b0d0c441170d7027fc392bd8f181f2da9fd956fc54b83826c3",
+          "used_by_ai": false
         },
         {
-          "headline": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock",
+          "headline": "If a Recession Is Coming, Here's How I'm Preparing My Portfolio",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=788d1070d04dbf7c78c9f511bf9314021e8eb617a22625c7aa43d538d5e3fc28",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d127c061558f2fc7305bff625b7de2404f9569327b2edea7a31f5d0942ef57f8",
+          "used_by_ai": false
         },
         {
-          "headline": "TSLL: How Tesla Investors Lose Money Even When the Stock Goes Up",
+          "headline": "If You'd Invested $10,000 in Microsoft the Day Satya Nadella Became CEO, Here's What You'd Have Now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47d26d7fa83e613435aa984481996a0cc252fe7992133a1eeee1d188455a05f3",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=8154f1d59ebba1ff31bb2950efa2357fa9b88eb64252b7380e4c8193297179ac",
+          "used_by_ai": false
         },
         {
-          "headline": "Elon Musk Cools Off Tesla-SpaceX Merger Speculation as SpaceX Stock Hits Record Low",
+          "headline": "Jeff Bezos Stepped Down as Amazon CEO 5 Years Ago, and the Stock Has Lagged the S&P 500 Since. Could Amazon's 15.3% Gain on July 31 Mark a Turning Point?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f7c063e55604f3f4b815d3984d2a154248ef53643745f7719d22db080eb8846",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d6fb11d36911bfb76712c417fcfcce797bd7b15fb7a363b9ece699d0154f9da7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
