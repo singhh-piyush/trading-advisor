@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T15:37:15Z",
+  "updated_at": "2026-08-01T16:58:52Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,60 +8,61 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 10,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Dividend increase",
-      "headline": "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does",
+      "confidence": 70,
+      "reason": "Positive stock outlook",
+      "headline": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a1fe5eac656755934a7ce2620c4603ee0090d0532bee77d03fb4534abaaacc9",
+      "url": "https://finnhub.io/api/news?id=1f02055ed82d4b3733b0aedc64cf17b2562d2d820d0023fcdfdd6c90e7b65398",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does",
+          "headline": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1a1fe5eac656755934a7ce2620c4603ee0090d0532bee77d03fb4534abaaacc9",
+          "url": "https://finnhub.io/api/news?id=1f02055ed82d4b3733b0aedc64cf17b2562d2d820d0023fcdfdd6c90e7b65398",
           "used_by_ai": true
         },
         {
-          "headline": "2 High-Yield Dividend Stocks Worth Buying Before 2026 Ends",
+          "headline": "Apple\u2019s Safe Haven Illusion Faces an Impending Hangover",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=10960d60f5621c260a2e914d751721210c2a996daf2884d1186d7e83b70207e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "State Street\u2019s $5.7 Trillion Portfolio Chief Missed Bitcoin at $500. But She Saw Gold\u2019s $3,000 Run Coming Years Earlier",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5960f6d8f8765e81eebe055a840b264cf50d4132545b124ffda21fd9db40af0",
+          "url": "https://finnhub.io/api/news?id=6dcd35f668407342c4d11e2b41645787ef858f1620e7b748948a9005b529027f",
           "used_by_ai": false
         },
         {
-          "headline": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9cc761e217aa50bd9f2769138044238f7318a34e1b5c399e7c27a5d7afbbc711",
+          "headline": "Apple: Heads You Win, Tails You Don't Lose",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fec6f4c2edfc925345ab9b93fd4631be36037cb417eba661e84e319e50acc048",
           "used_by_ai": false
         },
         {
-          "headline": "Robinhood CEO Vlad Tenev Thinks AI Agents Could Transform the Crypto Market. Here's What That Means for Investors",
+          "headline": "The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bac9235725343d8f84b151ebaa81e92933c9cd2de0410a34a3d5b7efb5974bce",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=711d51ca4a7433d8fc6fb8590bd3a90d65a641dc28eaa09da35a61bf99acff2d",
+          "url": "https://finnhub.io/api/news?id=f0ded626a98986d022fd2c30afa418c102970b404a877cb2facf4bc946bb5978",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "Impending hangover",
       "headline": "Apple\u2019s Safe Haven Illusion Faces an Impending Hangover",
       "source": "Yahoo",
@@ -75,10 +76,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "AAPL Q2 Deep Dive: Supply Chain Strains and Product Demand Set Stage for Deceleration",
+          "headline": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5db32c803255df4ddef6e09d7401faf8b1636893a92f1d121747a6aef4430ffb",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=1f02055ed82d4b3733b0aedc64cf17b2562d2d820d0023fcdfdd6c90e7b65398",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple: Heads You Win, Tails You Don't Lose",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fec6f4c2edfc925345ab9b93fd4631be36037cb417eba661e84e319e50acc048",
+          "used_by_ai": false
         },
         {
           "headline": "The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers",
@@ -91,30 +98,251 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f0ded626a98986d022fd2c30afa418c102970b404a877cb2facf4bc946bb5978",
           "used_by_ai": false
-        },
-        {
-          "headline": "South Korea exports beat forecasts in July on AI chip demand",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc89abbe5b10a8b9d4ec5dbf9bf3d6a46f8100ddfa24fa4aaf5e5a945882bcec",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI narrative change",
-      "headline": "AI Isn\u2019t a Catch-All Trade for Stocks in This Earnings Season",
+      "confidence": 60,
+      "reason": "Positive news for Nvidia shareholders",
+      "headline": "Microsoft Just Announced Huge News for Nvidia Shareholders",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3710e10670679477961b842503e09f6be7df6cbf98c00514a1437a27522315a2",
+      "url": "https://finnhub.io/api/news?id=c3795c657a584ee726778e8ff9f4f735c32b141ff39f5462e812d5b9d478b63f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Microsoft Just Announced Huge News for Nvidia Shareholders",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3795c657a584ee726778e8ff9f4f735c32b141ff39f5462e812d5b9d478b63f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8b055d3b08b133e4a41c3042b6037d69b7f420e25f0261167bab71d594af142",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI Isn\u2019t a Catch-All Trade for Stocks in This Earnings Season",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3710e10670679477961b842503e09f6be7df6cbf98c00514a1437a27522315a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Google, Microsoft, And Meta Are Building In West Texas? According To Galaxy Digital Executive",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87c00177ac5a6cdd770ff2f4cc1dab1ad380b03b1ad3abf8d37bfaa1d2ed31d1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Positive outlook",
+      "headline": "Apple: Heads You Win, Tails You Don't Lose",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fec6f4c2edfc925345ab9b93fd4631be36037cb417eba661e84e319e50acc048",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple: Heads You Win, Tails You Don't Lose",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fec6f4c2edfc925345ab9b93fd4631be36037cb417eba661e84e319e50acc048",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f02055ed82d4b3733b0aedc64cf17b2562d2d820d0023fcdfdd6c90e7b65398",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple\u2019s Safe Haven Illusion Faces an Impending Hangover",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6dcd35f668407342c4d11e2b41645787ef858f1620e7b748948a9005b529027f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bac9235725343d8f84b151ebaa81e92933c9cd2de0410a34a3d5b7efb5974bce",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0ded626a98986d022fd2c30afa418c102970b404a877cb2facf4bc946bb5978",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2,
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "SpaceX comparison",
+      "headline": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50e25d36809113be2cb465fa6bfd4c6a0a8401fc0330cf64fca2a8fbb78cf312",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=50e25d36809113be2cb465fa6bfd4c6a0a8401fc0330cf64fca2a8fbb78cf312",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7a859a358600bffd03809604169f4dc9d806fc04e1076ef95f1cb05552499a1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Should You Buy Tesla While It's Below $350?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6cea77bfe093a04b5d56ce99aaf208866539b84dd26565ddbeb2aca939d75a28",
+          "used_by_ai": false
+        },
+        {
+          "headline": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d27cf4f6cf11cd56422632b9e9e0bafc90afdeeb09b0639649ab2e253ff586a4",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Rating upgrade and mentions",
+      "headline": "SpaceX's First Earnings Post IPO",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX's First Earnings Post IPO",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b593a1a8b608a1e35c900bdb49b3e36d6bf3ab0704ceba01b073e6871a159a43",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC is quietly borrowing a page from Intel's playbook",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2,
+        "Benzinga": 1,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Various mentions",
+      "headline": "Better eVTOL Stock: Joby Aviation vs. Archer Aviation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=019380db905b4d10c6a7a9f4b6513334be804c404c1e83b32d25fe328db3cd11",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Better eVTOL Stock: Joby Aviation vs. Archer Aviation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=019380db905b4d10c6a7a9f4b6513334be804c404c1e83b32d25fe328db3cd11",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SoFi Just Reported Earnings. Is the Stock a Buy Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=743f803842fb72cae3ea2cbd307f6b5f66f2d79f23b9db1dccd8cddcb08359f8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Did Lucid Stock Rally Nearly 20% This Week?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4031b24ffa0237636973389ce837e64c7ff1cee30e9aeb0c5490681095e8f46e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Shell Says Oil Prices Are Headed Higher for Years. Here's the Case for Buying Oil Stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39bd8e80fe2101cfce9a0035d0ce1050f408e528fbc6264203a2fa42036d65ee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Intel Posts a Profitable Year Before 2028. Here's How It Gets There.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80b1261720d65dc708ac73d5778ac0dbe15ba61ab8981c1f2c00af201b16f9d4",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mentions of AI and competition",
+      "headline": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8b055d3b08b133e4a41c3042b6037d69b7f420e25f0261167bab71d594af142",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8b055d3b08b133e4a41c3042b6037d69b7f420e25f0261167bab71d594af142",
+          "used_by_ai": true
+        },
         {
           "headline": "AI Isn\u2019t a Catch-All Trade for Stocks in This Earnings Season",
           "source": "Yahoo",
@@ -128,21 +356,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Just Changed The AI Narrative",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d92fbd25d5f934be3443fd2833871fd7e9da04def9cf2c9a34db84c6ecab7a82",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Tech Titan' Arora spearheads $1bn shot at NBA's London basketball team",
+          "headline": "Microsoft Just Announced Huge News for Nvidia Shareholders",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1758312c2aec0854786d2c3a83bc275657bad55ea2c873b80acfe6378f1dc705",
+          "url": "https://finnhub.io/api/news?id=c3795c657a584ee726778e8ff9f4f735c32b141ff39f5462e812d5b9d478b63f",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
@@ -150,7 +371,7 @@
       "company": "Tesla",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Rival sales",
+      "reason": "Rival sales and earnings preview",
       "headline": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e7a859a358600bffd03809604169f4dc9d806fc04e1076ef95f1cb05552499a1",
@@ -175,10 +396,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
+          "headline": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80d8c3eb43c9726bc465fdf784ecb14a66a5494a85cfe50ec29c900983124687",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=50e25d36809113be2cb465fa6bfd4c6a0a8401fc0330cf64fca2a8fbb78cf312",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -186,78 +407,38 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Undervalued",
-      "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TSMC is quietly borrowing a page from Intel's playbook",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5128180d32df69128c8360cfa49c94f8a7dc860c6d818d274d73adcabf8b143a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market volatility",
-      "headline": "Two 25%+ Covered Call ETFs Where The Risk Has Quietly Changed",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=52f9687440cecdf68863b4100899f7f82fe7321158068a476d80d1bd6381b89f",
+      "reason": "Market analysis and ETF comparison",
+      "headline": "JEPI vs JEPQ: After Comparing America\u2019s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f11ef6f90924525bf34c8a98080caa2e80f4e6a46ced99eb491f65b95be93604",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "JEPI vs JEPQ: After Comparing America\u2019s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f11ef6f90924525bf34c8a98080caa2e80f4e6a46ced99eb491f65b95be93604",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 1-Minute Market Report, August 1, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b6dd91378002908537fa533ed403812486a6a2c73bb10cf7513cb1b84187c1a4",
+          "used_by_ai": true
+        },
         {
           "headline": "Two 25%+ Covered Call ETFs Where The Risk Has Quietly Changed",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=52f9687440cecdf68863b4100899f7f82fe7321158068a476d80d1bd6381b89f",
           "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Indicators: Rising Interest Rates Are Again The Main Attraction",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b86b58d50ea06aaa1947113f11eb843f79f0fc811e9e090a1194098c9d670a20",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Stocks Without The AI Price Tag",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=95870a240dad730e0cbf713e5ce940a86670d339d18642216e1903f2f168227d",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3
+        "Yahoo": 1,
+        "SeekingAlpha": 2
       }
     }
   ]
