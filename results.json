@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:56:14Z",
+  "updated_at": "2026-08-01T23:58:29Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -55,6 +55,48 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Server CPUs boost",
+      "headline": "How Server CPUs Could Give AMD Stock a Big Boost After August 4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec7e1d1723eaadc30fe8bcd52d6faeca4aefeff98b6530201e91e0018f5dd0a7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "How Server CPUs Could Give AMD Stock a Big Boost After August 4",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec7e1d1723eaadc30fe8bcd52d6faeca4aefeff98b6530201e91e0018f5dd0a7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX's First Earnings Post IPO",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 1,
+        "Benzinga": 1,
+        "SeekingAlpha": 2
       }
     },
     {
@@ -155,18 +197,12 @@
       "company": "Tesla",
       "direction": "down",
       "confidence": 20,
-      "reason": "SpaceX merger rumors",
-      "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
+      "reason": "Rival sales",
+      "headline": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7a859a358600bffd03809604169f4dc9d806fc04e1076ef95f1cb05552499a1",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
           "source": "Yahoo",
@@ -174,69 +210,33 @@
           "used_by_ai": true
         },
         {
-          "headline": "Should You Buy Tesla While It's Below $350?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6cea77bfe093a04b5d56ce99aaf208866539b84dd26565ddbeb2aca939d75a28",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d27cf4f6cf11cd56422632b9e9e0bafc90afdeeb09b0639649ab2e253ff586a4",
-          "used_by_ai": true
+          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
+          "used_by_ai": false
         },
         {
           "headline": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=50e25d36809113be2cb465fa6bfd4c6a0a8401fc0330cf64fca2a8fbb78cf312",
           "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "Server CPUs boost",
-      "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
-          "used_by_ai": true
         },
         {
-          "headline": "How Server CPUs Could Give AMD Stock a Big Boost After August 4",
+          "headline": "Should You Buy Tesla While It's Below $350?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec7e1d1723eaadc30fe8bcd52d6faeca4aefeff98b6530201e91e0018f5dd0a7",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=6cea77bfe093a04b5d56ce99aaf208866539b84dd26565ddbeb2aca939d75a28",
+          "used_by_ai": false
         },
         {
-          "headline": "SpaceX's First Earnings Post IPO",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
-          "used_by_ai": true
+          "headline": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d27cf4f6cf11cd56422632b9e9e0bafc90afdeeb09b0639649ab2e253ff586a4",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 2
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     },
     {
@@ -244,7 +244,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 10,
-      "reason": "Market trends",
+      "reason": "Market report",
       "headline": "What's Inside URA Decides This Dip's Fate",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b1d4e59e6a10f60fe73f31a98ed86ddbc074ff28fcedeb2e6ef4c359fc3f7262",
@@ -254,18 +254,6 @@
           "headline": "What's Inside URA Decides This Dip's Fate",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b1d4e59e6a10f60fe73f31a98ed86ddbc074ff28fcedeb2e6ef4c359fc3f7262",
-          "used_by_ai": true
-        },
-        {
-          "headline": "These 3 ETFs Can Turn $500,000 Into $40,000 a Year Without Touching Principal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f2609f830f31e85d36d897ca4e04106afe950f61f918f7e8d5685fbaa7c937f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "JEPI vs JEPQ: After Comparing America\u2019s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f11ef6f90924525bf34c8a98080caa2e80f4e6a46ced99eb491f65b95be93604",
           "used_by_ai": true
         },
         {
@@ -279,6 +267,18 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b6dd91378002908537fa533ed403812486a6a2c73bb10cf7513cb1b84187c1a4",
           "used_by_ai": true
+        },
+        {
+          "headline": "These 3 ETFs Can Turn $500,000 Into $40,000 a Year Without Touching Principal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f2609f830f31e85d36d897ca4e04106afe950f61f918f7e8d5685fbaa7c937f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "JEPI vs JEPQ: After Comparing America\u2019s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f11ef6f90924525bf34c8a98080caa2e80f4e6a46ced99eb491f65b95be93604",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
