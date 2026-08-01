@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T09:31:23Z",
+  "updated_at": "2026-08-01T11:15:52Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,61 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Analysts rework AI growth views",
-      "headline": "Nvidia (NVDA) Stock Gets Fair Value Bump After Analysts Rework AI Growth Views",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c75cae657fc3badd8a92725c2fbdfd3a56649d07368d79c0b650ddbd7139533d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia (NVDA) Stock Gets Fair Value Bump After Analysts Rework AI Growth Views",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c75cae657fc3badd8a92725c2fbdfd3a56649d07368d79c0b650ddbd7139533d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock Be in 3 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=03ce80c358211eb020263181afc42ad8de986cebcba622b14313dfeac1eeb12b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Trump Says the Market Is Going to \"Go Through the Roof.\" His Iran Escalation and New Tariffs Suggest Otherwise.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38ffc261b86a0897816abbc46f93260391d2ac62334045415771546dd1853fc1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Scott Strazik's GE Vernova Has a $176 Billion Backlog. So Why Did Wall Street Sell the Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b325c98f6bc14434e190992b6b8260fc6a9e5ab09b97c35c878066ef6050d4af",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4efd4619555e4688a855bfbd2046adac6070cb828447f9971a3f613daba2a7ac",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "FSD plan to generate $1.8 billion",
+      "confidence": 80,
+      "reason": "FSD plan generates $1.8B",
       "headline": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=877aa37dbb0be6b0d0c441170d7027fc392bd8f181f2da9fd956fc54b83826c3",
@@ -107,8 +61,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Supply chain strains and deceleration",
+      "confidence": 70,
+      "reason": "Supply chain strains",
       "headline": "AAPL Q2 Deep Dive: Supply Chain Strains and Product Demand Set Stage for Deceleration",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5db32c803255df4ddef6e09d7401faf8b1636893a92f1d121747a6aef4430ffb",
@@ -121,6 +75,18 @@
           "used_by_ai": true
         },
         {
+          "headline": "Why Apple Stock Dropped on Friday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40743aaa20f2d4350b530c5fdc69ef98771e27c8c5e417c26dc00b9a55fda677",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0ded626a98986d022fd2c30afa418c102970b404a877cb2facf4bc946bb5978",
+          "used_by_ai": false
+        },
+        {
           "headline": "South Korea exports beat forecasts in July on AI chip demand",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dc89abbe5b10a8b9d4ec5dbf9bf3d6a46f8100ddfa24fa4aaf5e5a945882bcec",
@@ -130,18 +96,6 @@
           "headline": "Jim Cramer Can\u2019t Help But Gloat At Apple Inc (NASDAQ:AAPL)\u2019s AI Developments",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b84795b42a7f9e71b9789d58adda42b151b481be22d13ac95d53f5c919635fae",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Apple Stock Dropped on Friday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40743aaa20f2d4350b530c5fdc69ef98771e27c8c5e417c26dc00b9a55fda677",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Jim Cramer Makes Big Prediction About T-Mobile US Inc. (NASDAQ:TMUS) Which Involves Apple",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=066dced472907398280a2489b8b869c4e3eda2fe1fb0046d95c077a962fb9a2f",
           "used_by_ai": false
         }
       ],
@@ -153,8 +107,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Cloud stock to buy now",
+      "confidence": 60,
+      "reason": "Growth prospects",
       "headline": "Amazon vs. Microsoft vs. Alphabet: Which Is the Best Cloud Stock to Buy Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=15288201ea3c67d936aace584372e5e6d15c451a6d0ceeb1cd5cd01f185f7446",
@@ -167,87 +121,41 @@
           "used_by_ai": true
         },
         {
-          "headline": "WEC Energy Group Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9206f5099887084367ab7cfa528c0651bf3cbf33b8157a550e8cef1da46480be",
-          "used_by_ai": false
+          "headline": "Microsoft: Wall Street Was Too Focused On CapEx, Not Enough On Growth",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f010bdb855e4a8f1bc35959fea5626b34f62096b0b981940b24bc941887c79fb",
+          "used_by_ai": true
         },
         {
           "headline": "If You'd Invested $10,000 in Microsoft the Day Satya Nadella Became CEO, Here's What You'd Have Now.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8154f1d59ebba1ff31bb2950efa2357fa9b88eb64252b7380e4c8193297179ac",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Tech Titan' Arora spearheads $1bn shot at NBA's London basketball team",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1758312c2aec0854786d2c3a83bc275657bad55ea2c873b80acfe6378f1dc705",
           "used_by_ai": false
         },
         {
-          "headline": "1 Chart Shows Why You Should Not Buy an IPO Stock on its IPO Date",
+          "headline": "WEC Energy Group Q2 Earnings Call Highlights",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b506ab3ce660790bc100f72b92f9b27874b20512fc52bbc31cf49eb22ed1715c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Southern Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a637d51d0588632b8c0eedd35a6a2282fb32c67998c439a25f27f92fa4bcb977",
+          "url": "https://finnhub.io/api/news?id=9206f5099887084367ab7cfa528c0651bf3cbf33b8157a550e8cef1da46480be",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market credibility question",
-      "headline": "The Federal Reserve: A Question Of Credibility",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e763fbc47bd1b22bdb94bf424845e59a0f44f13357133f241c502bc62e34bd51",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Federal Reserve: A Question Of Credibility",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e763fbc47bd1b22bdb94bf424845e59a0f44f13357133f241c502bc62e34bd51",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Bond Vigilantes Come For Kevin",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=430b3c2b71a1961c21d47a83f5dd7cebb514bf1ebb71d0df09cfe8f18ab8b3eb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A Swing And A Miss",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a75210d9a6e05454ee6621d1811a13638645333eeba059179f90b363cdbb5f19",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 12% Yield Trap: How SPYI Returns Your Own Capital as \u2018Income\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51e9286f0efc5726b01a1413b95e00fec0ad7f52d3ced37fc727a86c01e4aab7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Worst Month In Over A Year \u2014 PSKY, BABA, RDDT, RIVN, AMZN In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ff0a2677bdd341d72a63925b1f58372c64ec153fadcdc8794bd723a30164ff6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "AI chip demand",
+      "confidence": 50,
+      "reason": "AI demand",
       "headline": "TSMC is quietly borrowing a page from Intel's playbook",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
@@ -286,6 +194,53 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market rebound",
+      "headline": "The Federal Reserve: A Question Of Credibility",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e763fbc47bd1b22bdb94bf424845e59a0f44f13357133f241c502bc62e34bd51",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Federal Reserve: A Question Of Credibility",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e763fbc47bd1b22bdb94bf424845e59a0f44f13357133f241c502bc62e34bd51",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Bond Vigilantes Come For Kevin",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=430b3c2b71a1961c21d47a83f5dd7cebb514bf1ebb71d0df09cfe8f18ab8b3eb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Swing And A Miss",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a75210d9a6e05454ee6621d1811a13638645333eeba059179f90b363cdbb5f19",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Worst Month In Over A Year \u2014 PSKY, BABA, RDDT, RIVN, AMZN In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8ff0a2677bdd341d72a63925b1f58372c64ec153fadcdc8794bd723a30164ff6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 12% Yield Trap: How SPYI Returns Your Own Capital as \u2018Income\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51e9286f0efc5726b01a1413b95e00fec0ad7f52d3ced37fc727a86c01e4aab7",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
