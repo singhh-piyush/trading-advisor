@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T10:58:31Z",
+  "updated_at": "2026-08-02T12:10:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 9,
   "sample": false,
   "items": [
     {
@@ -58,22 +58,63 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Vehicle delivery jump",
+      "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cathie Wood Doubles Down on Tesla and SpaceX as Wall Street Turns Cautious",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c432e4bde4e2f5481a005a959807a3e37431c31fbb4310e3ac8367e28a40777",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
       "confidence": 70,
-      "reason": "Cloud computing growth",
-      "headline": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
+      "reason": "AI stock ownership",
+      "headline": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d00fe5a68b934fa0ca2693cb4ba28fbd81133f018de70792ae2b45eaf497de2a",
+      "url": "https://finnhub.io/api/news?id=dc0ca69ad5784ceff25dcb273afe8516eb3d77c4a333253734d1a4971af46132",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d00fe5a68b934fa0ca2693cb4ba28fbd81133f018de70792ae2b45eaf497de2a",
-          "used_by_ai": true
-        },
         {
           "headline": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
           "source": "Yahoo",
@@ -81,16 +122,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d00fe5a68b934fa0ca2693cb4ba28fbd81133f018de70792ae2b45eaf497de2a",
+          "used_by_ai": false
+        },
+        {
           "headline": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=2dfc731a253f0f6510b921f41bf7635382fb7e17c71d064458b6927692f26023",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
@@ -105,74 +152,33 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Vehicle delivery growth",
-      "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cathie Wood Doubles Down on Tesla and SpaceX as Wall Street Turns Cautious",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c432e4bde4e2f5481a005a959807a3e37431c31fbb4310e3ac8367e28a40777",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
       "confidence": 60,
-      "reason": "iPhone boom becoming trap",
-      "headline": "Apple\u2019s record iPhone boom just became a Wall Street trap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9983043beec982f2d1c556503310ec4749dc8457dbf07eafa9fa51fd7393711c",
+      "reason": "Unjustified AI premium",
+      "headline": "Apple: Unjustified AI Premium",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eaa4fbedb892e048e0561cde76b12f3ff4658c924c22d60d364c940a6c0572b3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple: Unjustified AI Premium",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eaa4fbedb892e048e0561cde76b12f3ff4658c924c22d60d364c940a6c0572b3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a68ace9ad93b0cb18feb511db1575e8ba78e3952e1c3527c3d4502c89afcbac5",
+          "used_by_ai": false
+        },
         {
           "headline": "Apple\u2019s record iPhone boom just became a Wall Street trap",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9983043beec982f2d1c556503310ec4749dc8457dbf07eafa9fa51fd7393711c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple CEO sends strong warning on AI and price of Apple products",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f01b2e5fd3bfb6cb34b861441e283c05f93bfdd81fa6a9197720a911292f34eb",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "US Schools Are Ditching Chromebooks for MacBooks by the Thousands\u2014 Apple Just Named Names",
@@ -181,20 +187,15 @@
           "used_by_ai": false
         },
         {
-          "headline": "Apple's Services Slowdown Has a Weird Culprit: No F1 Movie This Year",
+          "headline": "Apple CEO sends strong warning on AI and price of Apple products",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=313052590fb04c5fab270d3a2f7cfdaaf5c2405e48e8d82b6c24f6d3e06d1e98",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Should you still buy your next smartphone \u2014 or subscribe to it instead?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a147d848a91d8918d429e4e1bc74197562231611646c456c46e589685b11fb2d",
+          "url": "https://finnhub.io/api/news?id=f01b2e5fd3bfb6cb34b861441e283c05f93bfdd81fa6a9197720a911292f34eb",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "SeekingAlpha": 1,
+        "Yahoo": 4
       }
     },
     {
@@ -202,24 +203,12 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Server CPU demand",
-      "headline": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "reason": "Server CPUs boost",
+      "headline": "How Server CPUs Could Give AMD Stock a Big Boost After August 4",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef70e07437fc55e34162edf0b7750dff563ec23b7f0259e98ca3b25df6cfb679",
+      "url": "https://finnhub.io/api/news?id=ec7e1d1723eaadc30fe8bcd52d6faeca4aefeff98b6530201e91e0018f5dd0a7",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef70e07437fc55e34162edf0b7750dff563ec23b7f0259e98ca3b25df6cfb679",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a",
-          "used_by_ai": true
-        },
         {
           "headline": "How Server CPUs Could Give AMD Stock a Big Boost After August 4",
           "source": "Yahoo",
@@ -227,30 +216,42 @@
           "used_by_ai": true
         },
         {
-          "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6a9e8400d7341f9a25b45a9c8952c859d2f92fe0d0bc5c12a951ccc2c8e93cbf",
           "used_by_ai": false
         },
         {
-          "headline": "SpaceX's First Earnings Post IPO",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
+          "headline": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef70e07437fc55e34162edf0b7750dff563ec23b7f0259e98ca3b25df6cfb679",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 2,
-        "Benzinga": 2,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 1,
+        "Benzinga": 2
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market trends",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Strong domestic demand",
       "headline": "Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 GDP - Debt-To-GDP Ratio Dips To 121.5%",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=bc101f4070cf350fad16586994730c1e66f3c58877e5c9d06111b1e94e1c634b",
@@ -266,24 +267,165 @@
           "headline": "Top 25 Dividend Stock Opportunities For August 2026",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=10fbbd025a4ab5b6fd0ebf8ee0897edabd47638c367ae16c5cc16405890de91b",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "What's Inside URA Decides This Dip's Fate",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b1d4e59e6a10f60fe73f31a98ed86ddbc074ff28fcedeb2e6ef4c359fc3f7262",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "These 3 ETFs Can Turn $500,000 Into $40,000 a Year Without Touching Principal",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0f2609f830f31e85d36d897ca4e04106afe950f61f918f7e8d5685fbaa7c937f",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 2,
         "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Cathie Wood investment",
+      "headline": "Cathie Wood Doubles Down on Tesla and SpaceX as Wall Street Turns Cautious",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c432e4bde4e2f5481a005a959807a3e37431c31fbb4310e3ac8367e28a40777",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cathie Wood Doubles Down on Tesla and SpaceX as Wall Street Turns Cautious",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c432e4bde4e2f5481a005a959807a3e37431c31fbb4310e3ac8367e28a40777",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Stock rally",
+      "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d00fe5a68b934fa0ca2693cb4ba28fbd81133f018de70792ae2b45eaf497de2a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc0ca69ad5784ceff25dcb273afe8516eb3d77c4a333253734d1a4971af46132",
+          "used_by_ai": false
+        },
+        {
+          "headline": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2dfc731a253f0f6510b921f41bf7635382fb7e17c71d064458b6927692f26023",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "MacBooks demand",
+      "headline": "US Schools Are Ditching Chromebooks for MacBooks by the Thousands\u2014 Apple Just Named Names",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ffa2c397b72597364cc963c73a6ba122f5e0c1ec01d6c949d87b80d88c9284c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "US Schools Are Ditching Chromebooks for MacBooks by the Thousands\u2014 Apple Just Named Names",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ffa2c397b72597364cc963c73a6ba122f5e0c1ec01d6c949d87b80d88c9284c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a68ace9ad93b0cb18feb511db1575e8ba78e3952e1c3527c3d4502c89afcbac5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple: Unjustified AI Premium",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eaa4fbedb892e048e0561cde76b12f3ff4658c924c22d60d364c940a6c0572b3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple\u2019s record iPhone boom just became a Wall Street trap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9983043beec982f2d1c556503310ec4749dc8457dbf07eafa9fa51fd7393711c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple CEO sends strong warning on AI and price of Apple products",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f01b2e5fd3bfb6cb34b861441e283c05f93bfdd81fa6a9197720a911292f34eb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     }
   ]
