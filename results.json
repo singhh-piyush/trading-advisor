@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:04:45Z",
+  "updated_at": "2026-08-02T19:43:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,62 +12,22 @@
   "sample": false,
   "items": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Vehicle delivery jump",
-      "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla and BYD Ride Global EV Boom \u2014 Five Countries See Growth More Than Double as Gas Prices Spike",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7561816aae6ca987ed146f1b477833c00a9225a54d11b1b2e9a2d4801b66937b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Banks Offload Risk from Leveraged ETFs With Exotic \u2018Crash Puts\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=593212784647f86939eb2316e4f0aad193dabc87a6722b3c6bc5c6f6d1e0317b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "iPhone sales surge",
-      "headline": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
+      "confidence": 80,
+      "reason": "Bank of America doubles down",
+      "headline": "Bank of America doubles down on Apple stock for rest of 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92b603bde86ab1af6452ce67033d28545ec4121d5442d39aefcdba46d59cdc7b",
+      "url": "https://finnhub.io/api/news?id=0df70d94611fc003b92f080a366fc18dbbbea158ef866886e50549a42bbaf42a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Bank of America doubles down on Apple stock for rest of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0df70d94611fc003b92f080a366fc18dbbbea158ef866886e50549a42bbaf42a",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
           "source": "Yahoo",
@@ -81,40 +41,46 @@
           "used_by_ai": true
         },
         {
+          "headline": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a68ace9ad93b0cb18feb511db1575e8ba78e3952e1c3527c3d4502c89afcbac5",
+          "used_by_ai": true
+        },
+        {
           "headline": "Apple's Selloff Looks More Like An Opportunity Than A Warning",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=6d6eda3ae2a624cfce7ec60dcd8090a2d8ede2e6b263fe5886dbadfb3906e4fa",
           "used_by_ai": true
-        },
-        {
-          "headline": "Apple: Unjustified AI Premium",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=eaa4fbedb892e048e0561cde76b12f3ff4658c924c22d60d364c940a6c0572b3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a68ace9ad93b0cb18feb511db1575e8ba78e3952e1c3527c3d4502c89afcbac5",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Better buy than Meta",
-      "headline": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
+      "confidence": 70,
+      "reason": "Cloud revenue soars",
+      "headline": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da7090d455e47b100e2fce8eb087df4515660312fc7625283bceca6d8b7200e2",
+      "url": "https://finnhub.io/api/news?id=26cac8335784a88851bc3c21a9c6b888e2b2dd9f5af3358f485ff0074d855705",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=26cac8335784a88851bc3c21a9c6b888e2b2dd9f5af3358f485ff0074d855705",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' \u2014 What That Means For OpenAI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=163d09d839a1da5e5aa47da812c7f168d612063870a6bb2bb988bed947b88139",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
           "source": "Yahoo",
@@ -126,31 +92,64 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b50118e14776d48a93065d721ba7b54d55421a5dfaaff25a42238b9b84b1c714",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "EV boom and delivery jump",
+      "headline": "Tesla and BYD Ride Global EV Boom \u2014 Five Countries See Growth More Than Double as Gas Prices Spike",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7561816aae6ca987ed146f1b477833c00a9225a54d11b1b2e9a2d4801b66937b",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
+          "headline": "Tesla and BYD Ride Global EV Boom \u2014 Five Countries See Growth More Than Double as Gas Prices Spike",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c610e329289aad1a5d8051660ec3f9d7cfb358fd2ac7304e16c3a3fc7bd39764",
+          "url": "https://finnhub.io/api/news?id=7561816aae6ca987ed146f1b477833c00a9225a54d11b1b2e9a2d4801b66937b",
           "used_by_ai": true
         },
         {
-          "headline": "Top 25 High-Growth Dividend Stocks For August 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=029774edf61c80fb92e2cc87f454bb45e5fbaeb0b947089442175e57684b2ede",
+          "headline": "Banks Offload Risk from Leveraged ETFs With Exotic \u2018Crash Puts\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=593212784647f86939eb2316e4f0aad193dabc87a6722b3c6bc5c6f6d1e0317b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
-      "company": "AMD",
+      "company": "Advanced Micro Devices",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings loom",
+      "confidence": 60,
+      "reason": "Overlooked stock",
       "headline": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9598b716b4a3ca680e2f0775898cfa28c372ceee758a15137f93f30eae0f996a",
@@ -160,6 +159,12 @@
           "headline": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9598b716b4a3ca680e2f0775898cfa28c372ceee758a15137f93f30eae0f996a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c610e329289aad1a5d8051660ec3f9d7cfb358fd2ac7304e16c3a3fc7bd39764",
           "used_by_ai": true
         },
         {
@@ -182,7 +187,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
+        "Yahoo": 3,
         "SeekingAlpha": 1,
         "Benzinga": 1
       }
@@ -190,14 +195,20 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Fed meeting impact",
-      "headline": "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Market trends",
+      "headline": "SPYM: S&P 500 Monthly Dashboard For August",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=aaaa8fda0ec994fa41f9cd8357e08a5489274e42993c4ed44deaf7364cf2dce2",
+      "url": "https://finnhub.io/api/news?id=b04f9a6c8829b02c6eb773f303ffdf8e259ac9196b46eea886a694a40be45e2c",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SPYM: S&P 500 Monthly Dashboard For August",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b04f9a6c8829b02c6eb773f303ffdf8e259ac9196b46eea886a694a40be45e2c",
+          "used_by_ai": true
+        },
         {
           "headline": "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price",
           "source": "SeekingAlpha",
@@ -221,12 +232,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e71f40c77550adc1e32a3460a0a46b2dc117beba026277fb994d04c829c01bb7",
           "used_by_ai": true
-        },
-        {
-          "headline": "SPYM: S&P 500 Monthly Dashboard For August",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b04f9a6c8829b02c6eb773f303ffdf8e259ac9196b46eea886a694a40be45e2c",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
