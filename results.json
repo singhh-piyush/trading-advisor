@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:32:26Z",
+  "updated_at": "2026-08-02T09:08:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,22 +16,62 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI momentum",
-      "headline": "An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven Ad Momentum and an Attractive Valuation",
+      "reason": "Prediction of stock skyrocket",
+      "headline": "Prediction: Nvidia Stock Will Skyrocket on Aug. 26",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=abf12b75d97042c0b0ba374b4abd1c45eca8850d6811d8fda120b1d881088ace",
+      "url": "https://finnhub.io/api/news?id=8d17d229eaa53563ccd71e44a686aec48d1ddb4330896141a4ab0892d8aedc05",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Prediction: Nvidia Stock Will Skyrocket on Aug. 26",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d17d229eaa53563ccd71e44a686aec48d1ddb4330896141a4ab0892d8aedc05",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meta Trades at a Forward P/E of 17, Below Its 5-Year Average, Making the Stock a Potential Bargain as Zuckerberg's Net Worth Rebounds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c18564f7c3ded9cf94c76e96b7779b47381f7115ca9834e947131c3d64ea01ef",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Don't Buy Strategy Stock When You Can Just Buy Bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9d7d1ec829ef04ca3b8f7630452f987b95a7bb46dead11b07a7513590e78982e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "If the $1.3 Trillion Chip Stock Sell-Off Was a Warning for the S&P 500, History Repeatedly Suggests 1 Move to Avoid",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ddcb5b20ca5f640e9bfe48dbf96778740273160d91f8696483632b92a506cf7",
+          "used_by_ai": false
+        },
         {
           "headline": "An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven Ad Momentum and an Attractive Valuation",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=abf12b75d97042c0b0ba374b4abd1c45eca8850d6811d8fda120b1d881088ace",
-          "used_by_ai": true
-        },
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Buy recommendation",
+      "headline": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d00fe5a68b934fa0ca2693cb4ba28fbd81133f018de70792ae2b45eaf497de2a",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Cathie Wood Is Buying SpaceX Stock as it Sinks 50% Below Its Post-IPO High. Should You Follow Her?",
+          "headline": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e097e529e687ebf21cb92ef9aafd60558370be3115440273a0bbaac501483bd2",
+          "url": "https://finnhub.io/api/news?id=d00fe5a68b934fa0ca2693cb4ba28fbd81133f018de70792ae2b45eaf497de2a",
           "used_by_ai": true
         },
         {
@@ -41,27 +81,41 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia (NVDA) Teams Up With Kawasaki To Build AI Powered Shipyard Robots",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db865bf5434aed57d0118c667884ebe646b12edff53ee98345ea039059cfcf92",
+          "headline": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2dfc731a253f0f6510b921f41bf7635382fb7e17c71d064458b6927692f26023",
           "used_by_ai": true
         },
         {
-          "headline": "Is Ferrari a Buy After Its Latest Earnings Report?",
+          "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb5495a40db714b0e1d85c8167034bff29eefeb67c4a7e05f41297dd47b6ef5c",
+          "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft shares are surging. Here\u2019s how to still make money, says Mike Khouw",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "SeekingAlpha": 1,
+        "CNBC": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Delivery jump",
       "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
       "source": "Yahoo",
@@ -108,8 +162,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "iPhone boom trap",
+      "confidence": 50,
+      "reason": "Record iPhone boom trap",
       "headline": "Apple\u2019s record iPhone boom just became a Wall Street trap",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9983043beec982f2d1c556503310ec4749dc8457dbf07eafa9fa51fd7393711c",
@@ -125,25 +179,25 @@
           "headline": "US Schools Are Ditching Chromebooks for MacBooks by the Thousands\u2014 Apple Just Named Names",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7ffa2c397b72597364cc963c73a6ba122f5e0c1ec01d6c949d87b80d88c9284c",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Apple CEO sends strong warning on AI and price of Apple products",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f01b2e5fd3bfb6cb34b861441e283c05f93bfdd81fa6a9197720a911292f34eb",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Apple's Services Slowdown Has a Weird Culprit: No F1 Movie This Year",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=313052590fb04c5fab270d3a2f7cfdaaf5c2405e48e8d82b6c24f6d3e06d1e98",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Should you still buy your next smartphone \u2014 or subscribe to it instead?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a147d848a91d8918d429e4e1bc74197562231611646c456c46e589685b11fb2d",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -154,8 +208,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Server CPUs",
+      "confidence": 50,
+      "reason": "Server CPUs boost",
       "headline": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ef70e07437fc55e34162edf0b7750dff563ec23b7f0259e98ca3b25df6cfb679",
@@ -174,22 +228,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
-          "used_by_ai": true
-        },
-        {
           "headline": "How Server CPUs Could Give AMD Stock a Big Boost After August 4",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ec7e1d1723eaadc30fe8bcd52d6faeca4aefeff98b6530201e91e0018f5dd0a7",
           "used_by_ai": true
         },
         {
+          "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
+          "used_by_ai": false
+        },
+        {
           "headline": "SpaceX's First Earnings Post IPO",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -199,52 +253,11 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "DRAM Jumps After Situational Awareness Rescue as Analysts Caution Memory Stocks May Fall Further",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=919e663684006e829c6d8dead5f83ef238d7057acf9d1ceff91822c1b3e58b13",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft\u2019s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a0aca990633549a2c6a3aad8dc381731914440650690cc26cfef7d96295eaf9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market outlook",
+      "confidence": 30,
+      "reason": "Market trends",
       "headline": "Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 GDP - Debt-To-GDP Ratio Dips To 121.5%",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=bc101f4070cf350fad16586994730c1e66f3c58877e5c9d06111b1e94e1c634b",
@@ -273,17 +286,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0f2609f830f31e85d36d897ca4e04106afe950f61f918f7e8d5685fbaa7c937f",
           "used_by_ai": true
-        },
-        {
-          "headline": "JEPI vs JEPQ: After Comparing America\u2019s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f11ef6f90924525bf34c8a98080caa2e80f4e6a46ced99eb491f65b95be93604",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 2,
-        "Yahoo": 3
+        "Yahoo": 2
       }
     }
   ]
