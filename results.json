@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T03:41:03Z",
+  "updated_at": "2026-08-02T06:32:26Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,68 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI momentum",
+      "headline": "An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven Ad Momentum and an Attractive Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=abf12b75d97042c0b0ba374b4abd1c45eca8850d6811d8fda120b1d881088ace",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven Ad Momentum and an Attractive Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=abf12b75d97042c0b0ba374b4abd1c45eca8850d6811d8fda120b1d881088ace",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cathie Wood Is Buying SpaceX Stock as it Sinks 50% Below Its Post-IPO High. Should You Follow Her?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e097e529e687ebf21cb92ef9aafd60558370be3115440273a0bbaac501483bd2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc0ca69ad5784ceff25dcb273afe8516eb3d77c4a333253734d1a4971af46132",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia (NVDA) Teams Up With Kawasaki To Build AI Powered Shipyard Robots",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db865bf5434aed57d0118c667884ebe646b12edff53ee98345ea039059cfcf92",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Ferrari a Buy After Its Latest Earnings Report?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb5495a40db714b0e1d85c8167034bff29eefeb67c4a7e05f41297dd47b6ef5c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Vehicle delivery jump",
-      "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
+      "confidence": 70,
+      "reason": "Delivery jump",
+      "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4798a23d20cc5753600b2982262b5a45c0b23616f5dfc1ec19cf8dd4b57d7fcd",
+      "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
+          "used_by_ai": true
+        },
         {
           "headline": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
           "source": "Yahoo",
@@ -41,61 +93,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50e25d36809113be2cb465fa6bfd4c6a0a8401fc0330cf64fca2a8fbb78cf312",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI trends and investments",
-      "headline": "Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intelligence Companies?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96e365fac0c2d3275358c1ea770c61031180856ccf2e1b77ac43bdf2acd942c0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intelligence Companies?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=96e365fac0c2d3275358c1ea770c61031180856ccf2e1b77ac43bdf2acd942c0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Mark Zuckerberg Is Betting Up to $145 Billion on AI Infrastructure in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=22008de9537f1cd4568ae27764034f11f5206d5f4a76b59ff61fa535ace2796e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
-          "used_by_ai": true
-        },
-        {
           "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Berkshire Hathaway's Record $397 Billion Cash Pile Gives Greg Abel Room for Buybacks or a Big Acquisition",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2accf348332e7bcc8cbc7f246973defad80d8ef2f950b4f81af4e5b56f3ef1c",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     },
     {
@@ -103,7 +109,7 @@
       "company": "Apple",
       "direction": "down",
       "confidence": 60,
-      "reason": "iPhone boom concerns",
+      "reason": "iPhone boom trap",
       "headline": "Apple\u2019s record iPhone boom just became a Wall Street trap",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9983043beec982f2d1c556503310ec4749dc8457dbf07eafa9fa51fd7393711c",
@@ -145,57 +151,22 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth driver",
-      "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft\u2019s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a0aca990633549a2c6a3aad8dc381731914440650690cc26cfef7d96295eaf9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500 Earnings Growth Hits 47.4%, Best Since 2021",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=eb7f7f593dd689dfe9d0cd4da99e2de0c1a3e87d21d8aa8182c0a583ad7ad46c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "DRAM Jumps After Situational Awareness Rescue as Analysts Caution Memory Stocks May Fall Further",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=919e663684006e829c6d8dead5f83ef238d7057acf9d1ceff91822c1b3e58b13",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "Benzinga": 2
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Server CPUs boost",
-      "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a",
+      "confidence": 60,
+      "reason": "Server CPUs",
+      "headline": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef70e07437fc55e34162edf0b7750dff563ec23b7f0259e98ca3b25df6cfb679",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef70e07437fc55e34162edf0b7750dff563ec23b7f0259e98ca3b25df6cfb679",
+          "used_by_ai": true
+        },
         {
           "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
           "source": "Benzinga",
@@ -219,31 +190,72 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "Benzinga": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI growth",
+      "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=febc81505ff0d60e0ab5213cb0aad877fbbbf60acc6886261f78c354ea57c365",
+          "used_by_ai": true
         },
         {
-          "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
+          "headline": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbd60c8da819c9ef6cb4b8014bc27d1b276a7b57cbdd286b3f7173e41e1394e6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "DRAM Jumps After Situational Awareness Rescue as Analysts Caution Memory Stocks May Fall Further",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=919e663684006e829c6d8dead5f83ef238d7057acf9d1ceff91822c1b3e58b13",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft\u2019s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a0aca990633549a2c6a3aad8dc381731914440650690cc26cfef7d96295eaf9",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Benzinga": 2,
-        "Yahoo": 1,
-        "SeekingAlpha": 2
+        "Yahoo": 3,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market trends",
-      "headline": "Top 25 Dividend Stock Opportunities For August 2026",
+      "confidence": 40,
+      "reason": "Market outlook",
+      "headline": "Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 GDP - Debt-To-GDP Ratio Dips To 121.5%",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=10fbbd025a4ab5b6fd0ebf8ee0897edabd47638c367ae16c5cc16405890de91b",
+      "url": "https://finnhub.io/api/news?id=bc101f4070cf350fad16586994730c1e66f3c58877e5c9d06111b1e94e1c634b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 GDP - Debt-To-GDP Ratio Dips To 121.5%",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bc101f4070cf350fad16586994730c1e66f3c58877e5c9d06111b1e94e1c634b",
+          "used_by_ai": true
+        },
         {
           "headline": "Top 25 Dividend Stock Opportunities For August 2026",
           "source": "SeekingAlpha",
@@ -267,17 +279,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f11ef6f90924525bf34c8a98080caa2e80f4e6a46ced99eb491f65b95be93604",
           "used_by_ai": true
-        },
-        {
-          "headline": "Apple\u2019s Safe Haven Illusion Faces an Impending Hangover",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6dcd35f668407342c4d11e2b41645787ef858f1620e7b748948a9005b529027f",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
+        "SeekingAlpha": 2,
+        "Yahoo": 3
       }
     }
   ]
