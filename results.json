@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T20:26:15Z",
+  "updated_at": "2026-08-03T21:40:59Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,17 +15,23 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Iran talks optimism",
-      "headline": "Wall Street rallies to kick off August on Iran talks optimism - Reuters",
+      "confidence": 60,
+      "reason": "Market rallies",
+      "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Wall Street rallies to kick off August on Iran talks optimism - Reuters",
+          "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Quiet August? Not For Investors",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1fcde032bc216db9ce118348aef0e9a260030597c79587638709d80aa34e4e95",
           "used_by_ai": true
         },
         {
@@ -47,30 +53,24 @@
           "used_by_ai": true
         },
         {
-          "headline": "President Trump Says Wants To Give Iran Every Last Chance Before Decapitation; Hopefully Iran Will Come To Their Senses",
+          "headline": "25 U.S. States File Lawsuit Challenging Trump's Latest Tariffs; New York Attorney General Says Trump's New Tariffs Are Impermissibly Broad, Bypass Country-Specific Investigations Required By Law; Trump's Latest Tariffs Merely Replace Duties That Were Shot Down By U.S. Supreme Court",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b4bd4a97178fbe80ecb00921608c6790863154f4c700ba19fbe58d851d88c8b7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'No new negotiations planned despite Trump comments, U.S. officials tell CBS News' - CBS News",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b5be274de689bc431ec120ff454d9c1a4dffb68e73b40bef3ec75a97c28b27e8",
+          "url": "https://finnhub.io/api/news?id=ba2bd50f91e00991ea7549530c8490a24f47ced5300b5ad6545b4678ff0f3344",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Reuters": 1,
-        "SeekingAlpha": 3,
-        "Benzinga": 2
+        "SeekingAlpha": 4,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "European Commission acquisition",
+      "confidence": 50,
+      "reason": "Stock dips",
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d7000975030194dacb6dbca0963193b3e61fb15dfcd3a7bb0f1be8d824315ad1",
@@ -95,16 +95,16 @@
           "used_by_ai": true
         },
         {
+          "headline": "The \u2018Nvidia Tax\u2019: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5d0b551fd47c275cf9db9925b2e4c3b4402c1280c8129f719f7968dc5c1e13f",
+          "used_by_ai": true
+        },
+        {
           "headline": "Stock Market Today: Dow Jumps 600 Points On Trump Strikes Reversal; Oil Prices Plunge (Live Coverage)",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ad9d450feda6978d6c374b0689e9bc8e63f8464d5cc0bfbb4f8587674ef3c471",
           "used_by_ai": true
-        },
-        {
-          "headline": "The \u2018Nvidia Tax\u2019: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5d0b551fd47c275cf9db9925b2e4c3b4402c1280c8129f719f7968dc5c1e13f",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -117,7 +117,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 50,
-      "reason": "Chip demand surge",
+      "reason": "Positive developments",
       "headline": "Monday's session: most active stocks",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=4aa057b760003fee339e3dfef3ea846f2d999a0d928cdb7e5294a98e8ad1df49",
@@ -158,7 +158,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Bullish view on SpaceX",
+      "reason": "Bullish view",
       "headline": "Veteran Analyst Flags Tesla Stock's Next Critical Test",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5a0d19e224ca14bfd0d3678a0ac7b7827db7ed4cb1118f0679332f67e59801d4",
