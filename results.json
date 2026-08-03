@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T11:28:00Z",
+  "updated_at": "2026-08-03T14:00:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,267 +8,142 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Bullish article",
-      "headline": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00b27534a35ef1e75f7fcbc04e38f47647828fcab162abde9a64246e5a9f119d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00b27534a35ef1e75f7fcbc04e38f47647828fcab162abde9a64246e5a9f119d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3a627a52f4c2406fa25b3ffb193aee0ee2f089467b46ee72a026ce98eccf890",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0dd7659df568a45fd31c256ea4026875f113877b8bb9a437bcff667274e8ee1b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7780293073e49446e34b4bc7b12e32047a16405fc24f8e643ffa8871b85ecc1c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire Ken Griffin Just Invested $400 Million Into Crypto.com Via Citadel Securities. Here's Why That Could Be Bullish For Crypto.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=912128f818ef721826a9f85e9c2c3736e467686e0a9588250f336c75f2cef053",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Tax breaks extension",
-      "headline": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff4a0db67dcd03bf6eba273c6e81791ebdc12266651d180564a7f692477ee8ac",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff4a0db67dcd03bf6eba273c6e81791ebdc12266651d180564a7f692477ee8ac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eeac366f8282cc9cd5e16e291bd1220b7fcac9ab40d55b7c9a122d6b4cadf180",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Morgan Stanley sends cautious Apple stock message after earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9ed2111be961165e41dc5bcea60108dd2f9616ebf2c1099096cda6edabb8652",
-          "used_by_ai": true
-        },
-        {
-          "headline": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe1c53021455344ed5544f0ac4167d2d1dcca631900f199a0c2b0db08a9ba5be",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tim Cook's Farewell Note Sours While Amazon Steals The Show And Oil Snaps On Fresh Iran Talks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0361a8c467ed83cb6eb84d27af0974f6df4c8d5fe56edd9b1ad0d79e1aa361a6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Earnings focus",
-      "headline": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b11d17b74a6242fbb4adb29300c127e2e3e60777041df10bff742b9ef5cdb313",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b11d17b74a6242fbb4adb29300c127e2e3e60777041df10bff742b9ef5cdb313",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Big Takeaways From Microsoft's Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b65223afa704d5d66fb9d5d98945cfc20ebea13bf44f70fbee572d3c308b815",
-          "used_by_ai": true
-        },
-        {
-          "headline": "WDAY, ADBE, INTU, ADSK, CRM: Software Stocks Stage Sharp Rebound In July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f28d89b7673e8f0f05d3a29518d92ea7ffeeded5c9a9f5ba7c5dd82bd044798",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bull of the Day: Ciena (CIEN)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=43ec8169cf80f807201912933575bf4aab755d3b71e2e0a7c422f23d5d7c05e2",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings discussion",
-      "headline": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ceab390cb083b5ec5fb6da217da3dcbc7f06a3ea1f54716ce7b0df4360d67ef0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ceab390cb083b5ec5fb6da217da3dcbc7f06a3ea1f54716ce7b0df4360d67ef0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aced7d059f9f606da8797d4f25c04b9383b0679060c023e370af25c976b413b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SPCX Heads Into First Earnings: Musk Hints At Tesla-Sized Revenue, Jefferies Downplays Governance Risks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9f15ca7fdae7cdf0688a4a942aa95c2316278e4b653003291f243055e778428b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc2e599be203e0e170eaa625d01db6874106ffe53f2362f03d0f2a73c0d1cd10",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings anticipation",
-      "headline": "Five things to watch in markets in the week ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e5c8d239694e308f63c9b95eacd9968ba65625576b263f47f268594dfa47c54",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Five things to watch in markets in the week ahead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e5c8d239694e308f63c9b95eacd9968ba65625576b263f47f268594dfa47c54",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Reports Tuesday. One Number Decides Whether 54 Times Forward Earnings Was Ever Defensible.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ce6de7e1a297ed095942ccaaa6537a2236ba8ac651f37ef1b4ebc85a1e09533",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1a3ad1e743c11a4ac2182091fac5ec1c1e9b5874bedbcd4d0462491dc21084da",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Market predictions",
-      "headline": "CIO Weekly: The Rising Threat Of Real Yields",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dbbee43a51b3df3b3b700f8cf21e06ef65d32c8af1b0e462c43e3d4125de2e8a",
+      "confidence": 60,
+      "reason": "Trump calls off Iran attack",
+      "headline": "Oil prices tumble after Trump calls off attack on Iran",
+      "source": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "CIO Weekly: The Rising Threat Of Real Yields",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=dbbee43a51b3df3b3b700f8cf21e06ef65d32c8af1b0e462c43e3d4125de2e8a",
+          "headline": "Oil prices tumble after Trump calls off attack on Iran",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
           "used_by_ai": true
         },
         {
-          "headline": "Chart Of The Day: Seasonality Is No Longer Providing A Tailwind",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6e2f1c6cdb10c0299b66f0f08c5c1b7fc4d230e6af7031d625496e03b1791578",
+          "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
           "used_by_ai": true
         },
         {
-          "headline": "Safety & Inflation Engines For Protecting Your Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=27eccc9d898247a9ddf9932f49c588015412c33b54bf465b514876aba1dd1d2a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Market Pulse: Warsh Is Off To A Good Start",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2c2a5f9c5eb0778cf54054b6cec7618bd8a013061cc1a07b339a9008b47bb672",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Market Predictions For August",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e399e6a42b1a5c1f0dc0bf83e85d22803e0c9b7c9bb2ec9023f7a80c96e01b2d",
+          "headline": "Oil prices drop after Trump cancels attack on Iran to seek deal",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/oil-tumbles-trump-cancels-attack-041829322.html",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 5
+        "US Top News and Analysis": 1,
+        "Yahoo Finance": 2
       }
+    },
+    {
+      "ticker": "XLE",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Oil prices drop",
+      "headline": "Gold gains as US dollar declines, hopes of Mideast deal hit oil - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB?oc=5",
+      "on_watchlist": false,
+      "articles": [
+        {
+          "headline": "Gold gains as US dollar declines, hopes of Mideast deal hit oil - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil prices drop after Trump cancels attack on Iran to seek deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil prices tumble after Trump calls off attack on Iran",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil prices drop after Trump cancels attack on Iran to seek deal",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/oil-tumbles-trump-cancels-attack-041829322.html",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 2,
+        "US Top News and Analysis": 1,
+        "Yahoo Finance": 1
+      }
+    },
+    {
+      "ticker": "QQQ",
+      "company": "",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market rises",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
+      "on_watchlist": false,
+      "articles": [
+        {
+          "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo Finance": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "Fears of China competition",
+      "headline": "Semiconductor stocks sink over fears of increased competition from China",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Semiconductor stocks sink over fears of increased competition from China",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo Finance": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "No direct news",
+      "headline": "",
+      "source": "",
+      "url": "",
+      "on_watchlist": true,
+      "articles": [],
+      "source_breakdown": {}
     }
   ]
 }
