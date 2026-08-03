@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T16:31:42Z",
+  "updated_at": "2026-08-03T18:52:30Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,14 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 3,
   "sample": false,
   "items": [
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Mideast deal hopes rise",
       "headline": "Wall St starts the month strong as Mideast deal hopes rise - Reuters",
       "source": "Reuters",
@@ -27,302 +27,54 @@
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid US-Iran Truce Hopes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=16e977681fe44ecf0853f2cef4ba6ccc7c32577108cc804d5b0c7a190d5a06fd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "If You Don't Buy This Market, Someone Else Will",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=359a643ff197f5bb04c4a3c144c7a0e3d6c9a228daea1fc05e098e70bec1c140",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Warns Oil Executives: 'Get Your Retail Prices Down, NOW!'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b0ac426e87b2867f6d6d9ed8a9897facf816c881dd36132077a89ed1c05e3ae7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500 Gains As Big Tech Stocks Deliver Mixed Returns",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=99a3e4ab53563fddcc174f38cbe185268951e0693b1d8feceeb8261cf51b7842",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Index Gains Conceal Renewed Breadth Weakness",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b697821efd3c15664f5ee4384751629fbf6111912f41a1667b40a6c4aaaada03",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 2,
-        "Benzinga": 1,
-        "ChartMill": 1
+        "Reuters": 1
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "XLE",
+      "company": "",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Stark warning from KeyBanc",
-      "headline": "Apple Stock Faces a Stark Warning -- KeyBanc Sees 19% Downside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=852ff4433d052e1ae8e08bf34d097e0c35f22bf82339698ecc4919cb89862c43",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Stock Faces a Stark Warning -- KeyBanc Sees 19% Downside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=852ff4433d052e1ae8e08bf34d097e0c35f22bf82339698ecc4919cb89862c43",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Apple's AI Strategy Looks Different From Everyone Else's",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb298db7bee5577b99556614d03ce2aff126a8dd1922c2bf10c5d6665e88eca0",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple's Record Quarter Ran Into A Memory Bill",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e45c8f3a8750e2afb05a87e7d36386172afeb040efe661c12b5d6b29e26e8d15",
-          "used_by_ai": false
-        },
-        {
-          "headline": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc9e85dafd3898ada322a78d8e7d81f7721660eeba7a88767abd2590e4b8f4a9",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Shed $426 Billion in Market Cap in 2 Days. Here's What Wall Street Is Getting Wrong.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=333677aadb1f157d8f1bbc0cb31f491d4644abff61fe36882e6d880970bba0f0",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
       "confidence": 50,
-      "reason": "Unstoppable stock",
-      "headline": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc9e85dafd3898ada322a78d8e7d81f7721660eeba7a88767abd2590e4b8f4a9",
-      "on_watchlist": true,
+      "reason": "Oil prices drop",
+      "headline": "Oil prices drop 5% to three-week low after Trump cancels attack on Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+      "on_watchlist": false,
       "articles": [
         {
-          "headline": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc9e85dafd3898ada322a78d8e7d81f7721660eeba7a88767abd2590e4b8f4a9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Apple's AI Strategy Looks Different From Everyone Else's",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb298db7bee5577b99556614d03ce2aff126a8dd1922c2bf10c5d6665e88eca0",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple's Record Quarter Ran Into A Memory Bill",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e45c8f3a8750e2afb05a87e7d36386172afeb040efe661c12b5d6b29e26e8d15",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Stock Faces a Stark Warning -- KeyBanc Sees 19% Downside",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=852ff4433d052e1ae8e08bf34d097e0c35f22bf82339698ecc4919cb89862c43",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Shed $426 Billion in Market Cap in 2 Days. Here's What Wall Street Is Getting Wrong.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=333677aadb1f157d8f1bbc0cb31f491d4644abff61fe36882e6d880970bba0f0",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI start-up valued high",
-      "headline": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de978978b71e29daab171459f19bc416d80e6afea4f88887e25273d66d50c871",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de978978b71e29daab171459f19bc416d80e6afea4f88887e25273d66d50c871",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a154dfcbf04da8f356a1f1449c4df8889bfad38530523a7d1b990b25b0e262e7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "678 Billion Reasons to Invest in Microsoft Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=73b4101a3a6a5ff9b9f2e641b8b05eae5c2cb6a0eeda4e32891f12eef21a9f90",
-          "used_by_ai": true
-        },
-        {
-          "headline": "School dropout\u2019s AI start-up valued at \u00a32.5bn",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b458e09c8050c0aeb9ea99a8e30045d57406a4cfe3746d1319d531ad542dca1",
+          "headline": "Oil prices drop 5% to three-week low after Trump cancels attack on Iran - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Reuters": 1
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "SPY",
+      "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "AI driven future",
-      "headline": "Rivian Automotive Stock Asks The Market's Price For Sales That Do Not Yet Pay",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c774efc2cac98637bde9769b83610437410458fb422013e43836a457cc49ec6e",
+      "reason": "Iran peace hopes boost stocks",
+      "headline": "Iran peace hopes boost stocks, weaken crude; yen firms after intervention - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Rivian Automotive Stock Asks The Market's Price For Sales That Do Not Yet Pay",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c774efc2cac98637bde9769b83610437410458fb422013e43836a457cc49ec6e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bb284d3239794ac3742f2a35034ba6cbef7bc43e7f4d5f1a5ff5c6a9b6571a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Could Be Giving Up More Than a Business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7e9e6d69ff5e6ebfc150c22c8728d41baf1c0c4bb984637d26bc386197873f4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla\u2019s (TSLA) AI Driven Future Beyond Cars",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e4555bdf9d8d429bf2980eb4f0dab9178b1b8257d7b1f854c515a8375fa6d40f",
+          "headline": "Iran peace hopes boost stocks, weaken crude; yen firms after intervention - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Can absorb AI shock",
-      "headline": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a154dfcbf04da8f356a1f1449c4df8889bfad38530523a7d1b990b25b0e262e7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a154dfcbf04da8f356a1f1449c4df8889bfad38530523a7d1b990b25b0e262e7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Paychex Expands WISE to Deliver Workforce Intelligence Across Business Tools",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76a27a635adf5aede0f49192707bd89d26cf98ba4bbbcf4b14d3d9229c9d1215",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74814c7e8054740e7a4e945e493126f6336adfb4548bf03232456a7b4e6350b9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Pays Cash. Amazon Borrows. Here's How Big Tech Funds Its AI Boom.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e06ee97125bca7aeb7a499acac54eeba3fcd1efb1aabefde22c0bf4637f5fe3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "Q2 earnings on deck",
-      "headline": "Schneider Electric (ENXTPA:SU) Posts Strong Half Year Earnings, Is It Still Undervalued?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1340e20913dde833374f10d4b0c5942ce35180c04c99f62fb5367b94a7ae15b6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Schneider Electric (ENXTPA:SU) Posts Strong Half Year Earnings, Is It Still Undervalued?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1340e20913dde833374f10d4b0c5942ce35180c04c99f62fb5367b94a7ae15b6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b7f67d905968762fe06abb5ed353b12be96ae19f775222c482ad3e6e92ed4ac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: Middle East Diplomacy Optimism, Oil Price Decline Lift US Equity Futures Pre-Bell",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b46de72b5e232979612974ad806909a54b55d5c4d3a86936432f3aa3470eadc5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget AI \u2013 This Macro Risk May Be The Biggest Threat To Bitcoin's Rally Right Now, Says Analyst",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a904b8978477bdde501634229e12c3b50f791f4f3d538ca0aeb1684911385f62",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Q2 Earnings On Deck: What To Expect",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d0a395def06a93f5e3e4d5ebc252696f7c684d00987dc4dd9bbda5364b460e9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Reuters": 1
       }
     }
   ]
