@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T07:56:30Z",
+  "updated_at": "2026-08-03T11:28:00Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,38 +12,49 @@
   "sample": false,
   "items": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Surging stock",
-      "headline": "Why Microsoft Stock Is Surging",
+      "reason": "Bullish article",
+      "headline": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ee7dcf5f51ffe0c88cd50b9ba814355fad89d92b19babe29c47ecf0ebeb8af61",
+      "url": "https://finnhub.io/api/news?id=00b27534a35ef1e75f7fcbc04e38f47647828fcab162abde9a64246e5a9f119d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why Microsoft Stock Is Surging",
+          "headline": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee7dcf5f51ffe0c88cd50b9ba814355fad89d92b19babe29c47ecf0ebeb8af61",
+          "url": "https://finnhub.io/api/news?id=00b27534a35ef1e75f7fcbc04e38f47647828fcab162abde9a64246e5a9f119d",
           "used_by_ai": true
         },
         {
-          "headline": "LinkedIn reports solid Q2 revenue growth",
+          "headline": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cea5cdc909171864cad7be178f48a08782e1b067bdd579aa395900859274f8b4",
+          "url": "https://finnhub.io/api/news?id=f3a627a52f4c2406fa25b3ffb193aee0ee2f089467b46ee72a026ce98eccf890",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Just Silenced The AI Skeptics, Why I See 20%+ Upside",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=12ce1fee2428394bfa239697818c6dff1face06fa616b1f7f8206417cb094d9c",
-          "used_by_ai": false
+          "headline": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0dd7659df568a45fd31c256ea4026875f113877b8bb9a437bcff667274e8ee1b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7780293073e49446e34b4bc7b12e32047a16405fc24f8e643ffa8871b85ecc1c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Billionaire Ken Griffin Just Invested $400 Million Into Crypto.com Via Citadel Securities. Here's Why That Could Be Bullish For Crypto.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=912128f818ef721826a9f85e9c2c3736e467686e0a9588250f336c75f2cef053",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1
+        "Yahoo": 5
       }
     },
     {
@@ -51,12 +62,18 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI breakthrough",
-      "headline": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
+      "reason": "Tax breaks extension",
+      "headline": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eeac366f8282cc9cd5e16e291bd1220b7fcac9ab40d55b7c9a122d6b4cadf180",
+      "url": "https://finnhub.io/api/news?id=ff4a0db67dcd03bf6eba273c6e81791ebdc12266651d180564a7f692477ee8ac",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff4a0db67dcd03bf6eba273c6e81791ebdc12266651d180564a7f692477ee8ac",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
           "source": "Yahoo",
@@ -70,73 +87,61 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple's Supply-Chain Pipeline Creates A Conversion Test",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c34841280c288d895cf1f0e48cef85e27c01484838580177c194c555b44779b3",
-          "used_by_ai": true
+          "headline": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fe1c53021455344ed5544f0ac4167d2d1dcca631900f199a0c2b0db08a9ba5be",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cb1bb3c5410a42bc0ee6b8bbdc6b7d3ffbac4af327f9186fa0b19d99e0841de8",
-          "used_by_ai": true
+          "headline": "Tim Cook's Farewell Note Sours While Amazon Steals The Show And Oil Snaps On Fresh Iran Talks",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0361a8c467ed83cb6eb84d27af0974f6df4c8d5fe56edd9b1ad0d79e1aa361a6",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "SeekingAlpha": 1
+        "ChartMill": 1
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI potential",
-      "headline": "Greg Abel Is Spending Berkshire Hathaway's Cash on Whole Companies Instead of Stocks. Here's What That Changes for Shareholders.",
+      "reason": "Earnings focus",
+      "headline": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=802d56d8ff5bffc083ca8780b981c21f9dd70d375ae103ccca0b293651403f59",
+      "url": "https://finnhub.io/api/news?id=b11d17b74a6242fbb4adb29300c127e2e3e60777041df10bff742b9ef5cdb313",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Greg Abel Is Spending Berkshire Hathaway's Cash on Whole Companies Instead of Stocks. Here's What That Changes for Shareholders.",
+          "headline": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=802d56d8ff5bffc083ca8780b981c21f9dd70d375ae103ccca0b293651403f59",
+          "url": "https://finnhub.io/api/news?id=b11d17b74a6242fbb4adb29300c127e2e3e60777041df10bff742b9ef5cdb313",
           "used_by_ai": true
         },
         {
-          "headline": "Down 48%, Is Oracle Stock a Buy Right Now?",
+          "headline": "3 Big Takeaways From Microsoft's Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=16569998b0733203ba671367e36077475e40552edb7dfc85d7bcd6d4919f0138",
+          "url": "https://finnhub.io/api/news?id=0b65223afa704d5d66fb9d5d98945cfc20ebea13bf44f70fbee572d3c308b815",
           "used_by_ai": true
         },
         {
-          "headline": "The Bond Market Is Doing Something for the First Time in Nearly 20 Years. Here's What It Means for Investors.",
+          "headline": "WDAY, ADBE, INTU, ADSK, CRM: Software Stocks Stage Sharp Rebound In July",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4e7f53da79afc7857d7fcf1c95b3d08da19730959de09e0891c57769a06a5ee",
+          "url": "https://finnhub.io/api/news?id=1f28d89b7673e8f0f05d3a29518d92ea7ffeeded5c9a9f5ba7c5dd82bd044798",
           "used_by_ai": true
         },
         {
-          "headline": "If Artificial Intelligence Is in a Bubble, These Are the Stocks That Could Benefit Most",
+          "headline": "Bull of the Day: Ciena (CIEN)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb7ebb7e811072b678d96221ec9f047dc534c9b7b81481c80460c97da037c7ce",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=960b9ef5da5885a96bab13b5b0bca2add155a7feadce92b6f8900c5beb112337",
+          "url": "https://finnhub.io/api/news?id=43ec8169cf80f807201912933575bf4aab755d3b71e2e0a7c422f23d5d7c05e2",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
@@ -144,81 +149,40 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Company news",
-      "headline": "EV Company News For The Month Of July 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a0f06598653a507625d21d6833dd6fb0acda61d42a82c4204dc5765726db6aae",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "EV Company News For The Month Of July 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a0f06598653a507625d21d6833dd6fb0acda61d42a82c4204dc5765726db6aae",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Dismisses Report Tesla Could Sell Chinese Business for SpaceX Merger: 'Absurdly Fake News'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e40e04569ccc58b6998443baa8123199f3ce7d95ef1c78efe9efdd4d7c040544",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f13854067cb8a12b9b76704656f8ce1b40c36cb7a10c99cb2bd7e72e19a71efc",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings focus",
-      "headline": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+      "reason": "Earnings discussion",
+      "headline": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=baf24e4cb14d15e3fa98c1670097ac84af3d0c65145bcac17a0bdd9346b9dc95",
+      "url": "https://finnhub.io/api/news?id=ceab390cb083b5ec5fb6da217da3dcbc7f06a3ea1f54716ce7b0df4360d67ef0",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+          "headline": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baf24e4cb14d15e3fa98c1670097ac84af3d0c65145bcac17a0bdd9346b9dc95",
+          "url": "https://finnhub.io/api/news?id=ceab390cb083b5ec5fb6da217da3dcbc7f06a3ea1f54716ce7b0df4360d67ef0",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "headline": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e521cd63ab7c7c629cbacd51d71cc8083035c3b4fc3eccc8093450f495edcab7",
+          "url": "https://finnhub.io/api/news?id=1aced7d059f9f606da8797d4f25c04b9383b0679060c023e370af25c976b413b",
           "used_by_ai": true
         },
         {
-          "headline": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
+          "headline": "SPCX Heads Into First Earnings: Musk Hints At Tesla-Sized Revenue, Jefferies Downplays Governance Risks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=960b9ef5da5885a96bab13b5b0bca2add155a7feadce92b6f8900c5beb112337",
+          "url": "https://finnhub.io/api/news?id=9f15ca7fdae7cdf0688a4a942aa95c2316278e4b653003291f243055e778428b",
           "used_by_ai": true
         },
         {
-          "headline": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
+          "headline": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f8727d0954fad695567eb16f68ec5e7fe7d41f5b4a4c5ebe2490ea343301f49",
+          "url": "https://finnhub.io/api/news?id=dc2e599be203e0e170eaa625d01db6874106ffe53f2362f03d0f2a73c0d1cd10",
           "used_by_ai": true
         },
         {
-          "headline": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
+          "headline": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c0c718a2ab587d9a773d1c7696c1638665284879bebd02900267ed236b83d31",
+          "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf",
           "used_by_ai": true
         }
       ],
@@ -227,44 +191,78 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Earnings anticipation",
+      "headline": "Five things to watch in markets in the week ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e5c8d239694e308f63c9b95eacd9968ba65625576b263f47f268594dfa47c54",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Five things to watch in markets in the week ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e5c8d239694e308f63c9b95eacd9968ba65625576b263f47f268594dfa47c54",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Reports Tuesday. One Number Decides Whether 54 Times Forward Earnings Was Ever Defensible.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ce6de7e1a297ed095942ccaaa6537a2236ba8ac651f37ef1b4ebc85a1e09533",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1a3ad1e743c11a4ac2182091fac5ec1c1e9b5874bedbcd4d0462491dc21084da",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "Market sentiment",
-      "headline": "Despite The Headwinds, Earnings Are Exploding To The Upside",
+      "reason": "Market predictions",
+      "headline": "CIO Weekly: The Rising Threat Of Real Yields",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ab225924e77572d7b5a9e6b2cfbb88aa702f2c9f1a81a0d209f935ea41210ddf",
+      "url": "https://finnhub.io/api/news?id=dbbee43a51b3df3b3b700f8cf21e06ef65d32c8af1b0e462c43e3d4125de2e8a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Despite The Headwinds, Earnings Are Exploding To The Upside",
+          "headline": "CIO Weekly: The Rising Threat Of Real Yields",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ab225924e77572d7b5a9e6b2cfbb88aa702f2c9f1a81a0d209f935ea41210ddf",
+          "url": "https://finnhub.io/api/news?id=dbbee43a51b3df3b3b700f8cf21e06ef65d32c8af1b0e462c43e3d4125de2e8a",
           "used_by_ai": true
         },
         {
-          "headline": "Buy The Situational Awareness' Selloff, Here's Why And What",
+          "headline": "Chart Of The Day: Seasonality Is No Longer Providing A Tailwind",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bc0876c85e6c3c51daf930df0c6478e67215e9933a8b5cae6bcffdd711452b87",
+          "url": "https://finnhub.io/api/news?id=6e2f1c6cdb10c0299b66f0f08c5c1b7fc4d230e6af7031d625496e03b1791578",
           "used_by_ai": true
         },
         {
-          "headline": "SPYM: S&P 500 Monthly Dashboard For August",
+          "headline": "Safety & Inflation Engines For Protecting Your Portfolio",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b04f9a6c8829b02c6eb773f303ffdf8e259ac9196b46eea886a694a40be45e2c",
+          "url": "https://finnhub.io/api/news?id=27eccc9d898247a9ddf9932f49c588015412c33b54bf465b514876aba1dd1d2a",
           "used_by_ai": true
         },
         {
-          "headline": "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price",
+          "headline": "Weekly Market Pulse: Warsh Is Off To A Good Start",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=aaaa8fda0ec994fa41f9cd8357e08a5489274e42993c4ed44deaf7364cf2dce2",
+          "url": "https://finnhub.io/api/news?id=2c2a5f9c5eb0778cf54054b6cec7618bd8a013061cc1a07b339a9008b47bb672",
           "used_by_ai": true
         },
         {
-          "headline": "A Major Breakout In Treasury Yields May Be Underway",
+          "headline": "3 Market Predictions For August",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ee81ea16b90853d520887b42b080a4ac06f1f91487b0063115970f0b4ac55f76",
+          "url": "https://finnhub.io/api/news?id=e399e6a42b1a5c1f0dc0bf83e85d22803e0c9b7c9bb2ec9023f7a80c96e01b2d",
           "used_by_ai": true
         }
       ],
