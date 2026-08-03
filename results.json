@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T00:02:19Z",
+  "updated_at": "2026-08-03T04:05:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -14,18 +14,30 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Bank of America doubles down",
-      "headline": "Bank of America doubles down on Apple stock for rest of 2026",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "iPhone prices may rise",
+      "headline": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0df70d94611fc003b92f080a366fc18dbbbea158ef866886e50549a42bbaf42a",
+      "url": "https://finnhub.io/api/news?id=cb1bb3c5410a42bc0ee6b8bbdc6b7d3ffbac4af327f9186fa0b19d99e0841de8",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Bank of America doubles down on Apple stock for rest of 2026",
+          "headline": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0df70d94611fc003b92f080a366fc18dbbbea158ef866886e50549a42bbaf42a",
+          "url": "https://finnhub.io/api/news?id=cb1bb3c5410a42bc0ee6b8bbdc6b7d3ffbac4af327f9186fa0b19d99e0841de8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The global memory shortage hits the MacBook Air",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0794741477d785c74bedfb1448561f6684e1b0201703bbc447248c72b2396bed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3bc099de1acd05440a0f9dfbc883d811885a80cb3bf5d6c795a832644ae9e0ef",
           "used_by_ai": true
         },
         {
@@ -39,18 +51,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
           "used_by_ai": false
-        },
-        {
-          "headline": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3bc099de1acd05440a0f9dfbc883d811885a80cb3bf5d6c795a832644ae9e0ef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92b603bde86ab1af6452ce67033d28545ec4121d5442d39aefcdba46d59cdc7b",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -58,72 +58,32 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Earnings report optimism",
-      "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efb6bbd068c4704d568c0ecbb178252e423535cbc99e64b2ab083db57b86e3ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f105d120b24dbcf21df42b2bac18a8d9eea1062a0b3551f5a1342713795c1eb6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc06b8629d33c8ab762615309e7d2b76d3d288a1d7b916f5cb88888beaa510a8",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "Cloud revenue soars",
-      "headline": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
+      "reason": "Solid Q2 revenue",
+      "headline": "LinkedIn reports solid Q2 revenue growth",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26cac8335784a88851bc3c21a9c6b888e2b2dd9f5af3358f485ff0074d855705",
+      "url": "https://finnhub.io/api/news?id=cea5cdc909171864cad7be178f48a08782e1b067bdd579aa395900859274f8b4",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "LinkedIn reports solid Q2 revenue growth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cea5cdc909171864cad7be178f48a08782e1b067bdd579aa395900859274f8b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=326d2c89dc9d08ceab1b84e09203e19d2a49b84ce3081cbdff30e2aafc1f0cce",
+          "used_by_ai": true
+        },
         {
           "headline": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=26cac8335784a88851bc3c21a9c6b888e2b2dd9f5af3358f485ff0074d855705",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' \u2014 What That Means For OpenAI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=163d09d839a1da5e5aa47da812c7f168d612063870a6bb2bb988bed947b88139",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da7090d455e47b100e2fce8eb087df4515660312fc7625283bceca6d8b7200e2",
           "used_by_ai": true
         }
       ],
@@ -132,16 +92,80 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI partnerships",
+      "headline": "Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=539460422c3e1c8f906c9959ac41a68a1508bbd9306972a020bee8bf18b3053f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=539460422c3e1c8f906c9959ac41a68a1508bbd9306972a020bee8bf18b3053f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "IonQ Is Worth $13 Billion and Sits 58% Below Its High. Here's What Has to Go Right.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1e5bfe2e3c84d0291ed994586ec4f6a19465cbdf8da22217adf9f75990d4e32",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a891343e22d1c24bfe01cfb0367caff1112625c1a6b1319719c2f04af379d8ba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stocks Are Overvalued. Cryptocurrencies Are Cheap, and Are Stacking Revenue. Is Now a Good Time to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04a64fcf74d44047b38020419dcc2d2c9194bd2f62fb2d418ebf5f9e885784e7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Huntington Ingalls Industries Stock Is Heading Higher",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc27cc7ad3964161edc9841dde5831d948de7cddbc42ef5b4e83ac4f8c48205a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=960b9ef5da5885a96bab13b5b0bca2add155a7feadce92b6f8900c5beb112337",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 6
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Earnings report upcoming",
-      "headline": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
+      "reason": "Earnings loom",
+      "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f8727d0954fad695567eb16f68ec5e7fe7d41f5b4a4c5ebe2490ea343301f49",
+      "url": "https://finnhub.io/api/news?id=e521cd63ab7c7c629cbacd51d71cc8083035c3b4fc3eccc8093450f495edcab7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e521cd63ab7c7c629cbacd51d71cc8083035c3b4fc3eccc8093450f495edcab7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=960b9ef5da5885a96bab13b5b0bca2add155a7feadce92b6f8900c5beb112337",
+          "used_by_ai": true
+        },
         {
           "headline": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
           "source": "Yahoo",
@@ -149,27 +173,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "headline": "Earnings, PMI and Other Key Things to Watch this Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9598b716b4a3ca680e2f0775898cfa28c372ceee758a15137f93f30eae0f996a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c610e329289aad1a5d8051660ec3f9d7cfb358fd2ac7304e16c3a3fc7bd39764",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Week Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6a9e8400d7341f9a25b45a9c8952c859d2f92fe0d0bc5c12a951ccc2c8e93cbf",
+          "url": "https://finnhub.io/api/news?id=76b29023b205127f17abac539d6fe371910583b31adc20a06953b4913097cc1d",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
@@ -177,7 +188,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Global EV boom",
+      "reason": "EV boom",
       "headline": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f13854067cb8a12b9b76704656f8ce1b40c36cb7a10c99cb2bd7e72e19a71efc",
@@ -212,11 +223,17 @@
       "direction": "neutral",
       "confidence": 40,
       "reason": "Market trends",
-      "headline": "SPYM: S&P 500 Monthly Dashboard For August",
+      "headline": "Buy The Situational Awareness' Selloff, Here's Why And What",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b04f9a6c8829b02c6eb773f303ffdf8e259ac9196b46eea886a694a40be45e2c",
+      "url": "https://finnhub.io/api/news?id=bc0876c85e6c3c51daf930df0c6478e67215e9933a8b5cae6bcffdd711452b87",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Buy The Situational Awareness' Selloff, Here's Why And What",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bc0876c85e6c3c51daf930df0c6478e67215e9933a8b5cae6bcffdd711452b87",
+          "used_by_ai": true
+        },
         {
           "headline": "SPYM: S&P 500 Monthly Dashboard For August",
           "source": "SeekingAlpha",
@@ -239,12 +256,6 @@
           "headline": "A Hawkish Hold, A Steeper Curve",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0bd0fe3250c62e2f3b8e453a60c035e19a85c9ef9db7c995f7ee47cf3111f1ac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Momentum Crash: Is It Over?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e71f40c77550adc1e32a3460a0a46b2dc117beba026277fb994d04c829c01bb7",
           "used_by_ai": true
         }
       ],
