@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:57:12Z",
+  "updated_at": "2026-08-03T00:02:19Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,7 +15,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "Bank of America doubles down",
       "headline": "Bank of America doubles down on Apple stock for rest of 2026",
       "source": "Yahoo",
@@ -58,10 +58,50 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Earnings report optimism",
+      "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
+          "used_by_ai": true
+        },
+        {
+          "headline": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=efb6bbd068c4704d568c0ecbb178252e423535cbc99e64b2ab083db57b86e3ff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f105d120b24dbcf21df42b2bac18a8d9eea1062a0b3551f5a1342713795c1eb6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc06b8629d33c8ab762615309e7d2b76d3d288a1d7b916f5cb88888beaa510a8",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Cloud revenue soars",
       "headline": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
       "source": "Yahoo",
@@ -78,13 +118,13 @@
           "headline": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' \u2014 What That Means For OpenAI",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=163d09d839a1da5e5aa47da812c7f168d612063870a6bb2bb988bed947b88139",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=da7090d455e47b100e2fce8eb087df4515660312fc7625283bceca6d8b7200e2",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -92,62 +132,16 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth potential",
-      "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc06b8629d33c8ab762615309e7d2b76d3d288a1d7b916f5cb88888beaa510a8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efb6bbd068c4704d568c0ecbb178252e423535cbc99e64b2ab083db57b86e3ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f105d120b24dbcf21df42b2bac18a8d9eea1062a0b3551f5a1342713795c1eb6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "Earnings report upcoming",
-      "headline": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
+      "headline": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c0c718a2ab587d9a773d1c7696c1638665284879bebd02900267ed236b83d31",
+      "url": "https://finnhub.io/api/news?id=3f8727d0954fad695567eb16f68ec5e7fe7d41f5b4a4c5ebe2490ea343301f49",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c0c718a2ab587d9a773d1c7696c1638665284879bebd02900267ed236b83d31",
-          "used_by_ai": true
-        },
         {
           "headline": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
           "source": "Yahoo",
@@ -174,7 +168,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     },
@@ -183,7 +177,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "EV boom growth",
+      "reason": "Global EV boom",
       "headline": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f13854067cb8a12b9b76704656f8ce1b40c36cb7a10c99cb2bd7e72e19a71efc",
