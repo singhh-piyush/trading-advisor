@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T03:48:23Z",
+  "updated_at": "2026-08-04T06:27:25Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,49 +8,142 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI boom growth",
+      "headline": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b31772fede065dec36bddb5017dc195ca02af503dfaf26240c80abce3a03bdcf",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b31772fede065dec36bddb5017dc195ca02af503dfaf26240c80abce3a03bdcf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Investors Are Learning a Hard Lesson About the Dangers of Using Leverage",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dccef7d76936be71f4b6d99b627c09433dfb0d475a335e879d8d1bf3726c966b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Fitch Says: AI Market Correction Could Be a Big Risk to Corporate Credit. That Might Be Bad News for This Junk Bond ETF.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd3a51ef42835bcad9cfa1282548e782968c398a4e6091ab19928527834e2600",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Better Neocloud Stock: CoreWeave vs. Nebius",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=92338a515a509a323bda89276fab4f9540dc745670c091298019531f248a6ae2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Sweetgreen Stock Fell 27% in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b12e1f9958dbca346c0e148ddbbd2ff61c8a94c7272a5b69228206d83cde373c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 30,
-      "reason": "Positive analyst view",
-      "headline": "The Sharpest Exchanges From META's Earnings Call",
+      "confidence": 70,
+      "reason": "Xbox 360 games",
+      "headline": "MSFT Stock Gains 25% In 3 Days: Report Says New Xbox 360 Games Could Come To Windows PCs",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da9d5c65a200dc2a462a4461ec00f7a94043e9f85faf6f3055e82915a43a54b7",
+      "url": "https://finnhub.io/api/news?id=43cf3c3ce86d3cfda27017d5efb8da13d198109e3c2c0e1956b87bd75139f910",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "MSFT Stock Gains 25% In 3 Days: Report Says New Xbox 360 Games Could Come To Windows PCs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=43cf3c3ce86d3cfda27017d5efb8da13d198109e3c2c0e1956b87bd75139f910",
+          "used_by_ai": true
+        },
         {
           "headline": "The Sharpest Exchanges From META's Earnings Call",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=da9d5c65a200dc2a462a4461ec00f7a94043e9f85faf6f3055e82915a43a54b7",
-          "used_by_ai": true
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI Genie Out Of The Bottle - Despite Attempts To Throttle",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=876b1e99178887f9aa77d545cb0cc83d78d3612bfcc403ce1324953d420c4f91",
+          "used_by_ai": false
         },
         {
           "headline": "Review & Preview: Starting Strong",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ead9d5a603b71459c0883481ac60029b32c74de882698f44f1eb3a1218c35856",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bill Ackman's Pershing Square Owns Amazon, Microsoft, and Meta Platforms. Here's the Best Buy of the Bunch in August.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa6401c94b8b7d68d4ff5b21e51d1787b259a9a0cee3a6ef3ebdf6ce3d335980",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Net worth down",
+      "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c79cc5d9edee99ffba78f6f3e1380c19e3160df35bb09b688ea436b0252582f5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c79cc5d9edee99ffba78f6f3e1380c19e3160df35bb09b688ea436b0252582f5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon Makes $600 Billion a Year. James Altucher Says Elon Musk\u2019s Robot Could Blow Past That",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4477acc637facb3b0dfda52f3e4438050a80aaff6100f8222dbcce725b6b7adf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla stock surges as super bull turns slightly more bearish",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8459a7d86000a341acf2f641827eaa77fe903e14bfa6a4ca119c1d403dff5ec5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Everyone Still Thinks Tesla Is a Car Company. Legendary Tech Expert Says That\u2019s the Mistake of the Decade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=085fd3b4357372b545db01798465fc5964c32171737f93d2fb8a2a587a45df46",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 30,
-      "reason": "Positive analyst view",
+      "confidence": 60,
+      "reason": "Robot potential",
       "headline": "Amazon Makes $600 Billion a Year. James Altucher Says Elon Musk\u2019s Robot Could Blow Past That",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4477acc637facb3b0dfda52f3e4438050a80aaff6100f8222dbcce725b6b7adf",
@@ -75,10 +168,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Larry Ellison Was Once the World\u2019s Richest Person \u2014 Now Elon Musk Is Four Times Wealthier",
+          "headline": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81868eeb12ab4256748142f587053319e6848f65f045bd749f7c1a5b45fd7409",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=c79cc5d9edee99ffba78f6f3e1380c19e3160df35bb09b688ea436b0252582f5",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -89,8 +182,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 30,
-      "reason": "Positive analyst view",
+      "confidence": 60,
+      "reason": "AI demand",
       "headline": "For Micron Stock, The Growth That Justifies The Price Has To Arrive",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a67a01c317c583670d27ce4941b2c8c2f1530d4d8f7c0fecb1dba9f22391887c",
@@ -135,13 +228,19 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Earnings reported",
-      "headline": "Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for the Next Decade?",
+      "confidence": 50,
+      "reason": "Earnings report",
+      "headline": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=023c1deae380f029822e2f13b04510d1b4682878962bdfbd4342fb7c97defc46",
+      "url": "https://finnhub.io/api/news?id=025d1b60c8656ec9ef57f2765f75d81a6a113ae49811fa2d9b30a35287ac98f7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=025d1b60c8656ec9ef57f2765f75d81a6a113ae49811fa2d9b30a35287ac98f7",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for the Next Decade?",
           "source": "Yahoo",
@@ -165,12 +264,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a8910cf117021c61cc69007c4b44c3c275bc9664317da9ec3d5425c05a034996",
           "used_by_ai": true
-        },
-        {
-          "headline": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=515ac23bdeb06f0147876fee2f3c8bd41b388e0b14cdec8e8fc15d96a53c6aac",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -178,91 +271,57 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Various analyst views",
-      "headline": "\"Too Much Money:\" President Trump Just Lashed Out at ExxonMobil and Chevron for Windfall Profits, Warns Both Companies They Should \"Give Some of That Back.\"",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=47d2c8cf74d18486dff076a51f91d3d937cc2b77417c0c62fe854661e7c56f75",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "\"Too Much Money:\" President Trump Just Lashed Out at ExxonMobil and Chevron for Windfall Profits, Warns Both Companies They Should \"Give Some of That Back.\"",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47d2c8cf74d18486dff076a51f91d3d937cc2b77417c0c62fe854661e7c56f75",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Sandisk Stock Tumbled 47% in July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e19904cfb8490e8058a70bb1615f6a4e86d5edad6047c25177f8680525c9519",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Atkore Stock Soared Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc81595b4059cad2bb483000e5bbb9679cb75a72be71b242ec9d392beabbc35e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Stock Could Look Very Different in 5 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24730ec041eab824cc0c791e6f191bdb072e42a963f6346438860ae77d8c1731",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 20,
+      "confidence": 50,
       "reason": "Market rally",
-      "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+      "headline": "Ordinary Income Trap: Why JEPI\u2019s Monthly Distributions Are Quietly Gutting Your After-Tax Returns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52c441915f441f7a303c8f720f0bd165bc0fc0c4c4b973e58d040f513bde4baa",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Ordinary Income Trap: Why JEPI\u2019s Monthly Distributions Are Quietly Gutting Your After-Tax Returns",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=52c441915f441f7a303c8f720f0bd165bc0fc0c4c4b973e58d040f513bde4baa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Hidden Price of Monthly Income: DIVO\u2019s Option Overlay Cost Investors Billions in Foregone Gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6e69f9f10bf960546db52e2b8ee22f9814ca97fec859e1cde05e02137747d029",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Investment Boosted U.S. Q2 Growth - But The Import Offset Runs Far Wider Than AI",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ca6a8437f542aa87bbb3406028c640dca34b2e23e4436e2a982c18fd45a3834d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ValuEngine Weekly Market Summary And Commentary",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d7f4c3f4ed360d0e9f6e1ad2269b48d5c7ce8d21b97014763a5ead3fb25732c2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cumberland's Monday Memo",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d696913f952fedc9dce3a41c6de80c67adc3214de81413a70039f0159dd79346",
+          "used_by_ai": true
+        },
         {
           "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Moving Averages Of The Ivy Portfolio And S&P 500: July 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=17a34fbe60b367b451f46828646313ff82d0d5245b9a913b1510d3bc6281af27",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple\u2019s Predictable August News Vacuum Tells You Exactly What to Expect This Month",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c8bc16b2991bbf386524724df1d4d6c3c1a842454a347c0e565d51c80e1183c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bear Market Signals: Semiconductor Stocks Sink",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=81de6284919e78b2b5f399ee1f2560c0dc35842573cdb213d575f0c0179a634e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dead Cat Bounce > Last Chance - Weekly Blog # 952",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c0e94a13b11fed74ad253c84a187bf3998e18320fb939677421b0dedbb0f3f6c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
+        "Yahoo": 2,
         "SeekingAlpha": 3,
-        "Yahoo": 1
+        "Reuters": 1
       }
     }
   ]
