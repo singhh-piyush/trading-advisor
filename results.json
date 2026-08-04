@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T23:00:10Z",
+  "updated_at": "2026-08-04T00:14:14Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -38,7 +38,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "Citi has bullish message",
+      "reason": "Bullish message from Citi",
       "headline": "Citi Has a Bullish Message for AMD Stock Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2b833ab934d6f78ef541886d4d7f83e9ccacac548bd243cd51bc951ba3afca0f",
@@ -51,72 +51,26 @@
           "used_by_ai": true
         },
         {
+          "headline": "For Micron Stock, The Growth That Justifies The Price Has To Arrive",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a67a01c317c583670d27ce4941b2c8c2f1530d4d8f7c0fecb1dba9f22391887c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a95889d8262d6f2a3c5057ae191a4f3fb6616710c8efaa58a1ebb573335eead",
+          "used_by_ai": false
+        },
+        {
           "headline": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices \u2014 BA, XOM, CVX, HOOD, AMD In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=21a8590f6d2010e6e8223254f11feaad3911e64771949d86120f223002fc1ed7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Update: Dow Hits Record High as Oil Prices Slide on Iran Deal Hopes",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=105ae9569d10d8f32f5b3a20404384a8ab44971fdad5e287d175cab107a3488c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Cathie Wood's Ark Invest Sold $11.8 Million of AMD Stock on a Single Day Last Month. Should Other Investors Also Sell?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24ca63480d4c1fe40c6ff1693c006c9db27ef8d00ad1d1d5f6aa273302bb3b45",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Tech stocks rally",
-      "headline": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca5e177de40f9603efb94f84f71cb78cf1c203784b5b306323f3b0384bb3c7e2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca5e177de40f9603efb94f84f71cb78cf1c203784b5b306323f3b0384bb3c7e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Stock Faces 2 Massive Tests This Week. One Could Triple Its Public Float",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7eabf9bc7e6136d7cd6b44eb965286f3c03c11e6c2532fee50bf42e051e728b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Realty Income Has Paid a Monthly Dividend for 673 Straight Months. Here's What That Means for Income Investors.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe640101c60ce10094a1cac724d80256bf0223823da5b698d2aa1f516f9347d5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why The Bancorp Stock Popped Again Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=164fef5b9f9b6d40f799648aec6baae05646bdaa43ca7a35d864748f9299350e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e853b6fe149d1ae6d51368635d5f89b861b26d2c1be1d119c708a2e31e06f66e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     },
     {
@@ -160,55 +114,94 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Market warms up to AI spending",
-      "headline": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+      "confidence": 60,
+      "reason": "AI spending",
+      "headline": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca5e177de40f9603efb94f84f71cb78cf1c203784b5b306323f3b0384bb3c7e2",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+          "headline": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca5e177de40f9603efb94f84f71cb78cf1c203784b5b306323f3b0384bb3c7e2",
           "used_by_ai": true
+        },
+        {
+          "headline": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e853b6fe149d1ae6d51368635d5f89b861b26d2c1be1d119c708a2e31e06f66e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Stock Faces 2 Massive Tests This Week. One Could Triple Its Public Float",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7eabf9bc7e6136d7cd6b44eb965286f3c03c11e6c2532fee50bf42e051e728b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Realty Income Has Paid a Monthly Dividend for 673 Straight Months. Here's What That Means for Income Investors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fe640101c60ce10094a1cac724d80256bf0223823da5b698d2aa1f516f9347d5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why The Bancorp Stock Popped Again Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=164fef5b9f9b6d40f799648aec6baae05646bdaa43ca7a35d864748f9299350e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Negative free cash flow",
+      "headline": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a157bbb1301beae7164bd582e59da5c88ee8c43296b98ca47bfed8583ee1a95b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a157bbb1301beae7164bd582e59da5c88ee8c43296b98ca47bfed8583ee1a95b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Wall Street Pushed Microsoft To Explain",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ccc38fb40c7d5c21847da538b1b51db3178dbcb456f20051f81d1fb3ad24413f",
+          "used_by_ai": false
         },
         {
           "headline": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a8910cf117021c61cc69007c4b44c3c275bc9664317da9ec3d5425c05a034996",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=515ac23bdeb06f0147876fee2f3c8bd41b388e0b14cdec8e8fc15d96a53c6aac",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Prediction: Within 18 Months, Microsoft Will Be More Valuable Than Apple",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=366bc5ab9073685b180315ae97452cd684d15f2aeef74660b6bf70928c6dff05",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ab20f4d034e6ad3ae5839919a1f51203b54604f3fd7be93648ca2f25746f1111",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon Stock Hits Record on Stunning Signal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c9da59b25d27b4ddda5866780a0cab872d6c37811a8ad0f554fed68e56ccd947",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "CNBC": 1,
         "Yahoo": 5
       }
     },
@@ -217,14 +210,14 @@
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "Dow hits record high",
-      "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com",
+      "reason": "Market rallies",
+      "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com",
+          "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
           "used_by_ai": true
@@ -239,19 +232,19 @@
           "headline": "Bear Market Signals: Semiconductor Stocks Sink",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=81de6284919e78b2b5f399ee1f2560c0dc35842573cdb213d575f0c0179a634e",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Dead Cat Bounce > Last Chance - Weekly Blog # 952",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=c0e94a13b11fed74ad253c84a187bf3998e18320fb939677421b0dedbb0f3f6c",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Is The Angst Over AI Spending And Fed Inaction Warranted?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d4c0f7bf07e9750635903b0d513bc05a53e481163128634643bc8318cd80e9c2",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
