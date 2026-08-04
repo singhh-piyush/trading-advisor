@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T20:08:51Z",
+  "updated_at": "2026-08-04T21:48:37Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,53 +16,179 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Multiple positive mentions",
-      "headline": "Which dow jones stocks are moving on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=483f966e3fec03d644b725993e1e9c6afeda8b616f07640dda8da731c09bf0d0",
+      "reason": "Investment and surging tech",
+      "headline": "Cathie Wood Invests $32.2 Million in Surging Tech Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c39cfaf62fb7eacb6fcc9816db1caed664a8e18152a43d3cf50a320d029b76e1",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Which dow jones stocks are moving on Tuesday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=483f966e3fec03d644b725993e1e9c6afeda8b616f07640dda8da731c09bf0d0",
+          "headline": "Cathie Wood Invests $32.2 Million in Surging Tech Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c39cfaf62fb7eacb6fcc9816db1caed664a8e18152a43d3cf50a320d029b76e1",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia's Blackwell Boom Reaches Corvex",
+          "headline": "5-Star Analyst Makes Bold AMD Call Before Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca2284b331a4f0d97487f756de9fa327503b0e14f4345cead6cb1cf1da9e2829",
+          "url": "https://finnhub.io/api/news?id=1533da0fef09700cacacf7619614b2c632208c92a60f7db1b438a2c37265965b",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today: Dow Pops 1,000 Points On Hormuz Talks; Palantir Soars, Dell Breaks Out (Live Coverage)",
+          "headline": "Microsoft CEO Satya Nadella Just Announced Great News for AMD Stock Investors",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aad214fdefae1c6e541684d2989af260451ffb98f577c7bbd8aae8aa38659002",
+          "url": "https://finnhub.io/api/news?id=2a518b0a9111c7a31434669bed7d0f8b296b0b3f0c088b997d142b8c1e1ddf5e",
           "used_by_ai": true
         },
         {
-          "headline": "Solana Just Had a Disappointing Month. Is It Still a Buy?",
+          "headline": "Palantir Surges 30% as CEO Slams Rival AI Labs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=906183af031b9689649fc8fa5c8b92e4fb9306af4f41c99b091ca2eba90fc4b3",
+          "url": "https://finnhub.io/api/news?id=b7e87027963d2002bcbcfaa90d6f0d827e773fed0f7ac11eb9568ec583484636",
+          "used_by_ai": true
+        },
+        {
+          "headline": "That Friday Payday Fund Has a Small-Cap Sibling Paying 44%, and Small Caps Are Finally Winning",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e26389907598681dd59df86e0f9a2be7f1cbbaa6cb5c532c8d987a1c44c9651",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Surging stock and earnings",
+      "headline": "5-Star Analyst Makes Bold AMD Call Before Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1533da0fef09700cacacf7619614b2c632208c92a60f7db1b438a2c37265965b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "5-Star Analyst Makes Bold AMD Call Before Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1533da0fef09700cacacf7619614b2c632208c92a60f7db1b438a2c37265965b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD\u2019s Stock Is Surging Ahead of Quarterly Results",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0c254d05bdfa3fc029a53d6cb062a35cf311a0d8dec58040bda7d7004099d1af",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Discover the top S&P500 movers in Tuesday's after-hours session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=128748e70fd448792fef6acf53a13fb9d27611d701ce9536719aad3e2e90eec4",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Earnings and AI warning",
+      "headline": "Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a6ff39d1cbc03edc7513869576f87e106b10517712ceab233906e2620f2f702",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a6ff39d1cbc03edc7513869576f87e106b10517712ceab233906e2620f2f702",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They\u2019re Rallying.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=137a5ad8859ecc1d47372bd8d7f860037e17277c93b50cf2e2fc30fe4da9f392",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Palantir CEO escalates Microsoft\u2019s AI warning",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e23e0a6d93d2755151a3cd5651c3459c7ec7a581f51a6482d314ead8b7bf126",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
         "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Optimistic comments and sales",
+      "headline": "Elon Musk issues ominous warning as SpaceX short interest hits danger zone",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed72fa39309c18deffd756ae5639208ed85d7fc62f7c853e8de4048bde23690c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk issues ominous warning as SpaceX short interest hits danger zone",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed72fa39309c18deffd756ae5639208ed85d7fc62f7c853e8de4048bde23690c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Says Tesla's Optimus 'Will Be Epic' in Reply to Personal Robot Question",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8885682a11092271b8cce8ed7983dbf4f384614721a712cbaf110a4967b3aa83",
+          "used_by_ai": true
+        },
+        {
+          "headline": "BYD's Bold Move Could Open It Up to New Markets. But Is the Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bdf31ac04994467970905a97b7ece694568d245d08e5f7f3e5176d011f94c1f0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e25058d9e378a35595052713218d4bc2d2c649a6c795be302e0ae654f409e83",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Earnings Due. Fewer Falcon 9 Launches, Tesla Merger, Share Lockup In Focus.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae3f6d7bab9b3ab9d42c12826ad5cd4bb0058cd3ad736c1347b488c8d972824a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Positive sector update",
-      "headline": "Looking for the most active stocks in the S&P500 index on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=819283bc7885d9793c93be583455cea6090c5e3f6b411a6e1ae6ad9d3cd850ee",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Fight with OpenAI",
+      "headline": "Apple-OpenAI Fight Takes Unexpected Turn",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3780254b297424dcbed8c3066a2bcdd8d9dce0ec0c747d6166646b3db3df2b51",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple-OpenAI Fight Takes Unexpected Turn",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3780254b297424dcbed8c3066a2bcdd8d9dce0ec0c747d6166646b3db3df2b51",
+          "used_by_ai": true
+        },
         {
           "headline": "Looking for the most active stocks in the S&P500 index on Tuesday?",
           "source": "ChartMill",
@@ -76,160 +202,46 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple vs. Alphabet: The $5 Trillion AI Bet That\u2019s Renting, Not Building",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d088ed4fb74ee28e4e96027e5b4ea5d94249ac1fb41516ba1ee497c34d9d817e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Is Down 10%. Should Investors Buy the Dip?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29dd2c64753bc9e476fb0fb5edf18989124310cf61c4b3800d3de8f9326ee6e0",
-          "used_by_ai": true
-        },
-        {
           "headline": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ebb9507c514862dcca9a4d2b631ca2448caaa7cd445887f22c785b30cdb5d9fd",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Growing sales in China",
-      "headline": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e25058d9e378a35595052713218d4bc2d2c649a6c795be302e0ae654f409e83",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e25058d9e378a35595052713218d4bc2d2c649a6c795be302e0ae654f409e83",
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Earnings Due. Fewer Falcon 9 Launches, Tesla Merger, Share Lockup In Focus.",
+          "headline": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae3f6d7bab9b3ab9d42c12826ad5cd4bb0058cd3ad736c1347b488c8d972824a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla vs Amazon: Two Giants, Two AI Bets, One Better Stock to Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=974bbac8dd8f1f06c968253a4f3ac4defe6800885ff0839ea955d2f300adc2ce",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Tesla Might Be the Better Elon Musk Stock to Buy on the Way Down",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1fed83d7f3166c4a0856270a7738358ca0c7fa893b98c243c06eabd986f1ee44",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f8e13f1e7412ce34198a5cbcd6d17f9125f845f15a2efdd5acdd256f5bcf8ec",
+          "url": "https://finnhub.io/api/news?id=13eb34241700a48888728d8ca4ee49dcff4b5db809eae74bfc5625b6073dece0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Semiconductor stock rally",
-      "headline": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6db627bf4f0b4f816199202a6aa613db87005896d575a448f8cc23ccfd379d94",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6db627bf4f0b4f816199202a6aa613db87005896d575a448f8cc23ccfd379d94",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a45368d162fc3dbe32858d949ce0892c7ca00d9d7f5cf52a8d57f17f7d18167",
-          "used_by_ai": true
-        },
-        {
-          "headline": "These 3 Chip Stocks Could Be Entering a New Growth Cycle",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2363df52319e55496bd2ab195e69c40d034563d1e76e214c1287a6178b3437ea",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should Investors Hold or Fold MRVL Stock at a P/S Multiple of 12X?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7f7b016d3023c43df83eb901674a6b9e7728d11ce8c54d721538e011ca4fffa",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Azure growth and sentiment",
-      "headline": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d251387f2aab47c1bd19a1c3327388cc6014b2490d94ed8be485b7cf904727da",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d251387f2aab47c1bd19a1c3327388cc6014b2490d94ed8be485b7cf904727da",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI data-centre race builds $1 trillion lease burden for Big Tech",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de265b3b19a125630750971b3ca9ef6d23cfdd2be62fd13122c12190acf8abdd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Microsoft (MSFT) Overvalued As Azure Growth And Copilot Adoption Lift Sentiment?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dfd24a88ce39088d7c15db820051b19175bbbeb290be4358d414c5cf2e961dcb",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "General market optimism",
-      "headline": "The AI Boom Isn't An Investment Boom",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "Market warning",
+      "headline": "Forget Trump, Warsh Is The Real Threat",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dd0f68de19cee15aa959787144ab50be00f7fc46522a7fe784c9dfd69a51eb04",
+      "url": "https://finnhub.io/api/news?id=27f3f4f74dc1c93ee01fa33c021f31f3d5adf33fe36f8207cdede63c24c74b09",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Forget Trump, Warsh Is The Real Threat",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=27f3f4f74dc1c93ee01fa33c021f31f3d5adf33fe36f8207cdede63c24c74b09",
+          "used_by_ai": true
+        },
+        {
+          "headline": "More Popular Than Tesla and SPY? Micro Cap T3 Defense (DFNS) Soars in Interest on Benzinga",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=f3c2b03eec745536b600820d001a896428727ba9a835694d9405b2b8da1721fe",
+          "used_by_ai": true
+        },
         {
           "headline": "The AI Boom Isn't An Investment Boom",
           "source": "SeekingAlpha",
@@ -247,23 +259,12 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=fb3491f2a7d654e6691b0a570d91b77e08bf4c74d298fe5fa4acafb960d5057a",
           "used_by_ai": true
-        },
-        {
-          "headline": "Here's Why You Should Buy Quality ETFs Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3361250ca3bdc187aa93919acd3634f275930ec9060d2d6f698d2cb02d207bcb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Selloff Is Missing The Bigger Story",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e058560e9468d5151406e2b28d65386927f67bad91b39033400993b9e97cc734",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 3,
-        "Yahoo": 2
+        "Benzinga": 1,
+        "Yahoo": 1
       }
     }
   ]
