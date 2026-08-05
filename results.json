@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T20:08:06Z",
+  "updated_at": "2026-08-05T21:46:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,12 +16,30 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "SpaceX partnership",
-      "headline": "Discover the most active stocks in Wednesday's session.",
+      "reason": "SpaceX deal",
+      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=54a15b0b7e8e410c17dd38284f5a02ac6d3bc09c6eb31d85c1ce2a7174b8f53f",
+      "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Stock Is on the Rise, After Elon Musk Says SpaceX Will \u2018Exclusively\u2019 Buy Its Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c9458f3b72cf1ad63f2ad48ae6315c92d2e804ff912d695ac7ac80b430c88a49",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=37870f8def4c147fe9117a6d7906f67f4b2141ea1f0506a5e29a7bcd6fa3663f",
+          "used_by_ai": true
+        },
         {
           "headline": "Discover the most active stocks in Wednesday's session.",
           "source": "ChartMill",
@@ -35,116 +53,116 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia Stock Is the Only Magnificent 7 Name in the Green",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8220bcaa71a2d1bccfc6f382b152d4219d5ebf991de2db94affdd5d619c7aa7",
-          "used_by_ai": true
-        },
-        {
           "headline": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
           "used_by_ai": true
-        },
-        {
-          "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 2,
+        "ChartMill": 3,
         "Yahoo": 2,
         "CNBC": 1
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Big Tech profits",
-      "headline": "Big Tech's blowout profits hide an uncomfortable truth",
+      "confidence": 60,
+      "reason": "Autonomous vehicle plans",
+      "headline": "Elon Musk Predicts \u2018Money Won\u2019t Matter in 2036.\u2019 Is This His Worst Prediction Yet or Prophetic?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=44c4ea7ae62f11329f035809cba6bdcdd7c206ba6b4ad49c0b58889c44984fe5",
+      "url": "https://finnhub.io/api/news?id=b6cdb61d24fbbf0f2adb11e0f5154ede198b1f92cf408b7020105655d6822201",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Big Tech's blowout profits hide an uncomfortable truth",
+          "headline": "Elon Musk Predicts \u2018Money Won\u2019t Matter in 2036.\u2019 Is This His Worst Prediction Yet or Prophetic?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44c4ea7ae62f11329f035809cba6bdcdd7c206ba6b4ad49c0b58889c44984fe5",
+          "url": "https://finnhub.io/api/news?id=b6cdb61d24fbbf0f2adb11e0f5154ede198b1f92cf408b7020105655d6822201",
           "used_by_ai": true
         },
         {
-          "headline": "Alphabet, Microsoft, Amazon, and Oracle Just Gained $1.9 Trillion in 3 Days. Here's Why Microsoft's Run Isn't Over.",
+          "headline": "Elon Musk Thinks the SpaceX Crash is an \u2018Insane Opportunity\u2019\u2014Should You Trust Him?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b09889748753a97add143df5acfc29ccde7846cd8d96ba08d36cb4827cdddd4c",
+          "url": "https://finnhub.io/api/news?id=e3879bd71f01f79824b8a9b2e15134dc65bffc2b5c706f8a656c622c74f20541",
           "used_by_ai": true
         },
         {
-          "headline": "Beyond Capex: Big Tech Quietly Locks In $2.7 Trillion in Long-Term Commitments",
+          "headline": "Uber Aims to Build the World's Largest Autonomous Vehicle Platform. Can It Compete With Tesla?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=18e0ad7d6f841bffdad7efd2946282f8b5a757a86d30a42f7d131b550513d880",
+          "url": "https://finnhub.io/api/news?id=869410320c3a5d47d0fd995099a550feefc94783410b33705e108f4264424265",
           "used_by_ai": true
         },
         {
-          "headline": "Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks",
+          "headline": "Mark Cuban Turned to Grok to Test Zohran Mamdani's City-Owned Grocery Plan for NYC\u2014 and He Got a Rough Verdict",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=49ca1812a1d6328e43f39fa8f2b559236cc19e6f11d9ca8ee08100e2feea4339",
+          "url": "https://finnhub.io/api/news?id=f53b9a2779718bfb4828457ca331042f6096d4ddd4d4bb71936ed39f1c039295",
           "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Stock Is on the Rise, After Elon Musk Says SpaceX Will \u2018Exclusively\u2019 Buy Its Chips",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c9458f3b72cf1ad63f2ad48ae6315c92d2e804ff912d695ac7ac80b430c88a49",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
+      "direction": "down",
       "confidence": 60,
-      "reason": "Supply crunch",
-      "headline": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq - Reuters",
+      "reason": "Nasdaq drag",
+      "headline": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq - Reuters",
+          "headline": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
           "used_by_ai": true
         },
         {
-          "headline": "Micron's Supply Crunch Is Turning Into a Pricing Story",
+          "headline": "This Jacked-Up Tech ETF Demands a Strong Stomach",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=719e3da3ef894d9628297db40d35de2a0734d702969cf04671c4fcb117c0b619",
+          "url": "https://finnhub.io/api/news?id=2f932d252e0d181c0750d13c2762bda682d9b50693735cc81f68fec1e76351b8",
           "used_by_ai": true
         },
         {
-          "headline": "41 Buy Ratings and No Sells: Why Wall Street Backs AMD",
+          "headline": "Stock Market Today: Dow Rises, Nasdaq Slides As Tech Stocks Come Under Pressure; Uber Dives (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a53962de1b651612058a49baffe415aea7054a199d29e73b33455590185a09f",
+          "url": "https://finnhub.io/api/news?id=aa4f6192ff266b0744702ba5908008c62f3442b9eaf167e489de658fd393aa13",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia Stock Is the Only Magnificent 7 Name in the Green",
+          "headline": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8220bcaa71a2d1bccfc6f382b152d4219d5ebf991de2db94affdd5d619c7aa7",
+          "url": "https://finnhub.io/api/news?id=21fb8be31f4b117b356767c095e95409cad32b2d646651192a1c1ccf094f1c80",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How To Bank 14% On MU Stock Before Buying A Single Share",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f1d6f729dcbd447e681b37bbc742d6122cefee89f81993c32346f4aaad508796",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Reuters": 1,
-        "Yahoo": 3
+        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "Market rally",
       "headline": "SpaceX Chooses Nvidia; Short Squeeze Drives Market Rally, But Extreme Positive Sentiment Flashes Warning",
       "source": "Benzinga",
@@ -174,18 +192,11 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=5e1dd84fe059deb2f5eadb4960b338d27725453f493c9c486591234ff827c06f",
           "used_by_ai": true
-        },
-        {
-          "headline": "Broad Rally Lifts Market Breadth to a Positive Bias",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b98c065549930709ebaa54f9d148d82d77651af191c54b266a1f7fbf414fcad6",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Benzinga": 3,
-        "Yahoo": 1,
-        "ChartMill": 1
+        "Yahoo": 1
       }
     },
     {
@@ -193,12 +204,24 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in Dow Jones",
-      "headline": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=37410582800957237105abc7d2874ac064d8356eef6cdbe69591925af8b9c264",
+      "reason": "Mixed news",
+      "headline": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba00a689658c78c82e908006b0ce190991e0734b2c6de4be1377d9367955fd68",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba00a689658c78c82e908006b0ce190991e0734b2c6de4be1377d9367955fd68",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The companies emerging as new leaders in this renewed AI rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=932eea13db773920965e98a45010824861bd09e9fa716b1d398590a9be2fe5a9",
+          "used_by_ai": true
+        },
         {
           "headline": "What's going on in today's session: dow jones movers",
           "source": "ChartMill",
@@ -206,73 +229,55 @@
           "used_by_ai": true
         },
         {
-          "headline": "Curious about the most active S&P500 stocks in today's session?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=37870f8def4c147fe9117a6d7906f67f4b2141ea1f0506a5e29a7bcd6fa3663f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c3f017020e693632ac5d4d9c9d82b142c56fb9d2d174d424bd80f10b75f07988",
-          "used_by_ai": true
-        },
-        {
-          "headline": "4 Things All Dividend Investors Need to Know About Building Passive Income Right Now",
+          "headline": "Apple's Search for Cheaper Memory Just Hit a Wall",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5325ae51bd3081143a45529cd8fa36f01e0c4be360ee2987b38fdf2fcf1962d3",
+          "url": "https://finnhub.io/api/news?id=c66c1caa0ab2916b1dafaf88bea7dc911e9f6f867b9fcb78eb3a3bb3d1128fe6",
           "used_by_ai": true
         },
         {
-          "headline": "Amazon says it will share $600 million in Trump tariff refunds with some of its customers \u2014 will you get a payout?",
+          "headline": "Just How Wide Is the Range of Outcomes for Netflix Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=111d9c21678e693a6237e266130e9a4f738fb59a6d75e1eb17b06302584bf8fe",
+          "url": "https://finnhub.io/api/news?id=7f451200fc1c0de6944754fcd95e2cecb2a409f878a1347de49a816381a7e6b6",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 3,
-        "Yahoo": 2
+        "Yahoo": 4,
+        "ChartMill": 1
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Michael Burry warning",
-      "headline": "Uber\u2019s Ride-Sharing Business Is Booming. Why the Stock Market Couldn\u2019t Care Less.",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed news",
+      "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3023e9445bfd733e506041de8b2a1e92479d863f16905aa848eb392aa60826fb",
+      "url": "https://finnhub.io/api/news?id=001a7488be9e1ff3e667c1f676a58b3a413e738f339f98d7161bd62890b3bdf9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Uber\u2019s Ride-Sharing Business Is Booming. Why the Stock Market Couldn\u2019t Care Less.",
+          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3023e9445bfd733e506041de8b2a1e92479d863f16905aa848eb392aa60826fb",
+          "url": "https://finnhub.io/api/news?id=001a7488be9e1ff3e667c1f676a58b3a413e738f339f98d7161bd62890b3bdf9",
           "used_by_ai": true
         },
         {
-          "headline": "Michael Burry Sends Stark Warning on S&P 500 Crash",
+          "headline": "Alphabet Is Still Up 16% in 2026. What Will It Take to Get GOOGL Stock Above $400?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27931fe397dd7c39524c9e70136efb6e3a7a82720013e6051455ba3a6485778e",
+          "url": "https://finnhub.io/api/news?id=a1c17b0ef3801e67dfc7f2aaab9d302693bdecfb8664e5c12cd7c7b888cb6a80",
           "used_by_ai": true
         },
         {
-          "headline": "Michael Burry Drops Shocking Take on AI Stocks",
+          "headline": "ServiceNow Drops 23% Year to Date: Time to Hold the Stock or Fold?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a72b14c97599b51d638cfd1ec273f41edb7a04ff9466170a365ac28044f1d4c5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Just Explained Why Memory Could Be the Next AI Winner.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3afd950af557e17ecf39dfc558e3767c167b78fce9a199f1343851cbd7ff3ed",
+          "url": "https://finnhub.io/api/news?id=1a229f0cdca9b00df236302af6193119b4b0ede21b98ed854152a35966a1a6aa",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     }
   ]
