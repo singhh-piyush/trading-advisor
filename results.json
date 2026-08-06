@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T09:24:39Z",
+  "updated_at": "2026-08-06T11:40:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,177 +8,96 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Strong growth and technical setup",
-      "headline": "Advanced Micro Devices (NASDAQ:AMD) Combines Strong Growth with a Promising Technical Setup",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=95f432da0e018c442d9a144b9dd99d987b72a58b9eec436abe2f13670bdfabea",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "AI momentum stocks tumble",
+      "headline": "AI momentum stocks tumble as earnings season shakes the tech sector",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=616b87b4070ae10541d90da938bb09c8b012573948c5a89696cf51b986ea4786",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AI momentum stocks tumble as earnings season shakes the tech sector",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=616b87b4070ae10541d90da938bb09c8b012573948c5a89696cf51b986ea4786",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US futures steady as Iran negotiations, earnings and economic data dominate attention: Dow Jones, S&P, Nasdaq, Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f07051c593c78cb211b3af710233d649767c6d316c21dc44bb27c48c70bcf32",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stock market today: Nasdaq futures slip, Dow and S&P 500 futures inch up as earnings roll on",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8cec6048bda4506c3b368ff602ae17dc8b5d6c4a7eeb4a94e6788bf0279a31ca",
+          "used_by_ai": false
+        },
         {
           "headline": "Advanced Micro Devices (NASDAQ:AMD) Combines Strong Growth with a Promising Technical Setup",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=95f432da0e018c442d9a144b9dd99d987b72a58b9eec436abe2f13670bdfabea",
-          "used_by_ai": true
+          "used_by_ai": false
         },
-        {
-          "headline": "One Massive AI Hardware Truth Keeps Me Loading Up On AMAT Ahead of Aug. 13 Earnings Print",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=167a5b632dab635bef577ac0cae6c15c37dee0862fc2c024b6bcd336ee784865",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMD Stock Dropped Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e5c55f483d01ae7a1893065b280ba48815d7fad5d375e17ac1ad3a838a2cf2c4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Longsys Showcases End-to-End AI Storage Solutions at FMS 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44796058ddfdc0ecd4285818f98535cd96bf26c60e963dd7ae436fda10dd9135",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth and contracts",
-      "headline": "SpaceX First-Quarter Print And A DeepMind Exit Split The Tape As Records Take A Breather",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=14c845aa763b92b7aa2ddc1e64b3096cd549decf921b9cc44798a7abe99cedc4",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "SpaceX First-Quarter Print And A DeepMind Exit Split The Tape As Records Take A Breather",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=14c845aa763b92b7aa2ddc1e64b3096cd549decf921b9cc44798a7abe99cedc4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec7916b6759591b3cbd2492fe38dc2117e1b4bc859199907ca6d1831488efd38",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Rocket Lab Just Won $663 Million in Space Force Contracts. Only the Bigger One Waits for a Rocket That Has Never Flown.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7093cf25aaaff80e0a1f39e709c7e134176c4a1d7786b4f038d5f7fdf040d8c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Where Will SpaceX Stock Be in 1 Year?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5fe1bcb233eb4bc2399ea527387a31d5a9592e77c440ad778cb838b744faa38",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I've Been Wrong About Amazon Stock for Almost 10 Years. Here's Why I'm Finally Changing My Mind.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2adf6008805e2ee86cc0399c08f7c9818cbe85c025b61b50cd219fb7ad3f2be",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
+        "Yahoo": 3,
+        "ChartMill": 2
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Cloud growth and partnerships",
-      "headline": "Hexaware Joins the Microsoft Intelligent Security Association (MISA)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e7dc9c66f56df07960ec9317926c52eb2f2df9341b13e2de40ceb9471691044",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Hexaware Joins the Microsoft Intelligent Security Association (MISA)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e7dc9c66f56df07960ec9317926c52eb2f2df9341b13e2de40ceb9471691044",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Talen Energy Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c908ca092ad3e63c849c865913490b7f35f719882fe2208016494c99282cb6a3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire Bill Ackman Built a $2.1 Billion Stake in Microsoft After the Stock Slid. Is It Still a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=842a01cc408578ce69f5a26868264bd892eea0453d0fffb3a6de32537c49ba76",
-          "used_by_ai": true
-        },
-        {
-          "headline": "IFI TECHSOLUTIONS ACHIEVES MICROSOFT AZURE CLOUD SECURITY SPECIALIZATION",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afcf04fa6f079bdd5727fc0f60fcc04ea2c1daa28e7af0ccacbfa7fc775c0ef9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
       "confidence": 50,
-      "reason": "Trade secret lawsuit",
-      "headline": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+      "reason": "AI supercharging software stocks",
+      "headline": "Palantir CEO Alex Karp Drops an 11-Word Bombshell That Proves Artificial Intelligence (AI) Is Supercharging Software Stocks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a24af8291ec928ccda7906e84cd6eb3facd6a336536923adddc7ff2e0ffd018",
+      "url": "https://finnhub.io/api/news?id=83b2cc0613ca99ae7a4c2472a38a80afa50779f8d823308dd9f59706513b105d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+          "headline": "Palantir CEO Alex Karp Drops an 11-Word Bombshell That Proves Artificial Intelligence (AI) Is Supercharging Software Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a24af8291ec928ccda7906e84cd6eb3facd6a336536923adddc7ff2e0ffd018",
+          "url": "https://finnhub.io/api/news?id=83b2cc0613ca99ae7a4c2472a38a80afa50779f8d823308dd9f59706513b105d",
           "used_by_ai": true
         },
         {
-          "headline": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
+          "headline": "With a Nearly 7% Yield and Soaring Profits, Is Energy Transfer Stock a Buy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=685a666429b3dba564b693c1cc43e2c9092736ebebd4e7b69124ef988880f2ee",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=68871bd0616509abe0a0e61028722d3588d983defd489c3673443543fc315947",
+          "used_by_ai": false
         },
         {
-          "headline": "As AI spend continues to soar, when will investors start to be rewarded?",
+          "headline": "Judgment Day Has Arrived for SpaceX, With Up to $99 Billion in Selling Pressure Waiting in the Wings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9df7f49084994b8b6f6ecb8f6802dbdb49a8907c58da0df8f078d0437b59cb15",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=5898af8bd6652be5602c13e9eeaefe102fb704121545012e39ed409385214c4a",
+          "used_by_ai": false
         },
         {
-          "headline": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'\u2014 Jim Cramer Says 'Gloves Off'",
+          "headline": "Thinking of Buying Tesla Stock on the Dip? Here's One Green Flag and One Red Flag.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ddb9659a254ba7a9a0e9b27abba752b12bae6448178c63af2fc6215fcb35cc9",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=cf647cf765d66e3f80ab5efdf06f2b6513ef586bc9b2d31be00b4670a56c3bbe",
+          "used_by_ai": false
         },
         {
-          "headline": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+          "headline": "Strategy's Michael Saylor Is Making a Strong Case Against a Proposed New Bitcoin Upgrade. Here's What That Means for Bitcoin.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=958a56e55bcf167d88870236ffbc50ea29b2df0de4e6fe292166b4ca4d3050e7",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=9c19085c56b23561d9961a3938186f1d823716655c69187b8a46137f86ed2b4e",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -188,9 +107,9 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 40,
-      "reason": "Mixed news on robots and AI",
+      "reason": "Waymo CEO criticizes Tesla Robotaxi",
       "headline": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=24a54a32a1e0b987a9df11a861bd61e4a6df7784c908fe60a6d7455bc3563943",
@@ -206,24 +125,143 @@
           "headline": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ac41a49ad2a8d690ec93aa8c707cee303afb205968f0a1a528346df58fd1d653",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=abc52c260560dfe85339fde73850c3e602b83dbeb14ac0deb0b2c1ffcbf41ff3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX IPO: The Company Falls Short",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=93064c46a0f38c1999c7fff39d7480383dc1a2af00c8d94f802f639571d70fbc",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Targets 1 million Optimus Robots",
+      "headline": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac41a49ad2a8d690ec93aa8c707cee303afb205968f0a1a528346df58fd1d653",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac41a49ad2a8d690ec93aa8c707cee303afb205968f0a1a528346df58fd1d653",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=24a54a32a1e0b987a9df11a861bd61e4a6df7784c908fe60a6d7455bc3563943",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=abc52c260560dfe85339fde73850c3e602b83dbeb14ac0deb0b2c1ffcbf41ff3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Soaring cloud growth thanks to AI",
+      "headline": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec7916b6759591b3cbd2492fe38dc2117e1b4bc859199907ca6d1831488efd38",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec7916b6759591b3cbd2492fe38dc2117e1b4bc859199907ca6d1831488efd38",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A10 Networks Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=70c96f25a67950ea412c76752dce21166d4fb8dcd9257b71319f2bd1ee852197",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Hexaware Joins the Microsoft Intelligent Security Association (MISA)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c0a8eff248994a2ad1b6ec6a1d5f11c41f8c2d98013aa83eb76c35f704894fd9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nintendo Tops Estimates With Strong Games and Tariff Refunds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1fc4e5dbec3982f382dc223f3691629b32e351af709fb103af534666865ffda4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Talen Energy Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c908ca092ad3e63c849c865913490b7f35f719882fe2208016494c99282cb6a3",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "OpenAI moves to dismiss trade secret lawsuit",
+      "headline": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a24af8291ec928ccda7906e84cd6eb3facd6a336536923adddc7ff2e0ffd018",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a24af8291ec928ccda7906e84cd6eb3facd6a336536923adddc7ff2e0ffd018",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=59d1420d017534e51cc524d1cf11b283bc0e192f2d11f451b5583ff157f300bb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nigeria Tries to Revive 50 Year-Old Mill That Never Made Steel",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4125ed4f2fa8ef10854fc1acb1731360053d36425bed010bdb9dd4a061da469",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=685a666429b3dba564b693c1cc43e2c9092736ebebd4e7b69124ef988880f2ee",
+          "used_by_ai": false
+        },
+        {
+          "headline": "As AI spend continues to soar, when will investors start to be rewarded?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9df7f49084994b8b6f6ecb8f6802dbdb49a8907c58da0df8f078d0437b59cb15",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
       }
     },
     {
@@ -231,30 +269,12 @@
       "company": "",
       "direction": "up",
       "confidence": 30,
-      "reason": "Market optimism",
-      "headline": "What Determines Applied Materials\u2019 Resilience on Aug 13 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=afc0432fbe822e72c41b4089064373af0451f442f3f6e2b3d2b21c73619d28fa",
+      "reason": "Market optimism helps hawkish bias",
+      "headline": "Rates Spark: Market Optimism Helps Hawkish Bias",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1fc1063d703918c4229ca9edf7b1763bf1f968bdcd1a30bded14619c1c2143bf",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "What Determines Applied Materials\u2019 Resilience on Aug 13 Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afc0432fbe822e72c41b4089064373af0451f442f3f6e2b3d2b21c73619d28fa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Post-Earnings Rebound is On: Buy at $363?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32570172915085c749285c3931a797891b7037791e6bba30979f51e3f86f1c05",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here\u2019s the Hidden Cost Nobody Talks About",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5db6efb398b2b15c23aaa7c9bc0d22a4eb55dd0435e98682c0f0e84b0bc1dc6",
-          "used_by_ai": true
-        },
         {
           "headline": "Rates Spark: Market Optimism Helps Hawkish Bias",
           "source": "SeekingAlpha",
@@ -262,22 +282,33 @@
           "used_by_ai": true
         },
         {
-          "headline": "August Perspective",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fa238e6f76f512bdaf02989de0064f32a15e91d105b8dad23badcf2b46a47af1",
-          "used_by_ai": true
+          "headline": "Nasdaq, Dow Futures Mixed Ahead Of Jobless Claims: Why SPCX, SNDK, SOUN, IONQ, FIG Stocks Are In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fb112699493d3f65ac3cc21ae4209923e5aba48f1b15c65ec9aa135a194d4500",
+          "used_by_ai": false
         },
         {
-          "headline": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - reuters.com",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-          "used_by_ai": true
+          "headline": "What Determines Applied Materials\u2019 Resilience on Aug 13 Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afc0432fbe822e72c41b4089064373af0451f442f3f6e2b3d2b21c73619d28fa",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Alphabet Post-Earnings Rebound is On: Buy at $363?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=32570172915085c749285c3931a797891b7037791e6bba30979f51e3f86f1c05",
+          "used_by_ai": false
+        },
+        {
+          "headline": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here\u2019s the Hidden Cost Nobody Talks About",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5db6efb398b2b15c23aaa7c9bc0d22a4eb55dd0435e98682c0f0e84b0bc1dc6",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2,
-        "Reuters": 1
+        "SeekingAlpha": 1,
+        "Yahoo": 4
       }
     }
   ]
