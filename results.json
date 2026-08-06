@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T03:49:05Z",
+  "updated_at": "2026-08-06T06:30:01Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,44 +12,90 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Dividend increase",
-      "headline": "This Stock Keeps Raising Its Dividend No Matter What the Market Does -- and Wall Street Thinks It's a Buy Right Now",
+      "confidence": 60,
+      "reason": "Robotaxi target",
+      "headline": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7483d7b586d5468d6252462a946d27bac340979c4a16c1f9509dc07c879b992b",
+      "url": "https://finnhub.io/api/news?id=24a54a32a1e0b987a9df11a861bd61e4a6df7784c908fe60a6d7455bc3563943",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "This Stock Keeps Raising Its Dividend No Matter What the Market Does -- and Wall Street Thinks It's a Buy Right Now",
+          "headline": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7483d7b586d5468d6252462a946d27bac340979c4a16c1f9509dc07c879b992b",
+          "url": "https://finnhub.io/api/news?id=24a54a32a1e0b987a9df11a861bd61e4a6df7784c908fe60a6d7455bc3563943",
           "used_by_ai": true
         },
         {
-          "headline": "Should Henry Schein\u2019s Raised 2026 Sales Growth Guidance Require Action From Henry Schein (HSIC) Investors?",
+          "headline": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77172b533a558640015e733cb2b41e75a28f7d7f54deecf31c06a5bc3a87a165",
+          "url": "https://finnhub.io/api/news?id=ac41a49ad2a8d690ec93aa8c707cee303afb205968f0a1a528346df58fd1d653",
           "used_by_ai": true
         },
         {
-          "headline": "2 Brilliant Growth Stocks That Just Hit All-Time Highs With Plenty of Room to Run",
+          "headline": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32d73223a672e8e6409f2e3fa6e1f29ae505ece4c6974783f9b436a8d90b5c41",
+          "url": "https://finnhub.io/api/news?id=abc52c260560dfe85339fde73850c3e602b83dbeb14ac0deb0b2c1ffcbf41ff3",
           "used_by_ai": true
         },
         {
-          "headline": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here\u2019s What Investors Need to Know.",
+          "headline": "Polymarket Gives 18% Odds to a Tesla-SpaceX Merger Announcement in 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99dc4a136a2eaa73109c28b83129533c647ea4fe8b53ed0250be25b292dc329a",
+          "url": "https://finnhub.io/api/news?id=d9cec7df64428711515a660890c5673e6f51fad07b1e78289c074e58b326bf17",
           "used_by_ai": true
         },
         {
-          "headline": "US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock \u2014 GOOGL, UBER, META, FLUT, AMZN In Focus",
+          "headline": "Should You Forget Tesla Stock Near a 52-Week Low?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d323cfadc27b0c79ecea54a762c5e0f5987b0fbc36d16a493c645ff577956321",
+          "url": "https://finnhub.io/api/news?id=deaab46e56e337d3a19f4860fbb4fd32e8028d30e6f845a067a8fd3ad5aa04a6",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "AI growth",
+      "headline": "Billionaire Bill Ackman Built a $2.1 Billion Stake in Microsoft After the Stock Slid. Is It Still a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=842a01cc408578ce69f5a26868264bd892eea0453d0fffb3a6de32537c49ba76",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Billionaire Bill Ackman Built a $2.1 Billion Stake in Microsoft After the Stock Slid. Is It Still a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=842a01cc408578ce69f5a26868264bd892eea0453d0fffb3a6de32537c49ba76",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Axon Just Delivered a Huge Beat-and-Raise. So Why Is the Stock Down?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c572a16fd3148922c4f03871ed89640d96e3b97a41cf5654fac0ac200fbe2e21",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Analysis-Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=57230d2134eb1e9a73f24cf45b8ac2354ffe34739cdeb4ec5c8c008d038ad5be",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=179907e3438fb75a938a926573295ddbd996d50582303d5d4dcb7678ec888bd6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "One Massive AI Hardware Truth Keeps Me Loading Up On AMAT Ahead of Aug. 13 Earnings Print",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=167a5b632dab635bef577ac0cae6c15c37dee0862fc2c024b6bcd336ee784865",
           "used_by_ai": true
         }
       ],
@@ -61,13 +107,25 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 50,
       "reason": "Earnings crash",
-      "headline": "$10,000 in AMDL Became $40,270 in 7 Months, but AMD\u2019s Earnings Crash Erased $9,500 in One Day",
+      "headline": "Why AMD Stock Dropped Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c064f44246d3acdfeed3c76885a062eea47be0309f4cd2298d3f896cee6512e2",
+      "url": "https://finnhub.io/api/news?id=e5c55f483d01ae7a1893065b280ba48815d7fad5d375e17ac1ad3a838a2cf2c4",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Why AMD Stock Dropped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e5c55f483d01ae7a1893065b280ba48815d7fad5d375e17ac1ad3a838a2cf2c4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Longsys Showcases End-to-End AI Storage Solutions at FMS 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44796058ddfdc0ecd4285818f98535cd96bf26c60e963dd7ae436fda10dd9135",
+          "used_by_ai": true
+        },
         {
           "headline": "$10,000 in AMDL Became $40,270 in 7 Months, but AMD\u2019s Earnings Crash Erased $9,500 in One Day",
           "source": "Yahoo",
@@ -85,128 +143,70 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3315f6067862bdc039780a80c3eab122beb4e094712dde72113979fb1c20abbd",
           "used_by_ai": true
-        },
-        {
-          "headline": "The SOXL ETF Is a Popular\u2014and Dangerous\u2014Way to Play Chip Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47ac797eba2d20ee7db080c74e03ebc01f59f3c2feafa4e115ba19522ddf3f1a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI's bottomless pit problem: Investors are scrutinizing costs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad347b29df2863319730bf46bf330a70b0870ade66b12d6c67dd260b07ccdf8f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Longsys Showcases End-to-End AI Storage Solutions at FMS 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44796058ddfdc0ecd4285818f98535cd96bf26c60e963dd7ae436fda10dd9135",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5,
+        "Yahoo": 4,
         "Reuters": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "SpaceX merger speculation",
-      "headline": "Polymarket Gives 18% Odds to a Tesla-SpaceX Merger Announcement in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9cec7df64428711515a660890c5673e6f51fad07b1e78289c074e58b326bf17",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Polymarket Gives 18% Odds to a Tesla-SpaceX Merger Announcement in 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9cec7df64428711515a660890c5673e6f51fad07b1e78289c074e58b326bf17",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Should You Forget Tesla Stock Near a 52-Week Low?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=deaab46e56e337d3a19f4860fbb4fd32e8028d30e6f845a067a8fd3ad5aa04a6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer: SpaceX Could Reach $1 Trillion in Revenue by 2030, but \u201cShort Term, Forget About It\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b71460e83a09854884d94b6ff6ad9c1cad77f8ebca7e5292f961169245244c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "EVgo, Inc. Q2 2026 Earnings Call Summary",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c7755f5affae15791dcb3589f9285ab6ad80d7b1dbef8299c60827e7e40264c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Question of the Day: Is Lucid in the Early Stages of Failure?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f15f50d5afa508f22f6fc379fc6750f1640c87ba0674d0dc28d91bc0c8b2c55",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "AI rally",
-      "headline": "Review & Preview: The Dow\u2019s Streak Survives",
+      "direction": "up",
+      "confidence": 45,
+      "reason": "Azure cloud security",
+      "headline": "IFI TECHSOLUTIONS ACHIEVES MICROSOFT AZURE CLOUD SECURITY SPECIALIZATION",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce6f91d6e7975ce3a764bcb5fc22869f0d6913cd0c178f3520684fbb6f63d3e3",
+      "url": "https://finnhub.io/api/news?id=afcf04fa6f079bdd5727fc0f60fcc04ea2c1daa28e7af0ccacbfa7fc775c0ef9",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "IFI TECHSOLUTIONS ACHIEVES MICROSOFT AZURE CLOUD SECURITY SPECIALIZATION",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afcf04fa6f079bdd5727fc0f60fcc04ea2c1daa28e7af0ccacbfa7fc775c0ef9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should Henry Schein\u2019s Raised 2026 Sales Growth Guidance Require Action From Henry Schein (HSIC) Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=77172b533a558640015e733cb2b41e75a28f7d7f54deecf31c06a5bc3a87a165",
+          "used_by_ai": true
+        },
         {
           "headline": "Review & Preview: The Dow\u2019s Streak Survives",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ce6f91d6e7975ce3a764bcb5fc22869f0d6913cd0c178f3520684fbb6f63d3e3",
           "used_by_ai": true
-        },
-        {
-          "headline": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3d16095d978e92525adbbd38b54041199b8f8835388a49466e61aeee84d2c84e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SNDK Stock Dips After-Hours As Sandisk's Q1 FY27 Outlook Misses Expectations Despite Memory-Driven Q4 Profit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=21b2fc38c028504bdf3af9b1481156f8b2ac35259511367205804dd04a1e4eaa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Toughest Questions AMZN Faced On Its Latest Call",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd8d044af5254e669056ec6fe2f2312c1aa1d0f0a999cac5c1d28173a77af6f0",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 50,
-      "reason": "Consumer electronics",
-      "headline": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+      "confidence": 40,
+      "reason": "Trade secrets lawsuit",
+      "headline": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=958a56e55bcf167d88870236ffbc50ea29b2df0de4e6fe292166b4ca4d3050e7",
+      "url": "https://finnhub.io/api/news?id=685a666429b3dba564b693c1cc43e2c9092736ebebd4e7b69124ef988880f2ee",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=685a666429b3dba564b693c1cc43e2c9092736ebebd4e7b69124ef988880f2ee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'\u2014 Jim Cramer Says 'Gloves Off'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ddb9659a254ba7a9a0e9b27abba752b12bae6448178c63af2fc6215fcb35cc9",
+          "used_by_ai": true
+        },
         {
           "headline": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
           "source": "Yahoo",
@@ -224,18 +224,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2636ef77b69d42a63916d61ae3e5bd6a3e9de64bd23513814269cf4c9057c3ca",
           "used_by_ai": true
-        },
-        {
-          "headline": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba00a689658c78c82e908006b0ce190991e0734b2c6de4be1377d9367955fd68",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The companies emerging as new leaders in this renewed AI rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=932eea13db773920965e98a45010824861bd09e9fa716b1d398590a9be2fe5a9",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -246,17 +234,29 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
+      "confidence": 30,
       "reason": "Market optimism",
-      "headline": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
+      "headline": "What Determines Applied Materials\u2019 Resilience on Aug 13 Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afc0432fbe822e72c41b4089064373af0451f442f3f6e2b3d2b21c73619d28fa",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
+          "headline": "What Determines Applied Materials\u2019 Resilience on Aug 13 Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afc0432fbe822e72c41b4089064373af0451f442f3f6e2b3d2b21c73619d28fa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Post-Earnings Rebound is On: Buy at $363?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=32570172915085c749285c3931a797891b7037791e6bba30979f51e3f86f1c05",
+          "used_by_ai": true
+        },
+        {
+          "headline": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here\u2019s the Hidden Cost Nobody Talks About",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5db6efb398b2b15c23aaa7c9bc0d22a4eb55dd0435e98682c0f0e84b0bc1dc6",
           "used_by_ai": true
         },
         {
@@ -267,7 +267,7 @@
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     }
