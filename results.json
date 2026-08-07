@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T18:55:58Z",
+  "updated_at": "2026-08-07T19:52:40Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,151 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Mentioned in multiple active stock reports",
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a3d83ebddc2c112fffe1432302800858660d0afdb1fc35fdbb5ae7bdc724b5ac",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "These dow jones stocks are moving in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=a3d83ebddc2c112fffe1432302800858660d0afdb1fc35fdbb5ae7bdc724b5ac",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Most active S&P500 stocks in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Curious about the most active stocks on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=6f4edb3908e5710aaecd62be546b7e42e4c7cdae0fbc8a9b3ec03b42a0b4cd21",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Palantir Technologies Stock Skyrocketed (Again) Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8080581772b2a9e4bcb2b806f1fc0bd2be65075ccd3e9d4e345f18f05965e58",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Spotify and Pinterest Delivered the Growth. Investors Wanted More",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4dd3db877db44bd08a6f00438fda683a2a143a5af76a1a6a33f29212331d90c8",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 3,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "Portfolio concentration and potential stock growth",
+      "headline": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad587f616e3440cc360f0ff35dfea0b6b74fe3d149384b71c46c2afc9e0ca425",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad587f616e3440cc360f0ff35dfea0b6b74fe3d149384b71c46c2afc9e0ca425",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exploring the top movers within the dow jones index during today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Can Apple Stock Reach $400 This Year?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29ab2cb310108052c37f125dd9c00f6912f6b7902c5c4f2eb07997898669f2e0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple (AAPL) Seeks Injunction In AI Trade Secret Lawsuit",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2a078d4a7c9e31e5f9e1ce094226db5e100d47274a0bcc96c6cf4fcba83b2fb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db0ba1c411e5ec9d8da5abf6b148d9dde7b9fe63bd018c5db2927e8205f7137b",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "AI inference and potential company growth",
+      "headline": "Why Super Micro (SMCI) Is Up 6.0% After AI Rack Expansion And AMD Instinct Coder Role",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf74cf4abd861ee3ac694c9b9c264ebf7c589660646831cd5a43893687822839",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why Super Micro (SMCI) Is Up 6.0% After AI Rack Expansion And AMD Instinct Coder Role",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf74cf4abd861ee3ac694c9b9c264ebf7c589660646831cd5a43893687822839",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Is Buying Its Way Deeper Into AI Inference",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d6e7c9d4a8077ab4af19f5fd2a37bf178380f8de2bf7f56159859c7b0cea9cd6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e2b8a7d772c899e7acccc9fd973f3f3a5b2ae5a7714cb98fce1f1948962fa7a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Supermicro (SMCI) Stock Looks Like A Bargain At This Price",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=71d5d0cca9a76638918e4e593b0b0f091cd475b56a643a60d55ea350415d4ac0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Will Become a $1 Trillion Company By This Date",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d559b60fc60c51ac2462fac32a97cc60d756d67b96c3eea329f0f262509c435b",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Chip factory and growth",
+      "confidence": 50,
+      "reason": "New chip factory and battery business growth",
       "headline": "Musk's SpaceX, Tesla to build $16.8B Terafab chip factory in Texas",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=02a8079a2ee6e45ff447ab64ffc686040c1b4e30be1cc1d7447059b6f9b8dfbc",
@@ -52,57 +192,11 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI inference and expansion",
-      "headline": "Why Super Micro (SMCI) Is Up 6.0% After AI Rack Expansion And AMD Instinct Coder Role",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf74cf4abd861ee3ac694c9b9c264ebf7c589660646831cd5a43893687822839",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Super Micro (SMCI) Is Up 6.0% After AI Rack Expansion And AMD Instinct Coder Role",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf74cf4abd861ee3ac694c9b9c264ebf7c589660646831cd5a43893687822839",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Is Buying Its Way Deeper Into AI Inference",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6e7c9d4a8077ab4af19f5fd2a37bf178380f8de2bf7f56159859c7b0cea9cd6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Supermicro (SMCI) Stock Looks Like A Bargain At This Price",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=71d5d0cca9a76638918e4e593b0b0f091cd475b56a643a60d55ea350415d4ac0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Will Become a $1 Trillion Company By This Date",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d559b60fc60c51ac2462fac32a97cc60d756d67b96c3eea329f0f262509c435b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e2b8a7d772c899e7acccc9fd973f3f3a5b2ae5a7714cb98fce1f1948962fa7a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI cash flow and efficiency",
+      "confidence": 50,
+      "reason": "AI cash flow and efficiency gains",
       "headline": "Microsoft Is Winning the AI Cash Flow Test",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ae0b99b8ef1003cc825dd5163f680bc35b431691d87680d182d39a88390e3d3a",
@@ -132,110 +226,34 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Active stock",
-      "headline": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Most active S&P500 stocks in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Curious about the most active stocks on Friday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=6f4edb3908e5710aaecd62be546b7e42e4c7cdae0fbc8a9b3ec03b42a0b4cd21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Palantir Technologies Stock Skyrocketed (Again) Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8080581772b2a9e4bcb2b806f1fc0bd2be65075ccd3e9d4e345f18f05965e58",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Spotify and Pinterest Delivered the Growth. Investors Wanted More",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dd3db877db44bd08a6f00438fda683a2a143a5af76a1a6a33f29212331d90c8",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Power Stock Could Be a Big Winner From the Data Center Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2124e566c525e93159091027d5978ea1ab9815fceee190c4d5262e798c84c2a1",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 2,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Portfolio concentration",
-      "headline": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad587f616e3440cc360f0ff35dfea0b6b74fe3d149384b71c46c2afc9e0ca425",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad587f616e3440cc360f0ff35dfea0b6b74fe3d149384b71c46c2afc9e0ca425",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Exploring the top movers within the dow jones index during today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Can Apple Stock Reach $400 This Year?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29ab2cb310108052c37f125dd9c00f6912f6b7902c5c4f2eb07997898669f2e0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple (AAPL) Seeks Injunction In AI Trade Secret Lawsuit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2a078d4a7c9e31e5f9e1ce094226db5e100d47274a0bcc96c6cf4fcba83b2fb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db0ba1c411e5ec9d8da5abf6b148d9dde7b9fe63bd018c5db2927e8205f7137b",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
       "confidence": 40,
-      "reason": "Jobs report",
-      "headline": "Jobs Numbers -23K for July, -103K in Previous Revisions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19d8db68570a5f97d1c234f404a868ed06957175c1f6a0a35ceed2f98626828b",
+      "reason": "Potential AI bubble burst and labor market shift",
+      "headline": "These Will Be Among The First Casualties When The AI Bubble Bursts",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d743ba4b157a90b2918b6c57bb1d409f53d2f5fa43ba0e09497aa6ef45b184dc",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "These Will Be Among The First Casualties When The AI Bubble Bursts",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d743ba4b157a90b2918b6c57bb1d409f53d2f5fa43ba0e09497aa6ef45b184dc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A Weakening Labor Market, Or A Demographic Shift?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=547045b08d2decea4ccc5e93073c7f0b51917b9b7994caf3517d0a0e1bde3a2e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Allstate: Strong Operating Performance Is Not Sustainable In The Long Run",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=75112f211ab1206e9d7df8deccc20030ebfab71d0ff35f34ab9d65c0f7d19d52",
+          "used_by_ai": true
+        },
         {
           "headline": "Jobs Numbers -23K for July, -103K in Previous Revisions",
           "source": "Yahoo",
@@ -247,31 +265,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
           "used_by_ai": true
-        },
-        {
-          "headline": "The S&P 500 Faces A Potentially Sharp Volatility Unwind",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4779c15e1e5d21bfba97fb4daf4b575506050ada1130b81ee058940a04365952",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Chinese Buying Lifts Gold And Silver From Technical Support; Jobs Report Shocker And Iran Hopium Trigger Aggressive Stock Buying",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c25f97b83f1b1f23450edbec1c68702b807183120e48fa29b7b03647a60e3ffb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Cools, but the Rebound Structure Remains Intact",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4966beaf912517f9125a2cb0f33b8d50545242b74870cd4f10f018faef89382c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1,
-        "Benzinga": 1,
-        "ChartMill": 1
+        "SeekingAlpha": 3,
+        "Yahoo": 2
       }
     }
   ]
