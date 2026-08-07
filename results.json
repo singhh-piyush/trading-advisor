@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T14:31:35Z",
+  "updated_at": "2026-08-07T15:55:18Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI demand growth",
+      "reason": "AI growth",
       "headline": "Stock Market Today: Dow Down After Surprise July Jobs Reading; AI Stock Cloudflare Soars (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=de8a0c6e7528c605679f714dfb5ae73fd5df6ceddfe17c24db932549b8437233",
@@ -58,11 +58,59 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Market rebound",
+      "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Breadth Cools, but the Rebound Structure Remains Intact",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4966beaf912517f9125a2cb0f33b8d50545242b74870cd4f10f018faef89382c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54a2e3e5caea34a27f13312f8c0f3bc1a55cd8145831b4e38e2306a4a0c984d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Surprise U.S. Job Weakness Casts Serious Doubt On Fed Rate Hikes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f9710605c0f06afde8ec248412e3ebb1e68f17de41bf7cbf9617f4226eec9aba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=208d38df425283917c3e9e4c31f40bd46a93e2315f8041c963a4cb559a204c72",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "ChartMill": 1,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI chip market gain",
+      "reason": "AI chip market",
       "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Jobs Report, Monitor Middle East Developments",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fb38d0e669c6ebb7a77e00e1f4b64b1991a2b958d779c41b6078dc5f53e51b92",
@@ -98,11 +146,91 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI compute",
+      "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f98715d3f63069f4958569334df805fe1f64c906f3b1ecc3ca1deffaecbd641f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Electric Vehicles Today - LiDAR Market Growth Driven By Automated Driving Systems",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a4c4f66d80409f06e90946e43bc7db82f85e838b1a8c58c0ec2c12fe4233595d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SPCX Stock Hasn\u2019t Bottomed Out Yet, But It\u2019s \u2018A Really Great Time To Buy,\u2019 Says This Asset Manager",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=295906ea47a038cd9159424e8cdb8c1673912a2e3f940160571b1bed12845007",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI growth",
+      "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Just How Wide Is the Risk Priced Into Adobe Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a6db8a164cc7fdc44fc8087fa2990e971edf8365914efdd10c32b490e6f1ac2b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft opens fourth Azure data center region in India",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c9d59c1bf36ddaf617217540c7d77ad3df68b1ec344f3ba53ac71064b0669913",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Is Rackspace Technology (RXT) Hiring A New AI Infrastructure Leader?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60d2ca734f97d0e3234a6ea951287eb502d6910afe6b975f24b46decf1719d47",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI spending benefits",
+      "confidence": 60,
+      "reason": "Demand",
       "headline": "Apple Among Three Stocks In Voracious Demand. Funds Also Feast On 14 Others.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c8e51a5c7911f0b7cd49abb0231cf9012f76b82106740c8dedaee2ce40668f6f",
@@ -141,140 +269,6 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI compute demand",
-      "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f98715d3f63069f4958569334df805fe1f64c906f3b1ecc3ca1deffaecbd641f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SPCX Stock Hasn\u2019t Bottomed Out Yet, But It\u2019s \u2018A Really Great Time To Buy,\u2019 Says This Asset Manager",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=295906ea47a038cd9159424e8cdb8c1673912a2e3f940160571b1bed12845007",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Electric Vehicles Today - LiDAR Market Growth Driven By Automated Driving Systems",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a4c4f66d80409f06e90946e43bc7db82f85e838b1a8c58c0ec2c12fe4233595d",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI-driven growth",
-      "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Just How Wide Is the Risk Priced Into Adobe Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6db8a164cc7fdc44fc8087fa2990e971edf8365914efdd10c32b490e6f1ac2b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft opens fourth Azure data center region in India",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c9d59c1bf36ddaf617217540c7d77ad3df68b1ec344f3ba53ac71064b0669913",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Is Rackspace Technology (RXT) Hiring A New AI Infrastructure Leader?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60d2ca734f97d0e3234a6ea951287eb502d6910afe6b975f24b46decf1719d47",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "market trends",
-      "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Cools, but the Rebound Structure Remains Intact",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4966beaf912517f9125a2cb0f33b8d50545242b74870cd4f10f018faef89382c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54a2e3e5caea34a27f13312f8c0f3bc1a55cd8145831b4e38e2306a4a0c984d1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=208d38df425283917c3e9e4c31f40bd46a93e2315f8041c963a4cb559a204c72",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Calls AI 'Bigger Than Oil' In the Race Against China For Tech, Crypto Dominance",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=442a4b5a7d115b39f9037f21dea5d332116f45ae8f06b7e82ee60ef4a7784ddd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1,
-        "CNBC": 1
       }
     }
   ]
