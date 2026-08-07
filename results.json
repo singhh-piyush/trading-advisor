@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T22:34:21Z",
+  "updated_at": "2026-08-07T23:33:10Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,79 +12,20 @@
   "sample": false,
   "items": [
     {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "direction": "up",
       "confidence": 80,
-      "reason": "Record high",
-      "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
+      "reason": "Terafab breaks ground",
+      "headline": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
+      "url": "https://finnhub.io/api/news?id=5b6d9c6400f5ef20c0f002f78c2180769d1bee7bd39a1ac889a86be48791b7b9",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 20 Most Actively Traded ETFs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db96c41effbfdafb08a584485884d73e85d7739ed0088f9dc63d553ed4ddab99",
-          "used_by_ai": false
-        },
-        {
-          "headline": "I've Never Had Such A Low Conviction In A Bull Run",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Caution Ahead: Average 3-Month\u00a0Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=eafaba9ef156c810e38f6394f0d1c1f87f49b6e15d9b3fe7d25ef4126ead3802",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Robotaxi market",
-      "headline": "2 Reasons Tesla Could Monopolize the U.S. Robotaxi Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e92a31ee68ae5ce5466822f8223f8514d55d86b9ae7ac451e5f942449143f7d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "2 Reasons Tesla Could Monopolize the U.S. Robotaxi Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e92a31ee68ae5ce5466822f8223f8514d55d86b9ae7ac451e5f942449143f7d",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5b6d9c6400f5ef20c0f002f78c2180769d1bee7bd39a1ac889a86be48791b7b9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Jumps as Rate Fears Ease",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=34c075a367767697ef7d6087ecc697bec9c084e9c35ac431e4718e1b23497b2c",
           "used_by_ai": true
         },
         {
@@ -98,6 +39,18 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
           "used_by_ai": true
+        },
+        {
+          "headline": "2 Reasons Tesla Could Monopolize the U.S. Robotaxi Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e92a31ee68ae5ce5466822f8223f8514d55d86b9ae7ac451e5f942449143f7d",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla Jumps as Rate Fears Ease",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=34c075a367767697ef7d6087ecc697bec9c084e9c35ac431e4718e1b23497b2c",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -107,10 +60,10 @@
     },
     {
       "ticker": "NVDA",
-      "company": "",
+      "company": "NVIDIA",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
+      "confidence": 70,
+      "reason": "AI theme has a long way to run",
       "headline": "Why Redwire Stock Keeps Gaining",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4f6b238cd73979fc0575c03c45a35f3951899ba0e33163630a3c4d4ceff7fd5e",
@@ -141,22 +94,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
+          "used_by_ai": true
+        },
+        {
           "headline": "We Just Had the Busiest Day for Commercial Air Travel Ever. Here's What It Means for Airline Stocks.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=58b2c1b55cd94e9ed0640d701dd0f0a31801d6bdd744e688733d9fe72749f82e",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 6
       }
     },
     {
       "ticker": "MSFT",
-      "company": "",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
+      "confidence": 70,
+      "reason": "AI theme has a long way to run",
       "headline": "C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f03a51b90ecf92f64037bc4a34b52ca6ded809271a18ab8c4e4d554384d42458",
@@ -199,10 +158,10 @@
     },
     {
       "ticker": "AAPL",
-      "company": "",
+      "company": "Apple",
       "direction": "down",
-      "confidence": 50,
-      "reason": "Legal battle",
+      "confidence": 60,
+      "reason": "Legal battle with OpenAI",
       "headline": "Apple and OpenAI escalate legal battle over devices",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
@@ -236,7 +195,7 @@
           "headline": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b50855c2d2ea6063a581cdc483de0f96c8b43bace2df6883231983977433c353",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -244,11 +203,58 @@
       }
     },
     {
-      "ticker": "AMD",
+      "ticker": "SPY",
       "company": "",
       "direction": "up",
+      "confidence": 60,
+      "reason": "S&P 500 record high",
+      "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 20 Most Actively Traded ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db96c41effbfdafb08a584485884d73e85d7739ed0088f9dc63d553ed4ddab99",
+          "used_by_ai": true
+        },
+        {
+          "headline": "I've Never Had Such A Low Conviction In A Bull Run",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Caution Ahead: Average 3-Month\u00a0Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eafaba9ef156c810e38f6394f0d1c1f87f49b6e15d9b3fe7d25ef4126ead3802",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
       "confidence": 50,
-      "reason": "AI growth",
+      "reason": "AI and quantum growth",
       "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
