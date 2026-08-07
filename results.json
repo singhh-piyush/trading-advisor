@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:13:40Z",
+  "updated_at": "2026-08-07T09:31:29Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Terafab valuation",
+      "confidence": 70,
+      "reason": "New building plans",
       "headline": "Elon Musk\u2019s Terafab Will Be Earth\u2019s Most Valuable Building, 50x the Size of the Pentagon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b47145f70e62b17276f9181ca852b98ffbb25245cc81a8d4158e3d65e6b8a385",
@@ -55,8 +55,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 75,
-      "reason": "AI chip demand",
+      "confidence": 65,
+      "reason": "AI demand and partnerships",
       "headline": "SpaceX Shares Fail to Launch Despite Soaring Revenue. Is the Stock a Buy on the Dip?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=18f3cfeeee7e9909a154cbd4152ff938bdcda5695c725a8b54a897dc090d4f35",
@@ -90,7 +90,7 @@
           "headline": "SoFi and Visa Earnings Point to Consumer Confidence",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4ddca5573b122f6669e59ab9dbf741f76510ee77c0befe170e41d8f5c8dadd19",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -101,8 +101,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Bull thesis",
+      "confidence": 60,
+      "reason": "Strong bull thesis",
       "headline": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ace76c22af42fc5516268dd0f9a0a2bfce4c87a2ca22404fd54b8594cd824027",
@@ -136,7 +136,7 @@
           "headline": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fc20dcbede2ce6d6d8d22727379e746dbfa504ebe3f6374be94d023d79177a23",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -147,8 +147,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 65,
-      "reason": "Chip demand",
+      "confidence": 55,
+      "reason": "Focus on AI and chipmaking",
       "headline": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3c8475d010eeb292a5a164fa8c3070047dec1571403aafb605fc20afb8feacd3",
@@ -167,6 +167,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Advanced Micro Devices: Trim Before The Hype Ends",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0d3f74ed752ecd83b64215474104eebd5dd6be3f2feadc7179b3d264611ab8a3",
+          "used_by_ai": true
+        },
+        {
           "headline": "Earnings Have Been Excellent. Why Stocks Aren\u2019t Showing It.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c5d21850e45b332b8a9f633b2086e774a8eee721923745bc549ddc740937164a",
@@ -177,23 +183,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cbc3cdd517e145a55084823794d55c15daa7298bef733eb6d4d7bc7bc185ffe0",
           "used_by_ai": true
-        },
-        {
-          "headline": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=394dc06703c81357537a403b57b313c16493c77f9209c06454024d7ea4a83ef3",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "Mounting pressures",
       "headline": "Snap\u2019s 2 Big Problems That Scream \u2018Stay Away From the Stock\u2019",
       "source": "Yahoo",
@@ -239,7 +240,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 55,
+      "confidence": 45,
       "reason": "Market uncertainty",
       "headline": "Chasing 17.24% Yield? XDTE Holders Are Getting Their Own Money Back\u2014and Paying for It",
       "source": "Yahoo",
