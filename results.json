@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T05:16:41Z",
+  "updated_at": "2026-08-07T06:45:42Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -13,25 +13,71 @@
   "items": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "NVIDIA",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
+      "confidence": 80,
+      "reason": "AI demand",
+      "headline": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1de9b845ca87b50586b1ed8f8e33884d07c9ad0b9bdae2847810bb8bfa40cbac",
+      "url": "https://finnhub.io/api/news?id=858e27613e37dd146ee55524d56f32bb0369f30ff9b7e0888035133686e0a2e7",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
+          "headline": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1de9b845ca87b50586b1ed8f8e33884d07c9ad0b9bdae2847810bb8bfa40cbac",
+          "url": "https://finnhub.io/api/news?id=858e27613e37dd146ee55524d56f32bb0369f30ff9b7e0888035133686e0a2e7",
           "used_by_ai": true
         },
         {
-          "headline": "3 Overlooked Stocks Poised to Follow Nebius Higher",
+          "headline": "SharonAI Holdings Inc (SHAZ) (Q2 2026) Earnings Call Highlights: AI Capacity Surges to 212MW ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecb94f62609ee6fd1a5adbc850c46b13ebac42fcfd166c9313eeef356983bfc7",
+          "url": "https://finnhub.io/api/news?id=a3f4cd8e45150327b978a43758c2806c4a73b892ed6a38cf846f09a1c2fa25a8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c8475d010eeb292a5a164fa8c3070047dec1571403aafb605fc20afb8feacd3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Is Focused Correctly So I Continue Loading Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=246549b90e34325bf835fcf716def1663a7715061357b11688a8dcb0f5fc5052",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SoFi and Visa Earnings Point to Consumer Confidence",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4ddca5573b122f6669e59ab9dbf741f76510ee77c0befe170e41d8f5c8dadd19",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Strong bull thesis",
+      "headline": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ace76c22af42fc5516268dd0f9a0a2bfce4c87a2ca22404fd54b8594cd824027",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ace76c22af42fc5516268dd0f9a0a2bfce4c87a2ca22404fd54b8594cd824027",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Core Bull Thesis Around Microsoft Remains Very Strong at $500",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6af61f4149856b962e7d5a269047765664d6164a15d4b600309cd9bb1cd14333",
           "used_by_ai": true
         },
         {
@@ -41,61 +87,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Should Pay Attention.",
+          "headline": "Five9 Q2 Earnings Call Highlights",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9580dfc476605b944309badbd7ef5621f279037e47107f6a7d4e333a5d10ef65",
+          "url": "https://finnhub.io/api/news?id=cdb6022ea065ec85d1ffe6c237d8032c30a5d9e3eaab02be4c99c0561954f22d",
           "used_by_ai": true
         },
         {
-          "headline": "Why Peloton Stock Plunged Today",
+          "headline": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de8382a15bac1576182560127e06feb929b86854dc7b5689a926f58659a7c657",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "AI competition",
-      "headline": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=394dc06703c81357537a403b57b313c16493c77f9209c06454024d7ea4a83ef3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=394dc06703c81357537a403b57b313c16493c77f9209c06454024d7ea4a83ef3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Buys Toronto AI Chip Startup Taalas \u2014 Retail Says It\u2019s A Move To \u2018Compete More Directly With Nvidia\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7db817e5af1c373729d28096b1b4bcb5362f99eb88bf97e6f820f08df36a6e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia dominates AI chips, but BofA sees AMD closing in",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7682473df258ccd46df4cf66a3a1bf90ec0b1b17556f50669717dda624feb80",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2164778753ac50877c8b8153c00b73bc134fdc1f44ae31aa7835f371fc8d0fe",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia (NVDA) Bets on Design Tools While AMD (AMD) Scales the Hardware Stack",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce29190a9fe3b1e8ef60dc1928da3571a9e42cc428719de35da69ec468a1af25",
+          "url": "https://finnhub.io/api/news?id=fc20dcbede2ce6d6d8d22727379e746dbfa504ebe3f6374be94d023d79177a23",
           "used_by_ai": true
         }
       ],
@@ -107,35 +107,35 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "EV demand",
-      "headline": "Ford's first $30,000 shot at increasing U.S. EV demand has a name",
+      "confidence": 60,
+      "reason": "SpaceX plans",
+      "headline": "The New Wild West: Texas Experiments With Raw Capitalism",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15e79e1f6e244256b5514528c7052c7b1f2e1f20ccbe2513d71cca13bfc74e3f",
+      "url": "https://finnhub.io/api/news?id=150ab5c274f50f32ba7dc1d0b62589d098a4a241ab233f45d9d41f8e6740aed8",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Ford's first $30,000 shot at increasing U.S. EV demand has a name",
+          "headline": "The New Wild West: Texas Experiments With Raw Capitalism",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15e79e1f6e244256b5514528c7052c7b1f2e1f20ccbe2513d71cca13bfc74e3f",
+          "url": "https://finnhub.io/api/news?id=150ab5c274f50f32ba7dc1d0b62589d098a4a241ab233f45d9d41f8e6740aed8",
           "used_by_ai": true
         },
         {
-          "headline": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity",
+          "headline": "\u2018Shark Tank\u2019 Judge Kevin O\u2019Leary Passed On SpaceX IPO, But May Buy Soon: \u2018The Bigger Opportunity Is\u2026\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1982c5bf89e8796ff590a2776d739c0d3115380f06fd6965fdf7a5732b35a7d9",
+          "url": "https://finnhub.io/api/news?id=cc3152641383d86483619bb675b5044935bba39a50e92232999cc8789a73fa3c",
           "used_by_ai": true
         },
         {
-          "headline": "Why Rivian's R2 EV could be its new star vehicle",
+          "headline": "Alphabet and Tesla: A Single Divergence Tells Us So Much About Current Reality",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=096ae27e4d2f140b09c0bc767d26cebef28dd783ee2acf94f54cba7cf10e6f60",
+          "url": "https://finnhub.io/api/news?id=98721180ef16b1b076d6ff39557b71f273fddf371e4f5415691ae9e49f5a44aa",
           "used_by_ai": true
         },
         {
-          "headline": "Huge News For Tesla Stock Fans",
+          "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=434418d23666274d3caf8681f7f542c093550c0d8491c70b689327bb79046340",
+          "url": "https://finnhub.io/api/news?id=bf86a14487790b8e0d808c618e136f01fb7ce1c72909afb266c436817dd2c96f",
           "used_by_ai": true
         }
       ],
@@ -146,14 +146,26 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 45,
-      "reason": "App Store revenue",
-      "headline": "$2.9 Billion In Payouts, A Lagging Stock: The SNAP Trade-Off",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Mounting pressures",
+      "headline": "Snap\u2019s 2 Big Problems That Scream \u2018Stay Away From the Stock\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8206ec0143975facf0368e2c2e36063820241351141604e981b25c49323245cb",
+      "url": "https://finnhub.io/api/news?id=fcd36648a7d95af6f5a6df29b074d08ba40e566f3a9b7bd968db8c5677818baf",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Snap\u2019s 2 Big Problems That Scream \u2018Stay Away From the Stock\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fcd36648a7d95af6f5a6df29b074d08ba40e566f3a9b7bd968db8c5677818baf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple\u2019s Capex Strategy Worked But Other Pressures Are Mounting Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dbf0b953fa6bde0e0f945a349d3bf46e07cf69766808de4d8a1de6f4df989388",
+          "used_by_ai": true
+        },
         {
           "headline": "$2.9 Billion In Payouts, A Lagging Stock: The SNAP Trade-Off",
           "source": "Yahoo",
@@ -171,18 +183,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c58064eaebe5202bcaa12490ed62a9a8c04d19731bd9afcdb2ca62be35e78e1",
           "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4ba83db200f28de293f86740f45bcc8db4849764f38f75274098a3f466675224",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple App Store revenue ticks up despite falling downloads",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1a983ab8a1e7894ed408cf54013c665ee7233f4328bdb72384cbf8f4f8e84ba5",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -190,11 +190,51 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI demand",
+      "headline": "AMD Is Focused Correctly So I Continue Loading Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=246549b90e34325bf835fcf716def1663a7715061357b11688a8dcb0f5fc5052",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD Is Focused Correctly So I Continue Loading Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=246549b90e34325bf835fcf716def1663a7715061357b11688a8dcb0f5fc5052",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Earnings Have Been Excellent. Why Stocks Aren\u2019t Showing It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5d21850e45b332b8a9f633b2086e774a8eee721923745bc549ddc740937164a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Chinese AI Chipmakers Poised to Gain From Beijing\u2019s Tech Push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cbc3cdd517e145a55084823794d55c15daa7298bef733eb6d4d7bc7bc185ffe0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=394dc06703c81357537a403b57b313c16493c77f9209c06454024d7ea4a83ef3",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
       "confidence": 40,
-      "reason": "market uncertainty",
+      "reason": "Market uncertainty",
       "headline": "Chasing 17.24% Yield? XDTE Holders Are Getting Their Own Money Back\u2014and Paying for It",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4c52be3b073435349feea41ce7fbad0157d16ef2e6aeeefccae97dc24c6420b4",
@@ -219,61 +259,20 @@
           "used_by_ai": true
         },
         {
-          "headline": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
-          "used_by_ai": true
-        },
-        {
           "headline": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course \u2014 SOUN, GOOGL, SPCX, NVDA In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=51972e89f837da50d6b9d834fcb567a9de412b836b839200b393bd74f5d571f3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "Reuters": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "mixed news",
-      "headline": "Five9 Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdb6022ea065ec85d1ffe6c237d8032c30a5d9e3eaab02be4c99c0561954f22d",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Five9 Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cdb6022ea065ec85d1ffe6c237d8032c30a5d9e3eaab02be4c99c0561954f22d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc20dcbede2ce6d6d8d22727379e746dbfa504ebe3f6374be94d023d79177a23",
           "used_by_ai": true
         },
         {
           "headline": "Credit Says The Capital Goods Recession Story Doesn't Hold Up",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f1f73534cf7e3e40d71b94d7296363b4b05826a2d9014c0ad6219c7b224551b1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Unspoken Agreement You've Made Holding Meta Platforms Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56b0fb68ec51c927b6ff45195935469ba69eba2bfa3fe4577b872cfc4003c98d",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "SeekingAlpha": 1
       }
     }
