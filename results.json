@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:53:56Z",
+  "updated_at": "2026-08-07T17:49:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,70 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "SPY",
+      "company": "",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI growth",
+      "reason": "Weak jobs report",
+      "headline": "Jobs Numbers -23K for July, -103K in Previous Revisions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19d8db68570a5f97d1c234f404a868ed06957175c1f6a0a35ceed2f98626828b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Jobs Numbers -23K for July, -103K in Previous Revisions",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=19d8db68570a5f97d1c234f404a868ed06957175c1f6a0a35ceed2f98626828b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weak Jobs Report Seals The Deal On No Rate Hikes This Year",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7ec80e27953a2eabb92df541da8eca10599378bf3113f287c4f9867d655796e1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Breadth Cools, but the Rebound Structure Remains Intact",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4966beaf912517f9125a2cb0f33b8d50545242b74870cd4f10f018faef89382c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54a2e3e5caea34a27f13312f8c0f3bc1a55cd8145831b4e38e2306a4a0c984d1",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1,
+        "Reuters": 1,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI demand",
       "headline": "Top Midday Stories: Stocks Rise on Dismal Jobs Report; Doximity Shares Soar After CEO Touts New AI Search Tool",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0aea9636d79d1cb88c5b9e5e1ecdae685821d015ef5c60b52ef05611d780a249",
@@ -41,9 +96,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "2 Stocks Positioned for the Rise as AI Self\u2011Healing Systems Move From Concept to Core Infrastructure",
+          "headline": "AMD Buys AI Chip Startup Taalas\u2014Here's Why It Matters To NVDA Investors",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db68eb39b2458cabcec00fe9ef2d25969741c9c659f837108c2fec70b07f2644",
+          "url": "https://finnhub.io/api/news?id=b8cd12a80a0cfbab131f06af9535aa84f77246034875dec8c288a597e06147e7",
           "used_by_ai": true
         }
       ],
@@ -53,10 +108,10 @@
     },
     {
       "ticker": "AMD",
-      "company": "AMD",
+      "company": "",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI acquisition",
+      "reason": "AI chip acquisition",
       "headline": "ETFs to Buy as AMD Shares Sink 7% Despite Q2 Earnings Beat",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=535f481dc24eece0a6801dd507c95f6e9487215b248b70f9fa071b80abdfc1a4",
@@ -99,10 +154,10 @@
     },
     {
       "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
+      "company": "",
+      "direction": "up",
       "confidence": 60,
-      "reason": "competition",
+      "reason": "SpaceX AI compute",
       "headline": "SpaceX\u2019s Terafab will rely on natural gas power plants, not Tesla solar panels",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=09c6e904c9ba3011c7397dbe7bf42473c3d23775af71c647f65a2f49b3d79334",
@@ -145,66 +200,58 @@
       }
     },
     {
-      "ticker": "SPY",
+      "ticker": "AAPL",
       "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "jobs report",
-      "headline": "Jobs Numbers -23K for July, -103K in Previous Revisions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19d8db68570a5f97d1c234f404a868ed06957175c1f6a0a35ceed2f98626828b",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Mentioned in various stories",
+      "headline": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Jobs Numbers -23K for July, -103K in Previous Revisions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19d8db68570a5f97d1c234f404a868ed06957175c1f6a0a35ceed2f98626828b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Cools, but the Rebound Structure Remains Intact",
+          "headline": "Exploring the top movers within the dow jones index during today's session.",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4966beaf912517f9125a2cb0f33b8d50545242b74870cd4f10f018faef89382c",
+          "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
           "used_by_ai": true
         },
         {
-          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+          "headline": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54a2e3e5caea34a27f13312f8c0f3bc1a55cd8145831b4e38e2306a4a0c984d1",
+          "url": "https://finnhub.io/api/news?id=db0ba1c411e5ec9d8da5abf6b148d9dde7b9fe63bd018c5db2927e8205f7137b",
           "used_by_ai": true
         },
         {
-          "headline": "A Bad July Jobs Report Is Exactly What This Market Needed",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e479df23f8abef7d5eed15df215dbdd6487e13f3b3e7cb8feaab0ab642b85d32",
+          "headline": "Sony\u2019s PlayStation Store Now Faces Antitrust Suits in Five Countries",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b18da6ca80494e16b8f9ab6e5ac7f530a4fb29aa25a46978874d250a1444d86b",
           "used_by_ai": true
         },
         {
-          "headline": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+          "headline": "Microsoft Stock's Peak Margin And Its Azure Bill Are The Same Story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85d69e978d8d45189fb1ac302c1bdbab625a224b6320fc2aec8a95faa83f2181",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Papa Murphy's abruptly closes all Tennessee's locations",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e5dbbd1d92be57c29c5c11fbf2ee97549a8eb0d099676cbfc3f22785d9915ff",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
         "ChartMill": 1,
-        "SeekingAlpha": 1,
-        "Reuters": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "MSFT",
-      "company": "Microsoft",
+      "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI investment",
+      "confidence": 30,
+      "reason": "Mentioned in various stories",
       "headline": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bfc6c1c81e5a718b6165dbf210fb9b91ecfa35e3bf95e88eb71d2076ec691571",
@@ -227,16 +274,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bd294e0344ca19c3763772c4bc4feca0dce3d3e7b57fbf474c25c35c4534b841",
           "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft, Amazon, Meta, Google Are 'Collectively Overinvesting' In AI: 'That's Betting, Not Investing,' Says 'Dean of Valuation'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc38c4453abb22c5e7fbe1db1716b356a0a19897a010289d815ab76bed172d40",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     }
   ]
