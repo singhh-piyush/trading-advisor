@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T20:40:11Z",
+  "updated_at": "2026-08-07T21:38:17Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -29,9 +29,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Tesla Jumps as Rate Fears Ease",
+          "headline": "SpaceX\u2019s Texas Terafab Could Become World\u2019s Largest Building",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=34c075a367767697ef7d6087ecc697bec9c084e9c35ac431e4718e1b23497b2c",
+          "url": "https://finnhub.io/api/news?id=a95cef8eb06d2a48ba591153ffed7364f10f96f486f1617ca9dda86293cf6dfa",
           "used_by_ai": true
         },
         {
@@ -41,9 +41,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX\u2019s Texas Terafab Could Become World\u2019s Largest Building",
+          "headline": "Tesla Jumps as Rate Fears Ease",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a95cef8eb06d2a48ba591153ffed7364f10f96f486f1617ca9dda86293cf6dfa",
+          "url": "https://finnhub.io/api/news?id=34c075a367767697ef7d6087ecc697bec9c084e9c35ac431e4718e1b23497b2c",
           "used_by_ai": false
         },
         {
@@ -59,57 +59,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 70,
-      "reason": "US pressure and AI concerns",
-      "headline": "Nvidia Faces New Pressure From U.S. Government",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8dd001fa7bb111253999c4c6ae39e618ce9d380cb4757de2e33efedfc865dbd",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia Faces New Pressure From U.S. Government",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a8dd001fa7bb111253999c4c6ae39e618ce9d380cb4757de2e33efedfc865dbd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Michael Burry Sounds Alarm on Major AI Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d04af52a3bc24c58728b3319f664d3fea346fd5f124519418e432fc3ebe9ebf8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Rocket Lab Stock Took Flight on Friday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce56f659586a82d67e427dd676ca63a202afcf134cb9bcb943ee308f81dfb0e8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Pfizer's Next Weight-Loss Weapon: How Berobenatide Stacks Up Against Novo Nordisk's Wegovy and Eli Lilly's Zepbound",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95eb0a6e7ed26b9db1538aa2bc11fd40ec517b5700ac99dccdad84c6f0f2e0c1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "U.S. Economy Unexpectedly Lost 23,000 Jobs in July, Signaling a Weakening Labor Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=462380997e2673ebc08bef958c0dfa5cbedf3568ed4d705c7bcfe2799cd667cf",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI demand strong",
+      "confidence": 70,
+      "reason": "AI cash flow",
       "headline": "Jim Cramer Was \u201cBlown Away\u201d By Microsoft Corporation (NASDAQ:MSFT)\u2019s Financials",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=23da734117545a513e63b4291871cdf85e94cd94e196f47120282e7678b61fe9",
@@ -145,11 +99,105 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "US government pressure",
+      "headline": "Nvidia Faces New Pressure From U.S. Government",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8dd001fa7bb111253999c4c6ae39e618ce9d380cb4757de2e33efedfc865dbd",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia Faces New Pressure From U.S. Government",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8dd001fa7bb111253999c4c6ae39e618ce9d380cb4757de2e33efedfc865dbd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Michael Burry Sounds Alarm on Major AI Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d04af52a3bc24c58728b3319f664d3fea346fd5f124519418e432fc3ebe9ebf8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Pfizer's Next Weight-Loss Weapon: How Berobenatide Stacks Up Against Novo Nordisk's Wegovy and Eli Lilly's Zepbound",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=95eb0a6e7ed26b9db1538aa2bc11fd40ec517b5700ac99dccdad84c6f0f2e0c1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Rocket Lab Stock Took Flight on Friday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce56f659586a82d67e427dd676ca63a202afcf134cb9bcb943ee308f81dfb0e8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "U.S. Economy Unexpectedly Lost 23,000 Jobs in July, Signaling a Weakening Labor Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=462380997e2673ebc08bef958c0dfa5cbedf3568ed4d705c7bcfe2799cd667cf",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "ETF inflows",
+      "headline": "The 20 Most Actively Traded ETFs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The 20 Most Actively Traded ETFs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
+          "used_by_ai": true
+        },
+        {
+          "headline": "I've Never Had Such A Low Conviction In A Bull Run",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Caution Ahead: Average 3-Month\u00a0Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eafaba9ef156c810e38f6394f0d1c1f87f49b6e15d9b3fe7d25ef4126ead3802",
+          "used_by_ai": true
+        },
+        {
+          "headline": "QUICK SPARK: SPY, GLD Among Biggest Winners as $15.3 Billion Floods Into ETFs in One Day",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3f101394aa2ae23fd45c38b26543b6c07c81d55d103b7210c5e30f1accabe1d9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ffe919333b39a4784c80efe3fd541bb87c4541a057dc8d5a69516d91906efc9c",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 1,
+        "SeekingAlpha": 2,
+        "Benzinga": 2
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Mentions in various reports",
+      "reason": "AI demand",
       "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
@@ -189,7 +237,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentions in various reports",
+      "reason": "Mixed news",
       "headline": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b50855c2d2ea6063a581cdc483de0f96c8b43bace2df6883231983977433c353",
@@ -229,54 +277,6 @@
       "source_breakdown": {
         "Yahoo": 4,
         "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Economic concerns",
-      "headline": "I've Never Had Such A Low Conviction In A Bull Run",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "I've Never Had Such A Low Conviction In A Bull Run",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Caution Ahead: Average 3-Month\u00a0Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=eafaba9ef156c810e38f6394f0d1c1f87f49b6e15d9b3fe7d25ef4126ead3802",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ffe919333b39a4784c80efe3fd541bb87c4541a057dc8d5a69516d91906efc9c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "These Will Be Among The First Casualties When The AI Bubble Bursts",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d743ba4b157a90b2918b6c57bb1d409f53d2f5fa43ba0e09497aa6ef45b184dc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 20 Most Actively Traded ETFs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Benzinga": 1,
-        "Yahoo": 1
       }
     }
   ]
