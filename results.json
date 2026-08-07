@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:02:05Z",
+  "updated_at": "2026-08-07T14:31:35Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,97 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "AI demand growth",
+      "headline": "Stock Market Today: Dow Down After Surprise July Jobs Reading; AI Stock Cloudflare Soars (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de8a0c6e7528c605679f714dfb5ae73fd5df6ceddfe17c24db932549b8437233",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stock Market Today: Dow Down After Surprise July Jobs Reading; AI Stock Cloudflare Soars (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=de8a0c6e7528c605679f714dfb5ae73fd5df6ceddfe17c24db932549b8437233",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: After a Blowout Quarter, Shopify Will End The Year at This Price",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e41d834879a0544c3539a2f87449a513cd03b7b28384759988db045686169e0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc0a385eddec39e6454a77f77ef1a753d42a583e89598823d20e8e2c09297652",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Buys AI Chip Startup Taalas\u2014Here's Why It Matters To NVDA Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b8cd12a80a0cfbab131f06af9535aa84f77246034875dec8c288a597e06147e7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8af7de367e1a4816a5a35d07546be5919128f3370d18e10e49b00a509916d64e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI chip market gain",
+      "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Jobs Report, Monitor Middle East Developments",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb38d0e669c6ebb7a77e00e1f4b64b1991a2b958d779c41b6078dc5f53e51b92",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Jobs Report, Monitor Middle East Developments",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fb38d0e669c6ebb7a77e00e1f4b64b1991a2b958d779c41b6078dc5f53e51b92",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Can MU Stock Compound Its Way Higher?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8ad9cb22ed7cabb93b64f2a636ab6a2a31f87786103b7cf4d0dcd921f6aa1e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Stock Gains but AMD Is Coming for More of the AI Chip Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af1b8734ae89e668a41a61ed86eaff1673c7c4796e3efee380fd6c561ad8f785",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Adds AI Inference Silicon With Taalas Acquisition",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80bfd85a73275b2e1136fda347031b2222c77b6cd2e8058c52e357076bf4ae9f",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Big Tech wins",
+      "confidence": 70,
+      "reason": "AI spending benefits",
       "headline": "Apple Among Three Stocks In Voracious Demand. Funds Also Feast On 14 Others.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c8e51a5c7911f0b7cd49abb0231cf9012f76b82106740c8dedaee2ce40668f6f",
@@ -58,62 +144,28 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI growth",
-      "headline": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14470c7fe676a501eb55e25a464e454ea42ad2fcf7ed94d61e2717b1eb0b071b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14470c7fe676a501eb55e25a464e454ea42ad2fcf7ed94d61e2717b1eb0b071b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Space Stocks to Buy in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=177452f580e4cfda37e8c73dfc04faf13ee8c23ec4e390d7ad9ddbcae9d7ca69",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Honeywell Aerospace Tumbles on Disappointing Debut Report, but Bull Case Remains Intact",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8182d2a0c7f4531ca045ccd8f2b486ecd2b42819eb3781cd5bc249ff1831f23",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The S&P 500 Index Just Did Something for Only the 3rd Time in the Past 30 Years. Here's What History Says Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9daad70f96b5b3a90a8570da0ca847e83dd4c4ac255538de117e98400b99d7a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon CEO Andy Jassy Just Made a Shocking Trillion-Dollar Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f997011994a30ca69a2f8f4716b927c5b379be401f28dff110f3f168d2b6099",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
       "confidence": 60,
-      "reason": "EV growth",
-      "headline": "SPCX Stock Hasn\u2019t Bottomed Out Yet, But It\u2019s \u2018A Really Great Time To Buy,\u2019 Says This Asset Manager",
+      "reason": "AI compute demand",
+      "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=295906ea47a038cd9159424e8cdb8c1673912a2e3f940160571b1bed12845007",
+      "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f98715d3f63069f4958569334df805fe1f64c906f3b1ecc3ca1deffaecbd641f",
+          "used_by_ai": true
+        },
         {
           "headline": "SPCX Stock Hasn\u2019t Bottomed Out Yet, But It\u2019s \u2018A Really Great Time To Buy,\u2019 Says This Asset Manager",
           "source": "Yahoo",
@@ -124,18 +176,6 @@
           "headline": "Electric Vehicles Today - LiDAR Market Growth Driven By Automated Driving Systems",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a4c4f66d80409f06e90946e43bc7db82f85e838b1a8c58c0ec2c12fe4233595d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory \u2014 and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b1554d302732370914dfd3d8b12bcb2421c5036e2f749de1c93d134c1430565",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Software-Defined Vehicle Market to Reach $1.70 Trillion by 2035, Driven by Centralized Computing, AI and OTA Updates - Insights by SDV Type, E/E Architecture, Vehicle Type, Offering, Application, and Region",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afde1ccd4ed0d7ebcbfdc9dde70ece747d614f2685a4678ce0210af18e6c8d46",
           "used_by_ai": true
         }
       ],
@@ -148,12 +188,24 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "Cloud growth",
-      "headline": "Microsoft opens fourth Azure data center region in India",
+      "reason": "AI-driven growth",
+      "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9d59c1bf36ddaf617217540c7d77ad3df68b1ec344f3ba53ac71064b0669913",
+      "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a94d36d20efed6f057e959b2548b02b0c6f181b7c8572cb703625795715ab22",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Just How Wide Is the Risk Priced Into Adobe Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a6db8a164cc7fdc44fc8087fa2990e971edf8365914efdd10c32b490e6f1ac2b",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft opens fourth Azure data center region in India",
           "source": "Yahoo",
@@ -165,18 +217,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=60d2ca734f97d0e3234a6ea951287eb502d6910afe6b975f24b46decf1719d47",
           "used_by_ai": true
-        },
-        {
-          "headline": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28901c1286a03d569a4a65fefb832eeedb2b84ccdae084af064a8743efa656cb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Debt Indigestion Forces Wall Street to Rethink Bond Sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6e47cf7f7cfbde61b8e0078877c32146c6b8f3cfdc026c4a9ce571b12569e9b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -184,69 +224,40 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI strategy",
-      "headline": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14470c7fe676a501eb55e25a464e454ea42ad2fcf7ed94d61e2717b1eb0b071b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14470c7fe676a501eb55e25a464e454ea42ad2fcf7ed94d61e2717b1eb0b071b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock tumbles because of SpaceX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef22cd6cb2016babc32fd39303aa5e154b5d036e312e5155b559db1a3e646a56",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD to acquire Taalas for specialised AI inference silicon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b7577cd8ba43d313933c34ac0948f864f1beb2a950784c811e5c450bf801dfb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c8475d010eeb292a5a164fa8c3070047dec1571403aafb605fc20afb8feacd3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Is Focused Correctly So I Continue Loading Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=246549b90e34325bf835fcf716def1663a7715061357b11688a8dcb0f5fc5052",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices: Trim Before The Hype Ends",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=0d3f74ed752ecd83b64215474104eebd5dd6be3f2feadc7179b3d264611ab8a3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market trends",
-      "headline": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks",
+      "reason": "market trends",
+      "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=208d38df425283917c3e9e4c31f40bd46a93e2315f8041c963a4cb559a204c72",
+      "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Want $2,000 a Month From SPYI? Here\u2019s the Exact Investment It Takes, and the Catch at That Size",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6225d8f85d735451b877361d0bbd902c96f16c42718726b65bed5095cb7ce399",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Breadth Cools, but the Rebound Structure Remains Intact",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4966beaf912517f9125a2cb0f33b8d50545242b74870cd4f10f018faef89382c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54a2e3e5caea34a27f13312f8c0f3bc1a55cd8145831b4e38e2306a4a0c984d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+          "used_by_ai": true
+        },
         {
           "headline": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks",
           "source": "Yahoo",
@@ -258,29 +269,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=442a4b5a7d115b39f9037f21dea5d332116f45ae8f06b7e82ee60ef4a7784ddd",
           "used_by_ai": true
-        },
-        {
-          "headline": "Why The Federal Reserve Might Hike Rates After The July CPI Report",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b79a6cfd5154d938a7678508720307af5f37004d433fa1953d4328a22224feec",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Japan Just Taught Us About Trusting A Fiat Currency",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cce95ec3ae85560061187839e5f28dbacd0594f51d7628fa669e129a6e9740a3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Chasing 17.24% Yield? XDTE Holders Are Getting Their Own Money Back\u2014and Paying for It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c52be3b073435349feea41ce7fbad0157d16ef2e6aeeefccae97dc24c6420b4",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "Yahoo": 4,
+        "ChartMill": 1,
+        "CNBC": 1
       }
     }
   ]
