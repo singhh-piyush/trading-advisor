@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:29:42Z",
+  "updated_at": "2026-08-08T17:59:31Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -81,27 +81,69 @@
           "used_by_ai": true
         },
         {
-          "headline": "Cisco, Tencent Headline Muted Earnings Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=92ebcf9e88eb5cc5530a414cce8df0a9c9e063c37e41df80756b63479a5d5bdc",
-          "used_by_ai": true
-        },
-        {
           "headline": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=796097171eca1952c6def2b4e73802c7187846570b255d2a3841cf7f033d0154",
           "used_by_ai": true
         },
         {
-          "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+          "headline": "Cisco, Tencent Headline Muted Earnings Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=92ebcf9e88eb5cc5530a414cce8df0a9c9e063c37e41df80756b63479a5d5bdc",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI growth",
+      "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
+          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=045eb16df8a6d069e66c9f178c0b18009f9889f75a32dc178e892f16efba52ba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The AI Capex Waterfall Is Raining Future Dividends",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Chevron became the AI darling of Big Oil",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93ffd51c2fff22f47955c981f24e20c6d9ad84c2497841d2e5b537c97f50b5e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Corporation: A Buy And Hold Forever Type Of Stock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1a0b8a68eb1e66057af35662c11baeffb8050870b6ee1ba46147a6a23fa9bd4c",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 2,
+        "Benzinga": 1,
+        "SeekingAlpha": 2
       }
     },
     {
@@ -110,11 +152,17 @@
       "direction": "up",
       "confidence": 50,
       "reason": "AI revenue",
-      "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
+      "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=472c30143e27f764aa8b18f3bdadf9787317785fb717e894d06027778b9ef95a",
+      "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
+          "used_by_ai": true
+        },
         {
           "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
           "source": "Yahoo",
@@ -141,55 +189,8 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Capex Waterfall Is Raining Future Dividends",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Chevron became the AI darling of Big Oil",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93ffd51c2fff22f47955c981f24e20c6d9ad84c2497841d2e5b537c97f50b5e9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Corporation: A Buy And Hold Forever Type Of Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1a0b8a68eb1e66057af35662c11baeffb8050870b6ee1ba46147a6a23fa9bd4c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=313e670aedf40da2764befc2db110e2220983f61cee92a88ec47d28580e30cca",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 3
       }
     },
     {
