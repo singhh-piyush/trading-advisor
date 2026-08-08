@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:57:39Z",
+  "updated_at": "2026-08-08T22:35:39Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,47 +8,53 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "revenue surge",
-      "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+      "reason": "Nvidia's $3B bet",
+      "headline": "Nvidia\u2019s $3 Billion Bet on Lancium Signals the Compute Landlord Thesis Has Reached the Power Layer",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
+      "url": "https://finnhub.io/api/news?id=c5f28c99cb9a038c1a4b6b4f25062cbdcb2cb7237697a09bc8495720f0cd3302",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+          "headline": "Nvidia\u2019s $3 Billion Bet on Lancium Signals the Compute Landlord Thesis Has Reached the Power Layer",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
+          "url": "https://finnhub.io/api/news?id=c5f28c99cb9a038c1a4b6b4f25062cbdcb2cb7237697a09bc8495720f0cd3302",
           "used_by_ai": true
         },
         {
-          "headline": "AMD Just Reported Its Data Center Revenue More Than Doubled Year-Over-Year. What Comes Next.",
+          "headline": "When Leverage Goes Wrong on Wall Street",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3e966c0c80174d0d432ba10a8e1c1375f7aae91b4f451a6c600c2f353eef478",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+          "used_by_ai": false
         },
         {
-          "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
+          "headline": "Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=472c30143e27f764aa8b18f3bdadf9787317785fb717e894d06027778b9ef95a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=4c02b183780351c137f70407acd9a86887fea92817351c175f9c809bb8c42a5c",
+          "used_by_ai": false
         },
         {
-          "headline": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%?",
+          "headline": "Medtronic vs. Intuitive Surgical: Which MedTech Stock Is the Better Buy Right Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d6b5a6048b6ec0f42b833d816015dbb21a1beb75d20f656c020f82eea1395a5",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=3c5b80e1d6367d6c3134d7ed2dbab5b1d0b0d318b656d268af63da5b1b6a3785",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca392249955a82463f7624dde85d7a173cdf38bba73c8a92018dbe721bbb0ceb",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 5
       }
     },
     {
@@ -69,32 +75,106 @@
           "used_by_ai": true
         },
         {
-          "headline": "Bank of America revamps Apple stock price target after earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
-          "used_by_ai": true
-        },
-        {
           "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bank of America revamps Apple stock price target after earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI investment",
+      "headline": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21b63acb01d792ec0be16094e9eec1c383f49c2215d950da146ff36e3f0603de",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=21b63acb01d792ec0be16094e9eec1c383f49c2215d950da146ff36e3f0603de",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=578b9187dd7746b86427af0d996f22ea8c1b61fa6020014cb3e61caa999a42d9",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Q2 estimates topped",
+      "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Just Reported Its Data Center Revenue More Than Doubled Year-Over-Year. What Comes Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e3e966c0c80174d0d432ba10a8e1c1375f7aae91b4f451a6c600c2f353eef478",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=472c30143e27f764aa8b18f3bdadf9787317785fb717e894d06027778b9ef95a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     },
     {
@@ -103,11 +183,17 @@
       "direction": "down",
       "confidence": 60,
       "reason": "UK sales drop",
-      "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+      "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+      "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
           "source": "Yahoo",
@@ -115,78 +201,14 @@
           "used_by_ai": true
         },
         {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": false
-        },
-        {
           "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5b937ee291c80ceb7243dbd051e1d11ebf968b28fe84033ca11ecc1954b2c691",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "solar plant plans",
-      "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
           "used_by_ai": true
-        },
-        {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5b937ee291c80ceb7243dbd051e1d11ebf968b28fe84033ca11ecc1954b2c691",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3
       }
     },
     {
@@ -195,15 +217,21 @@
       "direction": "up",
       "confidence": 50,
       "reason": "S&P 500 surge",
-      "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+      "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+          "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
           "used_by_ai": true
         },
         {
@@ -223,92 +251,19 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=6b90afb5adf88b9c382b6c51a4983251496583c87746ece1ba80d60018821964",
           "used_by_ai": true
+        },
+        {
+          "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "AI and layoffs",
-      "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=045eb16df8a6d069e66c9f178c0b18009f9889f75a32dc178e892f16efba52ba",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "Benzinga": 2
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "AI mentions",
-      "headline": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=660ae6a5fba8ae4a565df26d348846c1f256aac28066aa0e4dccd016185b45da",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=660ae6a5fba8ae4a565df26d348846c1f256aac28066aa0e4dccd016185b45da",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nokia\u2019s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2af10409d1f94da3597f9369b101a0aadfe9720dd52c8e324aca948ec90d75f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Dutch Bros a Buy After Crashing 19% in 1 Day?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a84ede7017f6ad4e1272c550f0623d77ccbb85e1880ef7b35c524e7e38aaad18",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19d1f1b3387eb2126ac53b99364fba629ff8e3f6a2fe5836327bdf6b810cff06",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "Benzinga": 1,
+        "CNBC": 1,
+        "SeekingAlpha": 3,
+        "Yahoo": 1
       }
     }
   ]
