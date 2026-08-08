@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T01:37:32Z",
+  "updated_at": "2026-08-08T03:24:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,49 +12,50 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "SPY",
+      "company": "",
       "direction": "up",
       "confidence": 80,
-      "reason": "Multiple stocks rise",
-      "headline": "Why QuinStreet Stock Crushed it on Friday",
+      "reason": "S&P 500 record high",
+      "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
+      "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Why QuinStreet Stock Crushed it on Friday",
+          "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
+          "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
           "used_by_ai": true
         },
         {
-          "headline": "Why Corsair Gaming Stock Skyrocketed by 35% Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0f38ce7fd1965ca0463dce2736116d238460160451f136db89d00b338d47c7c",
+          "headline": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7c8d901221e268d5725841a96f36ef2e02dd582f7a02ecfac11a1699499b1f1f",
           "used_by_ai": true
         },
         {
-          "headline": "Why Figs Stock Popped Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74e728a012164f86623f0290bbe4b63447e929c23fec54dbda608501931a3cb8",
+          "headline": "Employment Report: 23K Jobs Shed In July, Worse Than Expected",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=50af67297f7778befdd11fe2e687fa62ce92a85b243cbf59ebe6ac75452f9846",
           "used_by_ai": true
         },
         {
-          "headline": "Why Fluor Stock Rocked the Market Today",
+          "headline": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2f97f0522b950818da463ab1c29f57a500b2a2b7d7d3d1ffec1808563503cab",
+          "url": "https://finnhub.io/api/news?id=db96c41effbfdafb08a584485884d73e85d7739ed0088f9dc63d553ed4ddab99",
           "used_by_ai": true
         },
         {
-          "headline": "Sweetgreen Stumbles Again. Are the Turnaround Chances Gone?",
+          "headline": "The 20 Most Actively Traded ETFs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32ddee4fee0263fa1d22fc9cbd8d1f3abc27fb9d06c87cd06ffd39bc89a7490d",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 2
       }
     },
     {
@@ -62,7 +63,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Positive news",
+      "reason": "Positive robotaxi news",
       "headline": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=61144125cb003b2bdb98238122ac9c48fb2fa28010d0e9d128986db2bc9d0c20",
@@ -104,57 +105,144 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
       "confidence": 60,
-      "reason": "AI trend",
-      "headline": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
+      "reason": "Mixed earnings and sales",
+      "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e4c5e1b50c741cae903325677f360e97b3a77ec2af45200050e890dd60ea0e2",
+      "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q2 2026 Update",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3b927a14a18d57bb82a7fd5ecacd77c7fce9a6ee9183da869696a924d72adf22",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple and OpenAI escalate legal battle over devices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Apple\u2019s 10% Drop Fails to Tell the Whole Story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7a7d8345bc86fdc945bf0085bb48e75072fc3b0544a1120e16288bca5367e636",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Indirect mentions",
+      "headline": "Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fb0514de0642026c805a1c6bab7bc473b253422b79bf4c21b358823394276b9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case Changed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2fb0514de0642026c805a1c6bab7bc473b253422b79bf4c21b358823394276b9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Genius Sports Popped by Almost 10% This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9cc2c1e0fd155b93bc7a546095413ef2bfe9f4ca9884a2da6fbdaf97a2112c12",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why QuinStreet Stock Crushed it on Friday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bdbffaf4ea2dbe87049f8e1753abc628014aef7d8a456bfb107405ba8d9edb41",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Corsair Gaming Stock Skyrocketed by 35% Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0f38ce7fd1965ca0463dce2736116d238460160451f136db89d00b338d47c7c",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 6
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Earnings call",
+      "headline": "Black Hills Q2 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce8f4632a050483f9ff1f1f1806128fa590979fde2049a7bb91eababe4587af1",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Black Hills Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce8f4632a050483f9ff1f1f1806128fa590979fde2049a7bb91eababe4587af1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft (MSFT) Q4 2026 Earnings Call Transcript",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b078e3db52c83ecd630a8924e6c7b4bca0f735d076b6ffed5c067a40b738f274",
+          "used_by_ai": true
+        },
         {
           "headline": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0e4c5e1b50c741cae903325677f360e97b3a77ec2af45200050e890dd60ea0e2",
           "used_by_ai": true
-        },
-        {
-          "headline": "Michael Kratsios Says Some Companies Blame AI for Layoffs Because 'It Plays Better in the Press'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35562c3aa35e663cf9b7e9afdb8b9070c1f6bc644b183dd9f1bc5592f35b3aad",
-          "used_by_ai": true
-        },
-        {
-          "headline": "C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f03a51b90ecf92f64037bc4a34b52ca6ded809271a18ab8c4e4d554384d42458",
-          "used_by_ai": true
-        },
-        {
-          "headline": "META Stock Returns To Familiar Ground",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80510ca4966471873c9443afe082e059b49ddde457fc8478d3092e3f91e16f2e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI theme has 'a long way to run': Strategist",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f0a9e1cf2e197fdc03b734096c0148252c19aec629c495d9aa2da1c440126ee",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Mentioned positively",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed news",
       "headline": "News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99752a1bf07990a200e8f29b76ff96da399e59e6330f48948b6a142f31b29033",
@@ -193,99 +281,6 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Legal battle",
-      "headline": "Apple and OpenAI escalate legal battle over devices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple and OpenAI escalate legal battle over devices",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Apple\u2019s 10% Drop Fails to Tell the Whole Story",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a7d8345bc86fdc945bf0085bb48e75072fc3b0544a1120e16288bca5367e636",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c394fdaaf951a24fa2cccf4d1276df028279043aeb5c8e60fa6cfb0dbfed047",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tougher Google Antitrust Penalties Would Threaten Firefox, Mozilla Warns",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b64b3a88a50142805a55aacf21e13303847f7600226013b3799a708062529d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b50855c2d2ea6063a581cdc483de0f96c8b43bace2df6883231983977433c353",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Market trends",
-      "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Employment Report: 23K Jobs Shed In July, Worse Than Expected",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=50af67297f7778befdd11fe2e687fa62ce92a85b243cbf59ebe6ac75452f9846",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 20 Most Actively Traded ETFs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4590d9a0295bd1661bbe597c1a3f3c74da9de37f9f675856d0fd8ade7624fa41",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db96c41effbfdafb08a584485884d73e85d7739ed0088f9dc63d553ed4ddab99",
-          "used_by_ai": true
-        },
-        {
-          "headline": "I've Never Had Such A Low Conviction In A Bull Run",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
       }
     }
   ]
