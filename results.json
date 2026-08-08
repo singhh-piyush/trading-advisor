@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:33:10Z",
+  "updated_at": "2026-08-08T01:37:32Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,80 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Multiple stocks rise",
+      "headline": "Why QuinStreet Stock Crushed it on Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Why QuinStreet Stock Crushed it on Friday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Corsair Gaming Stock Skyrocketed by 35% Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f0f38ce7fd1965ca0463dce2736116d238460160451f136db89d00b338d47c7c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Figs Stock Popped Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=74e728a012164f86623f0290bbe4b63447e929c23fec54dbda608501931a3cb8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Fluor Stock Rocked the Market Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c2f97f0522b950818da463ab1c29f57a500b2a2b7d7d3d1ffec1808563503cab",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sweetgreen Stumbles Again. Are the Turnaround Chances Gone?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=32ddee4fee0263fa1d22fc9cbd8d1f3abc27fb9d06c87cd06ffd39bc89a7490d",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Terafab breaks ground",
-      "headline": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
+      "confidence": 70,
+      "reason": "Positive news",
+      "headline": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b6d9c6400f5ef20c0f002f78c2180769d1bee7bd39a1ac889a86be48791b7b9",
+      "url": "https://finnhub.io/api/news?id=61144125cb003b2bdb98238122ac9c48fb2fa28010d0e9d128986db2bc9d0c20",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=61144125cb003b2bdb98238122ac9c48fb2fa28010d0e9d128986db2bc9d0c20",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f745797104723b33f664d31685b3b74136cea8c075cd429d555de7fae08c6921",
+          "used_by_ai": true
+        },
+        {
+          "headline": "2 Reasons Tesla Could Monopolize the U.S. Robotaxi Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8e92a31ee68ae5ce5466822f8223f8514d55d86b9ae7ac451e5f942449143f7d",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
           "source": "Yahoo",
@@ -29,98 +93,39 @@
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX\u2019s Texas Terafab Could Become World\u2019s Largest Building",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a95cef8eb06d2a48ba591153ffed7364f10f96f486f1617ca9dda86293cf6dfa",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Most active S&P500 stocks in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "2 Reasons Tesla Could Monopolize the U.S. Robotaxi Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e92a31ee68ae5ce5466822f8223f8514d55d86b9ae7ac451e5f942449143f7d",
-          "used_by_ai": false
-        },
-        {
           "headline": "Tesla Jumps as Rate Fears Ease",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=34c075a367767697ef7d6087ecc697bec9c084e9c35ac431e4718e1b23497b2c",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI theme has a long way to run",
-      "headline": "Why Redwire Stock Keeps Gaining",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f6b238cd73979fc0575c03c45a35f3951899ba0e33163630a3c4d4ceff7fd5e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Redwire Stock Keeps Gaining",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f6b238cd73979fc0575c03c45a35f3951899ba0e33163630a3c4d4ceff7fd5e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Essent Group Ltd. Q2 2026 Earnings Call Summary",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4cf97d683f4db728d4acc08f2e800694bd7ed524e81123aa5f341c252a04e1a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Boost Run Announces Date of Second Quarter 2026 Financial Results Conference Call",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8bd3727826edad3c7c5bc11f34db32651eb2e142eb38309fc03695b05188731",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Oracle Surges: What's Driving the Sudden Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a486e7b2a8cadaa229c3ec2e260751846755671f8498eae340f34f610455b8b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
-          "used_by_ai": true
-        },
-        {
-          "headline": "We Just Had the Busiest Day for Commercial Air Travel Ever. Here's What It Means for Airline Stocks.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58b2c1b55cd94e9ed0640d701dd0f0a31801d6bdd744e688733d9fe72749f82e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 6
+        "Yahoo": 5
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI theme has a long way to run",
-      "headline": "C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
+      "confidence": 60,
+      "reason": "AI trend",
+      "headline": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f03a51b90ecf92f64037bc4a34b52ca6ded809271a18ab8c4e4d554384d42458",
+      "url": "https://finnhub.io/api/news?id=0e4c5e1b50c741cae903325677f360e97b3a77ec2af45200050e890dd60ea0e2",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e4c5e1b50c741cae903325677f360e97b3a77ec2af45200050e890dd60ea0e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Michael Kratsios Says Some Companies Blame AI for Layoffs Because 'It Plays Better in the Press'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=35562c3aa35e663cf9b7e9afdb8b9070c1f6bc644b183dd9f1bc5592f35b3aad",
+          "used_by_ai": true
+        },
         {
           "headline": "C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
@@ -138,17 +143,51 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5f0a9e1cf2e197fdc03b734096c0148252c19aec629c495d9aa2da1c440126ee",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Mentioned positively",
+      "headline": "News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99752a1bf07990a200e8f29b76ff96da399e59e6330f48948b6a142f31b29033",
+      "on_watchlist": true,
+      "articles": [
         {
-          "headline": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+          "headline": "News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c8bf475e3c3296d3921199524bd79c30b0e9d2af39cfd2aa236ff6c6d22a563",
+          "url": "https://finnhub.io/api/news?id=99752a1bf07990a200e8f29b76ff96da399e59e6330f48948b6a142f31b29033",
           "used_by_ai": true
         },
         {
-          "headline": "Jim Cramer Was \u201cBlown Away\u201d By Microsoft Corporation (NASDAQ:MSFT)\u2019s Financials",
+          "headline": "A Volatile Week for Tech Revealed New Stock Narratives\u2014and 1 Bargain",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=23da734117545a513e63b4291871cdf85e94cd94e196f47120282e7678b61fe9",
+          "url": "https://finnhub.io/api/news?id=d7d6e1791dae16849d7a78912aef2337af692776aaf17f5e5434e466365ad7fe",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Toughest Questions AMD Faced On Its Latest Call",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6012cda4a6eace2f2d9baf8b6054e29a00a832dccf45c8d130aaa8d714bc9653",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0062adb357e5332978c05b4e5b51a2b355c07c3a9d560170175d2a1083998d22",
           "used_by_ai": true
         }
       ],
@@ -160,8 +199,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Legal battle with OpenAI",
+      "confidence": 50,
+      "reason": "Legal battle",
       "headline": "Apple and OpenAI escalate legal battle over devices",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
@@ -206,8 +245,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "S&P 500 record high",
+      "confidence": 50,
+      "reason": "Market trends",
       "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
@@ -217,6 +256,12 @@
           "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Employment Report: 23K Jobs Shed In July, Worse Than Expected",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=50af67297f7778befdd11fe2e687fa62ce92a85b243cbf59ebe6ac75452f9846",
           "used_by_ai": true
         },
         {
@@ -236,63 +281,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
           "used_by_ai": true
-        },
-        {
-          "headline": "Caution Ahead: Average 3-Month\u00a0Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=eafaba9ef156c810e38f6394f0d1c1f87f49b6e15d9b3fe7d25ef4126ead3802",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 3,
         "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI and quantum growth",
-      "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Toughest Questions AMD Faced On Its Latest Call",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6012cda4a6eace2f2d9baf8b6054e29a00a832dccf45c8d130aaa8d714bc9653",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0062adb357e5332978c05b4e5b51a2b355c07c3a9d560170175d2a1083998d22",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Boom: Top Stocks to Consider for Your Portfolio",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1794c3e68c5f23063efadb914902f9d9eb89981992ff2283b9a47fe204ac57df",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Super Micro (SMCI) Is Up 6.0% After AI Rack Expansion And AMD Instinct Coder Role",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf74cf4abd861ee3ac694c9b9c264ebf7c589660646831cd5a43893687822839",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     }
   ]
