@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:59:31Z",
+  "updated_at": "2026-08-08T18:51:26Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,61 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nebius Stock Plunged 31% Last Month. Is It Time to Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=483cd7dae88004f4b6fe66ca7b34e2e155e7e3c089b31978335fd6545e1a143d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: This Will Be the Cryptocurrency XRP's Price by Late 2027 (Hint: It's a Big Move)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1384de3d22f7e1c4b30567b8e58638f8af8066f5d5043daa3d0b9535cee7898d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Sent Sandisk Shares Tumbling Nearly 20% Last Month",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=30fc74ac6ca74d1c127c3e350b82855c04bb97cca485b71c25bc152aa896518a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Earnings target",
+      "confidence": 60,
+      "reason": "Bank of America revamps target",
       "headline": "Bank of America revamps Apple stock price target after earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
@@ -75,16 +29,22 @@
           "used_by_ai": true
         },
         {
+          "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
+          "used_by_ai": false
+        },
+        {
           "headline": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d811387e80dd8a4b962ddfd2f69bff3db9595d680da58d436df84ee18df9e3dc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=796097171eca1952c6def2b4e73802c7187846570b255d2a3841cf7f033d0154",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Cisco, Tencent Headline Muted Earnings Week",
@@ -94,56 +54,54 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "SeekingAlpha": 1
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI growth",
-      "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+      "confidence": 55,
+      "reason": "Multiple positive mentions",
+      "headline": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+      "url": "https://finnhub.io/api/news?id=91aca5cb4998ce0bff81500fe9630d528ab91e5fc21132eec54717361dc3d2fe",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+          "headline": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+          "url": "https://finnhub.io/api/news?id=91aca5cb4998ce0bff81500fe9630d528ab91e5fc21132eec54717361dc3d2fe",
           "used_by_ai": true
         },
         {
-          "headline": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=045eb16df8a6d069e66c9f178c0b18009f9889f75a32dc178e892f16efba52ba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Capex Waterfall Is Raining Future Dividends",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Chevron became the AI darling of Big Oil",
+          "headline": "Why Doximity Stock Skyrocketed on Friday",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93ffd51c2fff22f47955c981f24e20c6d9ad84c2497841d2e5b537c97f50b5e9",
+          "url": "https://finnhub.io/api/news?id=99b2c080cb92453447950becd87eedcd88dde499cefe1e9ba8eed2dc11303ce4",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Corporation: A Buy And Hold Forever Type Of Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1a0b8a68eb1e66057af35662c11baeffb8050870b6ee1ba46147a6a23fa9bd4c",
+          "headline": "My Top Dividend Stock to Buy in August (and It's Not Even Close)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c563fdd2ad709da00a039737d8df8015f001f1e57b66257445a515bcb63ba73d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nebius Is Worth 55 Times Its Revenue. What Does That Price Assume?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee798e3314a60b1249ea1443723f25830905cdacbe12dc6c57f547a1c5a41ae7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett's Successor, Greg Abel, Just Ended Berkshire Hathaway's 14-Quarter Selling Streak. Is This the Screaming Buy Signal Investors Have Been Waiting For?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7726a84761bf3c33b1465648d923580322917acda6c13c3977ac6a1cc923fe27",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "Benzinga": 1,
-        "SeekingAlpha": 2
+        "Yahoo": 5
       }
     },
     {
@@ -151,7 +109,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI revenue",
+      "reason": "AI revenue surges",
       "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
@@ -197,19 +155,13 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Sales drop",
-      "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+      "confidence": 45,
+      "reason": "UK sales drop",
+      "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+      "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
           "source": "Yahoo",
@@ -217,46 +169,133 @@
           "used_by_ai": true
         },
         {
-          "headline": "Prediction for Tesla Stock in 3 Years: The Bear Case",
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=049067c1d8c5004b930360aea4b9c396d28dde0801beb294ea0a3fba7391ec49",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": false
         },
         {
-          "headline": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+          "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baf6fd986e5ab24950b3c5e1634aee35eee073d4f583b65101c3e0bfb1c64ed9",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
+          "used_by_ai": false
         },
         {
-          "headline": "Trump Administration Pledges Over $2 Billion for Battery, Critical-Minerals Firms to Cut China Reliance: 'We Want These...'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5b71dfac1de863b2209cb05f89c9b04377d2b0138d6243a78af153ba1283f956",
-          "used_by_ai": true
+          "headline": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b937ee291c80ceb7243dbd051e1d11ebf968b28fe84033ca11ecc1954b2c691",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "Benzinga": 1
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "New plant plans",
+      "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b937ee291c80ceb7243dbd051e1d11ebf968b28fe84033ca11ecc1954b2c691",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 35,
+      "reason": "Layoff rate high",
+      "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=045eb16df8a6d069e66c9f178c0b18009f9889f75a32dc178e892f16efba52ba",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The AI Capex Waterfall Is Raining Future Dividends",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How Chevron became the AI darling of Big Oil",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93ffd51c2fff22f47955c981f24e20c6d9ad84c2497841d2e5b537c97f50b5e9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "Benzinga": 1,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 30,
-      "reason": "Market surge",
-      "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
+      "reason": "Market news",
+      "headline": "OMAH: A 15% Distribution Rate From Buffett's Portfolio To Buy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eff10a4de6774df4870d9679fb61eb72192b194075b695973a1143ad5af0ceda",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
-          "used_by_ai": true
-        },
         {
           "headline": "OMAH: A 15% Distribution Rate From Buffett's Portfolio To Buy",
           "source": "SeekingAlpha",
@@ -282,15 +321,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Revisiting My Most Read Article: Revenge Of The Baby Boomers",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f34c14c59019b86841e7c874227622d1ba4242ecfcceabc01dbc12e20f2fe174",
-          "used_by_ai": true
+          "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "CNBC": 1,
-        "SeekingAlpha": 5
+        "SeekingAlpha": 4,
+        "Yahoo": 1
       }
     }
   ]
