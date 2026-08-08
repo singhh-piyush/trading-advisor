@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T14:31:32Z",
+  "updated_at": "2026-08-08T15:28:52Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -91,10 +91,16 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3cbb5819c7ee438b577afe6a9628412853aac266f60691d07846692b284ed60b",
           "used_by_ai": true
+        },
+        {
+          "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6288fadf5aeb7b3e2fd27973a4574bb402e12cb6f2a5ca1105a143af2d4c59b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
+        "Yahoo": 4,
         "SeekingAlpha": 1
       }
     },
@@ -128,20 +134,21 @@
           "used_by_ai": true
         },
         {
+          "headline": "Trump Administration Pledges Over $2 Billion for Battery, Critical-Minerals Firms to Cut China Reliance: 'We Want These...'",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5b71dfac1de863b2209cb05f89c9b04377d2b0138d6243a78af153ba1283f956",
+          "used_by_ai": true
+        },
+        {
           "headline": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0e1c7925945db6e3b73ce5aa8077f58d6c68a8cef4225ad92fefc1d7949e7271",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=61144125cb003b2bdb98238122ac9c48fb2fa28010d0e9d128986db2bc9d0c20",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     },
     {
@@ -162,6 +169,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Cisco, Tencent Headline Muted Earnings Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=92ebcf9e88eb5cc5530a414cce8df0a9c9e063c37e41df80756b63479a5d5bdc",
+          "used_by_ai": true
+        },
+        {
           "headline": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=796097171eca1952c6def2b4e73802c7187846570b255d2a3841cf7f033d0154",
@@ -178,16 +191,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
           "used_by_ai": true
-        },
-        {
-          "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6288fadf5aeb7b3e2fd27973a4574bb402e12cb6f2a5ca1105a143af2d4c59b",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -240,9 +248,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market volatility",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market surge",
       "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
