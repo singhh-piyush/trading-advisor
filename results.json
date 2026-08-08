@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:40:31Z",
+  "updated_at": "2026-08-08T09:37:08Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,58 +12,11 @@
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "India sales top $10B",
-      "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple and OpenAI escalate legal battle over devices",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6288fadf5aeb7b3e2fd27973a4574bb402e12cb6f2a5ca1105a143af2d4c59b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q2 2026 Update",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3b927a14a18d57bb82a7fd5ecacd77c7fce9a6ee9183da869696a924d72adf22",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Soared 22.21% in one year",
+      "confidence": 80,
+      "reason": "Positive investment news",
       "headline": "CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0c046524d9a637926249df7db759998a0ea6e769bff6a8a656eab6372394e155",
@@ -115,18 +68,12 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Texas AI chip manufacturing",
-      "headline": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+      "reason": "New manufacturing plant",
+      "headline": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=baf6fd986e5ab24950b3c5e1634aee35eee073d4f583b65101c3e0bfb1c64ed9",
+      "url": "https://finnhub.io/api/news?id=0e1c7925945db6e3b73ce5aa8077f58d6c68a8cef4225ad92fefc1d7949e7271",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baf6fd986e5ab24950b3c5e1634aee35eee073d4f583b65101c3e0bfb1c64ed9",
-          "used_by_ai": true
-        },
         {
           "headline": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
           "source": "Yahoo",
@@ -150,6 +97,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f745797104723b33f664d31685b3b74136cea8c075cd429d555de7fae08c6921",
           "used_by_ai": true
+        },
+        {
+          "headline": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=baf6fd986e5ab24950b3c5e1634aee35eee073d4f583b65101c3e0bfb1c64ed9",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -157,11 +110,58 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Strong India sales",
+      "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple and OpenAI escalate legal battle over devices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac6f3b59d22416034150f68d8222f2984d1d32fcd0ad50c3cc32303a7fb9f3be",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6288fadf5aeb7b3e2fd27973a4574bb402e12cb6f2a5ca1105a143af2d4c59b",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q2 2026 Update",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3b927a14a18d57bb82a7fd5ecacd77c7fce9a6ee9183da869696a924d72adf22",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Buying Taalas",
+      "confidence": 50,
+      "reason": "Positive stock narrative",
       "headline": "News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99752a1bf07990a200e8f29b76ff96da399e59e6330f48948b6a142f31b29033",
@@ -194,53 +194,6 @@
       ],
       "source_breakdown": {
         "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Record high close",
-      "headline": "Household Survey Shows 1.8M Jobs Lost In 2026 So Far",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e1bcb8de7a4181ddf01a1bca638fb769890f1a338ae3d029aecdb4e41f18c5e2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Household Survey Shows 1.8M Jobs Lost In 2026 So Far",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e1bcb8de7a4181ddf01a1bca638fb769890f1a338ae3d029aecdb4e41f18c5e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ISPY\u2019s 0.56% Fee Hides a $38,000 Decade-Long Performance Gap Against SPY",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0cdc43a0643a016dd3acfe5e274f04525b4364b9838d34e41c5d68f50016b916",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Big Four Recession Indicators: Employment",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b9a8bf6c0a7eee1659d9a81386ef1053737cd820ff4775df96b2e4b80b680315",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7c8d901221e268d5725841a96f36ef2e02dd582f7a02ecfac11a1699499b1f1f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
       }
     },
     {
@@ -287,6 +240,53 @@
       ],
       "source_breakdown": {
         "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 30,
+      "reason": "US government borrowing",
+      "headline": "U.S. Government Borrows $800B In 3 Months",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8447d08f0a574e1a4b10a8d74795610c99d531298a181817a04175d1d24086e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "U.S. Government Borrows $800B In 3 Months",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c8447d08f0a574e1a4b10a8d74795610c99d531298a181817a04175d1d24086e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "FOMO Vs. The Earnings Bar",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e29d27473468d2f4c5f41a80fbebce1f54c42b02dd95d2452df29a6d7b935e75",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Commentary: Bessent's Gambit",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d8291333cd2234a62a8664ae452b99d91ce8abe685b7c91e6daef98a454b01d7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Household Survey Shows 1.8M Jobs Lost In 2026 So Far",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e1bcb8de7a4181ddf01a1bca638fb769890f1a338ae3d029aecdb4e41f18c5e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ISPY\u2019s 0.56% Fee Hides a $38,000 Decade-Long Performance Gap Against SPY",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0cdc43a0643a016dd3acfe5e274f04525b4364b9838d34e41c5d68f50016b916",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4,
+        "Yahoo": 1
       }
     }
   ]
