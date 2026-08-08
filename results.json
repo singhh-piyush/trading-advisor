@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:29:36Z",
+  "updated_at": "2026-08-08T21:57:39Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,61 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "New iPhone release",
-      "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bank of America revamps Apple stock price target after earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Surging AI revenue",
+      "confidence": 80,
+      "reason": "revenue surge",
       "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
@@ -98,22 +52,62 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "UK sales drop",
-      "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "iPhone release",
+      "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+      "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
           "used_by_ai": true
         },
+        {
+          "headline": "Bank of America revamps Apple stock price target after earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "UK sales drop",
+      "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
           "source": "Yahoo",
@@ -121,16 +115,68 @@
           "used_by_ai": true
         },
         {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": false
+        },
+        {
           "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
-          "used_by_ai": true
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5b937ee291c80ceb7243dbd051e1d11ebf968b28fe84033ca11ecc1954b2c691",
+          "used_by_ai": false
         },
         {
           "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "solar plant plans",
+      "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
           "used_by_ai": true
+        },
+        {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
+          "used_by_ai": false
         },
         {
           "headline": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
@@ -144,11 +190,93 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "S&P 500 surge",
+      "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+          "used_by_ai": true
+        },
+        {
+          "headline": "OMAH: A 15% Distribution Rate From Buffett's Portfolio To Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=eff10a4de6774df4870d9679fb61eb72192b194075b695973a1143ad5af0ceda",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Republic Services: A Good Quarter And More Attractive Valuation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=db0cebe1ccf79606483489355085a7dea03c5dec08dd5c146963cd0ce5b2b09e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Global Outlook Marred By Further Slide In Emerging Market Business Confidence",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6b90afb5adf88b9c382b6c51a4983251496583c87746ece1ba80d60018821964",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 1,
+        "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "AI and layoffs",
+      "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=045eb16df8a6d069e66c9f178c0b18009f9889f75a32dc178e892f16efba52ba",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "Benzinga": 2
+      }
+    },
+    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentions in various articles",
+      "confidence": 30,
+      "reason": "AI mentions",
       "headline": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=660ae6a5fba8ae4a565df26d348846c1f256aac28066aa0e4dccd016185b45da",
@@ -181,95 +309,6 @@
       ],
       "source_breakdown": {
         "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentions in various articles",
-      "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=045eb16df8a6d069e66c9f178c0b18009f9889f75a32dc178e892f16efba52ba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The AI Capex Waterfall Is Raining Future Dividends",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "Benzinga": 1,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market news",
-      "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OMAH: A 15% Distribution Rate From Buffett's Portfolio To Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=eff10a4de6774df4870d9679fb61eb72192b194075b695973a1143ad5af0ceda",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Republic Services: A Good Quarter And More Attractive Valuation",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=db0cebe1ccf79606483489355085a7dea03c5dec08dd5c146963cd0ce5b2b09e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Global Outlook Marred By Further Slide In Emerging Market Business Confidence",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6b90afb5adf88b9c382b6c51a4983251496583c87746ece1ba80d60018821964",
-          "used_by_ai": true
-        },
-        {
-          "headline": "XSPI: Amplified Monthly Income Through Leveraged S&P 500 Exposure",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4e459c6e5e4dbcb0cde422dbbb879777f3e5142d7ac602ed1bdc2f242db957dd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1,
-        "SeekingAlpha": 4
       }
     }
   ]
