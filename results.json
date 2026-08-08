@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:35:39Z",
+  "updated_at": "2026-08-08T23:27:56Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Nvidia's $3B bet",
+      "reason": "Lancium investment",
       "headline": "Nvidia\u2019s $3 Billion Bet on Lancium Signals the Compute Landlord Thesis Has Reached the Power Layer",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c5f28c99cb9a038c1a4b6b4f25062cbdcb2cb7237697a09bc8495720f0cd3302",
@@ -62,7 +62,53 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "iPhone release",
+      "reason": "Berkshire Hathaway investment",
+      "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
+          "used_by_ai": true
+        },
+        {
+          "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bank of America revamps Apple stock price target after earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "iPhone 18 Pro launch",
       "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
@@ -78,25 +124,25 @@
           "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Bank of America revamps Apple stock price target after earnings",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -107,7 +153,7 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "AI investment",
       "headline": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
       "source": "Yahoo",
@@ -141,8 +187,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Q2 estimates topped",
+      "confidence": 50,
+      "reason": "Q2 earnings",
       "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
@@ -155,22 +201,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
-          "used_by_ai": true
-        },
-        {
           "headline": "AMD Just Reported Its Data Center Revenue More Than Doubled Year-Over-Year. What Comes Next.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e3e966c0c80174d0d432ba10a8e1c1375f7aae91b4f451a6c600c2f353eef478",
           "used_by_ai": true
         },
         {
+          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
+          "used_by_ai": false
+        },
+        {
           "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=472c30143e27f764aa8b18f3bdadf9787317785fb717e894d06027778b9ef95a",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -181,19 +227,13 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "UK sales drop",
-      "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+      "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+      "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
           "source": "Yahoo",
@@ -201,10 +241,16 @@
           "used_by_ai": true
         },
         {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": false
+        },
+        {
           "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -215,19 +261,13 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "S&P 500 surge",
-      "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
+      "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
-          "used_by_ai": true
-        },
         {
           "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
           "source": "CNBC",
@@ -257,13 +297,19 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
           "used_by_ai": false
+        },
+        {
+          "headline": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c8bdb2f6c60b4f5f1ed445e4ecd705ee84a9c25359f01e2431f41626c9d5b48d",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1,
         "CNBC": 1,
         "SeekingAlpha": 3,
-        "Yahoo": 1
+        "Yahoo": 1,
+        "Benzinga": 1
       }
     }
   ]
