@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T06:52:25Z",
+  "updated_at": "2026-08-08T07:49:48Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "NVIDIA",
       "direction": "up",
       "confidence": 80,
-      "reason": "Investment plans",
+      "reason": "Investing in Stargate",
       "headline": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5eff1867626215c2aaac9e392c2cb9aa22f6624b97a796ca7be766df246bb647",
@@ -62,23 +62,23 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "India sales",
-      "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+      "reason": "India sales top $10B",
+      "headline": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
+      "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e2b962f0c5f3a518954126a8852d47817b31d57498860d72f7ab1c9e1ec02200",
           "used_by_ai": true
+        },
+        {
+          "headline": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a1a9b7193b871aac916b32f57c2fd5c72c26fbf8043bf3b011fdc59c67046f6",
+          "used_by_ai": false
         },
         {
           "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
@@ -109,7 +109,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "New plant plans",
+      "reason": "Texas AI chip plant",
       "headline": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e1c7925945db6e3b73ce5aa8077f58d6c68a8cef4225ad92fefc1d7949e7271",
@@ -151,11 +151,57 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Outperforming NVDL",
+      "headline": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26bf896f4a970341a871ecea8e27b876757aa125a00b5b60aa11df304669b3ae",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=26bf896f4a970341a871ecea8e27b876757aa125a00b5b60aa11df304669b3ae",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2ab9497c3799555b2d3641f7fca734cbac3fdf3c4635262aaa992411f8783341",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=356da43fd75650c017ed6dc1fae9cdf611c0a0a6c82fe9d6b45cca146c2e36c0",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5eff1867626215c2aaac9e392c2cb9aa22f6624b97a796ca7be766df246bb647",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case Changed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2fb0514de0642026c805a1c6bab7bc473b253422b79bf4c21b358823394276b9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
       "confidence": 60,
-      "reason": "Record high",
+      "reason": "Record high close",
       "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1e32f60cde1ee10d082ade4fec7ab02bd2ed9ac1708a83d26167a69d24d2475b",
@@ -201,8 +247,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Market trends",
+      "confidence": 50,
+      "reason": "Buying Taalas",
       "headline": "News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99752a1bf07990a200e8f29b76ff96da399e59e6330f48948b6a142f31b29033",
@@ -241,7 +287,7 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "neutral",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Earnings call",
       "headline": "Microsoft (MSFT) Q4 2026 Earnings Call Transcript",
       "source": "Yahoo",
