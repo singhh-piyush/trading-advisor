@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T22:30:31Z",
+  "updated_at": "2026-08-09T23:30:37Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -54,9 +54,9 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 55,
-      "reason": "Potential price increase",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Memory chip crisis",
       "headline": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8df6bc662d0a677a17419325f108115a20dfade8bce6d2327337f8ca6aa54f37",
@@ -90,7 +90,7 @@
           "headline": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9b4d4b05da52ae4c2579dc20ad1e1ca202646366ec27f5dc2a033a566f7aa44e",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -102,22 +102,22 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Growth potential",
-      "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+      "reason": "Cloud growth",
+      "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
+      "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-          "used_by_ai": true
-        },
         {
           "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
           "used_by_ai": true
         },
         {
@@ -178,11 +178,57 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mentions in articles",
+      "headline": "Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 Billion of It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03720aadfa28e29396e25dfafb92ca0487ff04c5a91c71c521b9bec72bc11b0f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 Billion of It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=03720aadfa28e29396e25dfafb92ca0487ff04c5a91c71c521b9bec72bc11b0f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Shopify Stock Soared This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9b13e13c878e225cc2c6d5adc3bd4fa96b67583a6e4524791670de840c1b90bb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Big Mistakes IRA Savers Make -- and How to Fix Them",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=22676d7359f5edff667805146bc8df26839fd11a6a224fa41165a7bf2ecb646b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Upstart Stock Plunged 23% in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dfb4ad4b204aa58e0a3bbe1a9d3af6daae4f021adbb3c51e814d781105bfa8be",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=738f920c36f1ae89e08534ff143477780c6f2163a073e73b8276d4c6a648931b",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "Market growth",
+      "reason": "Economic growth",
       "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
