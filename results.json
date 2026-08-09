@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:32:12Z",
+  "updated_at": "2026-08-09T20:31:45Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,74 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Positive investment outlook",
+      "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=582b05f0d569ee51c6b0bf6250a46451d2c42e0cdfa41d6823ef058dd06ca5e1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Just Reminded Everyone About the Most Important Aspect of Investing in SpaceX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bedf2297e16d9ebaa60990700695598c92d572a3bfa964fe5eaf66135ddd5aed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2c59f9d0a41beb6571a36c57215fcc896ef0e8d4a3976d5ba27adab2213926c7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Strong July sales",
-      "headline": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
+      "confidence": 55,
+      "reason": "Model Y sales growth",
+      "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c663e830149bea9323fe6fe59fc8af98224705ad68a8b7dd9a205ad11058433",
+      "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
           "source": "Yahoo",
@@ -33,40 +91,27 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507",
           "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Week Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 4
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Memory chip crisis",
-      "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Mixed news on iPhone prices",
+      "headline": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
+      "url": "https://finnhub.io/api/news?id=d2e408efcd9baf777c351d673ddef86876cd724b54b30e35e67946d36f0156c3",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+          "headline": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
+          "url": "https://finnhub.io/api/news?id=d2e408efcd9baf777c351d673ddef86876cd724b54b30e35e67946d36f0156c3",
           "used_by_ai": true
         },
         {
@@ -88,10 +133,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Apple Added About $1.5 Trillion in Market Value in a Year. Here's What $10,000 Invested a Decade Ago Is Worth Now.",
+          "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce2361a754007f9c7f2879e6c71a7688d029e60172385747732f299d48e6b9a2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -99,16 +144,56 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Google Cloud revenue growth",
+      "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI inference acquisition",
-      "headline": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
+      "confidence": 50,
+      "reason": "Record revenue and AI edge",
+      "headline": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6924ea8312cd3ab3cdee8559bcb3d2014095b585c8a26454d77f4f58b21e42d4",
+      "url": "https://finnhub.io/api/news?id=ed5256c247acb858a154c4f40fb3e74060878ce81198be66c0e0d67fa89e1e8d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed5256c247acb858a154c4f40fb3e74060878ce81198be66c0e0d67fa89e1e8d",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
           "source": "Yahoo",
@@ -126,117 +211,19 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
           "used_by_ai": true
-        },
-        {
-          "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e9ac7f4479af1057e966f8a6679617b4aefd89ef388d5a76313d01aba2d2dc0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in AI context",
-      "headline": "Micron Has Surged 207% This Year. Brace for a Steep Pullback.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94308ef42d235b245bc7e10b205a677f62304b920cc33bc7c3c10feb84fe4105",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Micron Has Surged 207% This Year. Brace for a Steep Pullback.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94308ef42d235b245bc7e10b205a677f62304b920cc33bc7c3c10feb84fe4105",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f47db17e08576a99d5ee61bb26ce69bec10ecf0f4e174c192439193bad82a0b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 Long-Term Dividend ETF Built to Outlast Any Market Cycle Over 20 Years",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9822a76f186cb3e1139a44068d488ed8c9e3c86bf8404323e36ef2be4e5f2e4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7facd07bee5a9d6be9b33c54111bedf9f7d205125e7e540fd96f9aa5cad0fd3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AdaptHealth Stock Plummeted This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84fa3467573763e5b31da2598008a3791576b82bdd904ceb4d03b188fd525d7d",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market value gain",
-      "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market trends",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Market growth expectations",
       "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
