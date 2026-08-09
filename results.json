@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:41:37Z",
+  "updated_at": "2026-08-09T09:38:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
     {
@@ -16,12 +16,24 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 60,
-      "reason": "Cathie Wood's Ark invests",
-      "headline": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
+      "reason": "Investor interest",
+      "headline": "Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b1726157377750a4797940cd017afe771de19d96b52f4583de49ae40cfe45cc",
+      "url": "https://finnhub.io/api/news?id=f58e416babd91f4eb5d6a6c962a41e285b256fb1df9f6cc44eb8b7953cda7ff4",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f58e416babd91f4eb5d6a6c962a41e285b256fb1df9f6cc44eb8b7953cda7ff4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why the 20% Sell-Off in Dutch Bros Stock Is a Massive Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=008cd969e4230c038e33e544ed3597b6202543e3d2771a75b83c2b7bde1f078d",
+          "used_by_ai": true
+        },
         {
           "headline": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
           "source": "Yahoo",
@@ -29,22 +41,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f58e416babd91f4eb5d6a6c962a41e285b256fb1df9f6cc44eb8b7953cda7ff4",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why the 20% Sell-Off in Dutch Bros Stock Is a Massive Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=008cd969e4230c038e33e544ed3597b6202543e3d2771a75b83c2b7bde1f078d",
-          "used_by_ai": false
-        },
-        {
           "headline": "Geron (GERN) Is Up 14.7% After Issuing First RYTELO Revenue Guide And Narrowing Losses - Has The Bull Case Changed?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5be56f701c00ce1eb915fb376d019110a01b4d0e91504a5e5119e1dde10f799d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "1 Incredible Reason to Buy Home Depot Stock Before It Reports Earnings on Aug. 18",
@@ -62,7 +62,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 55,
-      "reason": "Challenges Nvidia",
+      "reason": "AI growth",
       "headline": "AMD just made bold move to challenge Nvidia",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
@@ -108,7 +108,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 50,
-      "reason": "iPhone release",
+      "reason": "Product launch",
       "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
@@ -151,11 +151,58 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 45,
+      "reason": "Investor interest",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
+          "used_by_ai": true
+        },
+        {
+          "headline": "When Leverage Goes Wrong on Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 45,
-      "reason": "Market overvalued",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market valuation",
       "headline": "Crestmont P/E And Market Valuation: July 2026",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d319fbdaee33182d5c6dd778caf1577b9ac50de89d36512a5f867328acf1dd77",
@@ -188,75 +235,6 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Elon Musk's ownership",
-      "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
-          "used_by_ai": true
-        },
-        {
-          "headline": "When Leverage Goes Wrong on Wall Street",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Week Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI model",
-      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 1
       }
     }
   ]
