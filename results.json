@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:57:14Z",
+  "updated_at": "2026-08-09T13:01:32Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,45 +12,91 @@
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Market value increase",
-      "headline": "Apple Added About $1.5 Trillion in Market Value in a Year. Here's What $10,000 Invested a Decade Ago Is Worth Now.",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Chilling warning",
+      "headline": "The Stock Market Is Sending a Chilling Warning, and History Isn't Reassuring",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce2361a754007f9c7f2879e6c71a7688d029e60172385747732f299d48e6b9a2",
+      "url": "https://finnhub.io/api/news?id=ad91290c40ddc004e7b594fc93f62927c3bc8f2aa37b9ec455a94bdeef84acdf",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Stock Market Is Sending a Chilling Warning, and History Isn't Reassuring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad91290c40ddc004e7b594fc93f62927c3bc8f2aa37b9ec455a94bdeef84acdf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Reasons to Buy and Hold This Dividend King (and 1 Reason Not To)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44317980c1cf4844afec28aad54feec1c75b562304c3c46d60b9b1358b4033ef",
+          "used_by_ai": false
+        },
+        {
+          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's How Many Shares of Realty Income (O) Stock You'd Need for $1,000 in Monthly Dividends",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae02b5a44a7ceb958afb0914d2d00a463ccdeb8a887851b83e99b9aec5eec234",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Hidden Cost of International ETFs: How Much Currency Risk Actually Ate Into Returns Over the Last Decade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=698a827fdee588e2e8395003848baa734c13f0964cf9913f68eddc5124d2e2bf",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Memory chip crisis",
+      "headline": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8df6bc662d0a677a17419325f108115a20dfade8bce6d2327337f8ca6aa54f37",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8df6bc662d0a677a17419325f108115a20dfade8bce6d2327337f8ca6aa54f37",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9b4d4b05da52ae4c2579dc20ad1e1ca202646366ec27f5dc2a033a566f7aa44e",
+          "used_by_ai": false
+        },
         {
           "headline": "Apple Added About $1.5 Trillion in Market Value in a Year. Here's What $10,000 Invested a Decade Ago Is Worth Now.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ce2361a754007f9c7f2879e6c71a7688d029e60172385747732f299d48e6b9a2",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
-          "used_by_ai": true
-        },
-        {
-          "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,13 +108,19 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Data center revenue",
-      "headline": "AMD just made bold move to challenge Nvidia",
+      "confidence": 50,
+      "reason": "AI inference acquisition",
+      "headline": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
+      "url": "https://finnhub.io/api/news?id=6924ea8312cd3ab3cdee8559bcb3d2014095b585c8a26454d77f4f58b21e42d4",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6924ea8312cd3ab3cdee8559bcb3d2014095b585c8a26454d77f4f58b21e42d4",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD just made bold move to challenge Nvidia",
           "source": "Yahoo",
@@ -85,19 +137,13 @@
           "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Just Reported Its Data Center Revenue More Than Doubled Year-Over-Year. What Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3e966c0c80174d0d432ba10a8e1c1375f7aae91b4f451a6c600c2f353eef478",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -105,22 +151,16 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 40,
       "reason": "AI exposure",
-      "headline": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
+      "headline": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95f0958102e02edefbe1f48d2887398b026e1a4d7647f8add9f03ded9ee57d68",
+      "url": "https://finnhub.io/api/news?id=ba63fdb77d46db817388e80c46d5507ec51aa91bba0032b5d0eafd406e81e0ef",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95f0958102e02edefbe1f48d2887398b026e1a4d7647f8add9f03ded9ee57d68",
-          "used_by_ai": true
-        },
         {
           "headline": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
           "source": "Yahoo",
@@ -128,75 +168,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD just made bold move to challenge Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
+          "headline": "Brookfield Asset Management: Reasonably Valued, But AI Tailwinds Could Justify A Higher Valuation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fd1f9e57fcd2cb3f05d375adf0c63cc71a618f3244f797d2beecc1cbbe85b632",
           "used_by_ai": true
         },
         {
-          "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+          "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e9ac7f4479af1057e966f8a6679617b4aefd89ef388d5a76313d01aba2d2dc0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Just Reported Its Data Center Revenue More Than Doubled Year-Over-Year. What Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3e966c0c80174d0d432ba10a8e1c1375f7aae91b4f451a6c600c2f353eef478",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Rhode Is Fueling e.l.f.'s Latest Surge. Is It Time to Jump In?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ede1f19cdaf05f4d53bc25024756a1cff102cbea301397f9bee191bb60a3631",
+          "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
           "used_by_ai": false
         },
         {
-          "headline": "What Happens to a Bond ETF's Price When the Fed Cuts Rates -- Using the Actual Historical Data",
+          "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=550b35b997f5e3e108fccce2fdc2822f599511cf84573480a5208b2f884a4817",
-          "used_by_ai": false
-        },
-        {
-          "headline": "This Is the 1 ETF Warren Buffett Recommends Most People Buy -- and History Says He's Always Been Right",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50dd7880ec2d3e70019c878713be56a0a1c521b73843293456a2ab029fca24df",
+          "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 10
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Ownership level",
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Elon Musk ownership",
+      "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Wall Street Week Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
-          "used_by_ai": true
-        },
         {
           "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
           "source": "Yahoo",
@@ -204,75 +209,52 @@
           "used_by_ai": true
         },
         {
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
+          "used_by_ai": false
+        },
+        {
           "headline": "When Leverage Goes Wrong on Wall Street",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI tailwinds",
-      "headline": "Brookfield Asset Management: Reasonably Valued, But AI Tailwinds Could Justify A Higher Valuation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fd1f9e57fcd2cb3f05d375adf0c63cc71a618f3244f797d2beecc1cbbe85b632",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Brookfield Asset Management: Reasonably Valued, But AI Tailwinds Could Justify A Higher Valuation",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fd1f9e57fcd2cb3f05d375adf0c63cc71a618f3244f797d2beecc1cbbe85b632",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Geron (GERN) Is Up 14.7% After Issuing First RYTELO Revenue Guide And Narrowing Losses - Has The Bull Case Changed?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be56f701c00ce1eb915fb376d019110a01b4d0e91504a5e5119e1dde10f799d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 2
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Overvaluation",
-      "headline": "We Are Undoubtedly In An AI Bubble",
+      "confidence": 30,
+      "reason": "AI bubble",
+      "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=cd8c6b57b31732d38f6589f34bd51390247075c591205a5edfcdd3d0e0d62a13",
+      "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
+          "used_by_ai": true
+        },
         {
           "headline": "We Are Undoubtedly In An AI Bubble",
           "source": "SeekingAlpha",
@@ -283,19 +265,13 @@
           "headline": "Crestmont P/E And Market Valuation: July 2026",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d319fbdaee33182d5c6dd778caf1577b9ac50de89d36512a5f867328acf1dd77",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Regression To Trend: S&P Composite 211% Above Trend In July",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=4f1340e27aceeadb304a1d98180805006142c806a647a118300be0edd458ae84",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Market Valuation: Is The Market Still Overvalued?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=172ee529c04d02301059b2f64c0ffc06ed469b364cdcc73259093c4336db716f",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
