@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T01:56:59Z",
+  "updated_at": "2026-08-09T03:46:40Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,57 @@
   "sample": false,
   "items": [
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "UK sales drop",
+      "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
+          "used_by_ai": false
+        },
+        {
+          "headline": "When Leverage Goes Wrong on Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI revenue surges",
+      "confidence": 55,
+      "reason": "Data center revenue doubles",
       "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
@@ -41,6 +87,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "AMD just made bold move to challenge Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
+          "used_by_ai": false
+        },
+        {
           "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2e9ac7f4479af1057e966f8a6679617b4aefd89ef388d5a76313d01aba2d2dc0",
@@ -48,94 +100,48 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI trends",
-      "headline": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3b649bffdaaebadd003f3023193c9f729ddb31f7d9d5ed41c1c4849e9159c17",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3b649bffdaaebadd003f3023193c9f729ddb31f7d9d5ed41c1c4849e9159c17",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why the Market Continues to Sleep on Micron's Growth Potential",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08b0bc744bc1d34d99a84cbe113d0575a940fb20ee7280cd6153682a8de40fd8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d42cb59c23a85d9fe81e3561e77ddf684b807b09e0e023dde0057ce0c2d1cbb3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d75cec7ce538ea8459f2b79db27d9846633d450b4ed023113aebf78f4b588f0f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD just made bold move to challenge Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
         "Yahoo": 5
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
       "confidence": 50,
-      "reason": "UK sales drop",
-      "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+      "reason": "iPhone 18 Pro release",
+      "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+      "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Tesla UK sales drop as craze for Chinese rivals surges",
+          "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
+          "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
           "used_by_ai": true
         },
         {
-          "headline": "When Leverage Goes Wrong on Wall Street",
+          "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
+          "used_by_ai": true
         },
         {
-          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
+          "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
+          "used_by_ai": true
         },
         {
-          "headline": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+          "headline": "Bank of America revamps Apple stock price target after earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
+          "used_by_ai": true
         },
         {
-          "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+          "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
+          "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
           "used_by_ai": false
         }
       ],
@@ -147,8 +153,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI investment",
+      "confidence": 45,
+      "reason": "AI adoption",
       "headline": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ca392249955a82463f7624dde85d7a173cdf38bba73c8a92018dbe721bbb0ceb",
@@ -184,44 +190,44 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "iPhone release",
-      "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Various mentions",
+      "headline": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
+      "url": "https://finnhub.io/api/news?id=6bea3e9c531ae06c293b7b043f6b3a91a9330c08f3a1ec5fd197c34108f038a9",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
+          "headline": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
+          "url": "https://finnhub.io/api/news?id=6bea3e9c531ae06c293b7b043f6b3a91a9330c08f3a1ec5fd197c34108f038a9",
           "used_by_ai": true
         },
         {
-          "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+          "headline": "Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
+          "url": "https://finnhub.io/api/news?id=59b26a072b0ee06d33743f3f19ef35ed62eff3c53c0a10dba29e39cdcdd6fe37",
           "used_by_ai": true
         },
         {
-          "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
+          "headline": "Why Voyager Stock Skyrocketed This Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
+          "url": "https://finnhub.io/api/news?id=60a1b71d70ab54ba4e7acd7a7a5d6d18550f2601e7d2dd390be26048dfd4ee41",
           "used_by_ai": true
         },
         {
-          "headline": "Berkshire Hathaway Just Did Something It Hasn\u2019t Done in More Than 3 Years",
+          "headline": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
+          "url": "https://finnhub.io/api/news?id=11dfc4301c1d381f0e4419265085a38017f4799e99bf1ec3c3bbc77512907c1a",
           "used_by_ai": true
         },
         {
-          "headline": "Bank of America revamps Apple stock price target after earnings",
+          "headline": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42540b87598f10b8a98690becf4501e008718fd09c5684b343526039816cc9e2",
+          "url": "https://finnhub.io/api/news?id=c3b649bffdaaebadd003f3023193c9f729ddb31f7d9d5ed41c1c4849e9159c17",
           "used_by_ai": true
         }
       ],
@@ -234,12 +240,18 @@
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "ETF inflows",
-      "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc47905ca194f67acca8957b5b1ca35befef1e26a94f5025d96cf10140dece50",
+      "reason": "S&P 500 earnings growth",
+      "headline": "The 1-Minute Market Report, August 8, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c4447f6e7adfa3a7a753a933f4e0239f6ca1268da7b507cab61c0b414a03c5a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The 1-Minute Market Report, August 8, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6c4447f6e7adfa3a7a753a933f4e0239f6ca1268da7b507cab61c0b414a03c5a",
+          "used_by_ai": true
+        },
         {
           "headline": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
           "source": "Yahoo",
@@ -263,18 +275,12 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=db0cebe1ccf79606483489355085a7dea03c5dec08dd5c146963cd0ce5b2b09e",
           "used_by_ai": true
-        },
-        {
-          "headline": "Global Outlook Marred By Further Slide In Emerging Market Business Confidence",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6b90afb5adf88b9c382b6c51a4983251496583c87746ece1ba80d60018821964",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
+        "SeekingAlpha": 3,
         "Yahoo": 1,
-        "Benzinga": 1,
-        "SeekingAlpha": 3
+        "Benzinga": 1
       }
     }
   ]
