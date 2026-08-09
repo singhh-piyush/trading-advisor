@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:00:48Z",
+  "updated_at": "2026-08-09T15:57:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -145,11 +145,57 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Elon Musk's empire",
+      "reason": "Competition mentioned",
+      "headline": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=281b685ec6364503a8f2be16ea0f984ae2e0cd562970fb08f0d9d5f715f121ba",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=281b685ec6364503a8f2be16ea0f984ae2e0cd562970fb08f0d9d5f715f121ba",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 High-Yield Dividend Stocks to Load Up On Before 2026 Ends",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5711eec883ff6cf34d6135c0859b123c960dd79de91114ed71c3cddac8c450dc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Johnson & Johnson Has Increased Its Dividend for 64 Consecutive Years. Here's How Much $10,000 Invested in the Dividend King Pays Annually.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=49b4eb0b58c7c8187f414179dca4fd12f413106bcf5509cfd5490c2536c733bd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SK Hynix\u2019s $38 billion buildout has a name attached: Nvidia",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d6a438966ee4a180675c96ca526b0adace9e393b4aaceb0a268da5ee7566867",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Uh-Oh! The Inflationary Effects of the Donald Trump-Led Iran War Now Extend Well Beyond the Energy Sector.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=abc0f839327867f7c9e077491d66553da85f1a6d226e2d99a42e4d6235162361",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Boring Company valuation",
       "headline": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507",
@@ -165,71 +211,24 @@
           "headline": "Wall Street Week Ahead",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "When Leverage Goes Wrong on Wall Street",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
           "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI exposure",
-      "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
-          "used_by_ai": true
         },
         {
-          "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
+          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba63fdb77d46db817388e80c46d5507ec51aa91bba0032b5d0eafd406e81e0ef",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia's Stock Is Completely Mispriced",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=10150c3778c3ceb36d996077b5bf2f37f04561ac6e668cd9596a2377a0befc64",
+          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
           "used_by_ai": false
         }
       ],
@@ -242,19 +241,13 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 30,
-      "reason": "Market trends",
-      "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
+      "confidence": 40,
+      "reason": "Economic growth",
+      "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
+      "url": "https://finnhub.io/api/news?id=f62cd4669c72cd5976b2f5f02d976e5263c843a47b0ae10698ade3230a714321",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
-          "used_by_ai": true
-        },
         {
           "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
           "source": "SeekingAlpha",
@@ -262,26 +255,125 @@
           "used_by_ai": true
         },
         {
+          "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
+          "used_by_ai": false
+        },
+        {
           "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "We Are Undoubtedly In An AI Bubble",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=cd8c6b57b31732d38f6589f34bd51390247075c591205a5edfcdd3d0e0d62a13",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Testing new chips",
+      "headline": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d226c0827db4cf033b5f7069480759ec71e4452367304ab451be53e5ff2d4b68",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d226c0827db4cf033b5f7069480759ec71e4452367304ab451be53e5ff2d4b68",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8df6bc662d0a677a17419325f108115a20dfade8bce6d2327337f8ca6aa54f37",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9b4d4b05da52ae4c2579dc20ad1e1ca202646366ec27f5dc2a033a566f7aa44e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple Added About $1.5 Trillion in Market Value in a Year. Here's What $10,000 Invested a Decade Ago Is Worth Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce2361a754007f9c7f2879e6c71a7688d029e60172385747732f299d48e6b9a2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "AI exposure",
+      "headline": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba63fdb77d46db817388e80c46d5507ec51aa91bba0032b5d0eafd406e81e0ef",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba63fdb77d46db817388e80c46d5507ec51aa91bba0032b5d0eafd406e81e0ef",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
+          "used_by_ai": false
+        },
+        {
+          "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia's Stock Is Completely Mispriced",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=10150c3778c3ceb36d996077b5bf2f37f04561ac6e668cd9596a2377a0befc64",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     }
   ]
