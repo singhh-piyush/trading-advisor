@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:39:29Z",
+  "updated_at": "2026-08-09T19:32:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,7 +15,7 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 80,
+      "confidence": 70,
       "reason": "Strong July sales",
       "headline": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
       "source": "Yahoo",
@@ -56,7 +56,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Memory chip crisis",
       "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
       "source": "Yahoo",
@@ -102,7 +102,7 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "AI inference acquisition",
       "headline": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
       "source": "Yahoo",
@@ -146,51 +146,11 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "Historical market value gain",
-      "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "neutral",
-      "confidence": 50,
-      "reason": "AI memory stock",
+      "confidence": 40,
+      "reason": "Mentioned in AI context",
       "headline": "Micron Has Surged 207% This Year. Brace for a Steep Pullback.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=94308ef42d235b245bc7e10b205a677f62304b920cc33bc7c3c10feb84fe4105",
@@ -232,11 +192,51 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market value gain",
+      "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Surprise July jobs report",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market trends",
       "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
