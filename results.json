@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T16:40:42Z",
+  "updated_at": "2026-08-09T17:30:57Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -58,27 +58,74 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Boring Company valuation",
+      "headline": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
+          "used_by_ai": false
+        },
+        {
+          "headline": "When Leverage Goes Wrong on Wall Street",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
       "confidence": 50,
       "reason": "Memory chip crisis",
-      "headline": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+      "headline": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d226c0827db4cf033b5f7069480759ec71e4452367304ab451be53e5ff2d4b68",
+      "url": "https://finnhub.io/api/news?id=8df6bc662d0a677a17419325f108115a20dfade8bce6d2327337f8ca6aa54f37",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d226c0827db4cf033b5f7069480759ec71e4452367304ab451be53e5ff2d4b68",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple Could Raise iPhone 17 Prices In Hours, Due To Memory Chip Crisis",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8df6bc662d0a677a17419325f108115a20dfade8bce6d2327337f8ca6aa54f37",
           "used_by_ai": true
+        },
+        {
+          "headline": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d226c0827db4cf033b5f7069480759ec71e4452367304ab451be53e5ff2d4b68",
+          "used_by_ai": false
         },
         {
           "headline": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
@@ -108,7 +155,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI inference move",
+      "reason": "Acquired Taalas",
       "headline": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6924ea8312cd3ab3cdee8559bcb3d2014095b585c8a26454d77f4f58b21e42d4",
@@ -121,21 +168,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD just made bold move to challenge Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
-          "used_by_ai": true
-        },
-        {
           "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2e9ac7f4479af1057e966f8a6679617b4aefd89ef388d5a76313d01aba2d2dc0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
           "used_by_ai": true
         },
         {
@@ -143,52 +178,17 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=a36fa8e754b6a540eb2ce4f8550a8827de75ca5614f91c5f493a7436ce3b9a38",
           "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Elon Musk's valuation",
-      "headline": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507",
-          "used_by_ai": true
         },
         {
-          "headline": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+          "headline": "AMD just made bold move to challenge Nvidia",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=400e7d7755cd3b299057e2cbbd31b7e834292cc81e1d69e62629cbf5ee88ad30",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Week Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=deff1d4247207aac2c94f55973825d0ce38ade9e08234210a6c7618171e2655c",
+          "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
           "used_by_ai": false
         },
         {
-          "headline": "When Leverage Goes Wrong on Wall Street",
+          "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+          "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
           "used_by_ai": false
         }
       ],
@@ -202,24 +202,12 @@
       "company": "",
       "direction": "up",
       "confidence": 40,
-      "reason": "S&P 500 rally",
-      "headline": "Nvidia and Micron Have Driven the S&P 500\u2019s 2026 Rally to Record Highs. History Says It\u2019s Not Over",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a52dc31b76306e7b3c258491daac4f2f49f9b8368777c39b125ff98b6bfd9cc3",
+      "reason": "Economy improving",
+      "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f62cd4669c72cd5976b2f5f02d976e5263c843a47b0ae10698ade3230a714321",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Nvidia and Micron Have Driven the S&P 500\u2019s 2026 Rally to Record Highs. History Says It\u2019s Not Over",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a52dc31b76306e7b3c258491daac4f2f49f9b8368777c39b125ff98b6bfd9cc3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
-          "used_by_ai": true
-        },
         {
           "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
           "source": "SeekingAlpha",
@@ -227,26 +215,31 @@
           "used_by_ai": true
         },
         {
+          "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
+          "used_by_ai": false
+        },
+        {
           "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "We Are Undoubtedly In An AI Bubble",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=cd8c6b57b31732d38f6589f34bd51390247075c591205a5edfcdd3d0e0d62a13",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
         "SeekingAlpha": 5
       }
     },
@@ -255,18 +248,12 @@
       "company": "Microsoft",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market value gain",
-      "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
+      "reason": "Assessing jobs report",
+      "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
+      "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-          "used_by_ai": true
-        },
         {
           "headline": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
           "source": "Yahoo",
@@ -277,13 +264,13 @@
           "headline": "Texas Pacific Land Q2 Earnings Call Highlights",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=54746f70053f50d146879d7438e44cded7a824ccc2c9a688d721689d9c35bd13",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d312ee22931520221c07d07121a1e44ae80a0359fab95e6c66061049a18e63e3",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Nvidia's Stock Is Completely Mispriced",
@@ -293,7 +280,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
+        "Yahoo": 3,
         "SeekingAlpha": 1
       }
     }
