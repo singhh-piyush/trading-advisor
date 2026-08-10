@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:26:12Z",
+  "updated_at": "2026-08-10T06:51:45Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,16 +12,68 @@
   "sample": false,
   "items": [
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 80,
+      "reason": "Multiple AI-related headlines",
+      "headline": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=440b33ee6bd67c70eaa5b92895ccaf4651a361a1153d199d25b4c0ef68c706ce",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0723b8f4a21429ad48095baff79534983a6612d43d3caf65a7100b390eced2c0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9356fed22ce295de843eda2daed53d41ab188e37f0a92398a2848a1d1d986204",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Stock Is Slumping: Is Now the Time to Buy or Hold Off?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16c5348a16b8b1da4ac977f0e35428f6abc9f5f6de664c13fc91b30bb85bc324",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Positive analyst review",
-      "headline": "AMD: CapEx Is Fueling The Next Leg",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b25fa961554fafdb0af1603c7497b79f21af6e021cf7c9ffb5c5a35645d28769",
+      "confidence": 70,
+      "reason": "CapEx and valuation news",
+      "headline": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2747da36af300b98b2156d8f6dcdf8e18a98f2dc138ba28177d9d36e2c61781c",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2747da36af300b98b2156d8f6dcdf8e18a98f2dc138ba28177d9d36e2c61781c",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD: CapEx Is Fueling The Next Leg",
           "source": "SeekingAlpha",
@@ -39,46 +91,34 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9ed763396df52780017be1a582096b91d7d612e481ce57680fab43e199a18a72",
           "used_by_ai": true
-        },
-        {
-          "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=369d97fb6e27d98faf581c9a908cd5ac7191d953c945c4513396290cd51ffe7b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "China bullying tactic",
-      "headline": "Apple CEO Tim Cook Just Passed His Successor a Mess",
+      "headline": "Apple\u2019s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a14bc7f4d27941a03532c537133b62a0a6ad90d592e3f4a49cd690b7952a7b3",
+      "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Apple\u2019s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple CEO Tim Cook Just Passed His Successor a Mess",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5a14bc7f4d27941a03532c537133b62a0a6ad90d592e3f4a49cd690b7952a7b3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Canaccord Genuity Group Q1 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44e2e232519d1dd0aee3e110c1c69689ee8eb9f296c57f5525e2de2e1aaddeec",
           "used_by_ai": true
         },
         {
@@ -94,10 +134,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+          "headline": "Canaccord Genuity Group Q1 Earnings Call Highlights",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=44e2e232519d1dd0aee3e110c1c69689ee8eb9f296c57f5525e2de2e1aaddeec",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -105,56 +145,22 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Strong July sales",
-      "headline": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c663e830149bea9323fe6fe59fc8af98224705ad68a8b7dd9a205ad11058433",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Dividend income",
-      "headline": "How to Build $13,000 a Month in Dividend Income From Three Income Buckets",
+      "reason": "Dividend and growth news",
+      "headline": "LegalZoom.com (LZ) Could Be 32% Undervalued Following Copilot Launch And Guidance Cut",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f35751192ac9ff5de0fe1ad8b86e96f8dff627bca8ed6b2c5e4a01d872cb07d9",
+      "url": "https://finnhub.io/api/news?id=8008e6a860b6290b1a60b3f584b206a72a5fc30c8a11a7f3044bdc67df91c7aa",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "LegalZoom.com (LZ) Could Be 32% Undervalued Following Copilot Launch And Guidance Cut",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8008e6a860b6290b1a60b3f584b206a72a5fc30c8a11a7f3044bdc67df91c7aa",
+          "used_by_ai": true
+        },
         {
           "headline": "How to Build $13,000 a Month in Dividend Income From Three Income Buckets",
           "source": "Yahoo",
@@ -178,12 +184,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
           "used_by_ai": true
-        },
-        {
-          "headline": "Blizzard is now reportedly Microsoft's top studio, according to leaked email",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e3c8dd7f71c7d7fdae827a0954f5960aab1cc6d6124da37c35b49fda35463ac",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -194,7 +194,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
+      "confidence": 50,
       "reason": "Bullish market setup",
       "headline": "It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly",
       "source": "SeekingAlpha",
@@ -237,44 +237,44 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
       "confidence": 40,
-      "reason": "Positive earnings",
-      "headline": "Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?",
+      "reason": "Mixed Elon Musk news",
+      "headline": "How to Deploy $1000 Across Tesla and Ford for Growth and Optionality",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df495a5732a22f749098bf07f9ea0f5e3b66f6eb791d7b770e6c8d5b0732c1ef",
+      "url": "https://finnhub.io/api/news?id=47f241406a740ed8a19f95b77973ffc6e31bd45bbf9b3d49dbb6ce5446da2d5f",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?",
+          "headline": "How to Deploy $1000 Across Tesla and Ford for Growth and Optionality",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df495a5732a22f749098bf07f9ea0f5e3b66f6eb791d7b770e6c8d5b0732c1ef",
+          "url": "https://finnhub.io/api/news?id=47f241406a740ed8a19f95b77973ffc6e31bd45bbf9b3d49dbb6ce5446da2d5f",
           "used_by_ai": true
         },
         {
-          "headline": "Prediction: Trump's New Tariffs Won't Stand Up in Court. Consider Buying These 2 International ETFs.",
+          "headline": "Elon Musk Backs Study Showing Bot Traffic Will Be 1,000X Human Traffic \u2014 Michael Burry Wants To Know Who's Actually Paying",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cbcfc7ba54939c56f045ec6008080cf4c07ac3a1a3242baa0958b1dc30bc212",
+          "url": "https://finnhub.io/api/news?id=8ee584b73fcc67a5dbd9e367ee1505245bd5918ac540e0c8858cdac17015ed22",
           "used_by_ai": true
         },
         {
-          "headline": "Twilio Raised Its Full-Year Growth Guide to 18% and Posted Record Revenue of $1.5 Billion. The Stock Rose 25% in a Day.",
+          "headline": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5182566cef42bd03097f79c7b5c37433c9e09fb75337f597e26db2088491c64e",
+          "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f",
           "used_by_ai": true
         },
         {
-          "headline": "SpaceX Just Reported Earnings. Here's What History Says Happens Next.",
+          "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=16505aefd87a2f0f8825f7638ba002e4636e30ae77cf389593e10e6af1c147b4",
+          "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
           "used_by_ai": true
         },
         {
-          "headline": "Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
+          "headline": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54e528fc6353b326fae9f348ae4935f21675c7b18c61d012b829b1cfa35add4d",
+          "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
           "used_by_ai": true
         }
       ],
