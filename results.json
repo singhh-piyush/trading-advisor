@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T14:58:07Z",
+  "updated_at": "2026-08-10T16:03:32Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -144,65 +144,11 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "direction": "up",
       "confidence": 50,
-      "reason": "May benefit from AI shift",
-      "headline": "What TSMC Sales Growth Means for Apple and Nvidia Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c60cadc436eabc9263ab721f8b08f898c97e7c343aa5688551daf44df448fee4",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "What TSMC Sales Growth Means for Apple and Nvidia Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c60cadc436eabc9263ab721f8b08f898c97e7c343aa5688551daf44df448fee4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel plans $15 billion share sale as turnaround rally lifts stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8c839c9b77aabdbb756887955589c552ff8d98b6cf296f1a59cdabe45da02f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Who Really Benefits as Sovereign AI Infrastructure Spending Explodes?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ae7fb1f873d77913ba2f06beddeeaf3c3f7c67c24400c22f799361200f5795b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nebius: The $34 Billion Execution Test Starts Now",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=39f1f2ba0b24c02730f824406d4752ea6e928856b6e7a0c53d26ce0a7788baf0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-snps-unleashes-agentic-ai-143945738.html",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why AMD (AMD) Could Benefit as AI Shifts\u00a0From\u00a0Training to Inference",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-could-benefit-143635913.html",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1,
-        "Yahoo Finance": 2
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in various AI contexts",
+      "reason": "Mentioned in AI and chip context",
       "headline": "How Many High-Yield Financial Stocks Does an Income Portfolio Actually Need?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f56be2b566654dcba299052ae54121b80ecad33d0319914edeaa99446fb5196c",
@@ -235,6 +181,47 @@
       ],
       "source_breakdown": {
         "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Mentioned in chip context",
+      "headline": "What TSMC Sales Growth Means for Apple and Nvidia Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c60cadc436eabc9263ab721f8b08f898c97e7c343aa5688551daf44df448fee4",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "What TSMC Sales Growth Means for Apple and Nvidia Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c60cadc436eabc9263ab721f8b08f898c97e7c343aa5688551daf44df448fee4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Intel plans $15 billion share sale as turnaround rally lifts stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8c839c9b77aabdbb756887955589c552ff8d98b6cf296f1a59cdabe45da02f3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Who Really Benefits as Sovereign AI Infrastructure Spending Explodes?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ae7fb1f873d77913ba2f06beddeeaf3c3f7c67c24400c22f799361200f5795b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nebius: The $34 Billion Execution Test Starts Now",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=39f1f2ba0b24c02730f824406d4752ea6e928856b6e7a0c53d26ce0a7788baf0",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -277,17 +264,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ebec49802c598ad2dc49fbd65fece1e29e64062763fb790baf9dd9a41b651fc5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5,
-        "Yahoo Finance": 1
+        "Yahoo": 5
       }
     }
   ]
