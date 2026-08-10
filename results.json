@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T01:46:11Z",
+  "updated_at": "2026-08-10T03:54:23Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,137 @@
   "sample": false,
   "items": [
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Positive sales data",
+      "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c663e830149bea9323fe6fe59fc8af98224705ad68a8b7dd9a205ad11058433",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Potential of Space-Based Data Centers Is Huge. It's Not Enough to Make SpaceX Stock Appealing.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5dc2fc5cc074356ee516e2f61b4fed12a840f6195d4131c0a63ad38142cf0a29",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Multiple mentions",
+      "headline": "SpaceX Just Reported Earnings. Here's What History Says Happens Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16505aefd87a2f0f8825f7638ba002e4636e30ae77cf389593e10e6af1c147b4",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX Just Reported Earnings. Here's What History Says Happens Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16505aefd87a2f0f8825f7638ba002e4636e30ae77cf389593e10e6af1c147b4",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=54e528fc6353b326fae9f348ae4935f21675c7b18c61d012b829b1cfa35add4d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Micron Technology Just Bounced 10% Off Its Lows. History Reveals What a $5,000 Investment Will Be Worth by Mid-2027.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=97097a4fad7f0e42946c58358c13b71dedbecee921b566e580d5451691115764",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Exxon Handed Shareholders $9.4 Billion in One Quarter. Here's What It Earned to Cover It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=aa5a67b95e3704113f0d2e73530b4458aeeeb7efbf7572b7175ab18848ba1b5c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine \"Funding Everyone and Anyone.\" Here's What That Means for AI Stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bbea502a04f05de530a8df885ff1c93b17f56a7216c274b072c761181f0f28c1",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Multiple mentions",
+      "headline": "Meet the High-Yield Dividend Stock Bill Ackman Has Owned for Over a Decade. Here's Why It's a Great Buy in August.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Meet the High-Yield Dividend Stock Bill Ackman Has Owned for Over a Decade. Here's Why It's a Great Buy in August.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Blizzard is now reportedly Microsoft's top studio, according to leaked email",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e3c8dd7f71c7d7fdae827a0954f5960aab1cc6d6124da37c35b49fda35463ac",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "CEO successor inherits mess",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Multiple mentions",
       "headline": "Apple CEO Tim Cook Just Passed His Successor a Mess",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5a14bc7f4d27941a03532c537133b62a0a6ad90d592e3f4a49cd690b7952a7b3",
@@ -32,25 +158,25 @@
           "headline": "Canaccord Genuity Group Q1 Earnings Call Highlights",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=44e2e232519d1dd0aee3e110c1c69689ee8eb9f296c57f5525e2de2e1aaddeec",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d2e408efcd9baf777c351d673ddef86876cd724b54b30e35e67946d36f0156c3",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d226c0827db4cf033b5f7069480759ec71e4452367304ab451be53e5ff2d4b68",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -59,10 +185,10 @@
     },
     {
       "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Record revenue reported",
+      "company": "AMD",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Multiple mentions",
       "headline": "5-star analyst resets AMD stock price target",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4f92732abf1cbd6b18ae5308453bc90dfc7801a9bd31be5cf0c4952e7ed841ca",
@@ -104,91 +230,11 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Google Cloud revenue growth",
-      "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Blizzard is now reportedly Microsoft's top studio, according to leaked email",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e3c8dd7f71c7d7fdae827a0954f5960aab1cc6d6124da37c35b49fda35463ac",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8cd4fe7182debb6de90358aa178ef070789157646744ff27eb1e44009accaee",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Best July sales",
-      "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c663e830149bea9323fe6fe59fc8af98224705ad68a8b7dd9a205ad11058433",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Potential of Space-Based Data Centers Is Huge. It's Not Enough to Make SpaceX Stock Appealing.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5dc2fc5cc074356ee516e2f61b4fed12a840f6195d4131c0a63ad38142cf0a29",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Bullish setup",
+      "direction": "neutral",
+      "confidence": 10,
+      "reason": "Market commentary",
       "headline": "It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c45e9d8bfd6c6a84e52fa0287a9d61e9109ad60885795ad81e166d2a6a87b95b",
@@ -227,52 +273,6 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Earnings ahead",
-      "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d07f539f863aae63e4ea985f4d3f429c7359be8cae6e4688105987cce16db8df",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d07f539f863aae63e4ea985f4d3f429c7359be8cae6e4688105987cce16db8df",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d29b776e04105275fd12381ac14d663ecdb04988ac3d5d8e52a78db5d7e4d6ae",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e5563acfa8d52a700e45a7db0158248742249b2b70a953f12e7c71514beb6c5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why QXO, Inc. Fell Over 20% in July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7c406cf062c6120d6e87016336ae378aa53d873037834670f466322db26addf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sezzle Beat on Revenue and Raised Guidance. Its Stock Lost a Third of Its Value in a Day.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e97c06385105d9650a558849732d0ce5268e2c4556887749e2133126ace9870c",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
       }
     }
   ]
