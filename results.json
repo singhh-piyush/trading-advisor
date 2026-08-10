@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T20:41:21Z",
+  "updated_at": "2026-08-10T21:40:14Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -90,7 +90,7 @@
       "company": "Apple",
       "direction": "down",
       "confidence": 70,
-      "reason": "Downgraded due to costs",
+      "reason": "Downgraded due to memory costs",
       "headline": "Apple (AAPL) Downgraded as Soaring Memory Costs Test iPhone Pricing Power",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=60e41764a4e2453aef5447ea2eb2a05d0a3c4caf4512463a06192649085fab3d",
@@ -150,26 +150,27 @@
           "used_by_ai": true
         },
         {
+          "headline": "Cerebras Systems Long-Term View: Delivery Speed Is The Next Frontier Of AI",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6109c3a0f89d031327184cf7a7a1aa996f684e1291303b5ebddaf7b7237f7bdd",
+          "used_by_ai": true
+        },
+        {
           "headline": "Taalas Buyout Boosts AMD's AI Inference Abilities Against NVDA & GOOGL",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=93c38cc8fd76eff5aa2b540a68c16eb322ad3d1f690000661d232676713e5c49",
           "used_by_ai": true
         },
         {
-          "headline": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e226592b461469900f7997cbb601bccc7102a3350b730134af5cae6eb365ae6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09465b77cdc52ed4ca08e678a9eda6789afbee85d5b5b56df095a91cfc2e51f9",
+          "headline": "AMD Beat Q2 Estimates, Then Elon Musk Stole The Show (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=af4ad2accaee2e5c89f38a1cb037e157a57594714a7626eb07bc62d358d90a5a",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 2,
+        "SeekingAlpha": 2
       }
     },
     {
@@ -190,12 +191,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Tesla in the spotlight as NFL's 49ers head coach says Autopilot may have been engaged during accident",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b017fb7b1f7b50ca2283b60be3c8cdaff7bbaf54ffcae45f5bb047f2e8d3189",
-          "used_by_ai": true
-        },
-        {
           "headline": "Tesla Has More to Prove Than Ever, But the Upside Could Be Huge",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=918307061f3263f2b8466fcf2e2a764fcef93807541023d2d2b7abc0a0310601",
@@ -212,6 +207,12 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0cd96aeabe7c64d22ada26d8e87d54b54cfa81de03ee59247e8a3387d39baaa",
           "used_by_ai": false
+        },
+        {
+          "headline": "Tesla in the spotlight as NFL's 49ers head coach says Autopilot may have been engaged during accident",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b017fb7b1f7b50ca2283b60be3c8cdaff7bbaf54ffcae45f5bb047f2e8d3189",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -224,11 +225,17 @@
       "direction": "neutral",
       "confidence": 40,
       "reason": "Market news",
-      "headline": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=104b1d0cf2ed94e37eae14dcfceb713ce0d96b0288f21520f28239fcf4275a44",
+      "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+          "used_by_ai": true
+        },
         {
           "headline": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
           "source": "Yahoo",
@@ -258,9 +265,22 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ad8243da693eb9dc0e66929e59bf94fd403f96dada9a009b973f62d8588528a5",
           "used_by_ai": true
+        },
+        {
+          "headline": "Oil prices jump, Wall Street under pressure with Hormuz, inflation in focus - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
+        "Reuters": 3,
         "Yahoo": 5
       }
     }
