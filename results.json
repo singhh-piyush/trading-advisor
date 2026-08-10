@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:30:17Z",
+  "updated_at": "2026-08-10T20:41:21Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,44 +12,118 @@
   "sample": false,
   "items": [
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
       "confidence": 80,
-      "reason": "iPhone pricing concerns",
-      "headline": "Apple downgraded by Jefferies on iPhone pricing concerns",
+      "reason": "Added $562 billion",
+      "headline": "Nvidia Just Added $562 Billion in a Week",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23c2d94c85bf872b1fe5e3ea6f92e936f823ca9d4a496c392063ca7a5837a2e4",
+      "url": "https://finnhub.io/api/news?id=d9cdbfe7b7b6f269d9da16b4dc88ab0e76c2d0c2e7f77d0016e6753d3aeb1180",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Apple downgraded by Jefferies on iPhone pricing concerns",
+          "headline": "Nvidia Just Added $562 Billion in a Week",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=23c2d94c85bf872b1fe5e3ea6f92e936f823ca9d4a496c392063ca7a5837a2e4",
+          "url": "https://finnhub.io/api/news?id=d9cdbfe7b7b6f269d9da16b4dc88ab0e76c2d0c2e7f77d0016e6753d3aeb1180",
           "used_by_ai": true
         },
         {
-          "headline": "Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics",
+          "headline": "Sector Update: Tech Stocks Decline Late Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40eddcd697149f9176464933c15c64efeb6643a396a3b050219f9f5bf3f76481",
+          "url": "https://finnhub.io/api/news?id=726dec967f312df0761d5640414c3e0682e72dc874c0b75fb09674733cba9848",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Iovance Biotherapeutics Stock Soars After the Company Posts Strong Q2 Earnings. Is It Heading Even Higher?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edefa2cf6fdd60bba70576fc90995cb5e22c4bb92929d20986ab97083494aa14",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Trump Media Stock Just Sank 9.4%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=127ba38789c92d7145c7b6e57012aed62d533b072d680cd4e4e53e17472a9e73",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AMD Brings Meta's New AI Model to PCs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ddfd4d2552b69b55aca34eaa5d0b4977ac7aa8ea9a71c6fb6c835e0f60cd3e44",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "JPMorgan backs AI payoff",
+      "headline": "Microsoft Stock Rises 1.7% as JPMorgan Backs AI Payoff",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eaec0ca9403e5d7c7f1381d26f60cd8dd620444f801dc833a690d1f9ffc68424",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Microsoft Stock Rises 1.7% as JPMorgan Backs AI Payoff",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eaec0ca9403e5d7c7f1381d26f60cd8dd620444f801dc833a690d1f9ffc68424",
           "used_by_ai": true
         },
         {
-          "headline": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
+          "headline": "Apollo Economist Drops Stark Take On AI Boom",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=127c3702d339fdef4a1bdfe0b989e5a3c934143c6ea05b9b617a89f06cb6b00e",
+          "url": "https://finnhub.io/api/news?id=071c96b91ea6851709fc3bcf8485d69806d24608dce33a515ac66748fe54ba4f",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Downgraded due to costs",
+      "headline": "Apple (AAPL) Downgraded as Soaring Memory Costs Test iPhone Pricing Power",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60e41764a4e2453aef5447ea2eb2a05d0a3c4caf4512463a06192649085fab3d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple (AAPL) Downgraded as Soaring Memory Costs Test iPhone Pricing Power",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=60e41764a4e2453aef5447ea2eb2a05d0a3c4caf4512463a06192649085fab3d",
           "used_by_ai": true
         },
         {
-          "headline": "These dow jones stocks are moving in today's session",
+          "headline": "Apple Users Face Major iPhone 18 Shock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5cb2744cce03c7330717bfddcc80ddb2b392ea791d76456e7bff4ca03b49fda8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stay informed with the top movers within the dow jones index on Monday.",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=215d57159ac550eaecc53a55f0b8bce07ef790c46ea7ddd57f4536b07ae4ddab",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=2f75049ab7be9065daa72677147eb7c5f80eb38c8674a895383a372bc4e3f887",
+          "used_by_ai": false
         },
         {
           "headline": "Most active S&P500 stocks in Monday's session",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=e70d1226589f0903ccae81f7dfc28a84486a4791d7a36b439ddaadc5b167af77",
+          "used_by_ai": false
+        },
+        {
+          "headline": "One quiet Apple update could matter more than it looks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c694a5907162fb0e9ce475fb543352902c6309bceb496636dade01dd282359c4",
           "used_by_ai": false
         }
       ],
@@ -59,107 +133,26 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Sales beat expected",
-      "headline": "Micron Technology's Earnings Outlook Strengthens on Higher Memory Pricing, UBS Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e50c6e6eb0ccc9e554104ef1a83c0cc7ef86ec9222d8ca6486b5fb8f0f8a5c2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Micron Technology's Earnings Outlook Strengthens on Higher Memory Pricing, UBS Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e50c6e6eb0ccc9e554104ef1a83c0cc7ef86ec9222d8ca6486b5fb8f0f8a5c2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Decline Monday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94f80c0bfac132841c8a93b2054dee2c11d9ed9c5211a57c1207a09b66cda794",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Check out the stocks that are attracting the most attention and driving market activity.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=6c7594f5c417a73d4ed5cef7aec8a6f761c498d618f96ee8fce41eac0911394d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Sector Update: Financial Stocks Mixed Monday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98ea62e4345e1d03581067048d264b0af25c304dfbe5d2d3194edfcd62321e39",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI chip production",
-      "headline": "Update: Market Chatter: Microsoft Plans to Ramp Up Homegrown AI Chip Production Next Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=620f70f5ab10e228ab80ecf128b2d88e53401ba8b90cffce750288a6b4297cde",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Update: Market Chatter: Microsoft Plans to Ramp Up Homegrown AI Chip Production Next Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=620f70f5ab10e228ab80ecf128b2d88e53401ba8b90cffce750288a6b4297cde",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The \u201cSet It & Forget It\u201d Stocks I\u2019d Want to Own",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3095480400af9b48e867b36c70234450d3fa5550b19fa7fb2d393ea7285a780c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "MSFT Stock Hits Highest Level This Year: Microsoft To Reportedly Hike Production Of AI Chips",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d83f4d38a5ddf96afc007fea6d9b45885d617167e90700791ab7fc9ecca51282",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Poised for Second-Quarter Sales Beat, Upbeat Guidance, BofA Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d54c522773cdea2e5462eb15eafeecc8ff81fb937fe9cb17d5ad706a5247c761",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI inference abilities",
-      "headline": "Taalas Buyout Boosts AMD's AI Inference Abilities Against NVDA & GOOGL",
+      "reason": "New AI model and data center push",
+      "headline": "What Advanced Micro Devices (AMD)'s New Instinct Coder AI Stack and Data Center Push Means For Shareholders",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93c38cc8fd76eff5aa2b540a68c16eb322ad3d1f690000661d232676713e5c49",
+      "url": "https://finnhub.io/api/news?id=39f79f1e097020e66b1be4c89e826dab9765072d3e1188c66841e92d42f059ff",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "What Advanced Micro Devices (AMD)'s New Instinct Coder AI Stack and Data Center Push Means For Shareholders",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39f79f1e097020e66b1be4c89e826dab9765072d3e1188c66841e92d42f059ff",
+          "used_by_ai": true
+        },
         {
           "headline": "Taalas Buyout Boosts AMD's AI Inference Abilities Against NVDA & GOOGL",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=93c38cc8fd76eff5aa2b540a68c16eb322ad3d1f690000661d232676713e5c49",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09465b77cdc52ed4ca08e678a9eda6789afbee85d5b5b56df095a91cfc2e51f9",
           "used_by_ai": true
         },
         {
@@ -169,28 +162,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Micron Technology Stock Surged On A Shortage The Company Had Already Described",
+          "headline": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e0fbc8d937a48bd74790743f4abac35f2fe01f96eb2898c6e213b15a1279094",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom\u2019s Brilliant Positioning is Why I Am Loading Up Over and Over",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d02405ac8b07a530b816cd30ace61a4b37874219f0cc65966b7b6e4a3ab9f85",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=09465b77cdc52ed4ca08e678a9eda6789afbee85d5b5b56df095a91cfc2e51f9",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "Mixed news",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI ambitions and margin story",
       "headline": "Does Tesla\u2019s Terafab Texas Chip Bet Reshape Its AI Ambitions And Margin Story For TSLA?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b34481b51aebb683f91e75ea4e3c10d2a90036ec69b9807eb7cfe9a9801cbe4a",
@@ -215,16 +202,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "The Zacks Analyst Blog Highlights SpaceX, Tesla KLA Corp, Onto Innovation, Applied Materials and Lam Research",
+          "headline": "SpaceX Stock Pauses After Lockup Rally Ahead of the Next Share Unlock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25f96fd28edf8e694434d82a4ef49c690c033d7be4d070a73541dae4e4780aa9",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=4761e5b41cfec7d86f42a6c2de59c1c6d6d58c9fbb3d9644f5d1b630f6d35b41",
+          "used_by_ai": false
         },
         {
-          "headline": "Semis Surge, Michael Burry\u2019s Shorts Feel the Pressure \u2014 But Don\u2019t Expect Him to Run for Cover After His Latest \u201c1987-Style\u201d Crash Warning",
+          "headline": "Cathie Wood's ARK Bought $40 Million of Nvidia, Tesla, and SpaceX During Last Month's AI Sell-Off. Was She Right to Buy the Dip?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=85c4b13cee6f02a51fd1a625137a37a9d47f916222269d0a1e78c0953dc28351",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d0cd96aeabe7c64d22ada26d8e87d54b54cfa81de03ee59247e8a3387d39baaa",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -236,16 +223,28 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Market mixed",
-      "headline": "The SECURE 2.0 Rollover That Turns Leftover 529 Money Into Tax-Free Retirement Gold",
+      "reason": "Market news",
+      "headline": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d22b68c6a43fff23655bff7a8466f3d3ff8ca7868cb16c36a5c602d2139184e5",
+      "url": "https://finnhub.io/api/news?id=104b1d0cf2ed94e37eae14dcfceb713ce0d96b0288f21520f28239fcf4275a44",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=104b1d0cf2ed94e37eae14dcfceb713ce0d96b0288f21520f28239fcf4275a44",
+          "used_by_ai": true
+        },
         {
           "headline": "The SECURE 2.0 Rollover That Turns Leftover 529 Money Into Tax-Free Retirement Gold",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d22b68c6a43fff23655bff7a8466f3d3ff8ca7868cb16c36a5c602d2139184e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wary Bulls Can Take Advantage Of This Spread On The S&P 500",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac143c36e33e21a7ae3778a1561cf0926648d55f5bfb8e95a3431c3fc3fdc183",
           "used_by_ai": true
         },
         {
@@ -259,23 +258,10 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ad8243da693eb9dc0e66929e59bf94fd403f96dada9a009b973f62d8588528a5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Two Market Signals, One Story",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=413c5170ff18c63909d1d0337dbc82a93c291ad70bd795b5a7c294a322eb6769",
-          "used_by_ai": true
-        },
-        {
-          "headline": "DraftKings After Earnings: Buy, Hold, or Run?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4feec4fc49285c9089ee636c516ede7f687e47a3d8d0981a5c99aa2c8c1e1239",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "Yahoo": 5
       }
     }
   ]
