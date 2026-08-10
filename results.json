@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T08:26:01Z",
+  "updated_at": "2026-08-10T09:57:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,20 +8,125 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
-      "ticker": "AMD",
-      "company": "",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 25,
-      "reason": "CapEx growth",
-      "headline": "AMD: CapEx Is Fueling The Next Leg",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b25fa961554fafdb0af1603c7497b79f21af6e021cf7c9ffb5c5a35645d28769",
+      "confidence": 60,
+      "reason": "Defense supply gaps",
+      "headline": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=3265d1322a7e3a01d1233f899e1eb92b1554c6337fa460fa9b425d9af368fe77",
+          "used_by_ai": false
+        },
+        {
+          "headline": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc98334c7e4257c9d811b93f0ef18be55fb3d413b368e45bad29ce3e7e1a6ec8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=440b33ee6bd67c70eaa5b92895ccaf4651a361a1153d199d25b4c0ef68c706ce",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Bullying tactic died",
+      "headline": "Apple\u2019s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple\u2019s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple CEO Tim Cook Just Passed His Successor a Mess",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a14bc7f4d27941a03532c537133b62a0a6ad90d592e3f4a49cd690b7952a7b3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple's Favorite Bullying Tactic Just Died in China. It Could Cost You Hundreds on Your Next iPhone.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a6b6e106e79ffc777b8f789223dbeb105630d64a9cec7f2ce8914c402d706115",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d2e408efcd9baf777c351d673ddef86876cd724b54b30e35e67946d36f0156c3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Canaccord Genuity Group Q1 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44e2e232519d1dd0aee3e110c1c69689ee8eb9f296c57f5525e2de2e1aaddeec",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "CapEx fuels growth",
+      "headline": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9356fed22ce295de843eda2daed53d41ab188e37f0a92398a2848a1d1d986204",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9356fed22ce295de843eda2daed53d41ab188e37f0a92398a2848a1d1d986204",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2747da36af300b98b2156d8f6dcdf8e18a98f2dc138ba28177d9d36e2c61781c",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD: CapEx Is Fueling The Next Leg",
           "source": "SeekingAlpha",
@@ -33,174 +138,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4f92732abf1cbd6b18ae5308453bc90dfc7801a9bd31be5cf0c4952e7ed841ca",
           "used_by_ai": true
-        },
-        {
-          "headline": "Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ed763396df52780017be1a582096b91d7d612e481ce57680fab43e199a18a72",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9356fed22ce295de843eda2daed53d41ab188e37f0a92398a2848a1d1d986204",
-          "used_by_ai": false
-        },
-        {
-          "headline": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2747da36af300b98b2156d8f6dcdf8e18a98f2dc138ba28177d9d36e2c61781c",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "Bullish setup",
-      "headline": "It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c45e9d8bfd6c6a84e52fa0287a9d61e9109ad60885795ad81e166d2a6a87b95b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c45e9d8bfd6c6a84e52fa0287a9d61e9109ad60885795ad81e166d2a6a87b95b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f62cd4669c72cd5976b2f5f02d976e5263c843a47b0ae10698ade3230a714321",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 15,
-      "reason": "Economic outlook",
-      "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d37353ea2a606a6b4d384b348b62603b2e42a78c5c62f8722cce5e3212613eb1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f62cd4669c72cd5976b2f5f02d976e5263c843a47b0ae10698ade3230a714321",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
-          "used_by_ai": true
-        },
-        {
-          "headline": "It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c45e9d8bfd6c6a84e52fa0287a9d61e9109ad60885795ad81e166d2a6a87b95b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 5
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "",
-      "direction": "down",
-      "confidence": 10,
-      "reason": "CEO succession",
-      "headline": "Apple CEO Tim Cook Just Passed His Successor a Mess",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a14bc7f4d27941a03532c537133b62a0a6ad90d592e3f4a49cd690b7952a7b3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple CEO Tim Cook Just Passed His Successor a Mess",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a14bc7f4d27941a03532c537133b62a0a6ad90d592e3f4a49cd690b7952a7b3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple\u2019s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Canaccord Genuity Group Q1 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44e2e232519d1dd0aee3e110c1c69689ee8eb9f296c57f5525e2de2e1aaddeec",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple's Favorite Bullying Tactic Just Died in China. It Could Cost You Hundreds on Your Next iPhone.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6b6e106e79ffc777b8f789223dbeb105630d64a9cec7f2ce8914c402d706115",
-          "used_by_ai": false
-        },
-        {
-          "headline": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2e408efcd9baf777c351d673ddef86876cd724b54b30e35e67946d36f0156c3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "TSLA",
-      "company": "",
+      "company": "Tesla",
       "direction": "neutral",
-      "confidence": 10,
+      "confidence": 40,
       "reason": "China split rumors",
       "headline": "Tesla (TSLA) Rumors Swirl Over China Split Ahead Of Possible Merger",
       "source": "Yahoo",
@@ -238,9 +187,9 @@
     },
     {
       "ticker": "MSFT",
-      "company": "",
+      "company": "Microsoft",
       "direction": "up",
-      "confidence": 10,
+      "confidence": 40,
       "reason": "Dividend income",
       "headline": "LegalZoom.com (LZ) Could Be 32% Undervalued Following Copilot Launch And Guidance Cut",
       "source": "Yahoo",
@@ -283,49 +232,37 @@
       }
     },
     {
-      "ticker": "NVDA",
+      "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 10,
-      "reason": "AI growth",
-      "headline": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Macro monitor",
+      "headline": "Monthly Macro Monitor: Status Quo",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=64a0aeef6d55f215cf328a747fbd0a4ca2182bf54e9e2af31106333cab47e6e0",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe",
+          "headline": "Monthly Macro Monitor: Status Quo",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=64a0aeef6d55f215cf328a747fbd0a4ca2182bf54e9e2af31106333cab47e6e0",
           "used_by_ai": true
         },
         {
-          "headline": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc98334c7e4257c9d811b93f0ef18be55fb3d413b368e45bad29ce3e7e1a6ec8",
+          "headline": "It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c45e9d8bfd6c6a84e52fa0287a9d61e9109ad60885795ad81e166d2a6a87b95b",
           "used_by_ai": true
         },
         {
-          "headline": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
+          "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
           "used_by_ai": true
-        },
-        {
-          "headline": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0723b8f4a21429ad48095baff79534983a6612d43d3caf65a7100b390eced2c0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=440b33ee6bd67c70eaa5b92895ccaf4651a361a1153d199d25b4c0ef68c706ce",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "SeekingAlpha": 3
       }
     }
   ]
