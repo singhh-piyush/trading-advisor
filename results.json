@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T06:27:16Z",
+  "updated_at": "2026-08-11T07:46:32Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -62,7 +62,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Growth without selling cars",
+      "reason": "Growth without car sales",
       "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
@@ -107,7 +107,7 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "AI lease and revenue beat",
       "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
       "source": "Yahoo",
@@ -144,11 +144,51 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mentioned in context",
+      "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia, Wall Street firms plan $500 billion AI infrastructure push",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
+          "used_by_ai": true
+        },
+        {
+          "headline": "CRM Stock Has Bounced From This Price Before. Now What?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1740958c32945d425837d62ff6e5bf09008ddbb9185957c7854da5fe65a2aa92",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentions in various articles",
+      "confidence": 30,
+      "reason": "Mentioned in context",
       "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
@@ -190,56 +230,28 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentions in various articles",
-      "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, Wall Street firms plan $500 billion AI infrastructure push",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
-          "used_by_ai": true
-        },
-        {
-          "headline": "CRM Stock Has Bounced From This Price Before. Now What?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1740958c32945d425837d62ff6e5bf09008ddbb9185957c7854da5fe65a2aa92",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market trends and analysis",
-      "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
+      "confidence": 20,
+      "reason": "Market trends",
+      "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1c3a46095fe66e708482b564a149d0ad4945c1cb623813bb695d61524dc2db06",
+      "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Yardstick That Ate The Market - Part 1",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a51de000d6c5157bd53baf70fd0f8ab67bc3f004aff76d4effc11d3237182b0a",
+          "used_by_ai": true
+        },
         {
           "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
           "source": "SeekingAlpha",
@@ -251,23 +263,10 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e1ce815605e26114d5fd06d07a4559d12eef146c799e1648163aebd9d31216aa",
           "used_by_ai": true
-        },
-        {
-          "headline": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a445b24404d24547a17ed83fb605a2a9c3a72a85b230744c648f0400df5bcb59",
-          "used_by_ai": true
-        },
-        {
-          "headline": "You Spent 40 Years Saving. Nobody Taught You How to Turn It Into a Paycheck. These 4 ETFs Do It Without Selling a Single Share",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3efea363263c603e027388f55152b0755eee0fc584ea49b2c8154711162cad59",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Yahoo": 2
+        "SeekingAlpha": 4
       }
     }
   ]
