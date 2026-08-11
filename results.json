@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T19:34:47Z",
+  "updated_at": "2026-08-11T20:42:33Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -17,15 +17,27 @@
       "direction": "up",
       "confidence": 80,
       "reason": "AI deal expansion",
-      "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+      "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
+          "used_by_ai": true
+        },
         {
           "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7aa34f9b9597250b8a19d3e4f0025de2a79a36fb32c0ab8ff85fbde11d119a34",
           "used_by_ai": true
         },
         {
@@ -45,24 +57,13 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=77a17cf085007c2f59ce02c92c370eab249e7c2d62c46567ca172b98b368bc4e",
           "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia: Guess Who Backstops The $500 Billion (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f847afba36db398499a2001b95b9eb0a543bb254217d503204ec6c0eca665057",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
+        "ChartMill": 1,
         "CNBC": 1,
-        "SeekingAlpha": 4,
-        "ChartMill": 1
+        "Benzinga": 1,
+        "SeekingAlpha": 3
       }
     },
     {
@@ -71,11 +72,17 @@
       "direction": "down",
       "confidence": 60,
       "reason": "Executive departure",
-      "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+          "used_by_ai": true
+        },
         {
           "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
           "source": "Benzinga",
@@ -89,64 +96,86 @@
           "used_by_ai": true
         },
         {
+          "headline": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
+          "used_by_ai": true
+        },
+        {
           "headline": "Nvidia's Masterstroke To Turn Itself Into An Asset Class\u2014Characterizing This As Circular Financing Is Flawed",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
           "used_by_ai": true
-        },
-        {
-          "headline": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 4,
-        "ChartMill": 1
+        "ChartMill": 1,
+        "Benzinga": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Comparison with SpaceX",
+      "headline": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Yahoo": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI play",
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=dc7b678c7dd4cd6a3402643873b5496c8607351731d4b73f311288116d81b5e8",
+      "confidence": 40,
+      "reason": "Bull market test",
+      "headline": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c7f68e00bcd82f4e70c6704d72ad1a8bf2000ac0830147482c132526739219bd",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=dc7b678c7dd4cd6a3402643873b5496c8607351731d4b73f311288116d81b5e8",
+          "headline": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c7f68e00bcd82f4e70c6704d72ad1a8bf2000ac0830147482c132526739219bd",
           "used_by_ai": true
         },
         {
-          "headline": "CoreWeave or Nebius? Analyst Says the Risk-Reward Now Favors One AI Stock",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a4b9b0fbf9777dc1e5cb21fb347ddcc98e66b7a562fb88c5dc5b552e5a4f3e55",
+          "headline": "FTEC: Fidelity's IT ETF Is A Fantastic Long-Term Core Tech Holding",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4d376b0daec0833082a3f94df50421b15d71ffd4e490fc7fc8b298c1325ad346",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 1
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Presentation",
+      "confidence": 40,
+      "reason": "Presentation at forum",
       "headline": "Advanced Micro Devices, Inc. (AMD) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8168fd32ef031b8660815b1754170c3012d55b871334fd48a9e11f7820124707",
@@ -170,52 +199,46 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Chip plant investment",
-      "headline": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'\u2014 The Smoke Incident That Prompted a Recall Explains Why",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 1,
-        "Benzinga": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
+      "direction": "down",
       "confidence": 40,
-      "reason": "Market trend",
-      "headline": "Dividends Are Sending A Signal",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=babcb957e3abfc410a56107bc201d36b4dd81deae6a09eb74764ea2ad4a90095",
+      "reason": "US-Iran tensions",
+      "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Hormuz Strait to remain closed unless U.S. meets Iran's conditions, Iranian security council says - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFUwQU11ZTNtdlg0Zm1iSlQ0QlBkaFhUSzI2ZkdPY2M2anViX2l3R2xsUkxXdmszWlVDZU91ckpmeUZFOTlJUzB3T1NXZ3VNZm81R19hX25kdldEcUNZYlh0RDZYUlFYY05hVkM4dkdOUi1IMlVyak96OVphU0U5T3RwYkpqZlpQcVk4cThFM3M5U1dEcS13TDBIamk5OW5TcmEwaDY2d1JRbU80bzVFRGVSbnJTOUItdlhfNFgxRVpnTnRnNHVRRzJZOA?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUNwdDR2X2Z6TlJ2NDZ5VVVESGN1bHdOU3RHSVY5aGJSdmJldVZ6YVh5ZDVNNUxJMFpValdCa0dKSFJBLUZzeTdEU1pmcmhMVjAtQzBFdm91QW1JZERManNpTlMtbzBEaVhnZTRybjF1YkxVVVBtLWE0Vk4xOW9NWWhJU19yUUdLYy1MNHpDTTFjb3F0ajMtZHl1THdCSG00NjFNQTgtUzZpNG1DN0cwWi1lR2VNdWJvQjBkNHYtSy1GcVRLQ3hYTXJVQ2ZZZW8?oc=5",
+          "used_by_ai": true
+        },
         {
           "headline": "Dividends Are Sending A Signal",
           "source": "SeekingAlpha",
@@ -233,9 +256,16 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=c8eb2bce2b93e23572a162497e3b309c300c0b5138a6a151cea7e2ed7bef06b8",
           "used_by_ai": true
+        },
+        {
+          "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
+        "Reuters": 6,
         "SeekingAlpha": 2,
         "Benzinga": 1
       }
