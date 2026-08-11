@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T08:55:08Z",
+  "updated_at": "2026-08-11T09:59:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI buildout investment",
+      "reason": "AI buildout",
       "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
@@ -35,41 +35,180 @@
           "used_by_ai": true
         },
         {
+          "headline": "This High-Yield Pipeline Stock Could Pay You $700 a Year on a $10,000 Investment",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d9ed775c51e2f03359ec4ce26532de2232ca2d683be7ae632e26d9e756a2648",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06544940c7e81be051fad18f7647486d20f49eaf7057870718af7dc9d37ed7ec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Invest $500 in Oklo Stock Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ead805b2e1860ab1508309bdaa3c1fc3e7f1972fa3cdd611f58a1cdc3c64d054",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Hormuz tensions",
+      "headline": "US-Iran standoff sends oil up, dents stocks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "US-Iran standoff sends oil up, dents stocks - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil rises as Iran and US trade demands for reopening Strait of Hormuz - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Gulf shipping traffic via Strait of Hormuz falls to six vessels - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3lVMjZBYTN2WlJSTnRXUVlyRmd5dXYxNnV0ekRtTUg4VEF5cC0yM3NoV1lNNEhoTF9wandNSUNLMEFyeHNnU0w4Z2NuOXhKUzdCMlAtdms2SGxpV0t0WGNlcl9MaTdYSTZVMlh5bGVBM0ZnNUVCcVhKWWF2VU1sdTVadEV6M2s0X0tWWF9wWWhlV3h2dlBSaUFHM2VMNTdy?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Yardstick That Ate The Market - Part 1",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a51de000d6c5157bd53baf70fd0f8ab67bc3f004aff76d4effc11d3237182b0a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1c3a46095fe66e708482b564a149d0ad4945c1cb623813bb695d61524dc2db06",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Cumberland's Monday Memo",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e1ce815605e26114d5fd06d07a4559d12eef146c799e1648163aebd9d31216aa",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 5,
+        "SeekingAlpha": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI growth",
+      "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
+          "used_by_ai": true
+        },
+        {
           "headline": "Nvidia, Wall Street firms plan $500 billion AI infrastructure push",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
           "used_by_ai": true
         },
         {
-          "headline": "This High-Yield Pipeline Stock Could Pay You $700 a Year on a $10,000 Investment",
+          "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d9ed775c51e2f03359ec4ce26532de2232ca2d683be7ae632e26d9e756a2648",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06544940c7e81be051fad18f7647486d20f49eaf7057870718af7dc9d37ed7ec",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Should You Invest $500 in Oklo Stock Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ead805b2e1860ab1508309bdaa3c1fc3e7f1972fa3cdd611f58a1cdc3c64d054",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 5
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI and semiconductor",
+      "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4455d7ede2c8bbce387106dc63754a6c18e14e5b31bb39ed1f2b2c304fd4ebb9",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Growth without car sales",
+      "confidence": 50,
+      "reason": "Growth initiatives",
       "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
@@ -111,117 +250,50 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI lease and revenue",
-      "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4455d7ede2c8bbce387106dc63754a6c18e14e5b31bb39ed1f2b2c304fd4ebb9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI hyperscale",
-      "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia, Wall Street firms plan $500 billion AI infrastructure push",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market trends",
-      "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
+      "confidence": 30,
+      "reason": "Indirect mentions",
+      "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
+          "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
           "used_by_ai": true
         },
         {
-          "headline": "The Yardstick That Ate The Market - Part 1",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a51de000d6c5157bd53baf70fd0f8ab67bc3f004aff76d4effc11d3237182b0a",
+          "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
           "used_by_ai": true
         },
         {
-          "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1c3a46095fe66e708482b564a149d0ad4945c1cb623813bb695d61524dc2db06",
+          "headline": "HPQ Pays You More Cash Than Most Of The Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4b1f1bec8518c0b7f65839c4d49145aa8d71748beef05645178ccb7b87a2bf29",
           "used_by_ai": true
         },
         {
-          "headline": "Cumberland's Monday Memo",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e1ce815605e26114d5fd06d07a4559d12eef146c799e1648163aebd9d31216aa",
+          "headline": "Nanoveu secures US$300,000 EyeFly3D pilot order for India launch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1e27ffd93f1ff7851afced2d4de990b605c8ba40d6bff12360bfb5df07f02042",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f339d434e6fb8b4004ba9cee42e343117c137e5aa18bf4410b9c0c96abf0e5b0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4
+        "ChartMill": 1,
+        "Yahoo": 4
       }
     }
   ]
