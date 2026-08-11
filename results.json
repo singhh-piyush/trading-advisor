@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T03:43:38Z",
+  "updated_at": "2026-08-11T05:07:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,12 +16,24 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Strong signal to investors",
-      "headline": "Nvidia's CEO just sent strong signal to stock market investors",
+      "reason": "AI infrastructure push",
+      "headline": "Nvidia CEO Calls AI Data Centers 'Investable Assets' After Partnership With Wall Street Firms For $500B Financing Venture",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437",
+      "url": "https://finnhub.io/api/news?id=f3a23cc1f7d6937f332dea64a5ac88a72d2ed4677b33bca2ab7a2aae93a5fce2",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nvidia CEO Calls AI Data Centers 'Investable Assets' After Partnership With Wall Street Firms For $500B Financing Venture",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f3a23cc1f7d6937f332dea64a5ac88a72d2ed4677b33bca2ab7a2aae93a5fce2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apollo Global Management (APO) Joins $500 Billion AI Infrastructure Fund",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8030df18d74bed439d647404ded3c5a2526200a2ee3f3f58c341310807e35b55",
+          "used_by_ai": true
+        },
         {
           "headline": "Nvidia's CEO just sent strong signal to stock market investors",
           "source": "Yahoo",
@@ -29,61 +41,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
+          "headline": "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33fd80cb9b43fabda35e9bcf6e7189fdfeb18b88cc49bcc03cba67c7ce8f3eb6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Why Intel Stock Is Down Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a3fafdd5efc0c59246b41dcd7eea953c8d6309e9edb7b9673959262ea4a0950",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rumble Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b1657cc3dd57b40797ce3897999d8df809d8253ce63cddbb57be30d8e144e04",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI lease and revenue beat",
-      "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Did FRMI Stock Rise As Much As 35% After-Hours?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27700eb2a4d8eabef60c6b92fee56b053f6541b11891759f0a2ec0437c6192d7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba2050ff918f4d82e7c5fff9b21b11d50ef1daa309ca6106d2a7e46b3bcf983d",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stock Screening Made Simple: A Guide",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0ade50dff39b99e12567e1b45eaae025df02a1f0168b6095379f467de4990b8",
+          "url": "https://finnhub.io/api/news?id=ef517d80c4c25e67109bd500dd34b4edaecc99e74e3a694c774d12fa382ac821",
           "used_by_ai": false
         }
       ],
@@ -96,7 +56,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Growth without car sales",
+      "reason": "Growth without selling cars",
       "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
@@ -121,16 +81,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965",
-          "used_by_ai": true
-        },
-        {
           "headline": "Retail traders just drew a line under Tesla\u2019s sell-off",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=834e7696cec2e7ddefb7c2257e6684a90082609d7d0356a37c89193fe7648c34",
           "used_by_ai": true
+        },
+        {
+          "headline": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -138,39 +98,39 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Intel's dilution",
-      "headline": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI lease and revenue beat",
+      "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33fd80cb9b43fabda35e9bcf6e7189fdfeb18b88cc49bcc03cba67c7ce8f3eb6",
+      "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Intel Is Selling $15 Billion of Stock to Fund the AI Build-Out. The Dilution Is About 3%. The Premarket Hit Was 5%.",
+          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33fd80cb9b43fabda35e9bcf6e7189fdfeb18b88cc49bcc03cba67c7ce8f3eb6",
+          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
           "used_by_ai": true
         },
         {
-          "headline": "Why Intel Stock Is Down Today",
+          "headline": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a3fafdd5efc0c59246b41dcd7eea953c8d6309e9edb7b9673959262ea4a0950",
+          "url": "https://finnhub.io/api/news?id=4455d7ede2c8bbce387106dc63754a6c18e14e5b31bb39ed1f2b2c304fd4ebb9",
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia's CEO just sent strong signal to stock market investors",
+          "headline": "Stock Screening Made Simple: A Guide",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=b0ade50dff39b99e12567e1b45eaae025df02a1f0168b6095379f467de4990b8",
+          "used_by_ai": true
         },
         {
-          "headline": "Rumble Q2 Earnings Call Highlights",
+          "headline": "Why Did FRMI Stock Rise As Much As 35% After-Hours?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b1657cc3dd57b40797ce3897999d8df809d8253ce63cddbb57be30d8e144e04",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=27700eb2a4d8eabef60c6b92fee56b053f6541b11891759f0a2ec0437c6192d7",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -182,7 +142,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI infrastructure push",
+      "reason": "Cash-return machine",
       "headline": "Nvidia, Wall Street firms plan $500 billion AI infrastructure push",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
@@ -212,62 +172,22 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Compared to HPQ",
-      "headline": "HPQ Pays You More Cash Than Most Of The Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b1f1bec8518c0b7f65839c4d49145aa8d71748beef05645178ccb7b87a2bf29",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "HPQ Pays You More Cash Than Most Of The Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b1f1bec8518c0b7f65839c4d49145aa8d71748beef05645178ccb7b87a2bf29",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f339d434e6fb8b4004ba9cee42e343117c137e5aa18bf4410b9c0c96abf0e5b0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bc00807e1385f574a295126915f74885d10ff16f17a10f942c9b3398e9c09f5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Update: US Equity Indexes Decline as Fading Hopes for Quick Hormuz Reopening Lift Crude Oil, Treasury Yields",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cfef664342e3f344e5da6ff7403e64cf90a6210e41f326f1f04c1d6cbe9f2503",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market watch",
-      "headline": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a445b24404d24547a17ed83fb605a2a9c3a72a85b230744c648f0400df5bcb59",
+      "confidence": 50,
+      "reason": "Market diversification",
+      "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c3a46095fe66e708482b564a149d0ad4945c1cb623813bb695d61524dc2db06",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1c3a46095fe66e708482b564a149d0ad4945c1cb623813bb695d61524dc2db06",
+          "used_by_ai": true
+        },
         {
           "headline": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
           "source": "Yahoo",
@@ -281,21 +201,61 @@
           "used_by_ai": true
         },
         {
-          "headline": "World Markets Watchlist: August 10, 2026",
+          "headline": "Cumberland's Monday Memo",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=72946da15d387774ecbec65063cf1926d60dba4b8a899c925c8a79389e3d7072",
+          "url": "https://finnhub.io/api/news?id=e1ce815605e26114d5fd06d07a4559d12eef146c799e1648163aebd9d31216aa",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Dividend payments",
+      "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
           "used_by_ai": true
         },
         {
-          "headline": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
+          "headline": "HPQ Pays You More Cash Than Most Of The Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=104b1d0cf2ed94e37eae14dcfceb713ce0d96b0288f21520f28239fcf4275a44",
+          "url": "https://finnhub.io/api/news?id=4b1f1bec8518c0b7f65839c4d49145aa8d71748beef05645178ccb7b87a2bf29",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nanoveu secures US$300,000 EyeFly3D pilot order for India launch",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1e27ffd93f1ff7851afced2d4de990b605c8ba40d6bff12360bfb5df07f02042",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f339d434e6fb8b4004ba9cee42e343117c137e5aa18bf4410b9c0c96abf0e5b0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "Yahoo": 5
       }
     }
   ]
