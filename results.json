@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T14:35:12Z",
+  "updated_at": "2026-08-11T16:00:33Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,28 +16,16 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI buildout",
-      "headline": "Got $200 per Month? This ETF Could Turn It Into $455,865 With Minimal Effort on Your Part.",
+      "reason": "AI buildout funding",
+      "headline": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=067ce25bcd54c989024e92b4738c929564c5e2cdb826f3a7a8eb374d1a5706b9",
+      "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Got $200 per Month? This ETF Could Turn It Into $455,865 With Minimal Effort on Your Part.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=067ce25bcd54c989024e92b4738c929564c5e2cdb826f3a7a8eb374d1a5706b9",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "A Once-in-a-Decade Opportunity: 1 Magnificent S&P 500 Dividend Stock Down 45% to Buy Right Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1ef89212091804c11309814f9fde46719b67b0d8e3bafb8780da4adf1dd9f60",
           "used_by_ai": true
         },
         {
@@ -47,6 +35,24 @@
           "used_by_ai": true
         },
         {
+          "headline": "Nvidia Stock Rises As Chipmaker Rounds Up Funding For AI Buildout",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/nvidia-stock-ai-buildout-financing/?src=A00220&yptr=yahoo",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Got $200 per Month? This ETF Could Turn It Into $455,865 With Minimal Effort on Your Part.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=067ce25bcd54c989024e92b4738c929564c5e2cdb826f3a7a8eb374d1a5706b9",
+          "used_by_ai": false
+        },
+        {
+          "headline": "A Once-in-a-Decade Opportunity: 1 Magnificent S&P 500 Dividend Stock Down 45% to Buy Right Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1ef89212091804c11309814f9fde46719b67b0d8e3bafb8780da4adf1dd9f60",
+          "used_by_ai": false
+        },
+        {
           "headline": "Canopy Growth: Penny Stock Purgatory -- or Cannabis Rebound in the Making?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fc963e934b5b198b4f70787f85846bbf6aa80ef686b0bde27234fd87036096ff",
@@ -54,7 +60,8 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5
+        "Yahoo": 5,
+        "Yahoo Finance": 1
       }
     },
     {
@@ -62,7 +69,7 @@
       "company": "AMD",
       "direction": "down",
       "confidence": 70,
-      "reason": "Margin concerns",
+      "reason": "Revenue growth concerns",
       "headline": "AMD: Revenue Is Exploding, But Margins May Stop The Rally (Rating Downgrade)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9bc5df2cb36e767d2948d859afcd4ace11393f83bd3b958575aeb2a6f18ae6b8",
@@ -75,27 +82,27 @@
           "used_by_ai": true
         },
         {
-          "headline": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
-          "used_by_ai": true
-        },
-        {
           "headline": "Priced For Perfection: Why AMD's Growth Thesis Faces A Structural Ceiling",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=0444eb16d34d5a7b98ca37e5cd17f9d65eb0a7bf0bca32d4b46727d4ffb493e6",
           "used_by_ai": true
         },
         {
-          "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
+          "headline": "What's Going On With AMD Stock Tuesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=59c30c8062f54b53f6ff1e60bcee07a5eb065886950d7edde404d36bfd555500",
           "used_by_ai": true
+        },
+        {
+          "headline": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 3,
-        "Yahoo": 1
+        "Benzinga": 1
       }
     },
     {
@@ -103,12 +110,18 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
+      "reason": "Moat and growth",
+      "headline": "You're Underestimating Microsoft's Moat",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a24a7d56c556f48b1a8cbd2d78314b407eb377a74bd3fb38208b8a3d42e59030",
+      "url": "https://finnhub.io/api/news?id=76592cd33bd42112701d6c0f1bede71034fe11bd213aa9abe499149d00a47d99",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "You're Underestimating Microsoft's Moat",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=76592cd33bd42112701d6c0f1bede71034fe11bd213aa9abe499149d00a47d99",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
           "source": "SeekingAlpha",
@@ -132,17 +145,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e4c287cbdc846d32459bf189d2db32e7a5889c8eed8899b4255e36ca7c625a24",
           "used_by_ai": true
-        },
-        {
-          "headline": "AI\u2019s biggest buildout is here. These stocks offer a way to invest in the data center boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98de8d77052dfb76d7d0a47caa21dc7cf8a16f713bba76fa091baca915a70d43",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Yahoo": 2
+        "SeekingAlpha": 4,
+        "Yahoo": 1
       }
     },
     {
@@ -151,11 +158,23 @@
       "direction": "up",
       "confidence": 60,
       "reason": "Growth initiatives",
-      "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
+      "headline": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
+      "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'\u2014 The Smoke Incident That Prompted a Recall Explains Why",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299",
+          "used_by_ai": true
+        },
         {
           "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
           "source": "Yahoo",
@@ -176,24 +195,25 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3
+        "Yahoo": 4,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Market recovery",
-      "headline": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market trends",
+      "headline": "Markets Straddle Flat Line In Early Trading",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=479b36842c684f5e770db9aa584fe4d9e1a0660a4340da4c5a6a04fbb7d9c308",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "headline": "Markets Straddle Flat Line In Early Trading",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=479b36842c684f5e770db9aa584fe4d9e1a0660a4340da4c5a6a04fbb7d9c308",
           "used_by_ai": true
         },
         {
@@ -219,18 +239,11 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ed3ebaad429867949cc2a2be8ad01fbb1079e34a31499f03efa43a5b02c3e876",
           "used_by_ai": true
-        },
-        {
-          "headline": "Diverging Fortunes For Older And Younger Teens In U.S. Summer Job Market",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=affd7101eba6628c435b56abda19a6b9c512b805115b01cc9d004bfd5c41623e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
-        "ChartMill": 1,
         "SeekingAlpha": 3,
+        "ChartMill": 1,
         "Yahoo": 1
       }
     },
@@ -238,7 +251,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 30,
       "reason": "Indirect mentions",
       "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
       "source": "ChartMill",
@@ -249,12 +262,6 @@
           "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OMAH: A 15% Yield And Berkshire Exposure In One ETF",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3b188cd6cb5f4a2265221a1dfb6c3477f8e3b2dd5b6e93b58ac66f90beaf858d",
           "used_by_ai": true
         },
         {
@@ -274,12 +281,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1e27ffd93f1ff7851afced2d4de990b605c8ba40d6bff12360bfb5df07f02042",
           "used_by_ai": true
+        },
+        {
+          "headline": "OMAH: A 15% Yield And Berkshire Exposure In One ETF",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3b188cd6cb5f4a2265221a1dfb6c3477f8e3b2dd5b6e93b58ac66f90beaf858d",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
-        "SeekingAlpha": 1,
-        "Yahoo": 3
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     }
   ]
