@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T07:46:32Z",
+  "updated_at": "2026-08-11T08:55:08Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
     {
@@ -16,34 +16,22 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI infrastructure push",
-      "headline": "Cramer\u2019s Analyst Says Eli Lilly\u2019s GLP-1 Stock Rally Has Years Left to Run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cfddac43682cfffff44b82c34297fce10d120b46260a0196bdcb437835a12c7",
+      "reason": "AI buildout investment",
+      "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Cramer\u2019s Analyst Says Eli Lilly\u2019s GLP-1 Stock Rally Has Years Left to Run",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3cfddac43682cfffff44b82c34297fce10d120b46260a0196bdcb437835a12c7",
+          "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
           "used_by_ai": true
         },
         {
-          "headline": "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
+          "headline": "Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef517d80c4c25e67109bd500dd34b4edaecc99e74e3a694c774d12fa382ac821",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia CEO Calls AI Data Centers 'Investable Assets' After Partnership With Wall Street Firms For $500B Financing Venture",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3a23cc1f7d6937f332dea64a5ac88a72d2ed4677b33bca2ab7a2aae93a5fce2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apollo Global Management (APO) Joins $500 Billion AI Infrastructure Fund",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8030df18d74bed439d647404ded3c5a2526200a2ee3f3f58c341310807e35b55",
+          "url": "https://finnhub.io/api/news?id=51d4fd17a99d69e5aa6bbc33cf4a68a3fd50fd0bf88a3a6b1ba163b3eecc7bbd",
           "used_by_ai": true
         },
         {
@@ -51,9 +39,28 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
           "used_by_ai": true
+        },
+        {
+          "headline": "This High-Yield Pipeline Stock Could Pay You $700 a Year on a $10,000 Investment",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d9ed775c51e2f03359ec4ce26532de2232ca2d683be7ae632e26d9e756a2648",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06544940c7e81be051fad18f7647486d20f49eaf7057870718af7dc9d37ed7ec",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Should You Invest $500 in Oklo Stock Right Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ead805b2e1860ab1508309bdaa3c1fc3e7f1972fa3cdd611f58a1cdc3c64d054",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
+        "ChartMill": 1,
         "Yahoo": 5
       }
     },
@@ -107,8 +114,8 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI lease and revenue beat",
+      "confidence": 70,
+      "reason": "AI lease and revenue",
       "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
@@ -131,33 +138,27 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4455d7ede2c8bbce387106dc63754a6c18e14e5b31bb39ed1f2b2c304fd4ebb9",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Screening Made Simple: A Guide",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0ade50dff39b99e12567e1b45eaae025df02a1f0168b6095379f467de4990b8",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 3
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in context",
-      "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI hyperscale",
+      "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
+      "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
+          "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
+          "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
           "used_by_ai": true
         },
         {
@@ -173,10 +174,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "CRM Stock Has Bounced From This Price Before. Now What?",
+          "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1740958c32945d425837d62ff6e5bf09008ddbb9185957c7854da5fe65a2aa92",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d542b567f610a6741c17323b7459ad6ee178b47913fbe01c5bd89edfd5fd1a8a",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -184,56 +185,10 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Mentioned in context",
-      "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
-          "used_by_ai": true
-        },
-        {
-          "headline": "HPQ Pays You More Cash Than Most Of The Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b1f1bec8518c0b7f65839c4d49145aa8d71748beef05645178ccb7b87a2bf29",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nanoveu secures US$300,000 EyeFly3D pilot order for India launch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e27ffd93f1ff7851afced2d4de990b605c8ba40d6bff12360bfb5df07f02042",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f339d434e6fb8b4004ba9cee42e343117c137e5aa18bf4410b9c0c96abf0e5b0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
+      "confidence": 40,
       "reason": "Market trends",
       "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
       "source": "SeekingAlpha",
