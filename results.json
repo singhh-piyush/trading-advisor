@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:58:46Z",
+  "updated_at": "2026-08-11T11:50:40Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Wall Street endorses AI concept",
+      "reason": "AI buildout",
       "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
@@ -56,7 +56,7 @@
           "headline": "Canopy Growth: Penny Stock Purgatory -- or Cannabis Rebound in the Making?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fc963e934b5b198b4f70787f85846bbf6aa80ef686b0bde27234fd87036096ff",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -69,7 +69,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 70,
-      "reason": "AI cloud stock outperforms",
+      "reason": "AI growth",
       "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa",
@@ -79,6 +79,12 @@
           "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rotation Away From Tech Lifts Moat Index In July",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e4c287cbdc846d32459bf189d2db32e7a5889c8eed8899b4255e36ca7c625a24",
           "used_by_ai": true
         },
         {
@@ -101,7 +107,49 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "AI and tech growth",
+      "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD: Buying A Supply Position, Not A Product Cycle",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=84972e8a4c0d3e11f6ddec1f58467a07ebb4a43096ae47453652c8efa1d45c93",
+          "used_by_ai": true
+        },
+        {
+          "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -109,7 +157,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 60,
-      "reason": "New growth opportunities",
+      "reason": "Growth and AI",
       "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
@@ -137,7 +185,7 @@
           "headline": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -145,106 +193,11 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "US-Iran standoff",
-      "headline": "US-Iran standoff sends oil up, dents stocks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "US-Iran standoff sends oil up, dents stocks - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Daily Breadth Cools, but the Broader Recovery Holds",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0b8e90149084a8305f0af7015a2aa6b4837ab991c71e23cfa36705317984c09e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed3ebaad429867949cc2a2be8ad01fbb1079e34a31499f03efa43a5b02c3e876",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Yardstick That Ate The Market - Part 1",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a51de000d6c5157bd53baf70fd0f8ab67bc3f004aff76d4effc11d3237182b0a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is The S&P 500's Concentrated Rally Starting To Diversify?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1c3a46095fe66e708482b564a149d0ad4945c1cb623813bb695d61524dc2db06",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 2,
-        "ChartMill": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Dividend-paying stock",
-      "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 40,
-      "reason": "AI buildout",
+      "confidence": 50,
+      "reason": "Tech growth",
       "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
@@ -284,6 +237,61 @@
       "source_breakdown": {
         "ChartMill": 1,
         "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Market uncertainty",
+      "headline": "Daily Breadth Cools, but the Broader Recovery Holds",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=0b8e90149084a8305f0af7015a2aa6b4837ab991c71e23cfa36705317984c09e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Daily Breadth Cools, but the Broader Recovery Holds",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0b8e90149084a8305f0af7015a2aa6b4837ab991c71e23cfa36705317984c09e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed3ebaad429867949cc2a2be8ad01fbb1079e34a31499f03efa43a5b02c3e876",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The One Chart That Tells Me It Is Time To Get Defensive",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=20b01937fef4209d351f6979b7b598d923e9f9cdfc9462119c32a5bb051f2968",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=45bc65c25c61eb13ad8bc81cd9b0884e6edae6190b5f18da142a79504aa7a3ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Yardstick That Ate The Market - Part 1",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a51de000d6c5157bd53baf70fd0f8ab67bc3f004aff76d4effc11d3237182b0a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US-Iran standoff sends oil up, dents stocks - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Yahoo": 1,
+        "SeekingAlpha": 3,
+        "Reuters": 1
       }
     }
   ]
