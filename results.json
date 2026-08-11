@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:24:21Z",
+  "updated_at": "2026-08-11T19:34:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI financing deal",
+      "reason": "AI deal expansion",
       "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
@@ -26,6 +26,18 @@
           "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7d04f3c38184512a87b9b527202ee954e42a83656b8f5ffbe1904a428c3e5b53",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
           "used_by_ai": true
         },
         {
@@ -41,34 +53,70 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia's $500 billion financing deal: How to trade it",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=642dfff22cb0816f7f5e6c93c330b4f0bd919c71e7519326ea8ca2f9f2816407",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Burry Vs. Jensen: The Number That Breaks The AI Boom",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=478590cf2ffd425a5e1d19cdd3bfa4cf77ae442ef402eded0ba252a47a5e26be",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AI Capex To Hit $1 Trillion - And Estimates Are Still Too Low",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3f01b3e455947a274b18e95b4d53060b9481c11ccd76a45083b3e7a4729e7e3e",
-          "used_by_ai": true
+          "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "CNBC": 2,
-        "SeekingAlpha": 4
+        "CNBC": 1,
+        "SeekingAlpha": 4,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Executive departure",
+      "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
+          "used_by_ai": true
+        },
+        {
+          "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Masterstroke To Turn Itself Into An Asset Class\u2014Characterizing This As Circular Financing Is Flawed",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 4,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 50,
       "reason": "AI play",
       "headline": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
@@ -86,38 +134,47 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=a4b9b0fbf9777dc1e5cb21fb347ddcc98e66b7a562fb88c5dc5b552e5a4f3e55",
           "used_by_ai": true
-        },
-        {
-          "headline": "Irrational Exuberance On Overdrive",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=57152f925c17d4fffcfdb1b14a93076bffaf0e62424e3cc274a2a3c7fd6cf1b5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "You're Underestimating Microsoft's Moat",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=76592cd33bd42112701d6c0f1bede71034fe11bd213aa9abe499149d00a47d99",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a24a7d56c556f48b1a8cbd2d78314b407eb377a74bd3fb38208b8a3d42e59030",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
-        "Benzinga": 1,
-        "SeekingAlpha": 3
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Presentation",
+      "headline": "Advanced Micro Devices, Inc. (AMD) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8168fd32ef031b8660815b1754170c3012d55b871334fd48a9e11f7820124707",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Advanced Micro Devices, Inc. (AMD) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8168fd32ef031b8660815b1754170c3012d55b871334fd48a9e11f7820124707",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ValuEngine Weekly Market Summary And Commentary",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=512cb5e3c45f8dd23e0f741191a2f85925d30cb818018ad7e2e80ee8846b5488",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "Musk stock comparison",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Chip plant investment",
       "headline": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
@@ -139,7 +196,7 @@
           "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'\u2014 The Smoke Incident That Prompted a Recall Explains Why",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -149,107 +206,11 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Whale activity",
-      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OMAH: A 15% Yield And Berkshire Exposure In One ETF",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3b188cd6cb5f4a2265221a1dfb6c3477f8e3b2dd5b6e93b58ac66f90beaf858d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "HPQ Pays You More Cash Than Most Of The Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b1f1bec8518c0b7f65839c4d49145aa8d71748beef05645178ccb7b87a2bf29",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "ChartMill": 1,
-        "Yahoo": 2,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Revenue growth",
-      "headline": "ValuEngine Weekly Market Summary And Commentary",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=512cb5e3c45f8dd23e0f741191a2f85925d30cb818018ad7e2e80ee8846b5488",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "ValuEngine Weekly Market Summary And Commentary",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=512cb5e3c45f8dd23e0f741191a2f85925d30cb818018ad7e2e80ee8846b5488",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bitcoin's Biggest Rival Isn't Ethereum. It's the AI Trade",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f9f003bfdf8a34f0e67ce97f22d1077792493037c96a4a5f24be0a9b4665d371",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD: Revenue Is Exploding, But Margins May Stop The Rally (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9bc5df2cb36e767d2948d859afcd4ace11393f83bd3b958575aeb2a6f18ae6b8",
-          "used_by_ai": true
-        },
-        {
-          "headline": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a24a7d56c556f48b1a8cbd2d78314b407eb377a74bd3fb38208b8a3d42e59030",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Benzinga": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 40,
-      "reason": "Market signal",
+      "reason": "Market trend",
       "headline": "Dividends Are Sending A Signal",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=babcb957e3abfc410a56107bc201d36b4dd81deae6a09eb74764ea2ad4a90095",
@@ -266,10 +227,17 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=53e9af049eba4d3ef3b24d8f802dd3c6a92d889ff8ec31ad7e556c7abc0f0707",
           "used_by_ai": true
+        },
+        {
+          "headline": "Bitcoin ETFs Are Back but It's 'Too Early' to Get Bullish, Wintermute Says",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c8eb2bce2b93e23572a162497e3b309c300c0b5138a6a151cea7e2ed7bef06b8",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     }
   ]
