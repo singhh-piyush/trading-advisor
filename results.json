@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:03:40Z",
+  "updated_at": "2026-08-11T14:35:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -17,17 +17,11 @@
       "direction": "up",
       "confidence": 80,
       "reason": "AI buildout",
-      "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "headline": "Got $200 per Month? This ETF Could Turn It Into $455,865 With Minimal Effort on Your Part.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=067ce25bcd54c989024e92b4738c929564c5e2cdb826f3a7a8eb374d1a5706b9",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-          "used_by_ai": true
-        },
         {
           "headline": "Got $200 per Month? This ETF Could Turn It Into $455,865 With Minimal Effort on Your Part.",
           "source": "Yahoo",
@@ -56,25 +50,71 @@
           "headline": "Canopy Growth: Penny Stock Purgatory -- or Cannabis Rebound in the Making?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fc963e934b5b198b4f70787f85846bbf6aa80ef686b0bde27234fd87036096ff",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "Margin concerns",
+      "headline": "AMD: Revenue Is Exploding, But Margins May Stop The Rally (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9bc5df2cb36e767d2948d859afcd4ace11393f83bd3b958575aeb2a6f18ae6b8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AMD: Revenue Is Exploding, But Margins May Stop The Rally (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9bc5df2cb36e767d2948d859afcd4ace11393f83bd3b958575aeb2a6f18ae6b8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Priced For Perfection: Why AMD's Growth Thesis Faces A Structural Ceiling",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0444eb16d34d5a7b98ca37e5cd17f9d65eb0a7bf0bca32d4b46727d4ffb493e6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "CNBC": 1,
-        "Yahoo": 5
+        "SeekingAlpha": 3,
+        "Yahoo": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "AI growth",
-      "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa",
+      "headline": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a24a7d56c556f48b1a8cbd2d78314b407eb377a74bd3fb38208b8a3d42e59030",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a24a7d56c556f48b1a8cbd2d78314b407eb377a74bd3fb38208b8a3d42e59030",
+          "used_by_ai": true
+        },
         {
           "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
           "source": "Yahoo",
@@ -98,32 +138,60 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=98de8d77052dfb76d7d0a47caa21dc7cf8a16f713bba76fa091baca915a70d43",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Yahoo": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Growth initiatives",
+      "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
+          "used_by_ai": true
         },
         {
-          "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
+          "headline": "Tesla Just Found Another Way to Grow Without Selling a Car",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=991cbc370b43234ad34582a7289e019357f4e2e7f26a404b722295081c53512b",
+          "url": "https://finnhub.io/api/news?id=3699c9da2069f13acb5b56e6af14ca331da945737e72329b902ed0d1ade4ee4c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=76f90655d84f5b39c4c81c9756c95cba6cae9a4c7a0649d295f53fd83049e2ce",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 2
+        "Yahoo": 3
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "US-Iran impasse",
-      "headline": "Wall St futures muted as US-Iran impasse lifts oil prices - Reuters",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Market recovery",
+      "headline": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Wall St futures muted as US-Iran impasse lifts oil prices - Reuters",
+          "headline": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
           "used_by_ai": true
@@ -132,6 +200,18 @@
           "headline": "Daily Breadth Cools, but the Broader Recovery Holds",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=0b8e90149084a8305f0af7015a2aa6b4837ab991c71e23cfa36705317984c09e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Timing The AI Boom To Bust",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=11e9a84581456c1534b91fd818e4edcec01dc3b5495e9f5c5c11200480c96261",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Foreign Stocks Lose Their Edge As U.S. Momentum Roars Back",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=0984683926aac0e5e5ecb89969681a3a6ba7fddb55db45730de6022de12834cf",
           "used_by_ai": true
         },
         {
@@ -145,68 +225,21 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=affd7101eba6628c435b56abda19a6b9c512b805115b01cc9d004bfd5c41623e",
           "used_by_ai": true
-        },
-        {
-          "headline": "The One Chart That Tells Me It Is Time To Get Defensive",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=20b01937fef4209d351f6979b7b598d923e9f9cdfc9462119c32a5bb051f2968",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Reuters": 1,
         "ChartMill": 1,
-        "Yahoo": 1,
-        "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Supply position",
-      "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "3 Dividend-Paying Industrial Stocks to Buy in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b498e09389afa1ae6d7a8e2dfb3c9c99c8943f3d5171a9b9f6a93d75086bb7bc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD: Buying A Supply Position, Not A Product Cycle",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=84972e8a4c0d3e11f6ddec1f58467a07ebb4a43096ae47453652c8efa1d45c93",
-          "used_by_ai": true
-        },
-        {
-          "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aff409ca9174e613cf923ce052d06a6b79a5295169ae158aa8e0fb9558e6977",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 3,
+        "Yahoo": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Wall Street support",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Indirect mentions",
       "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
@@ -247,46 +280,6 @@
         "ChartMill": 1,
         "SeekingAlpha": 1,
         "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Growth opportunities",
-      "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Just Found Another Way to Grow Without Selling a Car",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3699c9da2069f13acb5b56e6af14ca331da945737e72329b902ed0d1ade4ee4c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76f90655d84f5b39c4c81c9756c95cba6cae9a4c7a0649d295f53fd83049e2ce",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
       }
     }
   ]
