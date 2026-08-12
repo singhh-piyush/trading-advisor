@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T17:28:28Z",
+  "updated_at": "2026-08-12T18:28:35Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,20 +12,98 @@
   "sample": false,
   "items": [
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "CPI report calms inflation fears",
-      "headline": "Global stocks hold gains after in-line US CPI - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Detached expectations",
+      "headline": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Global stocks hold gains after in-line US CPI - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+          "headline": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Positioning for Big Tech's next move",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=1e259e6bc802b9e061a9925349d4161e4b777358d363f34c6ad01da17cc04b60",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ef451f9499af34533ae30d3e1b54e0a34473a1f1ddc55357686b7e270ffc3249",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What's Going On With Nvidia Stock on Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4d9ae563e2279b481d646b84e08fe74b4b77682dd2a874763635a86f84af4cbb",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "CNBC": 1,
+        "ChartMill": 1,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Growth potential",
+      "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tech Veteran Warns Nvidia Is Playing Intel\u2019s Old Game Against AMD \u2014 and It Could Become a Dangerous Trap",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=f614713bf49eaa1185fbe0094b899c29646f3468a4b3204a2899013f0bcea0f6",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Benzinga": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Steady market",
+      "headline": "July CPI May Be The Last Clean Print",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=459c791659f7098e111631bc1848ed792bcc41ea3610221674cf1114cda32fe0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "July CPI May Be The Last Clean Print",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=459c791659f7098e111631bc1848ed792bcc41ea3610221674cf1114cda32fe0",
           "used_by_ai": true
         },
         {
@@ -51,67 +129,19 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=a2dd7979f5668c6d10a4f88b6c647f900a86903e76b02940d1a3998c2483191a",
           "used_by_ai": true
-        },
-        {
-          "headline": "Cooling U.S. Inflation Points To The Fed Holding Steady",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6b0486cfaa856f2cb421f64f43347ff649e9f7a2035f624b86696bb57fdc94f5",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
         "SeekingAlpha": 4,
         "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI-native names surge",
-      "headline": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=ef451f9499af34533ae30d3e1b54e0a34473a1f1ddc55357686b7e270ffc3249",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ef451f9499af34533ae30d3e1b54e0a34473a1f1ddc55357686b7e270ffc3249",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What's Going On With Nvidia Stock on Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4d9ae563e2279b481d646b84e08fe74b4b77682dd2a874763635a86f84af4cbb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "CoreWeave Is Making Old Nvidia Chips Look New Again",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3c58943aeb07f7ceaee0d0d04cc89cca8306055562a3ce2125abdfeced432e47",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Says AI Will Be SpaceX's Biggest Business by September: Does the Math Check Out?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=11e402cf842a1115f49674c4e1e0791fd4e25df9e4e0ac49e3cd626d7392d760",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 3
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 60,
-      "reason": "Rare downgrade",
+      "confidence": 40,
+      "reason": "Mixed news",
       "headline": "Which dow jones stocks are moving on Wednesday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
@@ -130,6 +160,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Google\u2019s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=5dde94cd3b8300f913fde5fb98794701c69bc5e0d4e729aee0641f5b85b2c50e",
+          "used_by_ai": true
+        },
+        {
           "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
@@ -140,26 +176,20 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
           "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway\u2019s $2.3 Trillion Sovereign Wealth Fund",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=2a50269c6e35b49bb49729fea8b708e15ace63ddce8404522c29690389b2748f",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "ChartMill": 2,
         "SeekingAlpha": 2,
-        "Benzinga": 1
+        "CNBC": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Neocloud stocks catch fire",
+      "confidence": 40,
+      "reason": "Growth potential",
       "headline": "Neocloud Stocks Catch Fire As CoreWeave Doubles Revenue",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=95252649a1e4ff922b1b58c548ff39a71afd31c5c07d9bf3489bb0a516655f85",
@@ -178,6 +208,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway\u2019s $2.3 Trillion Sovereign Wealth Fund",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=2a50269c6e35b49bb49729fea8b708e15ace63ddce8404522c29690389b2748f",
+          "used_by_ai": true
+        },
+        {
           "headline": "Quantinuum Strikes Oracle Deal as Quantum Cloud Race Heats Up: \u2018Next Phase of Enterprise Computing\u2019",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=22aa240f54a202d18a701589ae11d3cc64385d6f83e41a447c68b041e86befd6",
@@ -185,15 +221,15 @@
         }
       ],
       "source_breakdown": {
-        "Benzinga": 3
+        "Benzinga": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Elon Musk's promises",
+      "confidence": 40,
+      "reason": "Growth potential",
       "headline": "Tesla's iTruck Moment",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
@@ -210,45 +246,11 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=022c01877d025375bea0bbbf5f30d6dd89a44c202141755e5cd92b710434f6f8",
           "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Makes Bold Promise on Flying Cars: \u2018You Will Get...\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4f815141465b9383d76445575bab8474183df1abb7ab3ca10a290e6b29638021",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
-        "Benzinga": 2
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Nvidia's old game",
-      "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tech Veteran Warns Nvidia Is Playing Intel\u2019s Old Game Against AMD \u2014 and It Could Become a Dangerous Trap",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f614713bf49eaa1185fbe0094b899c29646f3468a4b3204a2899013f0bcea0f6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 2
+        "Benzinga": 1
       }
     }
   ]
