@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T04:08:05Z",
+  "updated_at": "2026-08-12T05:54:54Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI growth",
+      "reason": "Positive AI trends",
       "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
@@ -64,7 +64,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Musk's net worth",
+      "reason": "Musk's net worth rebounds",
       "headline": "Two Stock Stories That Bolstered QGRW In July",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
@@ -99,7 +99,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "Chip boom",
+      "reason": "Nvidia's chip boom",
       "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
@@ -121,53 +121,6 @@
       "source_breakdown": {
         "Benzinga": 1,
         "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Executive departure",
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
-          "used_by_ai": true
-        },
-        {
-          "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
-          "used_by_ai": true
-        },
-        {
-          "headline": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia's Masterstroke To Turn Itself Into An Asset Class\u2014Characterizing This As Circular Financing Is Flawed",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 4
       }
     },
     {
@@ -208,7 +161,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 60,
       "reason": "Geopolitical tensions",
       "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
       "source": "Reuters",
@@ -219,6 +172,12 @@
           "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Old World's Bill",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3f43722c6866efeafe41a751fb9525b38bbe304250ca0da70faf9900b63090bd",
           "used_by_ai": true
         },
         {
@@ -240,16 +199,68 @@
           "used_by_ai": true
         },
         {
-          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
+          "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Reuters": 2,
-        "SeekingAlpha": 2,
-        "Benzinga": 1
+        "Reuters": 3,
+        "SeekingAlpha": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Executive departure",
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
+          "used_by_ai": true
+        },
+        {
+          "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
+          "used_by_ai": true
+        },
+        {
+          "headline": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Masterstroke To Turn Itself Into An Asset Class\u2014Characterizing This As Circular Financing Is Flawed",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Benzinga": 4
       }
     }
   ]
