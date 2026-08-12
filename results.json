@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T13:56:50Z",
+  "updated_at": "2026-08-12T15:00:56Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI deal",
+      "reason": "AI growth",
       "headline": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=ef451f9499af34533ae30d3e1b54e0a34473a1f1ddc55357686b7e270ffc3249",
@@ -44,17 +44,29 @@
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 70,
-      "reason": "CPI data",
-      "headline": "Wall St futures tick up heading into July inflation data - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "confidence": 60,
+      "reason": "inflation data",
+      "headline": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d15e5be0e1f3eb72fbb1f6042a2edc78c46f8d985bf9ffa1284a89d64b11e489",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Wall St futures tick up heading into July inflation data - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+          "headline": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d15e5be0e1f3eb72fbb1f6042a2edc78c46f8d985bf9ffa1284a89d64b11e489",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Labor Force Participation Rate Drop Not That Big A Deal",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8e65e17f27d23f11b3707e1f20a1f3d4ab416aabd2d84f3546c120076261d530",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Trade Between U.S. And China Increases",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3fa0a0239ad61d1cd3fea67faf51bb4921d31c92b616ab328f86af841c70c5c9",
           "used_by_ai": true
         },
         {
@@ -68,32 +80,47 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=4a63e4fb4a52cd07cb3297aa5f18d3ec6e85d20d976e988e7979ed7a8a419803",
           "used_by_ai": true
-        },
-        {
-          "headline": "My Argument Against A Fed Rate Hike",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=575bf9efa0cea220bb143f7bad6ea0122d8ceb0d4a21568f75a75bc7d3f6b8d0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d15e5be0e1f3eb72fbb1f6042a2edc78c46f8d985bf9ffa1284a89d64b11e489",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Reuters": 1,
-        "SeekingAlpha": 3,
-        "ChartMill": 1
+        "ChartMill": 1,
+        "SeekingAlpha": 4
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "iTruck moment",
+      "headline": "Tesla's iTruck Moment",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla's iTruck Moment",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Two Stock Stories That Bolstered QGRW In July",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 60,
-      "reason": "Downgrade",
+      "confidence": 40,
+      "reason": "rare downgrade",
       "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
@@ -112,6 +139,12 @@
           "used_by_ai": false
         },
         {
+          "headline": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway\u2019s $2.3 Trillion Sovereign Wealth Fund",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=2a50269c6e35b49bb49729fea8b708e15ace63ddce8404522c29690389b2748f",
+          "used_by_ai": false
+        },
+        {
           "headline": "It's The Best Time In Years To Retire",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=65d9d95ddd0e58d1ff69831cfaaf02580505080a94c7839a62c83239db5c10ba",
@@ -121,95 +154,21 @@
           "headline": "License To Chase The AI Frontier",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 3,
-        "ChartMill": 2
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI potential",
-      "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
-          "used_by_ai": true
-        },
-        {
-          "headline": "It's The Best Time In Years To Retire",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=65d9d95ddd0e58d1ff69831cfaaf02580505080a94c7839a62c83239db5c10ba",
-          "used_by_ai": true
-        },
-        {
-          "headline": "License To Chase The AI Frontier",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 2,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Stock story",
-      "headline": "Two Stock Stories That Bolstered QGRW In July",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Two Stock Stories That Bolstered QGRW In July",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1
+        "ChartMill": 1,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "down",
-      "confidence": 40,
-      "reason": "Rating downgrade",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "portfolio update",
       "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
@@ -220,23 +179,10 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
           "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8d55d3065d2d70a520b17721961e58aefe08a0418ce4aac49d0a1b7ef68fce3c",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Benzinga": 1
+        "SeekingAlpha": 1
       }
     }
   ]
