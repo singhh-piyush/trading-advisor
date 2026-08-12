@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:40:06Z",
+  "updated_at": "2026-08-12T20:42:49Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,12 +16,18 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 60,
-      "reason": "AI phone battle",
-      "headline": "Which S&P500 stocks are the most active on Wednesday?",
+      "reason": "Mentioned in top gainers",
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=89440173c0d17d0687c2c2d7bfb0f562b83c3f2aa5af7ba97e4b1195b6f44021",
+      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
+          "used_by_ai": true
+        },
         {
           "headline": "Which S&P500 stocks are the most active on Wednesday?",
           "source": "ChartMill",
@@ -35,99 +41,80 @@
           "used_by_ai": true
         },
         {
+          "headline": "3 Ways To Get Paid For Big Tech's Volatility",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cdbd8b46020d90895b420aaf422fe7459e7c5b74976f702183cb74b72e3bfaa3",
+          "used_by_ai": true
+        },
+        {
           "headline": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
           "used_by_ai": true
-        },
-        {
-          "headline": "Sandisk Stock: Why I'm Buying On Fear (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2d9e392ce05b185ec600cc57e048a82cd70d5feeda9193657fd91f9792206ba2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google\u2019s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=5dde94cd3b8300f913fde5fb98794701c69bc5e0d4e729aee0641f5b85b2c50e",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 2,
-        "Benzinga": 1,
+        "ChartMill": 3,
         "SeekingAlpha": 1,
-        "CNBC": 1
+        "Benzinga": 1
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 55,
-      "reason": "AI demand",
-      "headline": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
+      "confidence": 50,
+      "reason": "Mentioned in AI context",
+      "headline": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
+          "used_by_ai": true
+        },
         {
           "headline": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
           "used_by_ai": true
-        },
-        {
-          "headline": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7cb1bffb27ed49f5557a3674c922ff25f84eb2b4b0bc3a94822ad9cc3d702d0a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Positioning for Big Tech's next move",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=1e259e6bc802b9e061a9925349d4161e4b777358d363f34c6ad01da17cc04b60",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
         "Benzinga": 1,
-        "CNBC": 1
+        "SeekingAlpha": 1
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
       "confidence": 50,
-      "reason": "AI adoption",
-      "headline": "Can The AI Adoption Boom Send S&P 500 To 9,000?",
+      "reason": "CPI sends Fed hike odds up",
+      "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
+      "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Can The AI Adoption Boom Send S&P 500 To 9,000?",
+          "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
+          "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
           "used_by_ai": true
         },
         {
-          "headline": "Neocloud Stocks Catch Fire As CoreWeave Doubles Revenue",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=95252649a1e4ff922b1b58c548ff39a71afd31c5c07d9bf3489bb0a516655f85",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=df46b71470a1f914fc193b4f61f8f53868e6e1b1d6b030aa2e204c790f132709",
+          "headline": "Tesla's iTruck Moment",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Benzinga": 3
+        "Benzinga": 1,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -135,7 +122,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI infrastructure",
+      "reason": "Mentioned in AI context",
       "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
@@ -179,16 +166,44 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Mentioned in AI context",
+      "headline": "Can The AI Adoption Boom Send S&P 500 To 9,000?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Can The AI Adoption Boom Send S&P 500 To 9,000?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 45,
-      "reason": "market optimism",
-      "headline": "'Ottawa Weighs Proposal On Auto Tariffs As It Presses U.S. For Reprieve, Sources Say' - The Globe And Mail",
+      "confidence": 40,
+      "reason": "Market trends",
+      "headline": "Applied Materials Q3 Preview: Stock Up 105% YTD, but Down 25% From June All-Time Highs, What Happens Next",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=eccc7302a5169e06b4ebf9e819996770f60587d48b6fd2b7e3535e07dcd78bac",
+      "url": "https://finnhub.io/api/news?id=ef623687a87cbc07036d7dc12ad414faad5045cb7a92b09628b3319f3d6725b3",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Applied Materials Q3 Preview: Stock Up 105% YTD, but Down 25% From June All-Time Highs, What Happens Next",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ef623687a87cbc07036d7dc12ad414faad5045cb7a92b09628b3319f3d6725b3",
+          "used_by_ai": true
+        },
         {
           "headline": "'Ottawa Weighs Proposal On Auto Tariffs As It Presses U.S. For Reprieve, Sources Say' - The Globe And Mail",
           "source": "Benzinga",
@@ -206,39 +221,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=03bb38d9bb0683a5b1c632d5891c2ffdf5d4ca78afcef4c765aa3ac1d62b4e13",
           "used_by_ai": true
-        },
-        {
-          "headline": "An Informed Source To Al Arabiya, Says The Pakistani Mediator Is Seeking To Extend The 60-Day Truce; Mediators Need Additional Time To Process The Stuck Files Between America And Iran; Optimism On The Part Of The Pakistani Mediator Regarding The Extension Of The 60-day Period",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4f617c63a79e4c365eee4cd033337d21ffbdfd2d369775cf2e246c09870623ca",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Benzinga": 2,
         "SeekingAlpha": 2
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "iTruck moment",
-      "headline": "Tesla's iTruck Moment",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla's iTruck Moment",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1
       }
     }
   ]
