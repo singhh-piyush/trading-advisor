@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:09:42Z",
+  "updated_at": "2026-08-12T13:56:50Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -16,42 +16,131 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI compute asset class",
-      "headline": "Nvidia Intends To Make AI Compute An Asset Class Of Its Own (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d4b7a735bf88bd4570e5d719f20843dd127119f7008d5cc9b8d58b084a4ab2f6",
+      "reason": "AI deal",
+      "headline": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ef451f9499af34533ae30d3e1b54e0a34473a1f1ddc55357686b7e270ffc3249",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia Intends To Make AI Compute An Asset Class Of Its Own (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d4b7a735bf88bd4570e5d719f20843dd127119f7008d5cc9b8d58b084a4ab2f6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+          "headline": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
+          "url": "https://finnhub.io/api/news?id=ef451f9499af34533ae30d3e1b54e0a34473a1f1ddc55357686b7e270ffc3249",
           "used_by_ai": true
         },
         {
-          "headline": "Wall Street Is Repackaging The AI Bubble",
+          "headline": "Nvidia's $500 Billion Deal Changes AI Story",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6bd714ba8103662dab6cecd608fe07b3215bb2f3a33ec484edf22c4ca326c7c9",
+          "url": "https://finnhub.io/api/news?id=58dc2dd6bfeea65c2ceaf36455009b4e9ac024684092e5c7ba66f30ef21800c0",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
+        "ChartMill": 1,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "CPI data",
+      "headline": "Wall St futures tick up heading into July inflation data - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Wall St futures tick up heading into July inflation data - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Core CPI Coolest Since March 2021, Fed Hike Odds Fall",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=21a02247ac99007f7b56180ab711351efa8b22c58fae80868011dec53cf47ed7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "July CPI: Rangebound Inflation Likely Creates Breathing Room For Policymakers",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4a63e4fb4a52cd07cb3297aa5f18d3ec6e85d20d976e988e7979ed7a8a419803",
+          "used_by_ai": true
+        },
+        {
+          "headline": "My Argument Against A Fed Rate Hike",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=575bf9efa0cea220bb143f7bad6ea0122d8ceb0d4a21568f75a75bc7d3f6b8d0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d15e5be0e1f3eb72fbb1f6042a2edc78c46f8d985bf9ffa1284a89d64b11e489",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 1,
+        "SeekingAlpha": 3,
         "ChartMill": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Downgrade",
+      "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
+          "used_by_ai": false
+        },
+        {
+          "headline": "It's The Best Time In Years To Retire",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=65d9d95ddd0e58d1ff69831cfaaf02580505080a94c7839a62c83239db5c10ba",
+          "used_by_ai": false
+        },
+        {
+          "headline": "License To Chase The AI Frontier",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "ChartMill": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI capex roars on",
+      "confidence": 50,
+      "reason": "AI potential",
       "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
@@ -80,19 +169,25 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
           "used_by_ai": true
+        },
+        {
+          "headline": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4171a74fc19d28a8575737b467c005c20981a5be33b08b5a610d02a9b3954457",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "ChartMill": 2,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 3
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Elon Musk's net worth rebounds",
+      "confidence": 40,
+      "reason": "Stock story",
       "headline": "Two Stock Stories That Bolstered QGRW In July",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
@@ -103,24 +198,17 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
           "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce \u2014 Now Nearly 800,000x the Average American",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Benzinga": 1
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Rating downgrade",
       "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -149,60 +237,6 @@
       "source_breakdown": {
         "SeekingAlpha": 2,
         "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "US inflation data",
-      "headline": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d15e5be0e1f3eb72fbb1f6042a2edc78c46f8d985bf9ffa1284a89d64b11e489",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d15e5be0e1f3eb72fbb1f6042a2edc78c46f8d985bf9ffa1284a89d64b11e489",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall St futures tick up heading into July inflation data - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "European stocks steady ahead of US inflation data; geopolitical risks in focus - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEJrelVuLWNvQVpMQ0FHVXF0aE9vZTZqcklqQUNLSHpCOGxiQkl3Tko1UVJZTHpnVUhUQ0R6RTNWc08yMXRrb2tMNUI1MWpFby1qM1RUWVllYU9NT0x6MzFzQk1tY0U2Q0lCcGhrNUVRYjJtdDVEbVFObndDeFBiVDdmTXdsQW5FV09uRl9aSzFzWVMtVTdkQkFWMFZPdjBzdk1pWA?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Profits And Rates: Could We Be In For A New Round Of Hikes?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b79c2eb8949f1a9363bd93fa0a0f1982099d0377111390cd2d234a2c5dcd8939",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadening The Base",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=179a36c4c38fbc9768b2591f77fb022a6dd806c915168d4ea4c1f89ef52c950f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Banking Risk Monthly Outlook: August 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a70823b9e57fdcd508c38f126e82c25177ebbd23100d89c9482f8b03b76a2b0b",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Reuters": 2,
-        "SeekingAlpha": 3
       }
     }
   ]
