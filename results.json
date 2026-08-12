@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:44:02Z",
+  "updated_at": "2026-08-12T22:39:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,14 +8,62 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 5,
   "sample": false,
   "items": [
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Mentioned as top gainer",
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Which S&P500 stocks are the most active on Wednesday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=89440173c0d17d0687c2c2d7bfb0f562b83c3f2aa5af7ba97e4b1195b6f44021",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Congressman Violates Stock Act: Reports 22 Trades After Deadline, Including Some Nearly Two Years Old",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=08dabffb5cbf4daeff6e8ef0dfa592ffb3fe4ca852fd2ab392a10424b337b543",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Wednesday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "3 Ways To Get Paid For Big Tech's Volatility",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cdbd8b46020d90895b420aaf422fe7459e7c5b74976f702183cb74b72e3bfaa3",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 3,
+        "Benzinga": 1,
+        "SeekingAlpha": 1
+      }
+    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "down",
-      "confidence": 30,
+      "confidence": 50,
       "reason": "CPI sends Fed hike odds up",
       "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
       "source": "Benzinga",
@@ -39,66 +87,24 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=2ca9c3f4788f04302a0e3c1106e24cd92e46166db5f4c4d484a8135056f7ed87",
           "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in Dow Jones index",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
-          "used_by_ai": true
         },
         {
-          "headline": "Which S&P500 stocks are the most active on Wednesday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=89440173c0d17d0687c2c2d7bfb0f562b83c3f2aa5af7ba97e4b1195b6f44021",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Which dow jones stocks are moving on Wednesday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
+          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
-          "used_by_ai": true
-        },
-        {
-          "headline": "3 Ways To Get Paid For Big Tech's Volatility",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cdbd8b46020d90895b420aaf422fe7459e7c5b74976f702183cb74b72e3bfaa3",
+          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 3,
-        "Benzinga": 1,
-        "SeekingAlpha": 1
+        "Benzinga": 4
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in AI trade",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Mentioned in memory giants context",
       "headline": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
@@ -109,35 +115,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
           "used_by_ai": true
-        },
-        {
-          "headline": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 20,
-      "reason": "AI adoption boom",
-      "headline": "Can The AI Adoption Boom Send S&P 500 To 9,000?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Can The AI Adoption Boom Send S&P 500 To 9,000?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -147,9 +124,9 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in AI infrastructure demand",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Mentioned in tech context",
       "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
@@ -195,9 +172,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in S&P 500 news",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "S&P 500 target mentioned",
       "headline": "Don't Ignore The Profits Signal, My New Target For The S&P 500",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d86e8e689d1bc9d9468cd243f4c2cfeb48cee990b02f20ebd3ce8fd233731124",
