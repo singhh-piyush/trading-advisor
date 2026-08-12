@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T07:23:45Z",
+  "updated_at": "2026-08-12T08:47:25Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI bubble",
+      "reason": "AI trend",
       "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
@@ -64,7 +64,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Elon Musk's net worth",
+      "reason": "Musk's net worth",
       "headline": "Two Stock Stories That Bolstered QGRW In July",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
@@ -99,7 +99,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 70,
-      "reason": "Nvidia's chip boom",
+      "reason": "Chip boom",
       "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
@@ -124,50 +124,22 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Rating downgrade",
-      "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c7f68e00bcd82f4e70c6704d72ad1a8bf2000ac0830147482c132526739219bd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "neutral",
-      "confidence": 50,
+      "direction": "down",
+      "confidence": 60,
       "reason": "Executive departure",
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "headline": "License To Chase The AI Frontier",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "License To Chase The AI Frontier",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
+          "used_by_ai": true
+        },
         {
           "headline": "Uncover the latest developments among dow jones stocks in today's session.",
           "source": "ChartMill",
@@ -185,17 +157,40 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "ChartMill": 1,
+        "Benzinga": 2
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Rating downgrade",
+      "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
+          "used_by_ai": true
         },
         {
-          "headline": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
+          "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 3
+        "SeekingAlpha": 2
       }
     },
     {
@@ -203,28 +198,22 @@
       "company": "",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Geopolitical tensions",
-      "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+      "reason": "Market outlook",
+      "headline": "Banking Risk Monthly Outlook: August 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a70823b9e57fdcd508c38f126e82c25177ebbd23100d89c9482f8b03b76a2b0b",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - reuters.com",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+          "headline": "Banking Risk Monthly Outlook: August 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a70823b9e57fdcd508c38f126e82c25177ebbd23100d89c9482f8b03b76a2b0b",
           "used_by_ai": true
         },
         {
           "headline": "The Old World's Bill",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3f43722c6866efeafe41a751fb9525b38bbe304250ca0da70faf9900b63090bd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall Street ends down as US-Iran peace optimism fades - reuters.com",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
           "used_by_ai": true
         },
         {
@@ -247,8 +236,7 @@
         }
       ],
       "source_breakdown": {
-        "Reuters": 2,
-        "SeekingAlpha": 4
+        "SeekingAlpha": 5
       }
     }
   ]
