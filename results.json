@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:39:44Z",
+  "updated_at": "2026-08-12T01:54:37Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI boom",
+      "confidence": 70,
+      "reason": "AI bubble and financing push",
       "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
@@ -47,12 +47,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
-          "used_by_ai": true
-        },
-        {
           "headline": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=7aa34f9b9597250b8a19d3e4f0025de2a79a36fb32c0ab8ff85fbde11d119a34",
@@ -62,44 +56,50 @@
       "source_breakdown": {
         "ChartMill": 1,
         "SeekingAlpha": 2,
-        "Benzinga": 2,
-        "CNBC": 1
+        "Benzinga": 2
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Nvidia's chip boom",
-      "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "US-Iran peace optimism fades",
+      "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
+          "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
           "used_by_ai": true
         },
         {
-          "headline": "Advanced Micro Devices, Inc. (AMD) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
+          "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8168fd32ef031b8660815b1754170c3012d55b871334fd48a9e11f7820124707",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1,
-        "SeekingAlpha": 1
+        "Reuters": 1,
+        "SeekingAlpha": 1,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "down",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "Rating downgrade",
       "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
       "source": "SeekingAlpha",
@@ -130,11 +130,69 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Nvidia's chip boom",
+      "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices, Inc. (AMD) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8168fd32ef031b8660815b1754170c3012d55b871334fd48a9e11f7820124707",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 1,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Fiscal number can eclipse CPI",
+      "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Musk's net worth",
+      "confidence": 40,
+      "reason": "Musk's net worth rebounds",
       "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce \u2014 Now Nearly 800,000x the Average American",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
@@ -165,59 +223,11 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "US-Iran tensions",
-      "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
-          "used_by_ai": true
-        },
-        {
-          "headline": "U.S. Military: Earlier Today, CENTCOM Forces Disabled The Steering Gear Of Panama-Flagged M/V Vela Nova; U.S. Navy Mh-60 Helicopter Fired Two Hellfire Missiles Into The Vela Nova\u2019s Engine Room; Ship Is No Longer Transiting To Iran In Violation Of The U.S. Blockade",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=38f8a04d7869cf78188063e3d14f8536385947eb2206252f6e2d9e638b8ad3e7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 2,
-        "Benzinga": 2,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Executive departure",
+      "confidence": 30,
+      "reason": "Executive leaving",
       "headline": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
