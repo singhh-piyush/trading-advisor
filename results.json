@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T01:54:37Z",
+  "updated_at": "2026-08-12T04:08:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
-      "reason": "AI bubble and financing push",
+      "confidence": 80,
+      "reason": "AI growth",
       "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
@@ -60,81 +60,46 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "US-Iran peace optimism fades",
-      "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 1,
-        "SeekingAlpha": 1,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Rating downgrade",
-      "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Musk's net worth",
+      "headline": "Two Stock Stories That Bolstered QGRW In July",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
+      "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
+          "headline": "Two Stock Stories That Bolstered QGRW In July",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
+          "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
           "used_by_ai": true
         },
         {
-          "headline": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c7f68e00bcd82f4e70c6704d72ad1a8bf2000ac0830147482c132526739219bd",
+          "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce \u2014 Now Nearly 800,000x the Average American",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
           "used_by_ai": true
         },
         {
-          "headline": "FTEC: Fidelity's IT ETF Is A Fantastic Long-Term Core Tech Holding",
+          "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=4d376b0daec0833082a3f94df50421b15d71ffd4e490fc7fc8b298c1325ad346",
+          "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Nvidia's chip boom",
+      "confidence": 70,
+      "reason": "Chip boom",
       "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
@@ -159,75 +124,11 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Fiscal number can eclipse CPI",
-      "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Musk's net worth rebounds",
-      "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce \u2014 Now Nearly 800,000x the Average American",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk's Net Worth Rebounds on SpaceX Bounce \u2014 Now Nearly 800,000x the Average American",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "SeekingAlpha": 2
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Executive leaving",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Executive departure",
       "headline": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
@@ -267,6 +168,88 @@
       "source_breakdown": {
         "ChartMill": 1,
         "Benzinga": 4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Rating downgrade",
+      "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tracking AMG's Yacktman Asset Management Portfolio - Q2 2026 Update",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6122dcbbe887770943e505b8e118b1a6814c928f257ef65b6a02dcccc21b63a2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c7f68e00bcd82f4e70c6704d72ad1a8bf2000ac0830147482c132526739219bd",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Geopolitical tensions",
+      "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Payroll Revisions Reveal About The Economy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=94e6ee18781c8bcf8aa6a7e85c3ceff157d3cc5411c665490dd95d5c0121857b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rates Spark: The Fiscal Number Can Eclipse CPI",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2766b889e959a9e88652c4a8374d6d06f0760da7c579c2103305e79417246cef",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Reuters": 2,
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     }
   ]
