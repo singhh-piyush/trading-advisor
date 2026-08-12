@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T08:47:25Z",
+  "updated_at": "2026-08-12T10:04:14Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,12 +16,18 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI trend",
-      "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
+      "reason": "AI growth",
+      "headline": "Nvidia Intends To Make AI Compute An Asset Class Of Its Own (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4b7a735bf88bd4570e5d719f20843dd127119f7008d5cc9b8d58b084a4ab2f6",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nvidia Intends To Make AI Compute An Asset Class Of Its Own (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d4b7a735bf88bd4570e5d719f20843dd127119f7008d5cc9b8d58b084a4ab2f6",
+          "used_by_ai": true
+        },
         {
           "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
           "source": "ChartMill",
@@ -41,29 +47,58 @@
           "used_by_ai": true
         },
         {
-          "headline": "Where The Next $1.3 Trillion Of CapEx Gets Spent",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=41f111f8f1822ab324421ff33d565986361c8ab43ba579b2140eddb3177cc82a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
+          "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7aa34f9b9597250b8a19d3e4f0025de2a79a36fb32c0ab8ff85fbde11d119a34",
+          "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
         "SeekingAlpha": 2,
+        "ChartMill": 1,
         "Benzinga": 2
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "AI investment",
+      "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "License To Chase The AI Frontier",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 2,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 70,
+      "confidence": 60,
       "reason": "Musk's net worth",
       "headline": "Two Stock Stories That Bolstered QGRW In July",
       "source": "SeekingAlpha",
@@ -83,6 +118,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7aa34f9b9597250b8a19d3e4f0025de2a79a36fb32c0ab8ff85fbde11d119a34",
+          "used_by_ai": true
+        },
+        {
           "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
@@ -91,77 +132,6 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 2,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Chip boom",
-      "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices, Inc. (AMD) Presents at The KeyBanc Technology Leadership Forum 2026 Transcript",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8168fd32ef031b8660815b1754170c3012d55b871334fd48a9e11f7820124707",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Executive departure",
-      "headline": "License To Chase The AI Frontier",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "License To Chase The AI Frontier",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
-          "used_by_ai": true
-        },
-        {
-          "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1,
-        "ChartMill": 1,
         "Benzinga": 2
       }
     },
@@ -194,16 +164,44 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Nvidia's chip boom",
+      "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9eaece3b92d74dffd216e24bf0ac115c08ba97f25b2a6a9ea8ae468759897284",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
       "confidence": 40,
       "reason": "Market outlook",
-      "headline": "Banking Risk Monthly Outlook: August 2026",
+      "headline": "Broadening The Base",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a70823b9e57fdcd508c38f126e82c25177ebbd23100d89c9482f8b03b76a2b0b",
+      "url": "https://finnhub.io/api/news?id=179a36c4c38fbc9768b2591f77fb022a6dd806c915168d4ea4c1f89ef52c950f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Broadening The Base",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=179a36c4c38fbc9768b2591f77fb022a6dd806c915168d4ea4c1f89ef52c950f",
+          "used_by_ai": true
+        },
         {
           "headline": "Banking Risk Monthly Outlook: August 2026",
           "source": "SeekingAlpha",
@@ -236,7 +234,7 @@
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 5
+        "SeekingAlpha": 6
       }
     }
   ]
