@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:39:34Z",
+  "updated_at": "2026-08-12T23:40:31Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,58 @@
   "sample": false,
   "items": [
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Energy crisis risk",
+      "headline": "Markets Think The Energy Crisis Risk Is Over, Quite The Opposite",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8d9f113fee95ad2b1da77740438f91015def086ec8e2162c618a1edbaa52eee",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Markets Think The Energy Crisis Risk Is Over, Quite The Opposite",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b8d9f113fee95ad2b1da77740438f91015def086ec8e2162c618a1edbaa52eee",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer' - CBC",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b59ffc135e103bd0906f29187d9f562b5e10d28af0347ac7f00ced81596abbb2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Applied Materials Q3 Preview: Stock Up 105% YTD, but Down 25% From June All-Time Highs, What Happens Next",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ef623687a87cbc07036d7dc12ad414faad5045cb7a92b09628b3319f3d6725b3",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Ottawa Weighs Proposal On Auto Tariffs As It Presses U.S. For Reprieve, Sources Say' - The Globe And Mail",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=eccc7302a5169e06b4ebf9e819996770f60587d48b6fd2b7e3535e07dcd78bac",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Don't Ignore The Profits Signal, My New Target For The S&P 500",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d86e8e689d1bc9d9468cd243f4c2cfeb48cee990b02f20ebd3ce8fd233731124",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2,
+        "Benzinga": 3
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Mentioned as top gainer",
+      "confidence": 50,
+      "reason": "Top gainer",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
@@ -64,7 +111,7 @@
       "company": "Tesla",
       "direction": "down",
       "confidence": 50,
-      "reason": "CPI sends Fed hike odds up",
+      "reason": "CPI and Fed hike odds",
       "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
@@ -74,6 +121,12 @@
           "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
           "used_by_ai": true
         },
         {
@@ -87,12 +140,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=2ca9c3f4788f04302a0e3c1106e24cd92e46166db5f4c4d484a8135056f7ed87",
           "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -104,29 +151,29 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 40,
-      "reason": "Mentioned in memory giants context",
-      "headline": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
+      "reason": "AI power stock",
+      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
+          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
+      "direction": "down",
       "confidence": 40,
-      "reason": "Mentioned in tech context",
+      "reason": "Nvidia competition",
       "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
@@ -155,64 +202,10 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=f614713bf49eaa1185fbe0094b899c29646f3468a4b3204a2899013f0bcea0f6",
           "used_by_ai": true
-        },
-        {
-          "headline": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2fda3972ef45894d8aea037ab08da77b91763a6b420e109649ec7014c5596eec",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
-        "Benzinga": 3,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "S&P 500 target mentioned",
-      "headline": "Don't Ignore The Profits Signal, My New Target For The S&P 500",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d86e8e689d1bc9d9468cd243f4c2cfeb48cee990b02f20ebd3ce8fd233731124",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Don't Ignore The Profits Signal, My New Target For The S&P 500",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d86e8e689d1bc9d9468cd243f4c2cfeb48cee990b02f20ebd3ce8fd233731124",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Markets Think The Energy Crisis Risk Is Over, Quite The Opposite",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b8d9f113fee95ad2b1da77740438f91015def086ec8e2162c618a1edbaa52eee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer' - CBC",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b59ffc135e103bd0906f29187d9f562b5e10d28af0347ac7f00ced81596abbb2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Applied Materials Q3 Preview: Stock Up 105% YTD, but Down 25% From June All-Time Highs, What Happens Next",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ef623687a87cbc07036d7dc12ad414faad5045cb7a92b09628b3319f3d6725b3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Ottawa Weighs Proposal On Auto Tariffs As It Presses U.S. For Reprieve, Sources Say' - The Globe And Mail",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=eccc7302a5169e06b4ebf9e819996770f60587d48b6fd2b7e3535e07dcd78bac",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
         "Benzinga": 3
       }
     }
