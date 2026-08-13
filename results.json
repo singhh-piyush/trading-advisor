@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:15:12Z",
+  "updated_at": "2026-08-13T05:57:07Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,18 +16,12 @@
       "company": "",
       "direction": "neutral",
       "confidence": 60,
-      "reason": "Inflation data",
-      "headline": "Rates Spark: Inflation Is And Isn't The Issue",
+      "reason": "CPI report",
+      "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
+      "url": "https://finnhub.io/api/news?id=a8483d0a9d389cf9f500a95a8437d1744e6f8ee94daa6397420c501e0d005e1b",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Rates Spark: Inflation Is And Isn't The Issue",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
-          "used_by_ai": true
-        },
         {
           "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
           "source": "SeekingAlpha",
@@ -47,10 +41,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Don't Ignore The Profits Signal, My New Target For The S&P 500",
+          "headline": "What Changed?",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d86e8e689d1bc9d9468cd243f4c2cfeb48cee990b02f20ebd3ce8fd233731124",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=d0416cd6e01d2e0d88b7a95f1276701499dad9c9d61dfcc77c37b9a7facd2405",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Rates Spark: Inflation Is And Isn't The Issue",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -98,33 +98,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "AI stock",
-      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in market news",
+      "reason": "stock movement",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
@@ -168,11 +146,33 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "AI power stock",
+      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in market news",
+      "confidence": 30,
+      "reason": "stock movement",
       "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
@@ -189,17 +189,11 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=807f1784406bc9f1ff5459af41094ab3dd69b8b2991a8e6688e01171a8ab0c60",
           "used_by_ai": true
-        },
-        {
-          "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
-        "Benzinga": 2
+        "Benzinga": 1
       }
     }
   ]
