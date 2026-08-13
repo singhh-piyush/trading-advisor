@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T10:35:46Z",
+  "updated_at": "2026-08-13T11:45:45Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -14,9 +14,9 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "up",
+      "direction": "down",
       "confidence": 60,
-      "reason": "Positive earnings",
+      "reason": "Short-sellers",
       "headline": "Elon Musk Says SpaceX Short-Sellers Probably Won't Survive. These 3 Earnings Numbers Say He's Wrong.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d8e09678b59c454dd375cc469574bffe293faa4a04f0a825d920eebb8b6dd96c",
@@ -32,25 +32,25 @@
           "headline": "AI Weekly: Nvidia does deal with Wall Street, China's AI weather forecasts",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fe3d7b57f311fbbdac10f343402108f6446f07604fe398ddee8e366b8b7732dc",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "XRP (Ripple) Just Did Something It Hasn't Done Since 2024, and Here's What It Means for Investors",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bf7aee1805d18d3599e39cebe296d95c001bdf4eb91c0474c3ffd0cce82110ca",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Google Parent Alphabet Just Revealed How Many SpaceX Shares It Owns... and the Figure Is a Doozy",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ce6967c260aec8fb51291871ab3cdad4bb292e5d2f85d47a5d88713b41f0e60d",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,24 +62,12 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "New solar plan",
-      "headline": "South Korean import sales rise 14% in July",
+      "reason": "Solar plant",
+      "headline": "TSLA Stock Climbs Premarket: Chamath Says Tesla Is Going \u2018All In On Nuclear\u2019 As $10B Texas Solar Plan Emerges",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2f2ce62d2f90e27983806dbb972c33bc9909aafcb1144bed881edd4995e4770",
+      "url": "https://finnhub.io/api/news?id=db467a9f2084344aedfbcbf50b569ee45110fc28c1cb035c3bc40eb5aae65146",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "South Korean import sales rise 14% in July",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a2f2ce62d2f90e27983806dbb972c33bc9909aafcb1144bed881edd4995e4770",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Prediction: Nvidia Will Be Worth $6 Trillion by the End of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=636af9c8ebf002eaf9fbb8644afc9e1660084f85a5cb227b94057ebfc3237217",
-          "used_by_ai": true
-        },
         {
           "headline": "TSLA Stock Climbs Premarket: Chamath Says Tesla Is Going \u2018All In On Nuclear\u2019 As $10B Texas Solar Plan Emerges",
           "source": "Yahoo",
@@ -91,6 +79,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=04cf38ca8a39abbb07b4d7660f15e5b5503724d1a4a655ac9c9b52ba57bc8203",
           "used_by_ai": true
+        },
+        {
+          "headline": "South Korean import sales rise 14% in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a2f2ce62d2f90e27983806dbb972c33bc9909aafcb1144bed881edd4995e4770",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Prediction: Nvidia Will Be Worth $6 Trillion by the End of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=636af9c8ebf002eaf9fbb8644afc9e1660084f85a5cb227b94057ebfc3237217",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -118,25 +118,25 @@
           "headline": "Market Chatter: Apple Seeks Deals With News Publishers to Improve Siri",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c50edf36d8a534aa88de883670dbd7cd35d3d5cfa60d3e2a704bcea0c3de7dcf",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6bb6fc74098cd699a23cf607112f940e4852caea60136ce410ec78962c15cf4e",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1d6aa338c5d122416be59ca5f35ac5ebc8c3d7843fdcd6b71537fc5e720d51e5",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "What's Up With Tech?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b7712598b4feffec46ea5810425f208623f4da84db5c62630f2c0e39dbd4ee4e",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -174,15 +174,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Adyen lifts 2026 revenue outlook after strong first half",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58969620f144213bf5c46a299ea9a72eb48022e679045af31264394765b98d3e",
-          "used_by_ai": true
+          "headline": "AI Bubble Burst: The Huang's Warning And The AI Compute ABS Solution",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=15c0a718647dd7486e60c2931c153d8db5fb744a96e71bc7204d9e3cd75c33d3",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
-        "Yahoo": 3
+        "Yahoo": 2,
+        "SeekingAlpha": 1
       }
     },
     {
@@ -230,23 +231,23 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Market update",
-      "headline": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
+      "confidence": 30,
+      "reason": "Market outlook",
+      "headline": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
+      "url": "https://finnhub.io/api/news?id=2046e24a6b8fce2de5303dcf7ce69e3739a14e6e41c90ce099958af1e9505a55",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
-          "used_by_ai": true
-        },
         {
           "headline": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2046e24a6b8fce2de5303dcf7ce69e3739a14e6e41c90ce099958af1e9505a55",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P 500 ETF Dividends: IVV, VOO, SPY: DPS Forecast For Q3 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fd3e9ff06f12367a2af9101d074624af67cec2160ed33315a8a61c7b6714fa20",
           "used_by_ai": true
         },
         {
@@ -260,23 +261,11 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d0416cd6e01d2e0d88b7a95f1276701499dad9c9d61dfcc77c37b9a7facd2405",
           "used_by_ai": true
-        },
-        {
-          "headline": "Rates Spark: Inflation Is And Isn't The Issue",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a8483d0a9d389cf9f500a95a8437d1744e6f8ee94daa6397420c501e0d005e1b",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 4
+        "Yahoo": 1,
+        "SeekingAlpha": 3
       }
     }
   ]
