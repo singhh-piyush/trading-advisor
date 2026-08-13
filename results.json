@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T05:57:07Z",
+  "updated_at": "2026-08-13T07:41:13Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,20 +8,165 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 7,
   "sample": false,
   "items": [
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "CPI sends Fed hike odds up",
+      "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
+          "used_by_ai": true
+        },
+        {
+          "headline": "EVgo Q2 2026 Review: The Good News, The Bad News (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=716eac15cf3bb3afb4a585846aa11a039f9fcbb6aca5bcd51a3598d84c36ba56",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
+          "used_by_ai": false
+        },
+        {
+          "headline": "WeRide CEO Calls Its Tech Comparable To Tesla FSD",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "GE Vernova is an AI power stock",
+      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Riot Platforms deal changes everything",
+      "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What's Going On With AMD Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=807f1784406bc9f1ff5459af41094ab3dd69b8b2991a8e6688e01171a8ab0c60",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "WeRide CEO compares tech to Tesla FSD",
+      "headline": "WeRide CEO Calls Its Tech Comparable To Tesla FSD",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "WeRide CEO Calls Its Tech Comparable To Tesla FSD",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227",
+          "used_by_ai": true
+        },
+        {
+          "headline": "EVgo Q2 2026 Review: The Good News, The Bad News (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=716eac15cf3bb3afb4a585846aa11a039f9fcbb6aca5bcd51a3598d84c36ba56",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 3,
+        "SeekingAlpha": 1
+      }
+    },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 60,
-      "reason": "CPI report",
-      "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
+      "confidence": 40,
+      "reason": "July CPI report is benign",
+      "headline": "July CPI Report: Another Benign Report, But Risks Persist",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a8483d0a9d389cf9f500a95a8437d1744e6f8ee94daa6397420c501e0d005e1b",
+      "url": "https://finnhub.io/api/news?id=234bb97f586ba99553488f6e9361691756fcce5c799121f7e397cf186ee67798",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "July CPI Report: Another Benign Report, But Risks Persist",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=234bb97f586ba99553488f6e9361691756fcce5c799121f7e397cf186ee67798",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Rates Spark: Inflation Is And Isn't The Issue",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
+          "used_by_ai": true
+        },
         {
           "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
           "source": "SeekingAlpha",
@@ -35,21 +180,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Consumer Price Index: Inflation At 3.4% In July",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1c7dd566b932ab9e0639ee216f9ba540a4a26a36766fd1cb027adb44f616cd8f",
-          "used_by_ai": true
-        },
-        {
           "headline": "What Changed?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d0416cd6e01d2e0d88b7a95f1276701499dad9c9d61dfcc77c37b9a7facd2405",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Rates Spark: Inflation Is And Isn't The Issue",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
           "used_by_ai": false
         }
       ],
@@ -58,51 +191,11 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "CPI and Fed hike odds",
-      "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
-          "used_by_ai": true
-        },
-        {
-          "headline": "WeRide CEO Calls Its Tech Comparable To Tesla FSD",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227",
-          "used_by_ai": true
-        },
-        {
-          "headline": "8 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=2ca9c3f4788f04302a0e3c1106e24cd92e46166db5f4c4d484a8135056f7ed87",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 4
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "stock movement",
+      "confidence": 30,
+      "reason": "Mentioned in top gainers and losers",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
@@ -146,54 +239,32 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI power stock",
-      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "stock movement",
-      "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+      "reason": "Mentioned in stock news",
+      "headline": "What's Going On With AMD Stock Wednesday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=807f1784406bc9f1ff5459af41094ab3dd69b8b2991a8e6688e01171a8ab0c60",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
-          "used_by_ai": true
-        },
         {
           "headline": "What's Going On With AMD Stock Wednesday?",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=807f1784406bc9f1ff5459af41094ab3dd69b8b2991a8e6688e01171a8ab0c60",
           "used_by_ai": true
+        },
+        {
+          "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Benzinga": 1
+        "Benzinga": 1,
+        "SeekingAlpha": 1
       }
     }
   ]
