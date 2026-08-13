@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T01:56:43Z",
+  "updated_at": "2026-08-13T04:15:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,12 +16,24 @@
       "company": "",
       "direction": "neutral",
       "confidence": 60,
-      "reason": "CPI meets expectations",
-      "headline": "Behind Stable July CPI - One Transitory Tariff Wave After Another",
+      "reason": "Inflation data",
+      "headline": "Rates Spark: Inflation Is And Isn't The Issue",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d689690b145a8961d4901eff622d1bff9c0c3cae10f04897686f06541755e3e7",
+      "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Rates Spark: Inflation Is And Isn't The Issue",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a8483d0a9d389cf9f500a95a8437d1744e6f8ee94daa6397420c501e0d005e1b",
+          "used_by_ai": true
+        },
         {
           "headline": "Behind Stable July CPI - One Transitory Tariff Wave After Another",
           "source": "SeekingAlpha",
@@ -39,23 +51,10 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d86e8e689d1bc9d9468cd243f4c2cfeb48cee990b02f20ebd3ce8fd233731124",
           "used_by_ai": true
-        },
-        {
-          "headline": "Markets Think The Energy Crisis Risk Is Over, Quite The Opposite",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b8d9f113fee95ad2b1da77740438f91015def086ec8e2162c618a1edbaa52eee",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer' - CBC",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b59ffc135e103bd0906f29187d9f562b5e10d28af0347ac7f00ced81596abbb2",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Benzinga": 1
+        "SeekingAlpha": 5
       }
     },
     {
@@ -63,7 +62,7 @@
       "company": "Tesla",
       "direction": "down",
       "confidence": 50,
-      "reason": "CPI sends Fed hike odds up",
+      "reason": "CPI and Fed hike odds",
       "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
@@ -73,12 +72,6 @@
           "headline": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=a94d541e79386e4836ac1ad553f0bfb78cec417eee47caa94820ebe864269621",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
           "used_by_ai": true
         },
         {
@@ -92,6 +85,12 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=2ca9c3f4788f04302a0e3c1106e24cd92e46166db5f4c4d484a8135056f7ed87",
           "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk Says Money Won\u2019t Matter In 10 Years \u2014 Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -99,11 +98,33 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI stock",
+      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in market reports",
+      "reason": "Mentioned in market news",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
@@ -147,33 +168,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Mentioned as favorite stock",
-      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in market reports",
+      "reason": "Mentioned in market news",
       "headline": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9c8ac487f1c47a2c7ab5c07cb16858e7d19ddd5774a839fe44d6aa023e35496f",
@@ -196,17 +195,11 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6",
           "used_by_ai": true
-        },
-        {
-          "headline": "Tech Veteran Warns Nvidia Is Playing Intel\u2019s Old Game Against AMD \u2014 and It Could Become a Dangerous Trap",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f614713bf49eaa1185fbe0094b899c29646f3468a4b3204a2899013f0bcea0f6",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
-        "Benzinga": 3
+        "Benzinga": 2
       }
     }
   ]
