@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:34:35Z",
+  "updated_at": "2026-08-13T20:41:34Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,39 +12,120 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI growth potential",
-      "headline": "SK Group's Chairman Isn't Worried About Nvidia Dependence: Is That Why SKHY Is Up 8%?",
+      "reason": "Ackman reaffirms Azure bet",
+      "headline": "Microsoft Stock Rises as Ackman Reaffirms Azure Bet",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2bd48566a2bbb6fc6bcf4a286228baacb91129f570288218b0ffc7ab5d6ce331",
+      "url": "https://finnhub.io/api/news?id=0a8dd2baf3fa005b772233485317be85add6623e2f45d785a0a2acc0422e30c2",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "SK Group's Chairman Isn't Worried About Nvidia Dependence: Is That Why SKHY Is Up 8%?",
+          "headline": "Microsoft Stock Rises as Ackman Reaffirms Azure Bet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2bd48566a2bbb6fc6bcf4a286228baacb91129f570288218b0ffc7ab5d6ce331",
+          "url": "https://finnhub.io/api/news?id=0a8dd2baf3fa005b772233485317be85add6623e2f45d785a0a2acc0422e30c2",
           "used_by_ai": true
         },
         {
-          "headline": "Second-Quarter Earnings Season Is Nearly Complete. Here's What Investors Should Know.",
+          "headline": "Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29d3277b78edd38a2da0abfade74bf7a469051123bd40dbfe76d956d071c8511",
+          "url": "https://finnhub.io/api/news?id=4136a4be5d63d394bd302f15c4b40dd2f32ea15387a6bf1fd6f93ecba1b90f8e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Stay informed with the top movers within the dow jones index on Thursday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d809f45966630d8a19facd36d00cdb710b4ed6f03d04f981ead22bea0fe9d02d",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Norway fund reveals huge position",
+      "headline": "Apple Stock Rises While Norway Fund Reveals Huge Position",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b919d411393dae92c480e6a371ee6d08fb0dfaad50c45a57491306f29887d719",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Stock Rises While Norway Fund Reveals Huge Position",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b919d411393dae92c480e6a371ee6d08fb0dfaad50c45a57491306f29887d719",
           "used_by_ai": true
         },
         {
-          "headline": "Elon Musk Claims The Majority of SpaceX Revenue Will Be From AI Next Month",
+          "headline": "Amazon Is the Only $3 Trillion Company That Has Never Paid a Dividend",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af3e65c89bdeb6083c59c9501230f23d52004a43f415feed2f990097494bd3d2",
+          "url": "https://finnhub.io/api/news?id=b1568ef924ebb492102e73103db3ae216f8794b301ac1e0c0c732802d4ba96ed",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Millions of Americans Own Vanguard\u2019s VFIAX and Have No Idea What They Actually Bought",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=629160cc8accb7191f2b98287dcbdaf523826e819e007d24e6b6e3ccd34aaebf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia Stock Gains While Norway Fund Reveals Top Holding",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=920102748a703896a9e07809103bab989f6846e6ede4b2ed2d58650ff50c6bf1",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Alphabet Stock Climbs as Norway Fund Ranks It Third",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=632a6356a78bbddb353d4e2ce98d665aaba5a34d8d759559a809c32707268236",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Solar bet could change energy game",
+      "headline": "Tesla $10 Billion Solar Bet Could Change Its Energy Game",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90d73d119bd3db3cdc4e0bb2cc19c53b350da17f0a6ecb9a2493d456212c1f58",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla $10 Billion Solar Bet Could Change Its Energy Game",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90d73d119bd3db3cdc4e0bb2cc19c53b350da17f0a6ecb9a2493d456212c1f58",
           "used_by_ai": true
         },
         {
-          "headline": "Bank of America tweaks CoreWeave stock forecast after earnings",
+          "headline": "Walmart, Tesla, FedEx, and More Winners and Losers From Shipping\u2019s Rough Seas",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=722072a09b8e329b29ae3c0539ea5d8df2fb221285e43410b5ec1abbb7d9bf9b",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=35f8f5dfcd64a6217601f03de93d8dd83a499d273b7972b9d610a55f281d3c8f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6298b20b8bc7cfb2e25971aa03f77f56e528abb8a47c862f8b94d805a773e4cf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "More Analysts Say Hold Than Buy on Tesla. The Price Target Went Up Anyway.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef3c96470e4cc16bcaf8dcdabfef762ab3dbfa61e824d1aff4839ec2c4a078b4",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -55,13 +136,25 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI expansion plans",
-      "headline": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
+      "confidence": 60,
+      "reason": "Gets bigger AI opportunity",
+      "headline": "AMD Investors Face a New Twist",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=310a10ba2298e2e85ac0362b9b37f2a21b4387b1c7880ee0fa5dbb0fbf61c17f",
+      "url": "https://finnhub.io/api/news?id=8ce884100f62852bf9d01e7803d4a989e53a588dc4d5e7bd8cc821af992415e2",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "AMD Investors Face a New Twist",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8ce884100f62852bf9d01e7803d4a989e53a588dc4d5e7bd8cc821af992415e2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AMD Gets a Bigger AI Opportunity as CPU Market Expands",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=07721310f465080790be9c004101546f78d08f283720949bd232be4fc1476950",
+          "used_by_ai": true
+        },
         {
           "headline": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
           "source": "Yahoo",
@@ -69,28 +162,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Advanced Micro Devices (AMD) Plans $5 Billion Bond Sale For AI Expansion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6d01de2c55390de76d0d73829fe53c8680a4686bfc34db6fb8eb254fa8342716",
-          "used_by_ai": true
-        },
-        {
-          "headline": "BofA picks AMD and Nvidia as AI chip winners in massive CPU market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0953f6b8d6f7537fc475aa462b73ec4ebfe29f16b276554ed1141e7a569483fd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "BofA Reveals Its AI Stocks To Buy List",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0ab7cc8a184275199ec78fcaeb8b01909d5b43b5fecf585f4a98a3c27e3e611",
-          "used_by_ai": true
-        },
-        {
           "headline": "Sector Update: Tech Stocks Gain Thursday Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2ddd660f945e74470783317468eeb7c09134410a6b8a251437fd690e77fd0ea5",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "CLS vs. ANET: Which AI Stock Offers the Better Growth Opportunity?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e442cf56ac6bb4587e1429b72c27f090437cf8bcfac29c4ad019f286ca8e5ef3",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -98,85 +179,38 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
+      "ticker": "NVDA",
+      "company": "Nvidia",
       "direction": "up",
-      "confidence": 70,
-      "reason": "iPhone AI move",
-      "headline": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Google makes costly bet Apple proved can work",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dd529d4057b8de03d0c3440c75bc162c182fe2285afca176e08bf6160382b9e7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Makes Big iPhone Move in AI Race",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c28b65b2d35fa4d5bf87b88c99d70f04bd154308e757a3bb1b5f4b3513ae05ca",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Discover which dow jones stocks are making waves on Thursday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=85ac2b07ff18479aadb4467b3e1330bac9629e06dd155f57eff0fc402eb245f3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Lowest-Beta Mega-Cap Just Got a $358 Target",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9bde03a33e16136d22773f56e9c9de16d990715c90e3a26b7078f834b4786afe",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 2,
-        "Yahoo": 3
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "AI momentum",
-      "headline": "Amazon\u2019s Price Target Says +32% and Not a Single Analyst Says Sell",
+      "confidence": 50,
+      "reason": "Rallies 7% after Goldman warning",
+      "headline": "Why Pan American Silver Stock Was Tumbling Today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa77a94e3624b8ed06f561c24d9f0bbb611b573743bf2c9b73095813298982f7",
+      "url": "https://finnhub.io/api/news?id=e788098df21cbbc12e9311901459adbde63381096872bb8810fb2c731c3ebf44",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Amazon\u2019s Price Target Says +32% and Not a Single Analyst Says Sell",
+          "headline": "Why Pan American Silver Stock Was Tumbling Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa77a94e3624b8ed06f561c24d9f0bbb611b573743bf2c9b73095813298982f7",
+          "url": "https://finnhub.io/api/news?id=e788098df21cbbc12e9311901459adbde63381096872bb8810fb2c731c3ebf44",
           "used_by_ai": true
         },
         {
-          "headline": "What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue.",
+          "headline": "Why Yeti Stock Is Plummeting Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a2fa0f2524ac12ad2afc89fbd201ec93cad975bcf151ec8dffd718128f2e1d6",
+          "url": "https://finnhub.io/api/news?id=ad948e36723ba9a5b5940706c0ea7be1c39250ddd9ebf3787a2574f8ed8f3d83",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft Is Retreating in China, but AI Keeps a Door Open",
+          "headline": "Micron and Sandisk Stock Have Plummeted. Here's Why Now Is the Perfect Time to Buy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f18eee7d5c02cb641cfaf478fbcb819874dac7937fe57bfe872ea7f4c307dc7",
+          "url": "https://finnhub.io/api/news?id=a66c60c974dc928a6b0288bd351d4a1166b3d3880f784584714c022d09a74898",
           "used_by_ai": true
         },
         {
-          "headline": "The Numbers Get Larger and Larger: Inside the AI Financing Scramble",
+          "headline": "Is Rocket Lab Stock a Safer Option for Space Investors Than SpaceX?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2057776cf3bec3ce61e438d1ba9189777df50c4adb70a427ea9af0a97f84130b",
+          "url": "https://finnhub.io/api/news?id=1eef1780b4c89929cb78cd77550b5467dddf5b8e8928b4ef3afdcdf5cc514dc6",
           "used_by_ai": true
         }
       ],
@@ -185,62 +219,28 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "stock performance",
-      "headline": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6298b20b8bc7cfb2e25971aa03f77f56e528abb8a47c862f8b94d805a773e4cf",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6298b20b8bc7cfb2e25971aa03f77f56e528abb8a47c862f8b94d805a773e4cf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "More Analysts Say Hold Than Buy on Tesla. The Price Target Went Up Anyway.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef3c96470e4cc16bcaf8dcdabfef762ab3dbfa61e824d1aff4839ec2c4a078b4",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Is Down 26% in 2026 and Trailing Every Magnificent Seven Peer. Here's What Could Turn It Around.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=257795459ce8bc604963d97050787202252d82e7f5a4147c5be2d0ff7f6e6705",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Gary Black Says Tesla Needs to Work on Branding: \u2018Without Great Marketing, Apple Would Not Be a $4.4T Market Cap Company\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0aadbd549abb948e74d16f585af1f14d3473f17ecb61a39bd7d6e84203f7bd66",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Tesla Doesn't Need to Win China's Brutal EV Price War",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d0a78ea3ffa7b37e0408e28bce02277505a02476d154eae89a752371d2c9ebe",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 40,
-      "reason": "market update",
-      "headline": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100%",
+      "reason": "Broad market ETF",
+      "headline": "Pantheon Drops Surprising Fed Call After July CPI",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b33a83bba9de3a1974a8b5c8137b51cc8cb96d5f7711efd82a7df3acc8fc567",
+      "url": "https://finnhub.io/api/news?id=afc0b2ced7e2601c412e6bdeca5f86b59fb92a6ce08553305004c770c6ef0d5d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Pantheon Drops Surprising Fed Call After July CPI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afc0b2ced7e2601c412e6bdeca5f86b59fb92a6ce08553305004c770c6ef0d5d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street Declared Active Funds Dead. Nobody Told the Growth Fund of America, AGTHX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6920b26d03769979c83834775da9da1a4d3064f66b92bec054e5eadc47b5f6d9",
+          "used_by_ai": true
+        },
         {
           "headline": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100%",
           "source": "Yahoo",
@@ -248,27 +248,15 @@
           "used_by_ai": true
         },
         {
+          "headline": "The Next Leg Of The Bull Run Is Priced In Oil Barrels",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fe037eec11e1f5eda8890d9af2690ffb2070c6c7f8b19e7b25bea51cc69f2fac",
+          "used_by_ai": true
+        },
+        {
           "headline": "The Broad Market ETF That Belongs in Almost Every Passive Investor's Portfolio",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=99a92231b76c835d5a09631737782498289e46606bc9c14527f237833a7d4032",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AppLovin at 52-Week Low: Buy, Sell or Hold?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c13c4310fe78f1abfc9983cb45192c6f4472ab3cd06f90f8002e89cf9ba1834",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fiera Capital Global Asset Allocation - August 2026 Market Update",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ab2aee4b732a11f01377a345418f6f9d83dce4a698b8fc766eb2606fb7c8b921",
-          "used_by_ai": true
-        },
-        {
-          "headline": "CoreWeave\u2019s Spike Hasn\u2019t Erased 3-Month Losses: Why Trusted Wall Street Pro Expects 65% Post-Spike Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2591ea2b77c9d5a5f838bfd76461d403d926522238caaab9eedf94090576657c",
           "used_by_ai": true
         }
       ],
