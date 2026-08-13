@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T09:11:06Z",
+  "updated_at": "2026-08-13T10:35:46Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,148 @@
     "AMD",
     "SPY"
   ],
-  "count": 8,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "AI hardware growth",
+      "confidence": 60,
+      "reason": "Positive earnings",
+      "headline": "Elon Musk Says SpaceX Short-Sellers Probably Won't Survive. These 3 Earnings Numbers Say He's Wrong.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8e09678b59c454dd375cc469574bffe293faa4a04f0a825d920eebb8b6dd96c",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Elon Musk Says SpaceX Short-Sellers Probably Won't Survive. These 3 Earnings Numbers Say He's Wrong.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8e09678b59c454dd375cc469574bffe293faa4a04f0a825d920eebb8b6dd96c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI Weekly: Nvidia does deal with Wall Street, China's AI weather forecasts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fe3d7b57f311fbbdac10f343402108f6446f07604fe398ddee8e366b8b7732dc",
+          "used_by_ai": true
+        },
+        {
+          "headline": "XRP (Ripple) Just Did Something It Hasn't Done Since 2024, and Here's What It Means for Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf7aee1805d18d3599e39cebe296d95c001bdf4eb91c0474c3ffd0cce82110ca",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Google Parent Alphabet Just Revealed How Many SpaceX Shares It Owns... and the Figure Is a Doozy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce6967c260aec8fb51291871ab3cdad4bb292e5d2f85d47a5d88713b41f0e60d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "New solar plan",
+      "headline": "South Korean import sales rise 14% in July",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2f2ce62d2f90e27983806dbb972c33bc9909aafcb1144bed881edd4995e4770",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "South Korean import sales rise 14% in July",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a2f2ce62d2f90e27983806dbb972c33bc9909aafcb1144bed881edd4995e4770",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Prediction: Nvidia Will Be Worth $6 Trillion by the End of 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=636af9c8ebf002eaf9fbb8644afc9e1660084f85a5cb227b94057ebfc3237217",
+          "used_by_ai": true
+        },
+        {
+          "headline": "TSLA Stock Climbs Premarket: Chamath Says Tesla Is Going \u2018All In On Nuclear\u2019 As $10B Texas Solar Plan Emerges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=db467a9f2084344aedfbcbf50b569ee45110fc28c1cb035c3bc40eb5aae65146",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk's Tesla Weighs $10.1 Billion Solar Plant, Chamath Palihapitiya Calls It a Bet on Nuclear: Here's Why",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04cf38ca8a39abbb07b4d7660f15e5b5503724d1a4a655ac9c9b52ba57bc8203",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Growth prediction",
+      "headline": "Prediction: Amazon Will Join Apple in the $4 Trillion Club Before 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62f084d9ffddea98af8af266589db364d4513d7f8380629c37ec500552278aad",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Prediction: Amazon Will Join Apple in the $4 Trillion Club Before 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=62f084d9ffddea98af8af266589db364d4513d7f8380629c37ec500552278aad",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Market Chatter: Apple Seeks Deals With News Publishers to Improve Siri",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c50edf36d8a534aa88de883670dbd7cd35d3d5cfa60d3e2a704bcea0c3de7dcf",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6bb6fc74098cd699a23cf607112f940e4852caea60136ce410ec78962c15cf4e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1d6aa338c5d122416be59ca5f35ac5ebc8c3d7843fdcd6b71537fc5e720d51e5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What's Up With Tech?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b7712598b4feffec46ea5810425f208623f4da84db5c62630f2c0e39dbd4ee4e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "AI growth",
       "headline": "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=8e0b011a5673522bb64aecbf7ece47fbf08cd0f4aff0f5cdb8ff742812f72b7d",
@@ -29,46 +162,11 @@
           "used_by_ai": true
         },
         {
-          "headline": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+          "headline": "German Firms Shift Microsoft Strategies from Cloud to AI",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=778caf38aa7160091ad70b27858da33c35f5ab69eebd0743570d16bdc2f77b43",
+          "url": "https://finnhub.io/api/news?id=ba563c6a6df15b98720e422d48089d893d8660af6e57f6d6f0acdb4a63c3856f",
           "used_by_ai": true
         },
-        {
-          "headline": "Uber Is Due for a Rally as Fundamentals Improve",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8aeb18dfa1f390f2147ec0e17e6e311787ad31d7a08713e4c74443c2de010b25",
-          "used_by_ai": false
-        },
-        {
-          "headline": "1 Number That Makes Lowe's Stock an Obvious Buy Before Aug. 19",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bbb0b7a2daf0862981f57cc5241561e54a92638c5e1c6331000a7208355f908a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Michael Burry Calls Nvidia\u2019s $500B Wall Street Tie-Up A \u2018Sign Of Desperation\u2019 \u2014 and Rising Default Expectations Aren't Helping",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc8b9352e65bef32aae5e63a834cd9b30c571143b62596060149b764712cd7d3",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Strong outlook",
-      "headline": "2 Soaring Stocks With More Upside Ahead to Buy and Hold",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbcfa2da71894bef5426c608180e345b769aa8b5480b318e902ea4ad78dde953",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "2 Soaring Stocks With More Upside Ahead to Buy and Hold",
           "source": "Yahoo",
@@ -80,77 +178,36 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=58969620f144213bf5c46a299ea9a72eb48022e679045af31264394765b98d3e",
           "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft Stock Remains A Table-Pounding Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=e80c3392c0957491263c1cc7bf2bfb6884513ff9e82a9ca09797081250d7406d",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 2,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "Desperation sign",
-      "headline": "Michael Burry Calls Nvidia\u2019s $500B Wall Street Tie-Up A \u2018Sign Of Desperation\u2019 \u2014 and Rising Default Expectations Aren't Helping",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc8b9352e65bef32aae5e63a834cd9b30c571143b62596060149b764712cd7d3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Michael Burry Calls Nvidia\u2019s $500B Wall Street Tie-Up A \u2018Sign Of Desperation\u2019 \u2014 and Rising Default Expectations Aren't Helping",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc8b9352e65bef32aae5e63a834cd9b30c571143b62596060149b764712cd7d3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8e0b011a5673522bb64aecbf7ece47fbf08cd0f4aff0f5cdb8ff742812f72b7d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Uber Is Due for a Rally as Fundamentals Improve",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8aeb18dfa1f390f2147ec0e17e6e311787ad31d7a08713e4c74443c2de010b25",
-          "used_by_ai": false
-        },
-        {
-          "headline": "1 Number That Makes Lowe's Stock an Obvious Buy Before Aug. 19",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bbb0b7a2daf0862981f57cc5241561e54a92638c5e1c6331000a7208355f908a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=778caf38aa7160091ad70b27858da33c35f5ab69eebd0743570d16bdc2f77b43",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "ChartMill": 1
+        "ChartMill": 1,
+        "Yahoo": 3
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI earnings reports",
-      "headline": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=988a0a67a2398ff0bf33bdd49f01d960e272201b7e0cd299abcdef2d9c00d825",
+      "confidence": 40,
+      "reason": "Earnings report",
+      "headline": "American Century Focused Global Growth Fund Q2 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b33f48fc75f1b9ffcfdf982f5269f978b42b2ad1137e5f452919966d0bda6944",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "American Century Focused Global Growth Fund Q2 2026 Portfolio Review",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b33f48fc75f1b9ffcfdf982f5269f978b42b2ad1137e5f452919966d0bda6944",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 5 Most Interesting Analyst Questions From AMD\u2019s Q2 Earnings Call",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7cec90c29990bf224d29dc3d706c72241c62bf092609fea4569e32c52066369d",
+          "used_by_ai": true
+        },
         {
           "headline": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
           "source": "Yahoo",
@@ -158,175 +215,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "American Century Focused Global Growth Fund Q2 2026 Portfolio Review",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b33f48fc75f1b9ffcfdf982f5269f978b42b2ad1137e5f452919966d0bda6944",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The 5 Most Interesting Analyst Questions From AMD\u2019s Q2 Earnings Call",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cec90c29990bf224d29dc3d706c72241c62bf092609fea4569e32c52066369d",
-          "used_by_ai": false
-        },
-        {
           "headline": "Adobe vs. Advanced Micro Devices: Which Technology Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=aab2689da575dc6627348402ea6dce21c691491b43ba62675ffd6da5004fbf9f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Solar plant investment",
-      "headline": "Elon Musk's Tesla Weighs $10.1 Billion Solar Plant, Chamath Palihapitiya Calls It a Bet on Nuclear: Here's Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04cf38ca8a39abbb07b4d7660f15e5b5503724d1a4a655ac9c9b52ba57bc8203",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Elon Musk's Tesla Weighs $10.1 Billion Solar Plant, Chamath Palihapitiya Calls It a Bet on Nuclear: Here's Why",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04cf38ca8a39abbb07b4d7660f15e5b5503724d1a4a655ac9c9b52ba57bc8203",
           "used_by_ai": true
-        },
-        {
-          "headline": "EVgo Q2 2026 Review: The Good News, The Bad News (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=716eac15cf3bb3afb4a585846aa11a039f9fcbb6aca5bcd51a3598d84c36ba56",
-          "used_by_ai": false
-        },
-        {
-          "headline": "SpaceX Short Interest Falls to 11% From 34% Peak: Are Bears Capitulating?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e163e5cac97bf71e6a17e518781b296abc9151d3131e6c9396dbf0a8e837ff4a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Latest Robotics IPO is 8000X Oversubscribed. These ETFs Could Take Off if Humanoid Robotics Are The Next Big Thing.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5da1b7ac2aba84a0da866f37b40115baf155b9bcdfdc1298020da5f8fc685a1",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Yahoo": 3,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Margin concerns",
-      "headline": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d6aa338c5d122416be59ca5f35ac5ebc8c3d7843fdcd6b71537fc5e720d51e5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d6aa338c5d122416be59ca5f35ac5ebc8c3d7843fdcd6b71537fc5e720d51e5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bb6fc74098cd699a23cf607112f940e4852caea60136ce410ec78962c15cf4e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What's Up With Tech?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b7712598b4feffec46ea5810425f208623f4da84db5c62630f2c0e39dbd4ee4e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68e098095729c93a450b031993f3be6ae54d480bd5803ad315df523401fd51b2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple Reportedly Negotiates Deals With Publishers For Real-Time Content To Power AI-Powered Siri",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=884a0645f319a7cd50946380939fef97ea0e1a73ea401ca8be44b7f7c9dc736c",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI-powered Siri",
-      "headline": "Apple Reportedly Negotiates Deals With Publishers For Real-Time Content To Power AI-Powered Siri",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=884a0645f319a7cd50946380939fef97ea0e1a73ea401ca8be44b7f7c9dc736c",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Apple Reportedly Negotiates Deals With Publishers For Real-Time Content To Power AI-Powered Siri",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=884a0645f319a7cd50946380939fef97ea0e1a73ea401ca8be44b7f7c9dc736c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bb6fc74098cd699a23cf607112f940e4852caea60136ce410ec78962c15cf4e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d6aa338c5d122416be59ca5f35ac5ebc8c3d7843fdcd6b71537fc5e720d51e5",
-          "used_by_ai": false
-        },
-        {
-          "headline": "What's Up With Tech?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b7712598b4feffec46ea5810425f208623f4da84db5c62630f2c0e39dbd4ee4e",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68e098095729c93a450b031993f3be6ae54d480bd5803ad315df523401fd51b2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 1,
+        "Yahoo": 3
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Benign CPI report",
-      "headline": "July CPI Report: Another Benign Report, But Risks Persist",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=234bb97f586ba99553488f6e9361691756fcce5c799121f7e397cf186ee67798",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Market update",
+      "headline": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2046e24a6b8fce2de5303dcf7ce69e3739a14e6e41c90ce099958af1e9505a55",
+          "used_by_ai": true
+        },
         {
           "headline": "July CPI Report: Another Benign Report, But Risks Persist",
           "source": "SeekingAlpha",
@@ -337,30 +259,24 @@
           "headline": "What Changed?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d0416cd6e01d2e0d88b7a95f1276701499dad9c9d61dfcc77c37b9a7facd2405",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Rates Spark: Inflation Is And Isn't The Issue",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=914ff76f14b3f460d03ee77389dabe5e606895d7a380d093f8d947417ad9033b",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=a8483d0a9d389cf9f500a95a8437d1744e6f8ee94daa6397420c501e0d005e1b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "GPIQ vs QQQ: What the Rally Lag Actually Costs a $300,000 Position",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0006717530e5bfb4ad2dfba2c66e51fb6bf4b2df30bd6d8a20b49e5aee38186",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Yahoo": 1
+        "Yahoo": 2,
+        "SeekingAlpha": 4
       }
     }
   ]
