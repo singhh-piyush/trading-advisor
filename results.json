@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T20:41:34Z",
+  "updated_at": "2026-08-13T21:43:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -47,11 +47,57 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Rallies 7% as Goldman warns",
+      "headline": "Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4136a4be5d63d394bd302f15c4b40dd2f32ea15387a6bf1fd6f93ecba1b90f8e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4136a4be5d63d394bd302f15c4b40dd2f32ea15387a6bf1fd6f93ecba1b90f8e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Pan American Silver Stock Was Tumbling Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e788098df21cbbc12e9311901459adbde63381096872bb8810fb2c731c3ebf44",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Why Yeti Stock Is Plummeting Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad948e36723ba9a5b5940706c0ea7be1c39250ddd9ebf3787a2574f8ed8f3d83",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Micron and Sandisk Stock Have Plummeted. Here's Why Now Is the Perfect Time to Buy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a66c60c974dc928a6b0288bd351d4a1166b3d3880f784584714c022d09a74898",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Is Rocket Lab Stock a Safer Option for Space Investors Than SpaceX?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1eef1780b4c89929cb78cd77550b5467dddf5b8e8928b4ef3afdcdf5cc514dc6",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "Norway fund reveals huge position",
+      "reason": "Stock rises with Norway fund position",
       "headline": "Apple Stock Rises While Norway Fund Reveals Huge Position",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b919d411393dae92c480e6a371ee6d08fb0dfaad50c45a57491306f29887d719",
@@ -96,8 +142,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Solar bet could change energy game",
+      "confidence": 70,
+      "reason": "$10 billion solar bet",
       "headline": "Tesla $10 Billion Solar Bet Could Change Its Energy Game",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=90d73d119bd3db3cdc4e0bb2cc19c53b350da17f0a6ecb9a2493d456212c1f58",
@@ -136,7 +182,7 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 70,
       "reason": "Gets bigger AI opportunity",
       "headline": "AMD Investors Face a New Twist",
       "source": "Yahoo",
@@ -179,51 +225,11 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Rallies 7% after Goldman warning",
-      "headline": "Why Pan American Silver Stock Was Tumbling Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e788098df21cbbc12e9311901459adbde63381096872bb8810fb2c731c3ebf44",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Pan American Silver Stock Was Tumbling Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e788098df21cbbc12e9311901459adbde63381096872bb8810fb2c731c3ebf44",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Why Yeti Stock Is Plummeting Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad948e36723ba9a5b5940706c0ea7be1c39250ddd9ebf3787a2574f8ed8f3d83",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Micron and Sandisk Stock Have Plummeted. Here's Why Now Is the Perfect Time to Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a66c60c974dc928a6b0288bd351d4a1166b3d3880f784584714c022d09a74898",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Rocket Lab Stock a Safer Option for Space Investors Than SpaceX?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1eef1780b4c89929cb78cd77550b5467dddf5b8e8928b4ef3afdcdf5cc514dc6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Broad market ETF",
+      "confidence": 60,
+      "reason": "Stocks rise as rate hike bets reduce",
       "headline": "Pantheon Drops Surprising Fed Call After July CPI",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=afc0b2ced7e2601c412e6bdeca5f86b59fb92a6ce08553305004c770c6ef0d5d",
@@ -236,9 +242,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Wall Street Declared Active Funds Dead. Nobody Told the Growth Fund of America, AGTHX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6920b26d03769979c83834775da9da1a4d3064f66b92bec054e5eadc47b5f6d9",
+          "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
           "used_by_ai": true
         },
         {
@@ -258,10 +264,17 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=99a92231b76c835d5a09631737782498289e46606bc9c14527f237833a7d4032",
           "used_by_ai": true
+        },
+        {
+          "headline": "Wall Street Declared Active Funds Dead. Nobody Told the Growth Fund of America, AGTHX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6920b26d03769979c83834775da9da1a4d3064f66b92bec054e5eadc47b5f6d9",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
+        "Reuters": 1,
         "SeekingAlpha": 1
       }
     }
