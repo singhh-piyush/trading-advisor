@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:23:53Z",
+  "updated_at": "2026-08-14T08:44:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
     {
@@ -58,78 +58,32 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Financing deal",
-      "headline": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ae269d445bfd4ac3edb42c733e3cd55c124a1c4ecd875f0fb5afce4889320bb2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae269d445bfd4ac3edb42c733e3cd55c124a1c4ecd875f0fb5afce4889320bb2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Investors Should Make This 1 Move.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1927459bd5654a50de7164c8bfa83465df983b0b76a9b25c62c2ef5435638999",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e67a1109fa4d34c4faa0b8e9e8a47582db7822a165578538c13baccbc2be6b6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=428d41c34efadf9358ac441a1e49d7ec4717aad982752b75729a0fe8edbebd2a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37ace6aaf9f47ac9aae2f6106e25276cc3374f51a8ccba81ebd7b0c6bb0c402f",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
       "confidence": 70,
-      "reason": "Production in Texas",
-      "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
+      "reason": "New AI hub",
+      "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
+      "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
+          "used_by_ai": true
+        },
         {
           "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Apple\u2019s next iPhone battle just got more complicated",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=95fe7aef1fb6fbcf3d9a5e828d0fccf54d2632551988d90ad4940d90d29485ee",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
           "used_by_ai": false
         },
         {
@@ -142,52 +96,6 @@
           "headline": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=19ea28d746a9c2068c4f0a583e9bb523312261c425920053980621a1365dc353",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI growth",
-      "headline": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=428d41c34efadf9358ac441a1e49d7ec4717aad982752b75729a0fe8edbebd2a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=428d41c34efadf9358ac441a1e49d7ec4717aad982752b75729a0fe8edbebd2a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae269d445bfd4ac3edb42c733e3cd55c124a1c4ecd875f0fb5afce4889320bb2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Investors Should Make This 1 Move.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1927459bd5654a50de7164c8bfa83465df983b0b76a9b25c62c2ef5435638999",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e67a1109fa4d34c4faa0b8e9e8a47582db7822a165578538c13baccbc2be6b6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37ace6aaf9f47ac9aae2f6106e25276cc3374f51a8ccba81ebd7b0c6bb0c402f",
           "used_by_ai": false
         }
       ],
@@ -242,164 +150,20 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "AI manufacturing hub",
-      "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Apple\u2019s next iPhone battle just got more complicated",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95fe7aef1fb6fbcf3d9a5e828d0fccf54d2632551988d90ad4940d90d29485ee",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Fidelity\u2019s Contrafund, FCNTX, Bet Against the Crowd and Got Enormous Doing It",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8fd9ab5b9f93dcf3a7bb6363af7368aa7f680fa85d1ac4e677af32dd8d8b6660",
-          "used_by_ai": false
-        },
-        {
-          "headline": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=19ea28d746a9c2068c4f0a583e9bb523312261c425920053980621a1365dc353",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Stock volatility",
-      "headline": "Cerebras Stock PlummetsDespite Solid Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fbd08e0f5707c5f6fc48922ab561f722ee1c8aa3e8940f9f3ad9ca83a8c9ab5",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Cerebras Stock PlummetsDespite Solid Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fbd08e0f5707c5f6fc48922ab561f722ee1c8aa3e8940f9f3ad9ca83a8c9ab5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ade1a93d5b44a0c93c9e1b2ab6f8519431cbe1ea3208da6b583482a0c2f0086c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Investors Face a New Twist",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ce884100f62852bf9d01e7803d4a989e53a588dc4d5e7bd8cc821af992415e2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation \u2014 WDAY, SNDK, AMD, DELL, HTZ In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=edbc6bed264444bd15faaefbada42f94e932ac360a68111ca57496badfecdb27",
-          "used_by_ai": false
-        },
-        {
-          "headline": "AMD Gets a Bigger AI Opportunity as CPU Market Expands",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=07721310f465080790be9c004101546f78d08f283720949bd232be4fc1476950",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Shipping crunch",
-      "headline": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=482d348fe2a049aa69dbc768dfc1b42ac98abbe254121a4ffe6cc1f21084bdcf",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=482d348fe2a049aa69dbc768dfc1b42ac98abbe254121a4ffe6cc1f21084bdcf",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Uber Stock Looks Cheap. Here\u2019s Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7e2aa9c450226c06bc3cb9d36cc876bc27e09d067f21cecf7479cfb022f7ac2",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=415abf44dc4a47333b87ea6ae2f3a8deb1ebb022422ec4a418617566f95f26f0",
-          "used_by_ai": false
-        },
-        {
-          "headline": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c3b3e474ad5c6247d385c0e99bc647cc12745d3382f82defc8ff1b2e76262f6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For \u2018Larger Fall\u2019 \u2014 Here\u2019s What He Did To NVDA, PLTR And TSLA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65330279aa584ddf1e94bf6d68f335b212b9fe35d33379aa257ce70ca1015094",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market monitor",
-      "headline": "Columbia Threadneedle Fixed-Income Monitor: August 2026",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Cooling inflation",
+      "headline": "As Older Workers Retire, Labor Costs Ease",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5810250a1bfe265fbc2db4be15191ced37ecd6519506dc02341d7f6652a0ee2c",
+      "url": "https://finnhub.io/api/news?id=27c0666f9c729c337c0b70c7f69b6543eab3c83ba7e019bd3970e9c0c465ffe4",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Columbia Threadneedle Fixed-Income Monitor: August 2026",
+          "headline": "As Older Workers Retire, Labor Costs Ease",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5810250a1bfe265fbc2db4be15191ced37ecd6519506dc02341d7f6652a0ee2c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Instrument Of Truth: How Volatility Reveals Market Reality",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=784d753d8b56db8136cafd45d7be59883461a486ad876ccbdd732c1b21237924",
+          "url": "https://finnhub.io/api/news?id=27c0666f9c729c337c0b70c7f69b6543eab3c83ba7e019bd3970e9c0c465ffe4",
           "used_by_ai": true
         },
         {
@@ -413,10 +177,108 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=acee65a77f651c59d876b56e4112de825938d0195d35418b164a6abba9eb685e",
           "used_by_ai": true
+        },
+        {
+          "headline": "Columbia Threadneedle Fixed-Income Monitor: August 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5810250a1bfe265fbc2db4be15191ced37ecd6519506dc02341d7f6652a0ee2c",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The Instrument Of Truth: How Volatility Reveals Market Reality",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=784d753d8b56db8136cafd45d7be59883461a486ad876ccbdd732c1b21237924",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4
+        "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Mentions only",
+      "headline": "Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed302dace8a472546acaac17b060f2d00841567ea9d118a3a03a5d75019c5bb0",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ed302dace8a472546acaac17b060f2d00841567ea9d118a3a03a5d75019c5bb0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Should You Forget Berkshire Hathaway and Buy a Focused Financial Stock Instead?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16bebcd6eb08475abd34ac7a95c2a8b9077d85fff2f35e8a2be04ed04d827402",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Alphabet and Amazon Are Spending $420 Billion on Infrastructure. These 2 Stocks Are Primed to Cash in on It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9294718beb21c0f1df13faa453c3a2ce27e75fecb005673b45478f2253ac813",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Bill Ackman Just Disclosed 6 New Positions, and 4 of Them Are Financial Stocks. Here's What He's Betting On.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ec12ea22d7343654a6aadeeb7591318d04a46735f2dab2ec1c06ddf9b9dabc70",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=75ea1ce65404d729b4d990e6a96dfdd70b5772dca6d5ebe2fdbb9775581ad12e",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Mentions only",
+      "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ae65ea3fe426b1c62b7073d35dcead9146d50261ecaf7e18d41f245de7d008e",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ae65ea3fe426b1c62b7073d35dcead9146d50261ecaf7e18d41f245de7d008e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Chevron (CVX) Stock Looks Like A Bargain Below Fair Value",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=53cd9ce6d9ee81956a1f7bb946ba149b7dc26db6d4e7dc37324afcc2e66e97e9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft just found another way to make PCs more expensive, because apparently they weren\u2019t pricey enough",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1ff45a8e99728df9901dda5317d1f36c17e72410625062fe26610321d488d2c",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e67a1109fa4d34c4faa0b8e9e8a47582db7822a165578538c13baccbc2be6b6",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4
       }
     }
   ]
