@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:32:54Z",
+  "updated_at": "2026-08-14T22:21:40Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -16,18 +16,106 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Mentioned in multiple headlines",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+      "reason": "Stake in SpaceX",
+      "headline": "Third Point Dissolves Share Stake In NVIDIA",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Top S&P500 movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+          "headline": "Third Point Dissolves Share Stake In NVIDIA",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
           "used_by_ai": true
         },
+        {
+          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Corp Reports Share Stake Of 122.8 Mln Class A Shares In SpaceX",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e14c243e21c7f1dd0a013261af9680857ac56b8ef00f4044d68db75916906e50",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=9aa0c7405fb35fba6c170c4b0e6fb0522d03435cb57c024ebca3a1d82648d3f9",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 3,
+        "ChartMill": 2
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Revenue surges",
+      "headline": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=18433846120f92ab018bf7368943ca3da77d65f5ed2d86ba6f86fe7f37b64aec",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=18433846120f92ab018bf7368943ca3da77d65f5ed2d86ba6f86fe7f37b64aec",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 16",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aca754d054c2cc29e122e29d60fc10d0d806a9a9424655c9d9e085ef4de25d34",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Soros Fund Management Cuts Share Stake In Microsoft Corp By 10.4% To 189,971 Shares",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a9f68f7b8f703d3bf3ecefa5386c71d677e156a9ee632cc8be9d65847afabf37",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Coatue Management Raises Share Stake In Microsoft By 18.4% To 2.9M Shares",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5b8c14d4d60175375d3e23b1d247ae1acbe9a3f4a7dafb0fe6f398184f405ba6",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Viking Global Investors Cuts Share Stake In Microsoft Corp By 36.8% To 1.5 Mln Shares",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=14c5206a883261b711d6b39cdbb2909e600f87cfca77f8bbaee6d01c4fb44cd8",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Active stock",
+      "headline": "Friday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Friday's session: most active stock in the S&P500 index",
           "source": "ChartMill",
@@ -41,53 +129,40 @@
           "used_by_ai": true
         },
         {
-          "headline": "5 AI Stocks with Strong Growth to Buy on the Rebound",
+          "headline": "Third Point Dissolves Share Stake In NVIDIA",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4252eb004cca9c955c0a8eeb1d5e08b0fff03da001c9ab6b3266d8a679159ba2",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Is Everyone Building Compute?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=77e05a309ee61562a9d28594361c0174ebd009902b7773f832693a2d7006cdc6",
-          "used_by_ai": true
+          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
+          "used_by_ai": false
         },
         {
-          "headline": "Why Is Nebius Stock Surging Friday?",
+          "headline": "Nvidia Corp Reports Share Stake Of 122.8 Mln Class A Shares In SpaceX",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=388fd318adfa9b157654ce13028598642c325b774792c3c6804c03d1c86b977a",
-          "used_by_ai": true
+          "url": "https://finnhub.io/api/news?id=e14c243e21c7f1dd0a013261af9680857ac56b8ef00f4044d68db75916906e50",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "ChartMill": 3,
-        "Benzinga": 2,
-        "SeekingAlpha": 1
+        "ChartMill": 2,
+        "Benzinga": 3
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Positive news about Apple",
-      "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
+      "confidence": 60,
+      "reason": "Streaming hit",
+      "headline": "Apple has Biggest Streaming Hit Ever: How \u2018Ted Lasso\u2019 Could Help Company\u2019s Undervalued Segment",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+      "url": "https://finnhub.io/api/news?id=ebbe908cb9f2670aaffa0023f1dfa449fdca27d11ded340240dfa8a2c4836c80",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple has Biggest Streaming Hit Ever: How \u2018Ted Lasso\u2019 Could Help Company\u2019s Undervalued Segment",
           "source": "Benzinga",
@@ -95,22 +170,26 @@
           "used_by_ai": true
         },
         {
-          "headline": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
-          "used_by_ai": true
+          "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
+          "used_by_ai": false
         },
         {
-          "headline": "Apple opens new manufacturing facility in Texas: Here's what to know",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=2883dadc901bd6b87f2db5d736159929fff6141efe803832e91536a3bb4a1d2c",
-          "used_by_ai": true
+          "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 3,
-        "Yahoo": 1,
-        "CNBC": 1
+        "Benzinga": 4
       }
     },
     {
@@ -118,7 +197,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Mentioned in multiple headlines",
+      "reason": "Mentioned in S&P500",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -137,6 +216,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Why Is Everyone Building Compute?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=77e05a309ee61562a9d28594361c0174ebd009902b7773f832693a2d7006cdc6",
+          "used_by_ai": true
+        },
+        {
           "headline": "Eventually Free Cash Flow Will Matter Again",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=b83b109e22133be521be033fc2ab2141a7bd2818da20b0ade6e17d511df000e5",
@@ -145,31 +230,31 @@
       ],
       "source_breakdown": {
         "ChartMill": 2,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Mentioned in headlines",
-      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "confidence": 60,
+      "reason": "Rocket-Powered Roadster",
+      "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
+      "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
-          "used_by_ai": true
-        },
         {
           "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
           "used_by_ai": true
+        },
+        {
+          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -179,44 +264,56 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
+      "direction": "neutral",
       "confidence": 50,
-      "reason": "Mentioned in headlines",
-      "headline": "Nebius: A Strong Quarter But Still Overvalued",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=15d209aff7f0f100ffbf5f4f8346d89ea04ebe1907ba59df046f7a2d9844d57a",
+      "reason": "Stake changes",
+      "headline": "Soros Fund Management Cuts Share Stake In Microsoft Corp By 10.4% To 189,971 Shares",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a9f68f7b8f703d3bf3ecefa5386c71d677e156a9ee632cc8be9d65847afabf37",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Nebius: A Strong Quarter But Still Overvalued",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=15d209aff7f0f100ffbf5f4f8346d89ea04ebe1907ba59df046f7a2d9844d57a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f0e252c954dfe4a838b5fc4c04c1ceda5a7fda758e69465a295ee201d6a7dc0f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "OpenAI Annualized Revenue Tops $40 Billion Ahead of $1 Trillion IPO Push",
+          "headline": "Soros Fund Management Cuts Share Stake In Microsoft Corp By 10.4% To 189,971 Shares",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=bbc1623021e12ae4e333456cd06ebbc3c56ac04b314facb491f580c30b75b14e",
+          "url": "https://finnhub.io/api/news?id=a9f68f7b8f703d3bf3ecefa5386c71d677e156a9ee632cc8be9d65847afabf37",
           "used_by_ai": true
+        },
+        {
+          "headline": "Coatue Management Raises Share Stake In Microsoft By 18.4% To 2.9M Shares",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5b8c14d4d60175375d3e23b1d247ae1acbe9a3f4a7dafb0fe6f398184f405ba6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Viking Global Investors Cuts Share Stake In Microsoft Corp By 36.8% To 1.5 Mln Shares",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=14c5206a883261b711d6b39cdbb2909e600f87cfca77f8bbaee6d01c4fb44cd8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 16",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=aca754d054c2cc29e122e29d60fc10d0d806a9a9424655c9d9e085ef4de25d34",
+          "used_by_ai": false
+        },
+        {
+          "headline": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=18433846120f92ab018bf7368943ca3da77d65f5ed2d86ba6f86fe7f37b64aec",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Benzinga": 1
+        "Benzinga": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Higher oil prices and inflation",
+      "confidence": 50,
+      "reason": "Higher oil prices",
       "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
@@ -241,12 +338,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
-          "used_by_ai": true
-        },
-        {
           "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
@@ -261,7 +352,6 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 4,
-        "Reuters": 1,
         "Benzinga": 1
       }
     }
