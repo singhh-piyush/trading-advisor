@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:13:44Z",
+  "updated_at": "2026-08-14T12:07:38Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,11 +12,99 @@
   "sample": false,
   "items": [
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "New iPhone production",
+      "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Best \"Magnificent Seven\" Stocks to Buy in August",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a9c46644e09772e1017bc7a5712d8bb34100b45c56d70816faaee72ccc1458dd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Apple\u2019s next iPhone battle just got more complicated",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=95fe7aef1fb6fbcf3d9a5e828d0fccf54d2632551988d90ad4940d90d29485ee",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Strike ends",
+      "headline": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c3b3e474ad5c6247d385c0e99bc647cc12745d3382f82defc8ff1b2e76262f6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c3b3e474ad5c6247d385c0e99bc647cc12745d3382f82defc8ff1b2e76262f6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Could Trump Cut Capital Gains Tax?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=abb8a321bd1f34f8019fc708a796770b7e9d379e2e6b345e422749ef966e511a",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Uber Stock Looks Cheap. Here\u2019s Why.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b7e2aa9c450226c06bc3cb9d36cc876bc27e09d067f21cecf7479cfb022f7ac2",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=415abf44dc4a47333b87ea6ae2f3a8deb1ebb022422ec4a418617566f95f26f0",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 3,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "SPY",
       "company": "",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Breadth broadens",
+      "confidence": 50,
+      "reason": "Market performance",
       "headline": "Breadth Broadens Further as IWM Joins the Breakout",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=06ef3fa7d26f3fe5517f9fbe82646f2d6b1e439ae36a318faa0cf6b05d726a2e",
@@ -35,213 +123,35 @@
           "used_by_ai": true
         },
         {
-          "headline": "As Older Workers Retire, Labor Costs Ease",
+          "headline": "This May Be One Of My Favorite Markets Ever",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=27c0666f9c729c337c0b70c7f69b6543eab3c83ba7e019bd3970e9c0c465ffe4",
+          "url": "https://finnhub.io/api/news?id=dba3d53223c4dd391a67589badc21f8e8c08fec435a056f780be7b725a5e0ddd",
           "used_by_ai": true
         },
         {
-          "headline": "Columbia Threadneedle Fixed-Income Monitor: August 2026",
+          "headline": "My Near-Perfect $1 Million Retirement Portfolio",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5810250a1bfe265fbc2db4be15191ced37ecd6519506dc02341d7f6652a0ee2c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Instrument Of Truth: How Volatility Reveals Market Reality",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=784d753d8b56db8136cafd45d7be59883461a486ad876ccbdd732c1b21237924",
+          "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
         "Yahoo": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Strike ends",
-      "headline": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=415abf44dc4a47333b87ea6ae2f3a8deb1ebb022422ec4a418617566f95f26f0",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=415abf44dc4a47333b87ea6ae2f3a8deb1ebb022422ec4a418617566f95f26f0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c3b3e474ad5c6247d385c0e99bc647cc12745d3382f82defc8ff1b2e76262f6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For \u2018Larger Fall\u2019 \u2014 Here\u2019s What He Did To NVDA, PLTR And TSLA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65330279aa584ddf1e94bf6d68f335b212b9fe35d33379aa257ce70ca1015094",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Uber Stock Looks Cheap. Here\u2019s Why.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7e2aa9c450226c06bc3cb9d36cc876bc27e09d067f21cecf7479cfb022f7ac2",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
-      }
-    },
-    {
-      "ticker": "XLE",
-      "company": "",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Oil rises",
-      "headline": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
-      "on_watchlist": false,
-      "articles": [
-        {
-          "headline": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Reuters": 2
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
-      "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Vanguard Is Bullish on Developed Markets Outside the U.S. -- But How Can You Buy Them? These 2 ETFs Can Help.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b47ae780278b9865b9cf221b77863681025d942a3cd960e14a5283c54a98f12",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett's Successor, Greg Abel, Is About to Drop a Bombshell on Wall Street Later Today, Aug. 14",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da0951df84bac239cccc1429cb7924b53dbc3371926b9e44b51ccfa8cc288218",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Stock Climbs Back Above Its $135 IPO Price -- Here's Where It Could Trade by August 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2024faaade906e4b5bf1c180a043798e0bf30694114bec81e07f6fc087511673",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Here's the 1 Thing Every Dividend Investor Should Know About Building Passive Income That Lasts a Lifetime",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b234c936c7ac17f5ab375633ea572727b08d3c81911ea228cd6faead26abccff",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 5
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
-      "headline": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42475d1b50ab94aa52a77b1dbedb5b2560c6348d07e58910b2085e6af9c98605",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42475d1b50ab94aa52a77b1dbedb5b2560c6348d07e58910b2085e6af9c98605",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=75ea1ce65404d729b4d990e6a96dfdd70b5772dca6d5ebe2fdbb9775581ad12e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Pershing Square Q2 Earnings Call Highlights",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e532bbbf86c65b345df3a222aead0b3329808b01a2e23fe82792e72a9b2f7f40",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ae65ea3fe426b1c62b7073d35dcead9146d50261ecaf7e18d41f245de7d008e",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4
+        "SeekingAlpha": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
-      "headline": "The Best \"Magnificent Seven\" Stocks to Buy in August",
+      "direction": "down",
+      "confidence": 40,
+      "reason": "iPhone battle",
+      "headline": "Apple\u2019s next iPhone battle just got more complicated",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
+      "url": "https://finnhub.io/api/news?id=95fe7aef1fb6fbcf3d9a5e828d0fccf54d2632551988d90ad4940d90d29485ee",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a9c46644e09772e1017bc7a5712d8bb34100b45c56d70816faaee72ccc1458dd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
-          "used_by_ai": true
-        },
         {
           "headline": "Apple\u2019s next iPhone battle just got more complicated",
           "source": "Yahoo",
@@ -249,10 +159,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "The Best \"Magnificent Seven\" Stocks to Buy in August",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a9c46644e09772e1017bc7a5712d8bb34100b45c56d70816faaee72ccc1458dd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
+          "used_by_ai": false
+        },
+        {
           "headline": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3781cb7939b0d43f1026127ec1a502c95d00b6f3cd1a141d0bba04ac37a9774f",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -263,9 +191,9 @@
     {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Mentioned in articles",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Stock performance",
       "headline": "AMD: Why I'm Not Worried About The Multiple",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b981cae9d4f22fc24420e444f847eb7f24dead932cac5e7103ae6d1ec524626a",
@@ -282,28 +210,96 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=edbc6bed264444bd15faaefbada42f94e932ac360a68111ca57496badfecdb27",
           "used_by_ai": true
-        },
-        {
-          "headline": "Cerebras Stock PlummetsDespite Solid Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fbd08e0f5707c5f6fc48922ab561f722ee1c8aa3e8940f9f3ad9ca83a8c9ab5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ade1a93d5b44a0c93c9e1b2ab6f8519431cbe1ea3208da6b583482a0c2f0086c",
-          "used_by_ai": true
-        },
-        {
-          "headline": "AMD Investors Face a New Twist",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ce884100f62852bf9d01e7803d4a989e53a588dc4d5e7bd8cc821af992415e2",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
+        "Yahoo": 1
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "AI investment",
+      "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Vanguard Is Bullish on Developed Markets Outside the U.S. -- But How Can You Buy Them? These 2 ETFs Can Help.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4b47ae780278b9865b9cf221b77863681025d942a3cd960e14a5283c54a98f12",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Warren Buffett's Successor, Greg Abel, Is About to Drop a Bombshell on Wall Street Later Today, Aug. 14",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da0951df84bac239cccc1429cb7924b53dbc3371926b9e44b51ccfa8cc288218",
+          "used_by_ai": false
+        },
+        {
+          "headline": "SpaceX Stock Climbs Back Above Its $135 IPO Price -- Here's Where It Could Trade by August 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2024faaade906e4b5bf1c180a043798e0bf30694114bec81e07f6fc087511673",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Here's the 1 Thing Every Dividend Investor Should Know About Building Passive Income That Lasts a Lifetime",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b234c936c7ac17f5ab375633ea572727b08d3c81911ea228cd6faead26abccff",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 5
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Business value",
+      "headline": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42475d1b50ab94aa52a77b1dbedb5b2560c6348d07e58910b2085e6af9c98605",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=42475d1b50ab94aa52a77b1dbedb5b2560c6348d07e58910b2085e6af9c98605",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=75ea1ce65404d729b4d990e6a96dfdd70b5772dca6d5ebe2fdbb9775581ad12e",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Pershing Square Q2 Earnings Call Highlights",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e532bbbf86c65b345df3a222aead0b3329808b01a2e23fe82792e72a9b2f7f40",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ae65ea3fe426b1c62b7073d35dcead9146d50261ecaf7e18d41f245de7d008e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
         "Yahoo": 4
       }
     }
