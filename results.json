@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:51:21Z",
+  "updated_at": "2026-08-14T16:51:43Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,20 +8,113 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 60,
+      "reason": "Inflation concerns",
+      "headline": "Getting Inflation Down To 2% Just Got Harder",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc402a52dda28fafd1bde89b21d6bc5854da877358f0f18d5048261560b3b4b8",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Getting Inflation Down To 2% Just Got Harder",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bc402a52dda28fafd1bde89b21d6bc5854da877358f0f18d5048261560b3b4b8",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Calm Economic News Continues To Soothe The Markets",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d2f2d6b35c54e9ad9351e30a2dadefdc9c937724f679a51be5cbb83b2bf9e8bc",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b30c423adc3bad5c8444b8a4f9828866e478b28cdbcea1841cb1e3b317001dd5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "'Bessent Asked to Justify Yen Intervention in Letter from Warren' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=490eaf224de67d63c0eb3c05eefda5dad65ddbe4ef2b77a66c626c6d14153475",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 55,
+      "reason": "New product unveiling",
+      "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "'Tesla Nears Unveiling of Radical New \u2018Flying\u2019 Roadster' - The Information",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=887d04ce90d54e2f36fbfe6cb0fb42236554672262ed14942065ade35f03481f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Elon Musk\u2019s Tesla Compensation Was 2.5 Million Times the Median Worker\u2019s Pay in 2025, 41 Times the EV Giant's 2025 Net Income: TSLA Stock Up 1.59% (UPDATED)",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=694865d4cff7fb8c40d40f3798271292ef36858cc3bac6f7cf3d2dd438ad58b5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Sen. Rand Paul Visited Fort Knox and Confirmed, 'Yes, the Gold Is There.' He Says the Bigger Lesson Is What It Means in 2026",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=55a8679314e2667f80d54a25670b05f566199966f27c51ac3502ea24af7fb87e",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 4
+      }
+    },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI winners",
-      "headline": "Eventually Free Cash Flow Will Matter Again",
+      "confidence": 50,
+      "reason": "AI ambitions",
+      "headline": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b83b109e22133be521be033fc2ab2141a7bd2818da20b0ade6e17d511df000e5",
+      "url": "https://finnhub.io/api/news?id=f0e252c954dfe4a838b5fc4c04c1ceda5a7fda758e69465a295ee201d6a7dc0f",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f0e252c954dfe4a838b5fc4c04c1ceda5a7fda758e69465a295ee201d6a7dc0f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "SpaceX Closes $60 Billion Cursor Deal: Here's Why This Could Turn Elon Musk's AI Ambitions Into Reality",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e8bac4ce992f5925a7e2113166ab7542d287d443a1def2af6c52e441344a23ab",
+          "used_by_ai": true
+        },
         {
           "headline": "Eventually Free Cash Flow Will Matter Again",
           "source": "SeekingAlpha",
@@ -32,90 +125,73 @@
           "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Vanguard Is Bullish on Developed Markets Outside the U.S. -- But How Can You Buy Them? These 2 ETFs Can Help.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4b47ae780278b9865b9cf221b77863681025d942a3cd960e14a5283c54a98f12",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Warren Buffett's Successor, Greg Abel, Is About to Drop a Bombshell on Wall Street Later Today, Aug. 14",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da0951df84bac239cccc1429cb7924b53dbc3371926b9e44b51ccfa8cc288218",
-          "used_by_ai": true
-        },
-        {
-          "headline": "SpaceX Stock Climbs Back Above Its $135 IPO Price -- Here's Where It Could Trade by August 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2024faaade906e4b5bf1c180a043798e0bf30694114bec81e07f6fc087511673",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "Yahoo": 4
+        "SeekingAlpha": 2,
+        "Benzinga": 1,
+        "Yahoo": 2
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "SPY",
+      "company": "",
       "direction": "up",
-      "confidence": 55,
-      "reason": "New Roadster",
-      "headline": "Elon Musk\u2019s Tesla Compensation Was 2.5 Million Times the Median Worker\u2019s Pay in 2025, 41 Times the EV Giant's 2025 Net Income: TSLA Stock Up 1.59% (UPDATED)",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=694865d4cff7fb8c40d40f3798271292ef36858cc3bac6f7cf3d2dd438ad58b5",
+      "confidence": 45,
+      "reason": "Calm economic news",
+      "headline": "Calm Economic News Continues To Soothe The Markets",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d2f2d6b35c54e9ad9351e30a2dadefdc9c937724f679a51be5cbb83b2bf9e8bc",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Elon Musk\u2019s Tesla Compensation Was 2.5 Million Times the Median Worker\u2019s Pay in 2025, 41 Times the EV Giant's 2025 Net Income: TSLA Stock Up 1.59% (UPDATED)",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=694865d4cff7fb8c40d40f3798271292ef36858cc3bac6f7cf3d2dd438ad58b5",
+          "headline": "Calm Economic News Continues To Soothe The Markets",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d2f2d6b35c54e9ad9351e30a2dadefdc9c937724f679a51be5cbb83b2bf9e8bc",
           "used_by_ai": true
         },
         {
-          "headline": "'Tesla Nears Unveiling of Radical New \u2018Flying\u2019 Roadster' - The Information",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=887d04ce90d54e2f36fbfe6cb0fb42236554672262ed14942065ade35f03481f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sen. Rand Paul Visited Fort Knox and Confirmed, 'Yes, the Gold Is There.' He Says the Bigger Lesson Is What It Means in 2026",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=55a8679314e2667f80d54a25670b05f566199966f27c51ac3502ea24af7fb87e",
+          "headline": "Getting Inflation Down To 2% Just Got Harder",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bc402a52dda28fafd1bde89b21d6bc5854da877358f0f18d5048261560b3b4b8",
           "used_by_ai": false
         },
         {
-          "headline": "Could Trump Cut Capital Gains Tax?",
+          "headline": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=abb8a321bd1f34f8019fc708a796770b7e9d379e2e6b345e422749ef966e511a",
+          "url": "https://finnhub.io/api/news?id=b30c423adc3bad5c8444b8a4f9828866e478b28cdbcea1841cb1e3b317001dd5",
+          "used_by_ai": false
+        },
+        {
+          "headline": "'Bessent Asked to Justify Yen Intervention in Letter from Warren' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=490eaf224de67d63c0eb3c05eefda5dad65ddbe4ef2b77a66c626c6d14153475",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 3,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 3,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI answer",
-      "headline": "What's Going On With AMD Stock Friday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c58a82b4f36a8a77717f9d1a50b457fb45f8130659c86f85c2766919a8101502",
+      "confidence": 40,
+      "reason": "AI prospects",
+      "headline": "Microsoft: The $678 Billion Answer To The AI Skeptics",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0de4ce97b3a14e2181843abcfd980128c26fad223498122ddf85bb0ae67eb132",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "What's Going On With AMD Stock Friday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c58a82b4f36a8a77717f9d1a50b457fb45f8130659c86f85c2766919a8101502",
-          "used_by_ai": true
-        },
         {
           "headline": "Microsoft: The $678 Billion Answer To The AI Skeptics",
           "source": "SeekingAlpha",
@@ -129,24 +205,30 @@
           "used_by_ai": true
         },
         {
-          "headline": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=75ea1ce65404d729b4d990e6a96dfdd70b5772dca6d5ebe2fdbb9775581ad12e",
-          "used_by_ai": true
+          "headline": "What's Going On With AMD Stock Friday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c58a82b4f36a8a77717f9d1a50b457fb45f8130659c86f85c2766919a8101502",
+          "used_by_ai": false
+        },
+        {
+          "headline": "NVIDIA Says \u2018Free AI\u2019 Is Great For Chips \u2014 Jensen Huang\u2019s Open-Source Bet Could Fuel GPU Demand",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e002d2d33aa6212b3b88f78273833c4d505199b8fc15c6fb78529cc6df53293b",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1,
         "SeekingAlpha": 1,
-        "Yahoo": 2
+        "Yahoo": 1,
+        "Benzinga": 2
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 45,
-      "reason": "Best stocks",
+      "confidence": 35,
+      "reason": "Stock recommendation",
       "headline": "The Best \"Magnificent Seven\" Stocks to Buy in August",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
@@ -162,13 +244,13 @@
           "headline": "AI Killing Software? Analyst Says \u2018I Don\u2019t See a Software Apocalypse\u2019",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=73fdf8f40e95b99deb14f2966abb42e7046011fee2fa2d2a00d82c1b91124ee1",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=a9c46644e09772e1017bc7a5712d8bb34100b45c56d70816faaee72ccc1458dd",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -178,53 +260,11 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Market news",
-      "headline": "Calm Economic News Continues To Soothe The Markets",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d2f2d6b35c54e9ad9351e30a2dadefdc9c937724f679a51be5cbb83b2bf9e8bc",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Calm Economic News Continues To Soothe The Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d2f2d6b35c54e9ad9351e30a2dadefdc9c937724f679a51be5cbb83b2bf9e8bc",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b30c423adc3bad5c8444b8a4f9828866e478b28cdbcea1841cb1e3b317001dd5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "'Bessent Asked to Justify Yen Intervention in Letter from Warren' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=490eaf224de67d63c0eb3c05eefda5dad65ddbe4ef2b77a66c626c6d14153475",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Breadth Broadens Further as IWM Joins the Breakout",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=06ef3fa7d26f3fe5517f9fbe82646f2d6b1e439ae36a318faa0cf6b05d726a2e",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "Benzinga": 1,
-        "ChartMill": 1
-      }
-    },
-    {
       "ticker": "AMD",
       "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Not worried",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Multiple concerns",
       "headline": "AMD: Why I'm Not Worried About The Multiple",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b981cae9d4f22fc24420e444f847eb7f24dead932cac5e7103ae6d1ec524626a",
