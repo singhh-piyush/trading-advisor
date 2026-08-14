@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:52:25Z",
+  "updated_at": "2026-08-14T18:53:05Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,20 +8,26 @@
     "AMD",
     "SPY"
   ],
-  "count": 6,
+  "count": 7,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "NVIDIA",
       "direction": "up",
       "confidence": 80,
-      "reason": "Positive analyst sentiment",
-      "headline": "Which dow jones stocks are moving on Friday?",
+      "reason": "Mentioned in multiple headlines",
+      "headline": "Friday's session: most active stock in the S&P500 index",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9aa0c7405fb35fba6c170c4b0e6fb0522d03435cb57c024ebca3a1d82648d3f9",
+      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": true
+        },
         {
           "headline": "Which dow jones stocks are moving on Friday?",
           "source": "ChartMill",
@@ -29,34 +35,28 @@
           "used_by_ai": true
         },
         {
+          "headline": "Why Is Everyone Building Compute?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=77e05a309ee61562a9d28594361c0174ebd009902b7773f832693a2d7006cdc6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Why Is Nebius Stock Surging Friday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=388fd318adfa9b157654ce13028598642c325b774792c3c6804c03d1c86b977a",
+          "used_by_ai": true
+        },
+        {
           "headline": "The AI Compute Squeeze",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=2be9b05e9e6f9365ae9ae300f7f09a575a0dfc315f23b7ebed8d8b7fdf39d547",
           "used_by_ai": true
-        },
-        {
-          "headline": "Nebius: A Strong Quarter But Still Overvalued",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=15d209aff7f0f100ffbf5f4f8346d89ea04ebe1907ba59df046f7a2d9844d57a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Trade Tracker: Bill Baruch buys more Nvidia",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=f697f373812040888471f87c5de5deefc8fc797acd5982d85cf3abefff69be21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f0e252c954dfe4a838b5fc4c04c1ceda5a7fda758e69465a295ee201d6a7dc0f",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "SeekingAlpha": 3,
-        "CNBC": 1
+        "ChartMill": 2,
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     },
     {
@@ -64,12 +64,18 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 70,
-      "reason": "Innovation and product development",
-      "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
+      "reason": "Positive news and updates",
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
+      "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
+          "used_by_ai": true
+        },
         {
           "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
           "source": "Benzinga",
@@ -81,22 +87,10 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=694865d4cff7fb8c40d40f3798271292ef36858cc3bac6f7cf3d2dd438ad58b5",
           "used_by_ai": true
-        },
-        {
-          "headline": "'Tesla Nears Unveiling of Radical New \u2018Flying\u2019 Roadster' - The Information",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=887d04ce90d54e2f36fbfe6cb0fb42236554672262ed14942065ade35f03481f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Sen. Rand Paul Visited Fort Knox and Confirmed, 'Yes, the Gold Is There.' He Says the Bigger Lesson Is What It Means in 2026",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=55a8679314e2667f80d54a25670b05f566199966f27c51ac3502ea24af7fb87e",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 4
+        "Benzinga": 3
       }
     },
     {
@@ -104,7 +98,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Positive analyst sentiment",
+      "reason": "Mentioned in multiple headlines",
       "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=da6443ff5ba21116375d4e51d8835f2bbdc74c0b20357273716ae91713afea7f",
@@ -123,15 +117,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "AMD: Why I'm Not Worried About The Multiple",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b981cae9d4f22fc24420e444f847eb7f24dead932cac5e7103ae6d1ec524626a",
+          "headline": "What's Going On With AMD Stock Friday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=c58a82b4f36a8a77717f9d1a50b457fb45f8130659c86f85c2766919a8101502",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "ChartMill": 1,
-        "SeekingAlpha": 2
+        "SeekingAlpha": 1,
+        "Benzinga": 1
       }
     },
     {
@@ -139,7 +134,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 60,
-      "reason": "New manufacturing facility",
+      "reason": "Positive news and updates",
       "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
@@ -170,23 +165,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "Israeli settlers divert Palestinian water to fill West Bank pool - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXVEdENUNENwYzlmYS1QQkxJeGlxVUt6Vkp4Zm80UklLMHBWRzNzWENDcUFhdkxkcUtMc2lmdzY1NElLSXFuT2wtWG5RNC1ybkk4V3RDMlJqQ3JDM1M0em5VanBHUHBTRTNJMjZ5TU00Z0MwT2t4bFVIMmJTMnpJdmg0czV4cDZDTWUxbHN6N2xadDhOd0hmYmpob1BTc2R4Y0l6V2I3WEpxTGxVNGpPWXpvc1otZk1l?oc=5",
-          "used_by_ai": true
-        },
-        {
           "headline": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=a9c46644e09772e1017bc7a5712d8bb34100b45c56d70816faaee72ccc1458dd",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Benzinga": 2,
         "Yahoo": 1,
         "CNBC": 1,
-        "Reuters": 1,
         "SeekingAlpha": 1
       }
     },
@@ -195,40 +183,53 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "OpenAI revenue growth",
-      "headline": "OpenAI Annualized Revenue Tops $40 Billion Ahead of $1 Trillion IPO Push",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=bbc1623021e12ae4e333456cd06ebbc3c56ac04b314facb491f580c30b75b14e",
+      "reason": "Mentioned in multiple headlines",
+      "headline": "Nebius: A Strong Quarter But Still Overvalued",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15d209aff7f0f100ffbf5f4f8346d89ea04ebe1907ba59df046f7a2d9844d57a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Nebius: A Strong Quarter But Still Overvalued",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=15d209aff7f0f100ffbf5f4f8346d89ea04ebe1907ba59df046f7a2d9844d57a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f0e252c954dfe4a838b5fc4c04c1ceda5a7fda758e69465a295ee201d6a7dc0f",
+          "used_by_ai": true
+        },
         {
           "headline": "OpenAI Annualized Revenue Tops $40 Billion Ahead of $1 Trillion IPO Push",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=bbc1623021e12ae4e333456cd06ebbc3c56ac04b314facb491f580c30b75b14e",
           "used_by_ai": true
-        },
-        {
-          "headline": "What's Going On With AMD Stock Friday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c58a82b4f36a8a77717f9d1a50b457fb45f8130659c86f85c2766919a8101502",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Benzinga": 2
+        "SeekingAlpha": 2,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "down",
       "confidence": 40,
-      "reason": "Mixed market news",
-      "headline": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
+      "reason": "Inflation and economic concerns",
+      "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=69e6e267645de8d8d4ec1f7e3611aa055de339bd642a12aabc5b68fc80a56982",
+      "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
+          "used_by_ai": true
+        },
         {
           "headline": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
           "source": "SeekingAlpha",
@@ -240,23 +241,44 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=bc402a52dda28fafd1bde89b21d6bc5854da877358f0f18d5048261560b3b4b8",
           "used_by_ai": true
-        },
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3
+      }
+    },
+    {
+      "ticker": "XLE",
+      "company": "",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Oil price increase",
+      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "on_watchlist": false,
+      "articles": [
         {
-          "headline": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
+          "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
           "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
           "used_by_ai": true
         },
         {
-          "headline": "Calm Economic News Continues To Soothe The Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d2f2d6b35c54e9ad9351e30a2dadefdc9c937724f679a51be5cbb83b2bf9e8bc",
+          "headline": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Reuters": 1
+        "Reuters": 3
       }
     }
   ]
