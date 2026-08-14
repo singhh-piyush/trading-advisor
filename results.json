@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T20:30:11Z",
+  "updated_at": "2026-08-14T20:58:42Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -13,7 +13,7 @@
   "items": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
       "reason": "Mentioned in multiple headlines",
@@ -208,14 +208,20 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Inflation and oil price concerns",
-      "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Market news",
+      "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
+      "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
+          "used_by_ai": true
+        },
         {
           "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
           "source": "SeekingAlpha",
@@ -242,7 +248,7 @@
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3,
+        "SeekingAlpha": 4,
         "Benzinga": 1
       }
     }
