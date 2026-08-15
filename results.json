@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T13:54:17Z",
+  "updated_at": "2026-08-15T14:21:12Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 10,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "Apple",
       "direction": "down",
       "confidence": 60,
-      "reason": "US presses to avoid Chinese chips",
+      "reason": "US presses Apple",
       "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
@@ -59,16 +59,70 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "AI bubble",
+      "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Third Point Dissolves Share Stake In NVIDIA",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 1,
+        "ChartMill": 1,
+        "Benzinga": 2
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Bill Ackman raises bets",
-      "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a",
+      "confidence": 50,
+      "reason": "Bill Ackman raises bet",
+      "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
+          "used_by_ai": true
+        },
         {
           "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
           "source": "Benzinga",
@@ -76,69 +130,15 @@
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
-          "used_by_ai": false
-        },
-        {
           "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 16",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=aca754d054c2cc29e122e29d60fc10d0d806a9a9424655c9d9e085ef4de25d34",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Stake in SpaceX valued high",
-      "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
           "used_by_ai": true
-        },
-        {
-          "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Third Point Dissolves Share Stake In NVIDIA",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 2,
-        "SeekingAlpha": 1,
-        "ChartMill": 1
+        "SeekingAlpha": 3,
+        "Benzinga": 1
       }
     },
     {
@@ -146,7 +146,7 @@
       "company": "Apple",
       "direction": "up",
       "confidence": 40,
-      "reason": "Tax court voids digital ad tax",
+      "reason": "Tax court voids",
       "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
@@ -189,94 +189,92 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
       "confidence": 40,
-      "reason": "AI CapEx is a good problem",
-      "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
+      "reason": "Compute demand",
+      "headline": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 16",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=aca754d054c2cc29e122e29d60fc10d0d806a9a9424655c9d9e085ef4de25d34",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 3,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "AI bubble naysayers",
-      "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
+          "headline": "Top S&P500 movers in Friday's session",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+          "used_by_ai": true
         },
         {
-          "headline": "Third Point Dissolves Share Stake In NVIDIA",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-          "used_by_ai": false
+          "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=da6443ff5ba21116375d4e51d8835f2bbdc74c0b20357273716ae91713afea7f",
+          "used_by_ai": true
         },
         {
-          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
+          "headline": "Why Is Everyone Building Compute?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=77e05a309ee61562a9d28594361c0174ebd009902b7773f832693a2d7006cdc6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Eventually Free Cash Flow Will Matter Again",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b83b109e22133be521be033fc2ab2141a7bd2818da20b0ade6e17d511df000e5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 2,
+        "SeekingAlpha": 2
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "SpaceX demo",
+      "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
+          "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+          "used_by_ai": true
+        },
+        {
+          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
           "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 1,
-        "ChartMill": 1,
-        "Benzinga": 2
+        "Benzinga": 4
       }
     },
     {
       "ticker": "NVDA",
-      "company": "NVIDIA",
+      "company": "Nvidia",
       "direction": "down",
-      "confidence": 40,
-      "reason": "Third Point dissolves stake",
+      "confidence": 30,
+      "reason": "Third Point exits",
       "headline": "Third Point Dissolves Share Stake In NVIDIA",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
@@ -314,97 +312,22 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Preps SpaceX rocket demo",
-      "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
-          "used_by_ai": false
-        },
-        {
-          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 4
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Why everyone is building compute",
-      "headline": "Why Is Everyone Building Compute?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=77e05a309ee61562a9d28594361c0174ebd009902b7773f832693a2d7006cdc6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Why Is Everyone Building Compute?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=77e05a309ee61562a9d28594361c0174ebd009902b7773f832693a2d7006cdc6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Top S&P500 movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=da6443ff5ba21116375d4e51d8835f2bbdc74c0b20357273716ae91713afea7f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Eventually Free Cash Flow Will Matter Again",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b83b109e22133be521be033fc2ab2141a7bd2818da20b0ade6e17d511df000e5",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 2,
-        "ChartMill": 2
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Waiting for Fed print",
-      "headline": "Waiting For The August 18 Fed Print",
+      "confidence": 30,
+      "reason": "Economic pressure",
+      "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
+      "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
+          "used_by_ai": true
+        },
         {
           "headline": "Waiting For The August 18 Fed Print",
           "source": "SeekingAlpha",
@@ -412,22 +335,16 @@
           "used_by_ai": true
         },
         {
-          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
-          "used_by_ai": false
-        },
-        {
           "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "The Treasury Is Caught In Its Own Trap",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=d8e5a33d031a7538b1a89c536a7abf7c1c8d675ad80de6cbb1ded2b251950ac3",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
