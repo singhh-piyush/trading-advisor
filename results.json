@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T04:29:56Z",
+  "updated_at": "2026-08-15T04:59:20Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -63,7 +63,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 70,
-      "reason": "Investor bets",
+      "reason": "Increased stake",
       "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a",
@@ -110,7 +110,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Stock activity",
+      "reason": "Mentioned in S&P500 movers",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -150,13 +150,19 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 50,
       "reason": "Streaming hit",
-      "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
+      "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+      "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
+          "used_by_ai": true
+        },
         {
           "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
           "source": "Benzinga",
@@ -174,12 +180,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=ebbe908cb9f2670aaffa0023f1dfa449fdca27d11ded340240dfa8a2c4836c80",
           "used_by_ai": true
-        },
-        {
-          "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -190,7 +190,7 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Rocket-Powered Roadster",
       "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
@@ -218,7 +218,7 @@
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 50,
+      "confidence": 30,
       "reason": "Higher oil prices",
       "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
