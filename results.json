@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T23:19:38Z",
+  "updated_at": "2026-08-15T23:44:57Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 60,
-      "reason": "Multiple AI mentions",
+      "reason": "Multiple mentions",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
@@ -66,11 +66,45 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Positive news",
+      "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 3
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Chinese chip shortage",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Mixed news",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -114,45 +148,93 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AMD",
+      "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Value and dividend",
-      "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
+      "confidence": 40,
+      "reason": "Positive news",
+      "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
+          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
+          "headline": "Top S&P500 movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
           "used_by_ai": true
         },
         {
-          "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
+          "headline": "Advanced Micro Devices INC Reports Share Stake Of 3.3M Class A Shares In SpaceX",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=6203fe73e95cc8c7c014ea41f033d40a496b8bc1764a243ce2eddd71ed7a50bd",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 3
+        "Benzinga": 2,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "General market news",
+      "headline": "BWET ETF Up More Than1,600% in 2026:  Here's Why It's Beating QQQ and SPY",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=807e5112a03651f0dde42473d4e728c22780cbd44f1f5949291393264e25f3bb",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "BWET ETF Up More Than1,600% in 2026:  Here's Why It's Beating QQQ and SPY",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=807e5112a03651f0dde42473d4e728c22780cbd44f1f5949291393264e25f3bb",
+          "used_by_ai": true
+        },
+        {
+          "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The 1-Minute Market Report, August 15, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ce73862075831bb9109582c2f118856aaf6c0b283d85d12d68227b9ac2efaba9",
+          "used_by_ai": true
+        },
+        {
+          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waiting For The August 18 Fed Print",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 1,
+        "SeekingAlpha": 4
       }
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Software-defined vehicles",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Mixed news",
       "headline": "How the auto industry is trying to make software-defined vehicles last",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
@@ -181,81 +263,6 @@
         "CNBC": 1,
         "Benzinga": 1,
         "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Share stake in SpaceX",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top S&P500 movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices INC Reports Share Stake Of 3.3M Class A Shares In SpaceX",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6203fe73e95cc8c7c014ea41f033d40a496b8bc1764a243ce2eddd71ed7a50bd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market reports",
-      "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The 1-Minute Market Report, August 15, 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ce73862075831bb9109582c2f118856aaf6c0b283d85d12d68227b9ac2efaba9",
-          "used_by_ai": true
-        },
-        {
-          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Waiting For The August 18 Fed Print",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 5
       }
     }
   ]
