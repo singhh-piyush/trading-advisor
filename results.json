@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:21:24Z",
+  "updated_at": "2026-08-15T20:47:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -47,12 +47,6 @@
           "used_by_ai": true
         },
         {
-          "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-          "used_by_ai": true
-        },
-        {
           "headline": "Prediction: Costco Will Beat the S&P 500 Again",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5836561ad23d365fdfd3990d87b56f3486d6db6bb60ea443ee9a24d42e8c78de",
@@ -60,8 +54,7 @@
         }
       ],
       "source_breakdown": {
-        "Yahoo": 5,
-        "CNBC": 1
+        "Yahoo": 5
       }
     },
     {
@@ -69,7 +62,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Positive mentions",
+      "reason": "Positive outlook",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
@@ -103,7 +96,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Positive mentions",
+      "reason": "Positive news",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -132,7 +125,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentions with no clear direction",
+      "reason": "Mixed news",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -166,7 +159,7 @@
           "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -180,7 +173,7 @@
       "company": "Tesla",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentions with no clear direction",
+      "reason": "Mixed news",
       "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=fff8ac7b9ee53c4c3cad2ce1fc1f966d452eb115bf9aabcf090e4ee6b7a7b36d",
@@ -222,7 +215,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Broad market mentions",
+      "reason": "Market news",
       "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a",
