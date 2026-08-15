@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T08:56:35Z",
+  "updated_at": "2026-08-15T09:28:22Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -12,63 +12,22 @@
   "sample": false,
   "items": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "direction": "up",
-      "confidence": 80,
-      "reason": "Stake in SpaceX",
-      "headline": "Third Point Dissolves Share Stake In NVIDIA",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Third Point Dissolves Share Stake In NVIDIA",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Nvidia Corp Reports Share Stake Of 122.8 Mln Class A Shares In SpaceX",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e14c243e21c7f1dd0a013261af9680857ac56b8ef00f4044d68db75916906e50",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Which dow jones stocks are moving on Friday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=9aa0c7405fb35fba6c170c4b0e6fb0522d03435cb57c024ebca3a1d82648d3f9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 3,
-        "ChartMill": 2
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Increased stake",
-      "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a",
+      "confidence": 80,
+      "reason": "AI investment",
+      "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
+          "used_by_ai": true
+        },
         {
           "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
           "source": "Benzinga",
@@ -92,25 +51,152 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=a9f68f7b8f703d3bf3ecefa5386c71d677e156a9ee632cc8be9d65847afabf37",
           "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 2,
+        "Benzinga": 3
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "SpaceX stake",
+      "headline": "Friday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": true
         },
         {
-          "headline": "Coatue Management Raises Share Stake In Microsoft By 18.4% To 2.9M Shares",
+          "headline": "Third Point Dissolves Share Stake In NVIDIA",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5b8c14d4d60175375d3e23b1d247ae1acbe9a3f4a7dafb0fe6f398184f405ba6",
+          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Nvidia Corp Reports Share Stake Of 122.8 Mln Class A Shares In SpaceX",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e14c243e21c7f1dd0a013261af9680857ac56b8ef00f4044d68db75916906e50",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Friday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=9aa0c7405fb35fba6c170c4b0e6fb0522d03435cb57c024ebca3a1d82648d3f9",
           "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Benzinga": 4,
-        "SeekingAlpha": 1
+        "ChartMill": 2,
+        "Benzinga": 3
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Strong earnings",
+      "headline": "Strong Earnings, Softer Inflation, Happier Markets",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Strong Earnings, Softer Inflation, Happier Markets",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Commentary: Expect Trouble",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ad74f34ef9780b7023a434b2683bf7ab476112c0fb1f189d26e29f530ee3932f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Is The Economy Really Telling Us?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Streaming hit",
+      "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Apple has Biggest Streaming Hit Ever: How \u2018Ted Lasso\u2019 Could Help Company\u2019s Undervalued Segment",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ebbe908cb9f2670aaffa0023f1dfa449fdca27d11ded340240dfa8a2c4836c80",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Mentioned in S&P500",
+      "confidence": 50,
+      "reason": "Whale activity",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -151,7 +237,7 @@
       "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Rocket-Powered Roadster",
+      "reason": "Roadster demo",
       "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
@@ -172,93 +258,6 @@
       ],
       "source_breakdown": {
         "Benzinga": 2
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Economic concerns",
-      "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Commentary: Expect Trouble",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ad74f34ef9780b7023a434b2683bf7ab476112c0fb1f189d26e29f530ee3932f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Is The Economy Really Telling Us?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 5,
-        "Reuters": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in news",
-      "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 3
       }
     }
   ]
