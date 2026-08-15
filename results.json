@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:28:22Z",
+  "updated_at": "2026-08-15T09:51:09Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -106,52 +106,6 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Strong earnings",
-      "headline": "Strong Earnings, Softer Inflation, Happier Markets",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Strong Earnings, Softer Inflation, Happier Markets",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Commentary: Expect Trouble",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ad74f34ef9780b7023a434b2683bf7ab476112c0fb1f189d26e29f530ee3932f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "What Is The Economy Really Telling Us?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 5
-      }
-    },
-    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
@@ -196,7 +150,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Whale activity",
+      "reason": "Compute demand",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -236,8 +190,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Roadster demo",
+      "confidence": 40,
+      "reason": "Innovation",
       "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
@@ -258,6 +212,59 @@
       ],
       "source_breakdown": {
         "Benzinga": 2
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 30,
+      "reason": "Market trends",
+      "headline": "Strong Earnings, Softer Inflation, Happier Markets",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Strong Earnings, Softer Inflation, Happier Markets",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Commentary: Expect Trouble",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ad74f34ef9780b7023a434b2683bf7ab476112c0fb1f189d26e29f530ee3932f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Is The Economy Really Telling Us?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 5,
+        "Reuters": 1
       }
     }
   ]
