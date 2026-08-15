@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T11:19:34Z",
+  "updated_at": "2026-08-15T11:45:10Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI CapEx",
+      "reason": "AI investment",
       "headline": "Microsoft: AI CapEx Is A Good Problem To Buy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
@@ -150,7 +150,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 50,
-      "reason": "Compute demand",
+      "reason": "Market activity",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -219,12 +219,18 @@
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Market commentary",
-      "headline": "Strong Earnings, Softer Inflation, Happier Markets",
+      "reason": "Market news",
+      "headline": "The One Chart Investors Can't Ignore As America's Debt Approaches $50 Trillion",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f5f62872959ed471442315cbe00b2a6dc6e9a8142036b831c44fa871a02e09ab",
+      "url": "https://finnhub.io/api/news?id=5e864e566844cba3f7654233e625788dc1f43c8c4f44951bdc678f5d94398fcb",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "The One Chart Investors Can't Ignore As America's Debt Approaches $50 Trillion",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5e864e566844cba3f7654233e625788dc1f43c8c4f44951bdc678f5d94398fcb",
+          "used_by_ai": true
+        },
         {
           "headline": "Strong Earnings, Softer Inflation, Happier Markets",
           "source": "SeekingAlpha",
@@ -250,9 +256,9 @@
           "used_by_ai": true
         },
         {
-          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
+          "headline": "European shares snap 4-week rally as higher oil prices temper strong earnings - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5",
           "used_by_ai": true
         },
         {
@@ -264,7 +270,7 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 5,
-        "Reuters": 1
+        "Reuters": 2
       }
     }
   ]
