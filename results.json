@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:19:25Z",
+  "updated_at": "2026-08-15T17:45:56Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,51 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 9,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "direction": "down",
-      "confidence": 80,
-      "reason": "Downsizes plans",
-      "headline": "'Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center' - WSJ Exclusive",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2e4ded91a95fa6eac7a865682f08a697cc4e7697b87d517e847c997799f0fcb3",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "'Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center' - WSJ Exclusive",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=2e4ded91a95fa6eac7a865682f08a697cc4e7697b87d517e847c997799f0fcb3",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 1,
-        "SeekingAlpha": 1,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "AI trade",
+      "confidence": 80,
+      "reason": "AI trade growth",
       "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
@@ -65,37 +29,37 @@
           "used_by_ai": true
         },
         {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": true
-        },
-        {
           "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "'Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center' - WSJ Exclusive",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=2e4ded91a95fa6eac7a865682f08a697cc4e7697b87d517e847c997799f0fcb3",
-          "used_by_ai": false
+          "used_by_ai": true
+        },
+        {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "CNBC": 1,
-        "ChartMill": 1,
         "SeekingAlpha": 1,
-        "Benzinga": 1
+        "Benzinga": 1,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Buy for value",
+      "confidence": 70,
+      "reason": "AI investment",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
@@ -128,124 +92,8 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "down",
-      "confidence": 50,
-      "reason": "US presses",
-      "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d808f61f281a9695cb8ad1d5621bbcc23457d5100ce2958ab8e1f167046dd21",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 3,
-        "Benzinga": 1,
-        "SeekingAlpha": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Stake increased",
-      "headline": "Soros Fund Management Raises Share Stake In Tesla Inc By 63.6% To 86,846 Shares",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=19ae700828509f75d208851f7c20cc65b118f0edf461e0536697ea35a688238a",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Soros Fund Management Raises Share Stake In Tesla Inc By 63.6% To 86,846 Shares",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=19ae700828509f75d208851f7c20cc65b118f0edf461e0536697ea35a688238a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Viking Global Investors Cuts Share Stake In Tesla Inc By 78.0% To 547,816 Shares",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=df4e58c34e81857b447c69913475e4192625d20ebaa885b8afc6ef0b700c6c52",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 3
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "Stake decreased",
-      "headline": "Viking Global Investors Cuts Share Stake In Tesla Inc By 78.0% To 547,816 Shares",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=df4e58c34e81857b447c69913475e4192625d20ebaa885b8afc6ef0b700c6c52",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Viking Global Investors Cuts Share Stake In Tesla Inc By 78.0% To 547,816 Shares",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=df4e58c34e81857b447c69913475e4192625d20ebaa885b8afc6ef0b700c6c52",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Soros Fund Management Raises Share Stake In Tesla Inc By 63.6% To 86,846 Shares",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=19ae700828509f75d208851f7c20cc65b118f0edf461e0536697ea35a688238a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 3
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned",
+      "confidence": 60,
+      "reason": "Chinese memory chip shortage",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -292,19 +140,13 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Mentioned",
-      "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+      "confidence": 60,
+      "reason": "Stock movement",
+      "headline": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
-          "used_by_ai": true
-        },
         {
           "headline": "Top S&P500 movers in Friday's session",
           "source": "ChartMill",
@@ -319,7 +161,6 @@
         }
       ],
       "source_breakdown": {
-        "Benzinga": 1,
         "ChartMill": 2
       }
     },
@@ -327,8 +168,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned",
+      "confidence": 50,
+      "reason": "Market trends",
       "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a",
@@ -367,6 +208,41 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "Autonomy comparison",
+      "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=fff8ac7b9ee53c4c3cad2ce1fc1f966d452eb115bf9aabcf090e4ee6b7a7b36d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=fff8ac7b9ee53c4c3cad2ce1fc1f966d452eb115bf9aabcf090e4ee6b7a7b36d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How the auto industry is trying to make software-defined vehicles last",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "CNBC": 2,
+        "Benzinga": 1
       }
     }
   ]
