@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:20:05Z",
+  "updated_at": "2026-08-15T22:47:20Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,15 +8,15 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 6,
   "sample": false,
   "items": [
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 80,
-      "reason": "Multiple AI-related headlines",
+      "confidence": 60,
+      "reason": "Multiple mentions",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
@@ -51,74 +51,19 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1f6c4844d5b6e0325b18f6876b0a0412413ba9e9bbe4c198e96a2d293f2d36a",
           "used_by_ai": true
-        },
-        {
-          "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "Benzinga": 1,
-        "CNBC": 1
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "US presses Apple to avoid Chinese memory chips",
-      "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the \u2018Elon Premium,\u2019 But Remains Skeptical of Musk\u2019s Timelines: \u2018I Don\u2019t Trust\u2026\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "Benzinga": 2,
-        "SeekingAlpha": 1
+        "Benzinga": 1
       }
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Positive investment news",
+      "confidence": 50,
+      "reason": "Positive mentions",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
@@ -149,15 +94,21 @@
     },
     {
       "ticker": "AMD",
-      "company": "AMD",
+      "company": "Advanced Micro Devices",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Positive investment news",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+      "confidence": 50,
+      "reason": "Positive mentions",
+      "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+          "used_by_ai": true
+        },
         {
           "headline": "Top S&P500 movers in Friday's session",
           "source": "ChartMill",
@@ -172,8 +123,8 @@
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 1
+        "Benzinga": 2,
+        "ChartMill": 1
       }
     },
     {
@@ -181,7 +132,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in various news",
+      "reason": "Mentions with no clear direction",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -206,16 +157,16 @@
           "used_by_ai": true
         },
         {
+          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
+          "used_by_ai": true
+        },
+        {
           "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
           "used_by_ai": true
-        },
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -229,7 +180,7 @@
       "company": "Tesla",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Mentioned in auto industry news",
+      "reason": "Mentions with no clear direction",
       "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=fff8ac7b9ee53c4c3cad2ce1fc1f966d452eb115bf9aabcf090e4ee6b7a7b36d",
@@ -270,13 +221,19 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in market news",
-      "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a",
+      "confidence": 30,
+      "reason": "Broad market mentions",
+      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+          "used_by_ai": true
+        },
         {
           "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
           "source": "SeekingAlpha",
@@ -309,6 +266,7 @@
         }
       ],
       "source_breakdown": {
+        "CNBC": 1,
         "SeekingAlpha": 5
       }
     }
