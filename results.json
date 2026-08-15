@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:32:27Z",
+  "updated_at": "2026-08-15T06:37:01Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -17,17 +17,11 @@
       "direction": "up",
       "confidence": 80,
       "reason": "Stake in SpaceX",
-      "headline": "Friday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+      "headline": "Third Point Dissolves Share Stake In NVIDIA",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": true
-        },
         {
           "headline": "Third Point Dissolves Share Stake In NVIDIA",
           "source": "Benzinga",
@@ -47,6 +41,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": true
+        },
+        {
           "headline": "Which dow jones stocks are moving on Friday?",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=9aa0c7405fb35fba6c170c4b0e6fb0522d03435cb57c024ebca3a1d82648d3f9",
@@ -54,8 +54,8 @@
         }
       ],
       "source_breakdown": {
-        "ChartMill": 2,
-        "Benzinga": 3
+        "Benzinga": 3,
+        "ChartMill": 2
       }
     },
     {
@@ -147,6 +147,34 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Rocket-Powered Roadster",
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 2
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "up",
@@ -187,38 +215,10 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Rocket-Powered Roadster",
-      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 2
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
       "direction": "down",
-      "confidence": 30,
+      "confidence": 40,
       "reason": "Higher oil prices",
       "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
