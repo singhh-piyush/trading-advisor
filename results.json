@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:54:43Z",
+  "updated_at": "2026-08-15T08:27:48Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -13,21 +13,15 @@
   "items": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "NVIDIA",
       "direction": "up",
       "confidence": 80,
       "reason": "Stake in SpaceX",
-      "headline": "Third Point Dissolves Share Stake In NVIDIA",
+      "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
+      "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Third Point Dissolves Share Stake In NVIDIA",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-          "used_by_ai": true
-        },
         {
           "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
           "source": "Benzinga",
@@ -51,6 +45,12 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=9aa0c7405fb35fba6c170c4b0e6fb0522d03435cb57c024ebca3a1d82648d3f9",
           "used_by_ai": true
+        },
+        {
+          "headline": "Third Point Dissolves Share Stake In NVIDIA",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -62,8 +62,8 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Investor bets",
+      "confidence": 75,
+      "reason": "Increased stake",
       "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a",
@@ -110,7 +110,7 @@
       "company": "AMD",
       "direction": "up",
       "confidence": 60,
-      "reason": "Stock activity",
+      "reason": "Mentioned in S&P500",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -150,8 +150,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "New product demo",
+      "confidence": 55,
+      "reason": "Rocket-Powered Roadster",
       "headline": "10 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e6989a2f9a9692dcb35d880251989b689a91457a03ddef7bb15af9dde36480a7",
@@ -175,11 +175,64 @@
       }
     },
     {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "down",
+      "confidence": 50,
+      "reason": "Economic concerns",
+      "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Precious Metals; Phase 1 Completing, Get Ready For Phase 2",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=592abc2ea5778a7a4e3ad8f7b333f6bffc4cba602c5bc27a7e246aad3b5e3c10",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Commentary: Expect Trouble",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ad74f34ef9780b7023a434b2683bf7ab476112c0fb1f189d26e29f530ee3932f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "What Is The Economy Really Telling Us?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
+          "used_by_ai": true
+        },
+        {
+          "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 5,
+        "Reuters": 1
+      }
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
-      "reason": "Investor sentiment",
+      "reason": "Mentioned in news",
       "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=0b9671379d55fc25ee61a6bd288d9e98541a519d7f347ba6c91d9094b4b47efe",
@@ -206,53 +259,6 @@
       ],
       "source_breakdown": {
         "Benzinga": 3
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Economic uncertainty",
-      "headline": "What Is The Economy Really Telling Us?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "What Is The Economy Really Telling Us?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2801b545550c7b40d48a39879c6ff8d14dd7f79cabd61d625726db661aa0d6dd",
-          "used_by_ai": true
-        },
-        {
-          "headline": "ABN AMRO: At 1.25x Book Value, This Is Still A 'Buy'",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d7e971b544ed6c940caa776b4b75ebf7e6921093ab5cb8f58657f961d3ebc7e0",
-          "used_by_ai": true
-        },
-        {
-          "headline": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=69e6e267645de8d8d4ec1f7e3611aa055de339bd642a12aabc5b68fc80a56982",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Forget Bitcoin, S&P 500: Pok\u00e9mon Cards Are Up 28% In 2026 and Beating Them Both",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=412c098440d83fa04e39e4a75eea3561dffd25e65a443e3401d5730e801f82e9",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 4,
-        "Benzinga": 1
       }
     }
   ]
