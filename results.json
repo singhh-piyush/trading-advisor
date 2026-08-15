@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:48:15Z",
+  "updated_at": "2026-08-15T15:19:19Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "AI trade momentum",
+      "reason": "AI trade fueled",
       "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
@@ -61,58 +61,11 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 70,
-      "reason": "Berkshire Hathaway investment",
-      "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": true
-        },
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d808f61f281a9695cb8ad1d5621bbcc23457d5100ce2958ab8e1f167046dd21",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 70,
-      "reason": "Investor bets and AI",
+      "confidence": 80,
+      "reason": "Berkshire Hathaway buys shares",
       "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
@@ -149,51 +102,58 @@
       }
     },
     {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 60,
-      "reason": "Economic stability",
-      "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "down",
+      "confidence": 70,
+      "reason": "US presses to avoid Chinese chips",
+      "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
+          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
           "used_by_ai": true
         },
         {
-          "headline": "Waiting For The August 18 Fed Print",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
+          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
           "used_by_ai": true
         },
         {
-          "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
+          "headline": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d808f61f281a9695cb8ad1d5621bbcc23457d5100ce2958ab8e1f167046dd21",
           "used_by_ai": true
         },
         {
-          "headline": "The Treasury Is Caught In Its Own Trap",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d8e5a33d031a7538b1a89c536a7abf7c1c8d675ad80de6cbb1ded2b251950ac3",
+          "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
           "used_by_ai": true
+        },
+        {
+          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 4
+        "Yahoo": 4,
+        "SeekingAlpha": 1
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Investor interest",
+      "confidence": 70,
+      "reason": "Compute demand",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -233,8 +193,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Innovation plans",
+      "confidence": 70,
+      "reason": "SpaceX Rocket-Powered Roadster",
       "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
@@ -261,6 +221,46 @@
       ],
       "source_breakdown": {
         "Benzinga": 3
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Economic news",
+      "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Waiting For The August 18 Fed Print",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Treasury Is Caught In Its Own Trap",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d8e5a33d031a7538b1a89c536a7abf7c1c8d675ad80de6cbb1ded2b251950ac3",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4
       }
     }
   ]
