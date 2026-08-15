@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:21:12Z",
+  "updated_at": "2026-08-15T14:48:15Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,67 +8,26 @@
     "AMD",
     "SPY"
   ],
-  "count": 8,
+  "count": 6,
   "sample": false,
   "items": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 60,
-      "reason": "US presses Apple",
-      "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d808f61f281a9695cb8ad1d5621bbcc23457d5100ce2958ab8e1f167046dd21",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
-      }
-    },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 50,
-      "reason": "AI bubble",
-      "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
+      "confidence": 80,
+      "reason": "AI trade momentum",
+      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+          "used_by_ai": true
+        },
         {
           "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
           "source": "SeekingAlpha",
@@ -85,27 +44,75 @@
           "headline": "Third Point Dissolves Share Stake In NVIDIA",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
+        "CNBC": 1,
         "SeekingAlpha": 1,
         "ChartMill": 1,
         "Benzinga": 2
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "up",
+      "confidence": 70,
+      "reason": "Berkshire Hathaway investment",
+      "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d808f61f281a9695cb8ad1d5621bbcc23457d5100ce2958ab8e1f167046dd21",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 4,
+        "SeekingAlpha": 1
+      }
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Bill Ackman raises bet",
+      "confidence": 70,
+      "reason": "Investor bets and AI",
       "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
@@ -142,58 +149,51 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Tax court voids",
-      "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Economic stability",
+      "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3839741230a79603868c90b046294d1666c76d39ef8898adbeb351e89ffdb47",
+          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
           "used_by_ai": true
         },
         {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
+          "headline": "Waiting For The August 18 Fed Print",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
+          "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
+          "used_by_ai": true
         },
         {
-          "headline": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d808f61f281a9695cb8ad1d5621bbcc23457d5100ce2958ab8e1f167046dd21",
-          "used_by_ai": false
+          "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
+          "used_by_ai": true
+        },
+        {
+          "headline": "The Treasury Is Caught In Its Own Trap",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d8e5a33d031a7538b1a89c536a7abf7c1c8d675ad80de6cbb1ded2b251950ac3",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 4,
-        "SeekingAlpha": 1
+        "SeekingAlpha": 4
       }
     },
     {
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 40,
-      "reason": "Compute demand",
+      "confidence": 60,
+      "reason": "Investor interest",
       "headline": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
@@ -233,8 +233,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 40,
-      "reason": "SpaceX demo",
+      "confidence": 50,
+      "reason": "Innovation plans",
       "headline": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here\u2019s How Many Still Do",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
@@ -257,98 +257,10 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=4f4f6c6b1bfef9cabf5a83ed51c1031c5ad0e185e0bf692216a79bb38d1259d1",
           "used_by_ai": true
-        },
-        {
-          "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "Benzinga": 4
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "direction": "down",
-      "confidence": 30,
-      "reason": "Third Point exits",
-      "headline": "Third Point Dissolves Share Stake In NVIDIA",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Third Point Dissolves Share Stake In NVIDIA",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dce3e386af7f6e7b5bf2fb7552f075f0cdad1e39891bdbf56e1697278e093b9f",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ec566f11f5f27f5d68365fd5453f7c2fa5acde4f72d41b7df6ee9d854c5ec7ed",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Benzinga": 2,
-        "SeekingAlpha": 1,
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Economic pressure",
-      "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=85cbb4b6b05e7ff33d34bf72b53354e452751e4d1b8ed64993a563f953dc2bf2",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Waiting For The August 18 Fed Print",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=51f06bae345312adf48c805486c9abc8f40632d48ee47dbadbc848199fd195ab",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
-          "used_by_ai": true
-        },
-        {
-          "headline": "The Treasury Is Caught In Its Own Trap",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d8e5a33d031a7538b1a89c536a7abf7c1c8d675ad80de6cbb1ded2b251950ac3",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 4
+        "Benzinga": 3
       }
     }
   ]
