@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T10:48:30Z",
+  "updated_at": "2026-08-16T11:19:04Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,8 +15,8 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
-      "reason": "Multiple AI mentions",
+      "confidence": 80,
+      "reason": "Multiple mentions",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
@@ -59,64 +59,22 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "down",
-      "confidence": 50,
-      "reason": "US presses Apple",
-      "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the \u2018Elon Premium,\u2019 But Remains Skeptical of Musk\u2019s Timelines: \u2018I Don\u2019t Trust\u2026\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-          "used_by_ai": false
-        },
-        {
-          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "Yahoo": 2,
-        "Benzinga": 2,
-        "SeekingAlpha": 1
-      }
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Positive investment articles",
-      "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
+      "confidence": 70,
+      "reason": "Positive outlook",
+      "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
+      "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
+          "used_by_ai": true
+        },
         {
           "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
           "source": "SeekingAlpha",
@@ -128,12 +86,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5ae2d6d47737763cd4d5c1c58ff1c30b3e5eb60ccbb7d9951f239e2671763cb5",
           "used_by_ai": true
-        },
-        {
-          "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -141,11 +93,81 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "direction": "neutral",
+      "confidence": 60,
+      "reason": "Mixed news",
+      "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the \u2018Elon Premium,\u2019 But Remains Skeptical of Musk\u2019s Timelines: \u2018I Don\u2019t Trust\u2026\u2019",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+          "used_by_ai": true
+        },
+        {
+          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
+          "used_by_ai": true
+        },
+        {
+          "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Yahoo": 2,
+        "Benzinga": 2,
+        "SeekingAlpha": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Positive mention",
+      "headline": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Top S&P500 movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "neutral",
-      "confidence": 40,
-      "reason": "Mentioned in articles",
+      "confidence": 50,
+      "reason": "Mentioned in context",
       "headline": "How the auto industry is trying to make software-defined vehicles last",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
@@ -177,40 +199,11 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Positive investment articles",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top S&P500 movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices INC Reports Share Stake Of 3.3M Class A Shares In SpaceX",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6203fe73e95cc8c7c014ea41f033d40a496b8bc1764a243ce2eddd71ed7a50bd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "up",
-      "confidence": 30,
-      "reason": "Positive market articles",
+      "direction": "neutral",
+      "confidence": 40,
+      "reason": "General market news",
       "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
