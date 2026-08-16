@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T05:27:05Z",
+  "updated_at": "2026-08-16T05:55:13Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -63,7 +63,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 50,
-      "reason": "Positive outlook",
+      "reason": "Positive articles",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
@@ -90,35 +90,6 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 3
-      }
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Positive news",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top S&P500 movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Advanced Micro Devices INC Reports Share Stake Of 3.3M Class A Shares In SpaceX",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6203fe73e95cc8c7c014ea41f033d40a496b8bc1764a243ce2eddd71ed7a50bd",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 1
       }
     },
     {
@@ -160,7 +131,7 @@
           "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -170,11 +141,40 @@
       }
     },
     {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 40,
+      "reason": "Positive news",
+      "headline": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Top S&P500 movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Advanced Micro Devices INC Reports Share Stake Of 3.3M Class A Shares In SpaceX",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=6203fe73e95cc8c7c014ea41f033d40a496b8bc1764a243ce2eddd71ed7a50bd",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "ChartMill": 1,
+        "Benzinga": 1
+      }
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Industry trends",
+      "reason": "Limited news",
       "headline": "How the auto industry is trying to make software-defined vehicles last",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
@@ -209,8 +209,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Market trends",
+      "confidence": 20,
+      "reason": "Broad market news",
       "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
