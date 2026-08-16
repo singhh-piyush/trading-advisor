@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T14:48:49Z",
+  "updated_at": "2026-08-16T15:20:25Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -14,9 +14,9 @@
     {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
+      "direction": "up",
       "confidence": 60,
-      "reason": "Volatility shift expected",
+      "reason": "Major volatility shift",
       "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
@@ -110,7 +110,7 @@
       "company": "",
       "direction": "up",
       "confidence": 50,
-      "reason": "Record highs reached",
+      "reason": "Record highs",
       "headline": "Record Highs: Should You Chase The Rally?",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
@@ -154,7 +154,7 @@
     },
     {
       "ticker": "TSLA",
-      "company": "",
+      "company": "Tesla",
       "direction": "up",
       "confidence": 40,
       "reason": "Autonomous growth",
@@ -173,13 +173,13 @@
           "headline": "How the auto industry is trying to make software-defined vehicles last",
           "source": "CNBC",
           "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -190,7 +190,7 @@
     },
     {
       "ticker": "NVDA",
-      "company": "",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 40,
       "reason": "AI growth",
@@ -228,24 +228,49 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1f6c4844d5b6e0325b18f6876b0a0412413ba9e9bbe4c198e96a2d293f2d36a",
           "used_by_ai": true
+        },
+        {
+          "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
         "Yahoo": 4,
-        "Benzinga": 1
+        "Benzinga": 1,
+        "CNBC": 1
       }
     },
     {
       "ticker": "AAPL",
-      "company": "",
-      "direction": "neutral",
+      "company": "Apple",
+      "direction": "up",
       "confidence": 30,
-      "reason": "Chinese memory chips",
-      "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "reason": "AI model",
+      "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
+      "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
+          "used_by_ai": true
+        },
+        {
+          "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the \u2018Elon Premium,\u2019 But Remains Skeptical of Musk\u2019s Timelines: \u2018I Don\u2019t Trust\u2026\u2019",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+          "used_by_ai": true
+        },
         {
           "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
           "source": "Yahoo",
@@ -253,28 +278,10 @@
           "used_by_ai": true
         },
         {
-          "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
-          "used_by_ai": false
-        },
-        {
-          "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the \u2018Elon Premium,\u2019 But Remains Skeptical of Musk\u2019s Timelines: \u2018I Don\u2019t Trust\u2026\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-          "used_by_ai": false
-        },
-        {
           "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -285,7 +292,7 @@
     },
     {
       "ticker": "MSFT",
-      "company": "",
+      "company": "Microsoft",
       "direction": "up",
       "confidence": 30,
       "reason": "Value and dividend",
