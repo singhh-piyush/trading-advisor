@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:44:55Z",
+  "updated_at": "2026-08-16T18:57:11Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 5,
+  "count": 7,
   "sample": false,
   "items": [
     {
@@ -16,7 +16,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 60,
-      "reason": "Volatility shift",
+      "reason": "Volatility shift expected",
       "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
@@ -32,8 +32,43 @@
           "headline": "Inflation Scare Takes A Breather",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
-          "used_by_ai": true
+          "used_by_ai": false
         },
+        {
+          "headline": "Record Highs: Should You Chase The Rally?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
+          "used_by_ai": false
+        },
+        {
+          "headline": "BWET ETF Up More Than1,600% in 2026:  Here's Why It's Beating QQQ and SPY",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=807e5112a03651f0dde42473d4e728c22780cbd44f1f5949291393264e25f3bb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Record highs",
+      "headline": "Record Highs: Should You Chase The Rally?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
+      "on_watchlist": true,
+      "articles": [
         {
           "headline": "Record Highs: Should You Chase The Rally?",
           "source": "SeekingAlpha",
@@ -41,16 +76,75 @@
           "used_by_ai": true
         },
         {
+          "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Inflation Scare Takes A Breather",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
+          "used_by_ai": false
+        },
+        {
           "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
-          "used_by_ai": true
+          "used_by_ai": false
         },
         {
           "headline": "BWET ETF Up More Than1,600% in 2026:  Here's Why It's Beating QQQ and SPY",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=807e5112a03651f0dde42473d4e728c22780cbd44f1f5949291393264e25f3bb",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 4,
+        "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Inflation scare",
+      "headline": "Inflation Scare Takes A Breather",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Inflation Scare Takes A Breather",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
           "used_by_ai": true
+        },
+        {
+          "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Record Highs: Should You Chase The Rally?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
+          "used_by_ai": false
+        },
+        {
+          "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
+          "used_by_ai": false
+        },
+        {
+          "headline": "BWET ETF Up More Than1,600% in 2026:  Here's Why It's Beating QQQ and SPY",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=807e5112a03651f0dde42473d4e728c22780cbd44f1f5949291393264e25f3bb",
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -62,7 +156,7 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "Autonomous growth",
       "headline": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy",
       "source": "SeekingAlpha",
@@ -76,6 +170,12 @@
           "used_by_ai": true
         },
         {
+          "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=fff8ac7b9ee53c4c3cad2ce1fc1f966d452eb115bf9aabcf090e4ee6b7a7b36d",
+          "used_by_ai": true
+        },
+        {
           "headline": "How the auto industry is trying to make software-defined vehicles last",
           "source": "CNBC",
           "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
@@ -84,14 +184,14 @@
       ],
       "source_breakdown": {
         "SeekingAlpha": 1,
-        "CNBC": 1
+        "CNBC": 2
       }
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 40,
       "reason": "AI growth",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
@@ -145,7 +245,7 @@
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 30,
       "reason": "Chinese memory chips",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
@@ -192,9 +292,9 @@
     {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "direction": "up",
-      "confidence": 40,
-      "reason": "Value and dividend",
+      "direction": "neutral",
+      "confidence": 20,
+      "reason": "Earnings",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
@@ -205,16 +305,10 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
           "used_by_ai": true
-        },
-        {
-          "headline": "Microsoft: Buy For The Value, Enjoy A Dividend Snack",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf26e73e1a49aaedededcf08c2e4ba5afd29f6e2a8cdcdca768317cc50f38a24",
-          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 2
+        "SeekingAlpha": 1
       }
     }
   ]
