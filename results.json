@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:19:04Z",
+  "updated_at": "2026-08-16T11:44:35Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "Nvidia",
       "direction": "up",
       "confidence": 80,
-      "reason": "Multiple mentions",
+      "reason": "Multiple AI-related articles",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
@@ -63,7 +63,7 @@
       "company": "Microsoft",
       "direction": "up",
       "confidence": 70,
-      "reason": "Positive outlook",
+      "reason": "Positive articles on value and dividend",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
@@ -97,7 +97,7 @@
       "company": "Apple",
       "direction": "neutral",
       "confidence": 60,
-      "reason": "Mixed news",
+      "reason": "Mixed news on AI and chip supply",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -131,7 +131,7 @@
           "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": true
+          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -141,69 +141,11 @@
       }
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
-      "direction": "up",
-      "confidence": 60,
-      "reason": "Positive mention",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "Top S&P500 movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "ChartMill": 1
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "direction": "neutral",
-      "confidence": 50,
-      "reason": "Mentioned in context",
-      "headline": "How the auto industry is trying to make software-defined vehicles last",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "How the auto industry is trying to make software-defined vehicles last",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
-          "used_by_ai": true
-        },
-        {
-          "headline": "Friday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-          "used_by_ai": true
-        }
-      ],
-      "source_breakdown": {
-        "CNBC": 1,
-        "Benzinga": 1,
-        "ChartMill": 1
-      }
-    },
-    {
       "ticker": "SPY",
       "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "General market news",
+      "direction": "up",
+      "confidence": 60,
+      "reason": "Positive market news and analysis",
       "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
@@ -243,6 +185,71 @@
       "source_breakdown": {
         "SeekingAlpha": 4,
         "Benzinga": 1
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "direction": "neutral",
+      "confidence": 50,
+      "reason": "Mentioned in auto industry and investment articles",
+      "headline": "How the auto industry is trying to make software-defined vehicles last",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "How the auto industry is trying to make software-defined vehicles last",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Friday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "CNBC": 1,
+        "Benzinga": 1,
+        "ChartMill": 1
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "direction": "up",
+      "confidence": 50,
+      "reason": "Mentioned as investment target",
+      "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+          "used_by_ai": true
+        },
+        {
+          "headline": "Top S&P500 movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+          "used_by_ai": true
+        }
+      ],
+      "source_breakdown": {
+        "Benzinga": 1,
+        "ChartMill": 1
       }
     }
   ]
