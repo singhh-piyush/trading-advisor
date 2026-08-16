@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:18:24Z",
+  "updated_at": "2026-08-16T17:44:55Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -16,7 +16,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 60,
-      "reason": "Volatility shift expected",
+      "reason": "Volatility shift",
       "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
@@ -60,10 +60,10 @@
     },
     {
       "ticker": "TSLA",
-      "company": "",
+      "company": "Tesla",
       "direction": "up",
       "confidence": 50,
-      "reason": "Robotaxi growth",
+      "reason": "Autonomous growth",
       "headline": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=39c381aa99b71324087353d3a5efa3591c1f04980b6a21e424e08c758959c44d",
@@ -89,10 +89,10 @@
     },
     {
       "ticker": "NVDA",
-      "company": "",
+      "company": "Nvidia",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI and tech growth",
+      "reason": "AI growth",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
@@ -143,7 +143,7 @@
     },
     {
       "ticker": "AAPL",
-      "company": "",
+      "company": "Apple",
       "direction": "neutral",
       "confidence": 40,
       "reason": "Chinese memory chips",
@@ -191,7 +191,7 @@
     },
     {
       "ticker": "MSFT",
-      "company": "",
+      "company": "Microsoft",
       "direction": "up",
       "confidence": 40,
       "reason": "Value and dividend",
