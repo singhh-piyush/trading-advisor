@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T07:56:14Z",
+  "updated_at": "2026-08-16T08:31:39Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -15,7 +15,7 @@
       "ticker": "NVDA",
       "company": "Nvidia",
       "direction": "up",
-      "confidence": 60,
+      "confidence": 80,
       "reason": "Multiple mentions",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
@@ -62,7 +62,7 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "direction": "up",
-      "confidence": 50,
+      "confidence": 70,
       "reason": "Positive outlook",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
@@ -96,13 +96,19 @@
       "ticker": "AMD",
       "company": "AMD",
       "direction": "up",
-      "confidence": 50,
-      "reason": "Positive news",
-      "headline": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fbdf366c46f4507c717cae4ef6ffcf230b97cd41df3e1497ecc4327867c40378",
+      "confidence": 70,
+      "reason": "Investment and trends",
+      "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+          "used_by_ai": true
+        },
         {
           "headline": "Top S&P500 movers in Friday's session",
           "source": "ChartMill",
@@ -117,15 +123,15 @@
         }
       ],
       "source_breakdown": {
-        "ChartMill": 1,
-        "Benzinga": 1
+        "Benzinga": 2,
+        "ChartMill": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
       "direction": "neutral",
-      "confidence": 40,
+      "confidence": 60,
       "reason": "Mixed news",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
@@ -160,7 +166,7 @@
           "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-          "used_by_ai": false
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
@@ -173,8 +179,8 @@
       "ticker": "TSLA",
       "company": "Tesla",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Industry news",
+      "confidence": 50,
+      "reason": "Industry trends",
       "headline": "How the auto industry is trying to make software-defined vehicles last",
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=ffdffd209db7024c634840cd21cf86880db578f3faa5956e7049c669b497f848",
@@ -209,8 +215,8 @@
       "ticker": "SPY",
       "company": "",
       "direction": "neutral",
-      "confidence": 20,
-      "reason": "Market news",
+      "confidence": 40,
+      "reason": "Market trends",
       "headline": "AGG: Why It's Foolish To Dismiss Bonds Right Now",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=39375011b3d5f802c3bd0565a6fb8cbf04c8d5f5ed8e2a2bcbb18695b522a4ac",
