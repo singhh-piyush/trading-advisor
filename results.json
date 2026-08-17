@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:34:09Z",
+  "updated_at": "2026-08-17T06:53:58Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 8,
   "sample": false,
   "items": [
     {
@@ -62,6 +62,52 @@
       "company": "",
       "direction": "up",
       "confidence": 55,
+      "reason": "Comeback kid",
+      "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
+      "on_watchlist": true,
+      "articles": [
+        {
+          "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
+          "used_by_ai": true
+        },
+        {
+          "headline": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=90ea0f6702915028466306dc32d9ddb346c5d425e0a2cf5670bc2e23d5e3d347",
+          "used_by_ai": false
+        },
+        {
+          "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Inflation Scare Takes A Breather",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
+          "used_by_ai": false
+        },
+        {
+          "headline": "Record Highs: Should You Chase The Rally?",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
+          "used_by_ai": false
+        }
+      ],
+      "source_breakdown": {
+        "SeekingAlpha": 5
+      }
+    },
+    {
+      "ticker": "SPY",
+      "company": "",
+      "direction": "neutral",
+      "confidence": 50,
       "reason": "Volatility shift",
       "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
       "source": "SeekingAlpha",
@@ -108,16 +154,16 @@
       "company": "",
       "direction": "up",
       "confidence": 50,
-      "reason": "Record highs",
-      "headline": "Record Highs: Should You Chase The Rally?",
+      "reason": "Inflation scare",
+      "headline": "Inflation Scare Takes A Breather",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
+      "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
       "on_watchlist": true,
       "articles": [
         {
-          "headline": "Record Highs: Should You Chase The Rally?",
+          "headline": "Inflation Scare Takes A Breather",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
+          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
           "used_by_ai": true
         },
         {
@@ -139,9 +185,9 @@
           "used_by_ai": false
         },
         {
-          "headline": "Inflation Scare Takes A Breather",
+          "headline": "Record Highs: Should You Chase The Rally?",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
+          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
           "used_by_ai": false
         }
       ],
@@ -151,7 +197,7 @@
     },
     {
       "ticker": "TSLA",
-      "company": "Tesla",
+      "company": "",
       "direction": "up",
       "confidence": 45,
       "reason": "Robotaxi growth",
@@ -173,7 +219,7 @@
     },
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
+      "company": "",
       "direction": "up",
       "confidence": 40,
       "reason": "AI trade",
@@ -227,10 +273,10 @@
     },
     {
       "ticker": "AAPL",
-      "company": "Apple",
-      "direction": "neutral",
-      "confidence": 30,
-      "reason": "Mentioned in news",
+      "company": "",
+      "direction": "up",
+      "confidence": 35,
+      "reason": "AI model",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -262,10 +308,10 @@
     },
     {
       "ticker": "MSFT",
-      "company": "Microsoft",
-      "direction": "neutral",
-      "confidence": 20,
-      "reason": "Earnings mention",
+      "company": "",
+      "direction": "up",
+      "confidence": 30,
+      "reason": "Earnings",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
