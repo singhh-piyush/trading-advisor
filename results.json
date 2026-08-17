@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:49:32Z",
+  "updated_at": "2026-08-17T04:40:47Z",
   "watchlist": [
     "AAPL",
     "NVDA",
@@ -8,7 +8,7 @@
     "AMD",
     "SPY"
   ],
-  "count": 7,
+  "count": 5,
   "sample": false,
   "items": [
     {
@@ -16,12 +16,18 @@
       "company": "",
       "direction": "up",
       "confidence": 60,
-      "reason": "Bullish outlier",
-      "headline": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
+      "reason": "Bullish outlook",
+      "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=90ea0f6702915028466306dc32d9ddb346c5d425e0a2cf5670bc2e23d5e3d347",
+      "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
       "on_watchlist": true,
       "articles": [
+        {
+          "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
+          "used_by_ai": true
+        },
         {
           "headline": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
           "source": "SeekingAlpha",
@@ -29,74 +35,22 @@
           "used_by_ai": true
         },
         {
-          "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
-          "used_by_ai": false
-        },
-        {
           "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Inflation Scare Takes A Breather",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
-          "used_by_ai": false
+          "used_by_ai": true
         },
-        {
-          "headline": "Record Highs: Should You Chase The Rally?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "SeekingAlpha": 5
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "up",
-      "confidence": 50,
-      "reason": "Record highs",
-      "headline": "Record Highs: Should You Chase The Rally?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
-      "on_watchlist": true,
-      "articles": [
         {
           "headline": "Record Highs: Should You Chase The Rally?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
           "used_by_ai": true
-        },
-        {
-          "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=90ea0f6702915028466306dc32d9ddb346c5d425e0a2cf5670bc2e23d5e3d347",
-          "used_by_ai": false
-        },
-        {
-          "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Inflation Scare Takes A Breather",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
@@ -130,107 +84,48 @@
       "company": "",
       "direction": "up",
       "confidence": 50,
-      "reason": "AI trade",
-      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+      "reason": "AI and nuclear exposure",
+      "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
       "on_watchlist": true,
       "articles": [
-        {
-          "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-          "used_by_ai": true
-        },
         {
           "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cd43b191a9417f18312accd23c0414768a3f063a21b70acd588ee77fa7c80475",
-          "used_by_ai": false
-        },
-        {
-          "headline": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac5ae008cd1c7b76d6138106b448ed1cf2fd03311b8b1548a08fd4ef4d7a8048",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=d651f92ddd0ace78f7f92c2878d40e7535eac6be810461d173aaf4347482170d",
-          "used_by_ai": false
+          "used_by_ai": true
         },
         {
           "headline": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1f6c4844d5b6e0325b18f6876b0a0412413ba9e9bbe4c198e96a2d293f2d36a",
-          "used_by_ai": false
-        }
-      ],
-      "source_breakdown": {
-        "CNBC": 1,
-        "Yahoo": 4,
-        "Benzinga": 1
-      }
-    },
-    {
-      "ticker": "SPY",
-      "company": "",
-      "direction": "neutral",
-      "confidence": 40,
-      "reason": "Volatility shift",
-      "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
-      "on_watchlist": true,
-      "articles": [
-        {
-          "headline": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=efae63f808308119a17db1f2ef4b48f6811cf6fb2ed98727d03112a4703d8adf",
           "used_by_ai": true
-        },
-        {
-          "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
-          "used_by_ai": false
-        },
-        {
-          "headline": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=90ea0f6702915028466306dc32d9ddb346c5d425e0a2cf5670bc2e23d5e3d347",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Inflation Scare Takes A Breather",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
-          "used_by_ai": false
-        },
-        {
-          "headline": "Record Highs: Should You Chase The Rally?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
-          "used_by_ai": false
         }
       ],
       "source_breakdown": {
-        "SeekingAlpha": 5
+        "Yahoo": 3,
+        "Benzinga": 1
       }
     },
     {
       "ticker": "AAPL",
       "company": "",
       "direction": "neutral",
-      "confidence": 30,
-      "reason": "Mentioned with other stocks",
+      "confidence": 40,
+      "reason": "Mixed news",
       "headline": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=81845ef5df3d3b46ec8ca4dc957825263a01fb3ddc03ddc828ecae09bb7ac4d6",
@@ -253,10 +148,16 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
           "used_by_ai": true
+        },
+        {
+          "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fe939b1a597998e5243f7324ae84967d0066a1bc1ac6b3b54481ab7b358bb3b",
+          "used_by_ai": true
         }
       ],
       "source_breakdown": {
-        "Yahoo": 1,
+        "Yahoo": 2,
         "Benzinga": 2
       }
     },
@@ -265,7 +166,7 @@
       "company": "",
       "direction": "neutral",
       "confidence": 30,
-      "reason": "Earnings mention",
+      "reason": "Earnings focus",
       "headline": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42016711a55406f708f7ef1a37622996e70dcd97b80bd8da03c2ffca57b70dfb",
